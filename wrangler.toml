@@ -3,8 +3,8 @@ compatibility_date = "2026-02-12"
 
 [assets]
 directory = ".output/public"
-binding = "ASSETS"
-run_worker_first = false # 讓靜態檔案優先被讀取 (SPA 模式建議)
+# binding = "ASSETS"
+# run_worker_first = false
 
 [observability]
 enabled = true
