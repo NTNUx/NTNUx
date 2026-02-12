@@ -13,10 +13,6 @@ on:
         required: true
         type: string
         default: "2"
-    secrets:
-      GH_PAT:
-        description: "GitHub Personal Access Token"
-        required: true
   workflow_dispatch:
     inputs:
       year:
@@ -33,27 +29,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main repo
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           ref: main
-          token: ${{ secrets.GH_PAT }}
-
-      - name: Checkout backend repo
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          repository: sun92122/ntnux-backend
-          token: ${{ secrets.GH_PAT }}
-          path: backend
-
-      - name: Checkout frontend repo
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          repository: sun92122/ntnux-frontend
-          token: ${{ secrets.GH_PAT }}
-          path: frontend
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -63,12 +42,12 @@ jobs:
       - name: Install uv
         run: pip install uv
 
-      - name: Install backend dependencies
-        working-directory: backend
+      - name: Install crawler dependencies
+        working-directory: crawler
         run: uv sync
 
       - name: Run crawler
-        working-directory: backend
+        working-directory: crawler
         run: |
           YEAR=${{ inputs.year || github.event.inputs.year || '114' }}
           TERM=${{ inputs.term || github.event.inputs.term || '2' }}
@@ -76,7 +55,7 @@ jobs:
           uv run main.py --year $YEAR --term $TERM
 
       - name: Generate Sitemap
-        working-directory: backend
+        working-directory: crawler
         run: |
           YEAR=${{ inputs.year || github.event.inputs.year || '114' }}
           TERM=${{ inputs.term || github.event.inputs.term || '2' }}
@@ -88,43 +67,14 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Commit and push original data
-        working-directory: backend
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+      - name: Commit and push data
         run: |
           YEAR=${{ inputs.year || github.event.inputs.year || '114' }}
           TERM=${{ inputs.term || github.event.inputs.term || '2' }}
-          git add original_data/
-          git commit -m "📦 更新原始課程資料 ${YEAR}-${TERM}" || echo "⚠️ 無變更可提交"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/sun92122/ntnux-backend.git
-          git pull --rebase origin main
-          git push origin main
-          echo "✅ 原始課程資料已更新並推送到 main 分支"
-
-      - name: Commit and push frontend data
-        working-directory: frontend
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          YEAR=${{ inputs.year || github.event.inputs.year || '114' }}
-          TERM=${{ inputs.term || github.event.inputs.term || '2' }}
-          git add public/
-          git commit -m "📦 更新前端課程資料 ${YEAR}-${TERM}" || echo "⚠️ 無變更可提交"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/sun92122/ntnux-frontend.git
-          git pull --rebase origin main
-          git push origin main
-          echo "✅ 前端課程資料已更新並推送到 main 分支"
-
-      - name: Commit and push NTNUx repo
-        run: |
-          YEAR=${{ inputs.year || github.event.inputs.year || '114' }}
-          TERM=${{ inputs.term || github.event.inputs.term || '2' }}
-          git add backend frontend
-          git commit -m "📦 每週自動更新課程資料 ${YEAR}-${TERM}" || echo "⚠️ 無子模組變更"
-          git pull --rebase origin main
-          git push origin main
-          echo "✅ NTNUx repo 已更新並推送到 main 分支"
+          echo "📤 提交 ${YEAR}-${TERM} 課程資料到 GitHub"
+          git add crawler/original_data/*
+          git add public/*
+          git commit -m "🍱 Update course data for ${YEAR}-${TERM}"
 
       - name: Notify success
         run: echo "🎉 每週課程資料更新成功！"

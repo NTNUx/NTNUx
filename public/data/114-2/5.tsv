@@ -1,0 +1,13 @@
+﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
+114	2	4	-16	體育（體操遊戲初級）			0	16		00UP132	A	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	5000	龔芸	四 3-4 和平 體操房	
+114	2	4	-12	體育（體操遊戲初級）			0	12		00UP132	B	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	5001	龔芸	五 3-4 和平 體操房	
+114	2	10	-4	循環經濟理論與實務	8		0	4		EEC8055		半	3.0	永續所（碩）	SM46		Theories and Practices of Circular Economy			0	50	選	◎課程開放上修	N	5002	李叢禎	三 6-8 公館 行304	
+114	2	10	-11	過渡金屬錯合物：結構與分子軌域			0	11		CMU0208		半	2.0	化學系（學）	SU42		Transition Metal Complexes: Structures and Molecular Orbitals	是		0	50	選		N	5003	張一知	四 6-7 公館 Ｓ201	
+114	2	10	0	金屬有機化學	9		0	0		CMC9008		半	3.0	化學系（學）	SU42		Metalloorganic Chemistry	是		0	50	選		N	5004	余承翰	四 2-4 公館 Ｓ503	
+114	2	0	0	國際事務英文		人文社會學院 ; 應用外語系 ; 限33人、英語授課、EMI課程 ; 限修學制：大、碩、博	0	0		ABU1065	A	半	3.0	校際臺科大（學）	9UAB		English for International Affairs	是			1	選			5005	Timothy	三 2-4 IB-601-1	
+114	2	0	0	結構控制	8	工程學院 ; 營建工程系 ; 英語授課、EMI課程 ; 限修學制：碩、博	0	0		ABC8343	A	半	3.0	校際臺科大（碩）	9MAB		Structural Control	是			5	選	◎課程不開放上修		5006	陳沛清	五 2-4 IB-601-2	
+114	2	0	0	新聞英文		人文社會學院 ; 應用外語系 ; 限33人、英語授課、EMI課程 ; 限修學制：大、碩、博	0	0		ABU1066	A	半	3.0	校際臺科大（學）	9UAB		News English	是			1	選			5007	徐碧霞	四 2-4 T4-404	
+114	2	0	0	工程材料學與土壤力學實驗		工學院 ; 土木工程學系 ; 2月25、26日合班上課，詳細內容公告請見網址 ppt.cc/fTByTx。 ; 限修學制：大、碩、博	0	0		AAU2373	A	半	1.0	校際臺大（學）	9UAA		Engineering Material and Soil Mechanics Lab.				1	選	◎加退選全授權碼選課		5008	詹穎雯	四 7-9 請洽系所辦	
+114	2	10	-3	物理教材教法（IB） </br>[ 學分學程：國際教師學程-物理 ]	9		0	3		IBC9001		半	1.0	師培學院	EU		Teaching Materials and Methods: Physics (IB) </br>[ Program: The Program of International Baccalaureate Educator Certificate-International  Physics  Education ]	是		0	50	選		N	5009	陳育霖	二 2 公館 Ｓ404	
+114	2	10	-4	物理教學實習（一）（IB） </br>[ 學分學程：國際教師學程-物理 ]	9		0	4		IBC9002		半	1.0	師培學院	EU		Teaching Practicum: Physics (I) (IB) </br>[ Program: The Program of International Baccalaureate Educator Certificate-International  Physics  Education ]			0	50	選		N	5010	陳育霖	二 3-4 公館 Ｓ404	
+114	2	3	-38	體育（瑜珈）			0	38		00UP146		半	1.0	普通體育	PE		Physical Education (Yoga)			0	30	必	允許重複修	N	5011	洪銀玲	二 6-7 和平 小韻律教室	

@@ -1,0 +1,968 @@
+﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
+112	1	0	0	心理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]		中文授課	100	100		0AUG402	A	半	2.0	通識	GU		Psychology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]			0	100	通		N	1000	蘇宜芬	三 8-9 本部 教103	A2UG/B1UG
+112	1	5	4	心理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]			48	44		0AUG402	B	半	2.0	通識	GU		Psychology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]	是		0	50	通		N	1001	張祐瑄	一 3-4 本部 正201	A2UG/B1UG
+112	1	0	0	心理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]		中文授課	50	50		0AUG402	C	半	2.0	通識	GU		Psychology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1002	楊諮燕	四 3-4 本部 正201	A2UG/B1UG
+112	1	21	7	心理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]			57	50		0AUG402	D	半	2.0	通識	GU		Psychology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]	是		0	50	通		N	1003	黃美齡	二 3-4 本部 誠401	A2UG/B1UG
+112	1	25	25	心理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]		中文授課	75	50		0AUG402	E	半	2.0	通識	GU		Psychology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1004	朱采翎	四 6-7 本部 誠202	A2UG/B1UG
+112	1	25	25	心理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]		中文授課	75	50		0AUG402	F	半	2.0	通識	GU		Psychology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1005	朱采翎	四 8-9 本部 誠202	A2UG/B1UG
+112	1	10	4	物理與生活			48	44		0AUG426		半	2.0	通識	GU		Physics and Life			0	50	通	◎物理系（學）不得選修	N	1006	盧志權	三 3-4 公館 Ｓ304	A3UG/B2UG
+112	1	10	0	歷史與人物			50	50		0AUG435		半	2.0	通識	GU		History and Personage			0	50	通		N	1007	陳健文	二 6-7 本部 誠108	A1UG
+112	1	0	0	聖經與人生			47	47		0AUG442		半	2.0	通識	GU		The Bible and Human Life	是		2	50	通		N	1008	范俊銘	三 8-9 公館 Ｓ501	A1UG
+112	1	10	10	個人投資理財		綜210演講廳	177	167		0AUG462		半	2.0	通識	GU		Personal Finance			0	170	通		N	1009	朱文增	三 3-4 本部 綜210展覽廳	A2UG
+112	1	22	19	休閒與生活 </br>[ 學分學程：肌力與體能學程 ]			69	50		0AUG463		半	2.0	通識	GU		Leisure in Our Daily Life </br>[ Program: The Program of Strength and Conditioning ]			0	50	通		N	1010	李晶	三 3-4 本部 美術館601	A2UG
+112	1	5	1	學術寫作			43	42		0HUG011		半	2.0	通識	GU		Academic Writing			0	50	通		N	1011	謝秀卉	二 3-4 本部 正201	A1UG
+112	1	0	0	閩南語概論			88	88		0HUG210		半	2.0	通識	GU		Introduction to Southern Min Chinese			0	95	通	◎國文系（學）不得選修	N	1012	林香薇	五 3-4 本部 教103	A1UG
+112	1	10	9	禪與人生			59	50		0HUG223		半	2.0	通識	GU		Chan and Life			0	50	通	◎國文系（學）不得選修	N	1013	黃敬家	五 6-7 本部 樸401	A1UG
+112	1	10	10	樂府詩與人生			152	142		0HUG249		半	2.0	通識	GU		Yuefu Poems and Life			0	142	通	◎國文系（學）不得選修	N	1014	林淑雲	一 6-7 本部 誠101	A1UG
+112	1	11	8	莎士比亞的故事			65	57		0HUG432		半	2.0	通識	GU		Shakespeare	是		0	70	通		N	1015	狄亞倫	二 6-7 本部 誠202	A1UG/B2UG
+112	1	30	29	日語（一）		日語母語者不可修本課程	79	50		0HUG501	A	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1016	張怡倩	四 3-4 公館 理圖003	A1UG
+112	1	30	30	日語（一）		日語母語者不可修本課程	80	50		0HUG501	B	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1017	張怡倩	四 6-7 公館 理圖003	A1UG
+112	1	0	0	日語（一）		(1)日語為母語者不可選課。(2)本課程不開放授權碼，亦不簽停修單。	50	50		0HUG501	C	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1018	許菁娟	一 3-4 本部 誠109	A1UG
+112	1	0	0	日語（一）		(1)日語為母語者不可選課。(2)本課程不開放授權碼，亦不簽停修單。	50	50		0HUG501	D	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1019	許菁娟	一 6-7 本部 正201	A1UG
+112	1	5	5	法語（一） </br>[ 學分學程：國關與外交學程 ]		學過二個月以上法語者，請勿選課。	52	47		0HUG502	A	半	2.0	通識	GU		French (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1020	楊慧娟	三 6-7 本部 正301	A1UG
+112	1	5	4	法語（一） </br>[ 學分學程：國關與外交學程 ]		學過二個月以上法語者，請勿選課。	46	42		0HUG502	B	半	2.0	通識	GU		French (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1021	楊慧娟	三 8-9 本部 正301	A1UG
+112	1	5	5	西班牙語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	55	50		0HUG503	A	半	2.0	通識	GU		Spanish (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1022	張乃翠	三 3-4 本部 正203	A1UG
+112	1	5	5	西班牙語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	51	46		0HUG503	B	半	2.0	通識	GU		Spanish (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1023	張乃翠	三 6-7 本部 正203	A1UG
+112	1	5	4	韓語（一）		授權碼發放以大四或延畢同學為優先。	53	49		0HUG506	A	半	2.0	通識	GU		Korean (I)			0	50	通		N	1024	賀中慧	一 6-7 公館 理圖002	A1UG
+112	1	5	5	韓語（一）		授權碼發放以大四或延畢同學為優先。	54	49		0HUG506	B	半	2.0	通識	GU		Korean (I)			0	50	通		N	1025	賀中慧	一 8-9 公館 理圖002	A1UG
+112	1	5	0	泰語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	46	46		0HUG509	A	半	2.0	通識	GU		Thai Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1026	譚華德	四 6-7 本部 樸306	A1UG
+112	1	5	5	泰語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	54	49		0HUG509	B	半	2.0	通識	GU		Thai Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1027	譚華德	四 8-9 本部 樸306	A1UG
+112	1	0	0	越南語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	47	47		0HUG649	A	半	2.0	通識	GU		Vietnamese (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1028	劉陳石草	三 A-B 本部 誠109	A1UG
+112	1	0	0	越南語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	33	33		0HUG649	B	半	2.0	通識	GU		Vietnamese (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1029	劉陳石草	四 A-B 本部 誠206	A1UG
+112	1	30	3	日語（二）		日語母語者不可修本課程	51	48		0HUG652	A	半	2.0	通識	GU		Japanese (II)			0	50	通		N	1030	張怡倩	四 8-9 公館 理圖003	A1UG
+112	1	0	0	日語（二）		(1)日語為母語者不可選課。(2)本課程不開放授權碼，亦不簽停修單。	46	46		0HUG652	B	半	2.0	通識	GU		Japanese (II)			0	50	通		N	1031	許菁娟	一 8-9 本部 正201	A1UG
+112	1	0	0	馬來語 （一）		馬來西亞籍及印尼籍同學不可選修。本門課不開放任何身份與形式之旁聽。	48	48		0HUG655	A	半	2.0	通識	GU		Malay Language (I)			0	50	通		N	1032	陳際宇	一 A-B 本部 誠205	A1UG
+112	1	2	1	馬來語 （一）		馬來西亞籍及印尼籍同學不可選修。本門課不開放任何身份與形式之旁聽。	48	47		0HUG655	B	半	2.0	通識	GU		Malay Language (I)			0	50	通		N	1033	陳際宇	二 A-B 本部 誠205	A1UG
+112	1	20	20	動物與人生			90	70		0NUG238		半	2.0	通識	GU		Animals and Human Life			0	70	通		N	1034	李明忠	三 3-4 公館 Ｂ101	A3UG
+112	1	5	3	人類與自然資源		1.本課程為與日本關西大學合開之國際線上課程。2.上課時間需與日本同步，調整為上午10:10。3.學生請自備筆電或平板可穩定上網視訊之設備。	39	36		0NUG245		半	2.0	通識	GU		Human and Natural Sciences	是		2	40	通		N	1035	葉孟宛	三 3-4 公館 Ｓ201	A3UG
+112	1	30	29	生理心理學 </br>[ 學分學程：音樂輔教學程 ]			149	120		0NUG246		半	2.0	通識	GU		Physiological Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]			0	120	通		N	1036	呂國棟	三 3-4 公館 Ｅ102	A3UG
+112	1	20	20	３Ｄ列印與創新應用			100	80		0NUG253		半	2.0	通識	GU		3 D Printing and Innovative Applications			0	80	通		N	1037	沈林琥	三 3-4 本部 教103	A3UG
+112	1	10	5	博物館探索			71	66		0SUG514		半	2.0	通識	GU		Exploration of Museum			3	60	通		N	1038	黃玫瑄	三 6-7 本部 誠301	A2UG
+112	1	0	0	通識教育講座			75	75		0SUG523		半	2.0	通識	GU		Lectures on General Education			0	75	通		N	1039	鄭怡庭	三 3-4 本部 誠301	A2UG
+112	1	10	6	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	56	50		0SUG526	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限教育系（學）選修	N	1040	陳伊琳	三 3-4 本部 教9樓綜合教室	B3UG
+112	1	10	1	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	41	40		0SUG526	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限心輔系（學）選修	N	1041	陳柏邑	三 3-4 本部 教513	B3UG
+112	1	10	0	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	39	39		0SUG526	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限社教系（學）選修	N	1042	徐敏雄	二 8-9 本部 誠203	B3UG
+112	1	10	1	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	30	29		0SUG526	D	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限衛教系（學）選修	N	1043	張家臻	三 3-4 本部 誠207	B3UG
+112	1	20	16	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	66	50		0SUG526	E	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限幼家科學系（學）選修	N	1044	吳志文	三 3-4 本部 樸401	B3UG
+112	1	12	11	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	91	80		0SUG526	F	半	2.0	通識	GU		Introduction to University Studies			0	80	通	◎限大一修習◎限公領系（學）選修	N	1045	周有熙	三 3-4 本部 綜202演講廳	B3UG
+112	1	10	0	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	43	43		0SUG526	G	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限特教系（學）選修	N	1046	廖靜宜	三 3-4 本部 特112	B3UG
+112	1	5	0	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	9	9		0SUG526	H	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限學習科學學位學程（學選修	N	1047	林宗進	三 3-4 本部 誠204	B3UG
+112	1	5	1	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	26	25		0SUG526	I	半	2.0	通識	GU		Introduction to University Studies			1	50	通	◎限大一修習◎限教院學士班（學）選修	N	1048	胡翠君	四 3-4 本部 誠106	B3UG
+112	1	10	1	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	94	93		0SUG531	A	半	2.0	通識	GU		Introduction to University Studies			0	150	通	◎限大一修習◎限國文系（學）選修	N	1049	徐國能	三 3-4 本部 教201演講廳	B3UG
+112	1	10	8	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	68	60		0SUG531	B	半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限英語系（學）選修	N	1050	江璧羽	三 3-4 本部 誠307	B3UG
+112	1	10	4	大學入門		非大一或本系同學請取得授課教師同意，並以授權碼方式加選。	54	50		0SUG531	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限歷史系（學）選修	N	1051	陳昭揚	四 3-4 本部 誠208	B3UG
+112	1	5	1	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	39	38		0SUG531	D	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限地理系（學）選修	N	1052	李宗祐	三 3-4 本部 誠107	B3UG
+112	1	5	1	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	32	31		0SUG531	E	半	2.0	通識	GU		Introduction to University Studies			0	80	通	◎限大一修習◎限地理系（學）選修	N	1053	洪立三	三 3-4 本部 誠302	B3UG
+112	1	5	0	大學入門		非本系同學請取得授課教師同意，並以授權碼方式加選。	24	24		0SUG531	F	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限臺文系（學）選修	N	1054	劉承賢	三 3-4 本部 誠206	B3UG
+112	1	10	7	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	84	77		0SUG532	A	半	2.0	通識	GU		Introduction to University Studies			0	90	通	◎限大一修習◎限數學系（學）選修	N	1055	朱亮儒 許志農	三 3-4 公館 Ｂ103	B3UG
+112	1	1	0	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	49	49		0SUG532	B	半	2.0	通識	GU		Introduction to University Studies			0	49	通	◎限大一修習◎限物理系（學）選修	N	1056	傅祖怡	三 3-4 公館 Ｓ303	B3UG
+112	1	10	0	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	76	76		0SUG532	C	半	2.0	通識	GU		Introduction to University Studies			0	90	通	◎限大一修習◎限化學系（學）選修	N	1057	呂家榮 吳學亮 陳頌方	三 3-4 公館 Ｅ302	B3UG
+112	1	15	8	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	56	48		0SUG532	D	半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限生科系（學）選修	N	1058	賴韻如	三 3-4 公館 Ｅ201	B3UG
+112	1	10	2	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	22	20		0SUG532	E	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限地科系（學）選修	N	1059	曾瑋玲	三 3-4 公館 Ｓ404	B3UG
+112	1	10	2	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	52	50		0SUG532	F	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限資工系（學）選修	N	1060	蔣宗哲	二 6-7 公館 Ｂ102	B3UG
+112	1	10	3	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	36	33		0SUG533	D	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1061	程金保	五 3-4 本部 工501(TA501)	B3UG
+112	1	5	2	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	30	28		0SUG534	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限體育系（學）選修	N	1062	潘正宸	二 1-2 本部 正104	B3UG
+112	1	10	1	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	27	26		0SUG534	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限體育系（學）選修	N	1063	林靜萍	二 1-2 本部 正105	B3UG
+112	1	25	20	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	70	50		0SUG534	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限競技系（學）選修	N	1064	周台英	四 1-2 公館 體育館二3樓會議室	B3UG
+112	1	10	0	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	21	21		0SUG535	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限美術系（學）選修	N	1065	孫翼華	四 6-7 本部 美101	B3UG
+112	1	10	0	大學入門		非本系的學生請先取得授課教師同意，並以授權碼方式加選。	22	22		0SUG535	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限美術系（學）選修	N	1066	黃進龍	四 6-7 本部 美402	B3UG
+112	1	10	0	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	39	39		0SUG535	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限設計系（學）選修	N	1067	薛佑廷	五 8-9 本部 設計系2A教室	B3UG
+112	1	20	7	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	57	50		0SUG536	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限音樂系（學）選修	N	1068	吳佩蓉	二 3-4 本部 綜202演講廳	B3UG
+112	1	5	3	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	24	21		0SUG536	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限表演學位學程（學）選修	N	1069	林娟儀	二 6-7 本部 樸306	B3UG
+112	1	12	4	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	51	47		0SUG537		半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限企管系（學）選修	N	1070	邱皓政	三 3-4 本部 誠402	B3UG
+112	1	25	24	大學入門		非本系的學生請先取得授課教師同意，並以授權碼方式加選。	74	50		0SUG538	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限東亞系（學）選修	N	1071	林昌平	三 9-10 本部 誠202	B3UG
+112	1	6	6	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	34	28		0SUG538	B	半	2.0	通識	GU		Introduction to University Studies			0	49	通	◎限大一修習◎限華語系（學）「國際華語與文化組」選修	N	1072	王慧娟	一 8-9 本部 正202	B3UG
+112	1	5	4	大學入門		非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	54	50		0SUG538	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限華語系（學）「應用華語文學組」選修	N	1073	吳龍雲	一 6-7 本部 誠208	B3UG
+112	1	10	0	電腦多媒體教材設計研究			4	4		IED0016		半	3.0	工教系（博）	HD70		Courseware Design in Multi-media			0	50	選	◎課程開放上修	N	1074	郭金國	五 9-A 本部 研討三	
+112	1	10	0	技職教育規劃專題研究			16	16		IED0054		半	2.0	工教系（博）	HD70		Special Topics in Vocational Technical Education Planning	是		0	50	選	◎課程開放上修	N	1075	詹育	二 8-9 本部 研討一	
+112	1	10	0	技職教育哲學			9	9		IED0075		半	2.0	工教系（博）	HD70		Philosophy of Technological and Vocational Education	是		0	50	必	◎課程開放上修	N	1076	胡茹萍	二 3-4 本部 研討三	
+112	1	10	0	書報討論（三）			2	2		IED0111		半	1.0	工教系（博）	HD70		Seminar (III)	是		0	50	必	◎課程開放上修	N	1078	胡茹萍	二 2 本部 研討三	
+112	1	10	0	書報討論（一）			8	8		IED0117		半	1.0	工教系（博）	HD70		Seminar (I)	是		0	50	必	◎課程開放上修	N	1079	詹育	二 2 本部 研討二	
+112	1	10	0	技職教育評鑑專題研究			4	4		IED0128		半	2.0	工教系（博）	HD70		Studies in Assessment of Technological Vocational Education	是		0	50	選	◎課程開放上修	N	1081	李懿芳	二 6-7 本部 研討一	
+112	1	5	0	組織發展專題研究			10	10		ITD0020		半	3.0	科技系（博）	HD71		Special Topics in Organizational Development			0	30	選	◎課程不開放上修	N	1082	張敬珣	四 7-9 本部 科技系TA513教室	
+112	1	5	0	網路教學科技專題研究			13	13		ITD0036		半	3.0	科技系（博）	HD71		Special Topics on E-learning Technology			0	30	選	◎課程不開放上修	N	1083	蕭顯勝	四 2-4 本部 科技系TA513教室	
+112	1	5	0	科技與工程教育課程專題研究			4	4		ITD0042		半	3.0	科技系（博）	HD71		Special Topics on Curriculum for Technology and Engineering Education			0	30	選	◎課程不開放上修	N	1084	黃能堂	三 A-C 本部 科技系TA513教室	
+112	1	5	1	研究方法論			9	8		ITD0010		半	3.0	科技系（博）	HD71		Research Methodology		1	0	30	必	◎課程不開放上修	N	1085	張基成	五 2-4 本部 科技系TA513教室	
+112	1	5	1	書報討論（二）			12	11		ITD0039		半	2.0	科技系（博）	HD71		Seminar (II)		2	0	30	必	◎必須先修過【ITD0038  書報討論（一）】 ◎課程不開放上修	N	1086	張基成	五 7-8 本部 科技系TA513教室	
+112	1	10	0	書報討論（一）			3	3		STD0001		半	1.0	科工學位學程（博）	HD78		Seminar (I)	是		0	30	必	◎課程開放上修	N	1087	鄭慶民	五 7 本部 工教系會議室	
+112	1	10	0	科技與工程理論		◎數位課程 All distance learning courses display synchronous learning and face-to-face learning time only.	3	3		STD0004		半	2.0	科工學位學程（博）	HD78		Theory in Technology and Engineering	是		0	30	選	◎課程開放上修	1	1088	高文忠	◎面授/同步	
+112	1	10	0	教育統計學			34	34		IEM0001		半	2.0	工教系（碩）	HM70		Educational Statistics			0	50	必	◎課程開放上修	N	1089	李懿芳	二 8-9 本部 研討六	
+112	1	10	0	工業教育研究法（一）			28	28		IEM0002		半	2.0	工教系（碩）	HM70		Research Methods in Industrial Education (I)			0	50	必	◎課程開放上修	N	1090	詹育	二 3-4 本部 研討二	
+112	1	10	0	書報討論－技職教育（一）			9	9		IEM0004		半	1.0	工教系（碩）	HM70		Seminar on Vocational Technical (I)			0	50	必	◎課程開放上修	N	1091	詹育	三 8 本部 研討四	
+112	1	10	0	服務業經營管理研究			3	3		IEM0096		半	3.0	工教系（碩）	HM70		The Study in Enterprise Management			5	50	選	◎課程開放上修	N	1092	陳麗妃	四 3-5 本部 研討一	
+112	1	10	0	合金鍛造與鑄造特論			15	15		IEM0154		半	3.0	工教系（碩）	HM70		Special Topic of Casting and Forging of Alloys			0	50	選	◎課程開放上修	N	1093	郭金國	五 6-8 本部 研討一	
+112	1	10	0	研發與專案管理			9	9		IEM0325		半	2.0	工教系（碩）	HM70		R&D and Project Management			0	50	選	◎課程開放上修	N	1094	黃啟祐	三 5-6 本部 研討一	
+112	1	10	0	企業實習			6	6		IEM0334		半	1.0	工教系（碩）	HM70		Enterprise Practice			0	50	必	◎課程開放上修	N	1096	黃啟祐 蘇友珊 陳麗妃 劉華棟	三 2-3 本部 研討三	
+112	1	10	0	節能系統設計		授課老師為董雲春老師。	9	9		IEM0362		半	3.0	工教系（碩）	HM70		Design of Energy Conservation System			0	50	選	◎課程開放上修	N	1097	董雲春	一 A-C 本部 研討一	
+112	1	10	0	書報討論－技職教育（三）			9	9		IEM0377		半	1.0	工教系（碩）	HM70		Seminar on Vocational Technical  (III)			0	50	必	◎課程開放上修	N	1098	李懿芳	三 7 本部 研討四	
+112	1	10	0	書報討論－科技應用管理（三）			6	6		IEM0387		半	1.0	工教系（碩）	HM70		Seminar on Technological Application Management(III)			0	50	必	◎課程開放上修	N	1099	黃啟祐	三 8 本部 研討一	
+112	1	10	0	書報討論－能源應用與車輛技術（三）			9	9		IEM0389		半	1.0	工教系（碩）	HM70		Seminar-energy Application and Vehicle Technology Division(III)			0	50	必	◎課程開放上修	N	1100	呂有豐	三 8 本部 汽車場二樓	
+112	1	10	0	書報討論－科技應用管理（一）			9	9		IEM0395		半	1.0	工教系（碩）	HM70		Seminar on Technological Application Management(I)			0	50	必	◎課程開放上修	N	1101	蘇友珊	三 7 本部 研討二	
+112	1	10	0	書報討論－能源應用與車輛技術（一）			9	9		IEM0397		半	1.0	工教系（碩）	HM70		Seminar-energy Application and Vehicle Technology Division(I)			0	50	必	◎課程開放上修	N	1102	呂有豐	三 7 本部 汽車場二樓	
+112	1	10	0	技職教育行政與視導研究			3	3		IEM0404		半	2.0	工教系（碩）	HM70		Technical-Vocational Education Administration and Supervision			0	50	選	◎課程開放上修	N	1103	曾璧光	五 7-8 本部 研討四	
+112	1	10	0	技職教育教材與教學設計研究			10	10		IEM0407		半	2.0	工教系（碩）	HM70		Teaching Material and Instruction Design of Technical-Vocational Education			3	50	選	◎課程開放上修	N	1104	陳美姿	三 9-10 本部 研討二	
+112	1	10	0	技職教育測驗與評量研究			9	9		IEM0408		半	2.0	工教系（碩）	HM70		Test and Measurement Assessment of Technical-Vocational Education			0	50	選	◎課程開放上修	N	1105	吳明振	一 7-8 本部 研討四	
+112	1	10	0	ＳＴＥＭ與技職教育		教室:機械大樓4F	16	16		IEM0418		半	2.0	工教系（碩）	HM70		Stem and Technical Vocational Education			0	50	選	◎課程開放上修	N	1106	周明	三 A-B 本部 教室自排	
+112	1	10	0	技職教育媒體設計研究		教室：機械大樓4F。	11	11		IEM0424		半	2.0	工教系（碩）	HM70		The Study of Instructional Technology in Technological and Vocational Education			0	50	選	◎課程開放上修	N	1107	周明	一 A-B 本部 教室自排	
+112	1	10	0	行銷數據分析			7	7		IEM0425		半	2.0	工教系（碩）	HM70		Market Analytics			0	50	選	◎課程開放上修	N	1108	黃啟祐	四 7-8 本部 研討一	
+112	1	10	1	商業分析			16	15		IEM0427		半	3.0	工教系（碩）	HM70		Business Analytics			5	50	選	◎課程開放上修	N	1109	陳麗妃	二 5-7 本部 研討二	
+112	1	10	0	策略管理	8		13	13		IEC0021		半	2.0	工教系（碩）	HM70		Strategic Management			0	50	必	◎課程開放上修	N	1110	蘇友珊	一 3-4 本部 研討四	
+112	1	10	0	知識經濟	8		7	7		IEC0024		半	2.0	工教系（碩）	HM70		Knowledge - based Economy			0	50	選	◎課程開放上修	N	1111	蘇友珊	三 5-6 本部 TA309	
+112	1	10	0	創造力與創新管理	8		12	12		IEC0029		半	2.0	工教系（碩）	HM70		Creativity Application and Innovation Management			0	50	必	◎課程開放上修	N	1112	蘇友珊	一 5-6 本部 研討四	
+112	1	10	0	技職教育行政領導專題研究	8	授課老師為龔雅雯老師。	5	5		IEC8007		半	2.0	工教系（碩）	HM70		Seminar in Technical Vocational Educational Administration			0	50	選	◎課程開放上修	N	1113	龔雅雯	三 A-B 本部 研討四	
+112	1	10	0	決策理論與分析	8		7	7		IEC8009		半	3.0	工教系（碩）	HM70		Decision Theory and Analysis			0	50	選	◎課程開放上修	N	1114	黃啟祐	三 B-D 本部 研討一	
+112	1	10	0	人工智慧在技職教育的應用研究	8	教室:機械大樓4F	14	14		IEC8012		半	2.0	工教系（碩）	HM70		A Research on Applying Artificial Intelligence on Technological and Vocational Education			0	50	選	◎課程開放上修	N	1115	周明	四 A-B 本部 教室自排	
+112	1	10	10	人力資源發展需求評估研究			40	30		ITM0022		半	3.0	科技系（碩）	HM71		Studies in Needs Assessment in Human Resource Development			3	30	選	◎課程不開放上修	N	1116	陳怡靜	四 7-9 本部 科技系TB211教室	
+112	1	5	0	網路多媒體系統			29	29		ITM0065		半	3.0	科技系（碩）	HM71		Network multimedia system			0	30	選	◎課程不開放上修	N	1117	蕭顯勝	二 7-9 本部 科技系TA513教室	
+112	1	10	0	智慧型網路教學系統			22	22		ITM0072		半	3.0	科技系（碩）	HM71		Intelligent Web-based Instruction System			0	30	選	◎課程不開放上修	N	1118	許庭嘉	二 2-4 本部 科技系TA509教室	
+112	1	10	0	小學科技與工程教育研究			9	9		ITM0091		半	3.0	科技系（碩）	HM71		Studies in Technology and Engineering Education for Elementary Schools			0	30	選	◎課程開放上修	N	1119	張玉山	一 2-4 本部 科技系TD301教室	
+112	1	1	0	科技與工程教學評量研究			7	7		ITM0097		半	3.0	科技系（碩）	HM71		Studies in Evaluation for Technology and Engineering Instruction			3	30	選	◎必須先修過【ITM0095  科技與工程課程發展及評鑑研究】 ◎課程開放上修	N	1120	游光昭	二 2-4 本部 科技系TB211教室	
+112	1	0	0	中學科技與工程教育研究			7	7		ITM0098		半	3.0	科技系（碩）	HM71		Studies in Technology and Engineering Education in High Schools			0	30	選	◎課程不開放上修	N	1121	林弘昌	三 7-9 本部 科技系TC501教室	
+112	1	10	1	研究方法（一）			36	35		ITM0085		半	3.0	科技系（碩）	HM71		Research Methods (I)		1	0	35	必	◎課程不開放上修	N	1122	陳怡靜	四 2-4 本部 科技系TB211教室	
+112	1	10	6	書報討論（一）			35	29		ITM0083		半	2.0	科技系（碩）	HM71		Seminar (I)		2	0	30	必	◎課程不開放上修	N	1123	張敬珣	三 7-8 本部 科技系TB211教室	
+112	1	10	0	平面媒體生產管理論			4	4		GCM0012		半	3.0	圖傳系（碩）	HM72		Production Management for Graphic Arts Media		1	0	30	選	◎課程不開放上修	N	1124	廖信	二 8-10 本部 製作教室B	
+112	1	3	0	數位影像處理 </br>[ 學分學程：元宇宙學程 ]			10	10		GCM0075		半	3.0	圖傳系（碩）	HM72		Digital Image Processing </br>[ Program: The Program of Metaverse Narrative ]		1	0	27	選	◎課程不開放上修	N	1125	王希俊	五 7-9 本部 教404	
+112	1	10	0	當代藝術多媒體應用研究			17	17		GCM0091		半	3.0	圖傳系（碩）	HM72		Multimedia Application in Contemporary Art		1	0	30	選	◎課程不開放上修	N	1126	陳明秀	二 3-5 本部 教404	
+112	1	10	0	互動與行動媒體應用研究			29	29		GCM0104		半	3.0	圖傳系（碩）	HM72		Research on Interactive and Mobile Multimedia Applications		1	0	30	選	◎課程不開放上修	N	1127	簡瑋成	四 9-A 本部 誠106	
+112	1	10	0	書報討論（一）			19	19		GCM0111		半	2.0	圖傳系（碩）	HM72		Seminar (I)		1	0	30	必	◎課程不開放上修	N	1128	王希俊	四 7-8 本部 綜701	
+112	1	10	0	動畫美學與歷史			17	17		GCM0112		半	3.0	圖傳系（碩）	HM72		Animation Aesthetics and History		1	0	30	選	◎課程不開放上修	N	1129	張晏榕	三 8-10 本部 綜701	
+112	1	10	0	研究方法			20	20		GCM0114		半	3.0	圖傳系（碩）	HM72		Research Methods		1	0	30	必	◎課程不開放上修	N	1130	楊美雪	四 2-4 本部 綜701	
+112	1	10	0	圖像印刷適性科技			4	4		GCM0017		半	3.0	圖傳系（碩）	HM72		Printing Appropriateness Technique		2	0	30	選	◎課程不開放上修	N	1132	廖信	一 2-4 本部 製作教室B	
+112	1	10	0	傳播媒體市場調查與經營			14	14		GCM0031		半	3.0	圖傳系（碩）	HM72		Marking Strategies of Media		2	0	30	選	◎課程不開放上修	N	1133	杜聖聰	四 2-4 本部 新媒體專業教室	
+112	1	10	0	數位媒體產業之策略規劃與經營			15	15		GCM0072		半	3.0	圖傳系（碩）	HM72		Strategic Planning and Management of Digital Media Industry		2	0	30	選	◎課程不開放上修	N	1134	邱琪瑄	五 2-4 本部 綜701	
+112	1	5	0	校外專業實習		限本系碩士班學生已經完成申請審查程序並於暑假期間完成職場實習同學選課。	4	4		GCM0100		半	3.0	圖傳系（碩）	HM72		Internship		2	0	30	選	◎課程不開放上修	N	1135	張晏榕	三 A-D 本部 綜701	
+112	1	10	0	圖像印前及印製尖端科技應用研究			4	4		GCM0103		半	3.0	圖傳系（碩）	HM72		State-of-the-art Pre-press/Press Technology and Applications		2	0	30	選	◎課程不開放上修	N	1137	王希俊	一 7-9 本部 綜701	
+112	1	10	1	書報討論（一）	8		32	31		MTC8016		半	1.0	機電系（碩）	HM73		Seminar (I)	是		0	50	必	◎課程開放上修	N	1139	吳順德	四 7 本部 工教系會議室	
+112	1	10	0	書報討論（三）	8		30	30		MTC8018		半	1.0	機電系（碩）	HM73		Seminar (III)	是		0	50	必	◎必須先修過【MTC8016  書報討論（一）】、【MTC8017  書報討論（二）】 ◎課程開放上修	N	1140	呂有勝	四 8 本部 工教系會議室	
+112	1	10	0	書報討論（一）	8		99	99		AEC8001		半	1.0	電機系（碩）	HM75		Seminar (I)	是		0	100	必	允許重複修 ◎課程開放上修	N	1141	王嘉斌	四 3-4 本部 教201演講廳	
+112	1	10	0	書報討論（二）	8		31	31		AEC8002		半	1.0	電機系（碩）	HM75		Seminar (II)	是		0	80	必	允許重複修 ◎課程開放上修	N	1142	許陳鑑	四 3-4 本部 教室自排	
+112	1	10	2	線性系統理論	8		32	30		AEC8006		半	3.0	電機系（碩）	HM75		Linear System Theory			0	30	選	◎課程開放上修	N	1143	王偉彥	四 6-8 本部 電機系TA412會議室	
+112	1	10	0	機器人地圖建立與定位	8		17	17		AEC8015		半	3.0	電機系（碩）	HM75		Simultaneous Localization and Mapping for Robotics	是		5	40	選	◎課程開放上修	N	1144	Saeed Saeedvand	五 7-9 本部 多媒體與通訊實驗室	
+112	1	10	1	電腦視覺	8		39	38		AEC8016		半	3.0	電機系（碩）	HM75		Computer Vision	是		5	40	選	◎課程開放上修	N	1145	包傑奇	一 7-9 本部 多媒體與通訊實驗室	
+112	1	10	0	智慧型人形機器人	8		25	25		AEC8017		半	3.0	電機系（碩）	HM75		Intelligent Humanoid Robotics	是		5	40	選	◎課程開放上修	N	1146	包傑奇	一 2-4 本部 多媒體與通訊實驗室	
+112	1	10	0	視訊通訊	8		17	17		AEC8019		半	3.0	電機系（碩）	HM75		Video Communication	是		0	30	選	◎課程開放上修	N	1147	葉家宏	三 10-B 本部 TA512	
+112	1	10	0	混合信號積體電路佈局 </br>[ 學分學程：半導體技術學程 ]	8		31	31		AEC8030		半	3.0	電機系（碩）	HM75		Layout of Mixed-signal Integrated Circuits </br>[ Program: The Program of Semiconductor Technology ]			0	50	選	◎課程開放上修	N	1148	郭建宏	二 2-4 本部 電機系電子實驗室	
+112	1	10	1	射頻與微波積體電路 </br>[ 學分學程：半導體技術學程 ]	8		36	35		AEC8031		半	3.0	電機系（碩）	HM75		Radio Frequency and Microwave Integrated Circuits </br>[ Program: The Program of Semiconductor Technology ]			0	50	選	◎課程開放上修	N	1149	蔡政翰	一 2-4 本部 電機系電子實驗室	
+112	1	10	1	電腦網路	8		41	40		AEC8035		半	3.0	電機系（碩）	HM75		Computer Networks			0	40	選	◎課程開放上修	N	1150	王嘉斌	二 7-9 本部 多媒體與通訊實驗室	
+112	1	10	0	控制系統設計	8		15	15		AEC8054		半	3.0	電機系（碩）	HM75		Control Systems Designs			0	30	選	◎課程開放上修	N	1151	呂藝光	二 A-C 本部 電機與感測實驗室	
+112	1	10	4	強化式學習	8		44	40		AEC8059		半	3.0	電機系（碩）	HM75		Reinforcement Learning	是		5	40	選	◎課程開放上修	N	1152	Saeed Saeedvand	五 2-4 本部 多媒體與通訊實驗室	
+112	1	10	0	太陽光電元件測試技術	8		24	24		OEC8014		半	3.0	光電所（碩）	HM77		Photovoltaic Components Testing Technology			0	50	選	◎課程開放上修	N	1153	謝卓帆	六 2-4 公館 Ｓ501	
+112	1	10	6	奈米磁性物理及其應用（一）	8		8	2		OEC8116		半	3.0	光電所（碩）	HM77		Physics and Applications of Nano-Magnetism (I)			0	50	選	◎必須先修過【OEC9109  科技產業實習】 ◎課程不開放上修	N	1155	廖書賢 謝振傑	三 7-9 公館 教室自排	
+112	1	10	4	光學影像處理	8		4	0		OEC8124		半	3.0	光電所（碩）	HM77		Optical Pattern Processing	是		0	50	選	◎必須先修過【OEC8144  傅氏光學】 ◎課程開放上修	N	1156	鄭超仁	二 7-9 公館 Ｓ305	
+112	1	10	0	虛擬儀控程式設計與應用	8		26	26		OEC8135		半	3.0	光電所（碩）	HM77		Design and Applications of Virtual Instruments			0	50	選	◎課程開放上修	N	1157	廖書賢	四 2-4 公館 理圖802	
+112	1	10	0	書報討論	8		32	32		OEC8159		半	2.0	光電所（碩）	HM77		Seminar	是		0	50	必	允許重複修 ◎課程開放上修	N	1158	邱南福	四 7-8 公館 綜合館B1小型演講廳	
+112	1	10	0	冷凍空調原理			31	31		IEU0021		半	3.0	工教系（學）	HU70		Refrigeration and Air Conditioning Principle			0	50	選		N	1159	莫懷恩	二 A-C 本部 工401	
+112	1	10	0	工廠管理			43	43		IEU0107		半	2.0	工教系（學）	HU70		Factory Management			0	50	選		N	1160	陳信正	一 9-10 本部 工401	
+112	1	10	0	環境空調系統			12	12		IEU1042		半	3.0	工教系（學）	HU70		Environmental System of Air Conditioning			0	50	選		N	1161	卓清松	四 A-C 本部 工401	
+112	1	10	0	車輛電系修護			14	14		IEU1108		半	2.0	工教系（學）	HU70		Automotive Electric System Repair			0	50	選		N	1163	朱大江	三 7-10 本部 汽車場一樓	
+112	1	10	0	能源應用技術（一）			28	28		IEU3158		半	3.0	工教系（學）	HU70		Technology of  Energy Application (I)			0	50	選		N	1164	鄧敦平	一 1-4 本部 能源應用工場	
+112	1	10	0	再生能源概論			41	41		IEU3164		半	3.0	工教系（學）	HU70		Introduction to Renewable Energy			0	50	選		N	1165	鄭龍嶽	五 2-4 本部 研討二	
+112	1	10	0	汽車電子學			14	14		IEU3252		半	3.0	工教系（學）	HU70		Automotive Electronics			0	50	選		N	1166	柯盛泰	四 A-C 本部 汽車工場B102	
+112	1	10	0	電工學			23	23		IEU3414		半	3.0	工教系（學）	HU70		Electrics Engineering			0	50	選		N	1167	賴慕回	一 6-8 本部 工401	
+112	1	10	0	冷凍工程與設計			10	10		IEU4354		半	3.0	工教系（學）	HU70		Refrigeration Engineering and Design			0	50	選		N	1168	鄧敦平	四 6-8 本部 能源應用工場	
+112	1	10	0	電機與電子群教材教法（教）			10	10		IEUE301		半	2.0	工教系（學）	HU70		Teaching Materials and Methods: Electrical and Electronics Group			0	50	選		N	1169	陳瑄易 蘇崇彥	四 3-4 本部 研討二	
+112	1	10	0	工程圖學			37	37		IEU0114		半	2.0	工教系（學）	HU70		Engineering Graphics		1	0	50	必		N	1170	陳順同	四 1-4 本部 工教系複合式電腦教室	
+112	1	8	0	機械通用技術			17	17		IEU0115		半	2.0	工教系（學）	HU70		General Technology of Machine Workshop		1	0	20	必		N	1171	郭金國 洪翊軒	一 6-9 本部 鑄造場	
+112	1	10	0	電機通用技術			17	17		IEU0116		半	2.0	工教系（學）	HU70		General Technology of Electrical Engineering		1	0	50	必		N	1172	呂藝光	二 6-9 本部 電機與感測實驗室	
+112	1	10	0	內燃機			32	32		IEU1160		半	3.0	工教系（學）	HU70		Internal Combustion Engine		2	0	50	必		N	1173	呂有豐	四 7-9 本部 汽車工場B101	
+112	1	10	0	電子學			34	34		IEU1873		半	3.0	工教系（學）	HU70		Electronics		2	0	50	必		N	1174	支裕文	四 10-B 本部 工教系會議室	
+112	1	10	0	車輛技術與能源科技專題研究（一）			24	24		IEU0081		半	2.0	工教系（學）	HU70		Special Topics on Automotive Technology and Energy Technology (I)		3	0	50	必		N	1175	呂有豐 鄧敦平 洪翊軒 張俊興 白凱仁 劉華棟 陳韋任	六 4-5 本部 汽車場二樓	
+112	1	10	0	感測與轉換			26	26		IEU0117		半	3.0	工教系（學）	HU70		Sensors and Transducers		3	0	50	必		N	1176	白凱仁	二 2-4 本部 工401	
+112	1	10	0	車輛底盤修護（一）			28	28		IEU1106		半	3.0	工教系（學）	HU70		Automotive Chassis Repair (I)		3	0	50	選		N	1177	朱大江 呂有豐	三 A-D 本部 汽車場一樓	
+112	1	10	0	教育資料探勘專題製作 </br>[ 學分學程：教育大數據微學程 ]		學生須自備筆電到課堂使用(教育大數據微學程計畫課程)	4	4		ITU0167		半	3.0	科技系（學）	HU71		Educational Data Mining Projects </br>[ Program: The Program of Big Data in Education ]			3	50	選	◎必須先修過【05UG030  大數據程式設計】、【05UG031  資料科學在教育上的應用】、【05UG032  學習分析工具實務應用】其中一門	N	1179	蔡芸琤	三 7-9 本部 正105	
+112	1	10	0	教育大數據專題製作 </br>[ 學分學程：教育大數據微學程 ]		學生須自備筆電到課堂使用(教育大數據微學程計畫課程)	9	9		ITU0168		半	3.0	科技系（學）	HU71		Educational Big Data Projects </br>[ Program: The Program of Big Data in Education ]			3	50	選	◎必須先修過【05UG030  大數據程式設計】、【05UG031  資料科學在教育上的應用】、【05UG032  學習分析工具實務應用】其中一門	N	1180	蔡芸琤	四 6-8 本部 誠106	
+112	1	0	0	專業實習	9	因本課程性質與執行所需，將安排相關產業實習說明會及選課學生甄選等相關事項，以全人工方式選課，並限本系與大三、大四及碩士班修習。	18	18		ITC9004		半	3.0	科技系（學）	HU71		Professional Internship			0	50	選	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	1181	陳淑媛	三 10-C 本部 科技系TB311教室	
+112	1	10	1	人力資源資訊系統	9		28	27		ITC9005		半	3.0	科技系（學）	HU71		Human Resource Information Systems			3	30	選		N	1182	孫弘岳	一 7-9 本部 科技系TB212教室	
+112	1	10	0	企業員工生涯管理研究	9		16	16		ITC9007		半	3.0	科技系（學）	HU71		Studies in Employee Career Management	是		0	30	選		N	1183	陳淑媛	五 6-8 本部 科技系TB211教室	
+112	1	10	6	科技專案管理	9		36	30		ITC9010		半	3.0	科技系（學）	HU71		Technology Project Management			3	30	選		N	1184	孫弘岳	二 7-9 本部 科技系TB311教室	
+112	1	10	6	計算機概論		本系大一新生甲乙二班合開	53	47		ITU0008		半	3.0	科技系（學）	HU71		Introduction to Computer Science		1	0	50	必		N	1185	許庭嘉	四 8-10 本部 教402	
+112	1	10	0	工業科技教育概論			51	51		ITU0010		半	2.0	科技系（學）	HU71		Introduction to Industrial Technology Education		1	2	50	選		N	1186	蔡其瑞	一 3-4 本部 科技系TB211教室	
+112	1	10	4	基本設計	1		37	33		ITU0005		半	3.0	科技系（學）	HU71		Basic Design		1	0	35	必		N	1187	簡佑宏	二 7-9 本部 科技系TB310教室	
+112	1	15	0	人力資源發展概論 </br>[ 學分學程：社團領導學程 ]	1		29	29		ITU1004		半	3.0	科技系（學）	HU71		Introduction to Human Resource Development </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		1	3	35	必		N	1188	孫弘岳	三 7-9 本部 科技系TB311教室	
+112	1	10	0	電腦影像處理 </br>[ 學分學程：科技藝術學程 ]	2		43	43		ITU0028		半	3.0	科技系（學）	HU71		Image Processing </br>[ Program: The Program of Digital Art and Technology ]		1	0	50	必		N	1189	張玉山	三 5-7 本部 教402	
+112	1	15	4	電子電路 </br>[ 學分學程：太陽能源與工程學程 ]	2		39	35		ITU0165		半	3.0	科技系（學）	HU71		Electronic and Electric Circuits </br>[ Program: The Program of Solar Energy Engineering ]		1	0	35	必		N	1190	丁玉良 曾騰輝	四 2-4 本部 科技系TC411教室	
+112	1	10	4	機械製造		設科組優先選課	39	35		ITU0001		半	3.0	科技系（學）	HU71		Mechanical Technology		2	0	35	必		N	1191	蔡其瑞	四 6-9 本部 科技系TB310教室	
+112	1	1	1	木工製造		設科組優先選課	31	30		ITU0002		半	3.0	科技系（學）	HU71		Woodworking Technology	是	2	0	30	必		N	1192	林弘昌	二 1-4 本部 科技系TC501教室	
+112	1	10	10	作業系統		學科組優先選課	45	35		ITU0129		半	3.0	科技系（學）	HU71		Operating systems		2	0	35	選		N	1193	李啟龍	一 A-C 本部 科技系TB213教室	
+112	1	10	0	組織行為 </br>[ 學分學程：社團領導學程 ]			18	18		ITU0150		半	3.0	科技系（學）	HU71		Organizational Behavior </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		2	0	35	選		N	1194	陳淑媛	三 6-8 本部 科技系TB212教室	
+112	1	15	5	網際網路概論		學科組優先選課	43	38		ITU1028		半	3.0	科技系（學）	HU71		Introduction to the Internet		2	5	35	必		N	1195	蔡芸琤	二 2-4 本部 科技系TB311教室	
+112	1	10	0	色彩學		設科組優先選課	29	29		ITU2004		半	3.0	科技系（學）	HU71		Color Theory		2	0	35	選		N	1196	耿?剛	二 6-8 本部 科技系TB213教室	
+112	1	10	2	電腦輔助製圖		設科組優先選課	27	25		ITU2012		半	3.0	科技系（學）	HU71		Computer-Aided Drafting		2	0	35	選	◎必須先修過【ITU0004  圖學】	N	1197	蔡其瑞	一 7-9 本部 科技系TA509教室	
+112	1	10	0	訓練需求與成效評估		學科組優先選課	24	24		ITU2078		半	3.0	科技系（學）	HU71		Assessment of Training Needs and Training Effectiveness		2	0	35	選		N	1198	陳怡靜	二 6-8 本部 科技系TB211教室	
+112	1	10	10	程式語言	1		41	31		ITU0127		半	3.0	科技系（學）	HU71		Programming Language		2	3	35	必		N	1199	蔡芸琤	四 2-4 本部 科技系TB311教室	
+112	1	10	10	展示設計		設科組優先選課	23	13		ITU0051		半	3.0	科技系（學）	HU71		Design for Displays and Exhibitions		3	0	35	選	◎必須先修過【ITU2003  造形原理】、【ITU2004  色彩學】	N	1200	耿?剛	二 10-B 本部 科技系TB213教室	
+112	1	10	0	多媒體教材設計與製作 </br>[ 學分學程：高齡學程 ]		學科組優先選課	25	25		ITU2053		半	3.0	科技系（學）	HU71		Design & Production for Multimedia Instructional Materials </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		3	0	30	必		N	1201	丁玉良 曾騰輝	二 2-4 本部 科技系TC411教室	
+112	1	6	5	資料庫系統		學科組優先選課	37	32		ITU2075		半	3.0	科技系（學）	HU71		Database Systems	是	3	0	35	選		N	1202	蔡芸琤	一 2-4 本部 科技系TB311教室	
+112	1	10	1	電腦網路原理與實作		學科組優先選課	36	35		ITU2077		半	3.0	科技系（學）	HU71		Computer Network Theorem and Implementation		3	0	35	選		N	1203	吳姈蓉	五 9-A 本部 科技系TA509教室	
+112	1	10	0	產品設計 </br>[ 學分學程：理工實作學程 ]		設科組優先選課	32	32		ITU2080		半	3.0	科技系（學）	HU71		Products Design </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	35	必		N	1204	簡佑宏	四 2-4 本部 科技系TB310教室	
+112	1	10	2	生活科技科教學實習（一）（教）		師資生優先選課	24	22		ITUE210		半	2.0	科技系（學）	HU71		Teaching Practicum: Living Technology(I)		3	0	30	選		N	1205	張玉山	一 7-10 本部 科技系TD301教室	
+112	1	5	0	產品分析與企劃		設科組優先選課	25	25		ITU0039		半	3.0	科技系（學）	HU71		Analysis and Planning of Products		4	1	35	選		N	1206	張敬珣	四 2-4 本部 科技系TB213教室	
+112	1	5	0	虛擬實境設計 </br>[ 學分學程：科技藝術學程 ]		學科組優先選課	26	26		ITU0140		半	3.0	科技系（學）	HU71		Virtual Reality </br>[ Program: The Program of Digital Art and Technology ]		4	0	40	選		N	1207	黃臣鴻	二 2-4 本部 科技系TB310教室	
+112	1	0	0	專題製作（二） </br>[ 學分學程：理工實作學程 ]			11	11		ITU0156	A	半	1.0	科技系（學）	HU71		Capstone Projects (II) </br>[ Program: The Program of STEM Innovation and Practices ]		4	0	50	必	◎必須先修過【ITU0155  專題製作（一）】	N	1208	丁玉良 陳怡靜	五 C-D 本部 科技系TC411教室	
+112	1	0	0	專題製作（二） </br>[ 學分學程：理工實作學程 ]			10	10		ITU0156	B	半	1.0	科技系（學）	HU71		Capstone Projects (II) </br>[ Program: The Program of STEM Innovation and Practices ]		4	0	50	必	◎必須先修過【ITU0155  專題製作（一）】	N	1209	蕭顯勝 孫弘岳	五 C-D 本部 科技系TB212教室	
+112	1	0	0	專題製作（二） </br>[ 學分學程：理工實作學程 ]			10	10		ITU0156	C	半	1.0	科技系（學）	HU71		Capstone Projects (II) </br>[ Program: The Program of STEM Innovation and Practices ]		4	0	50	必	◎必須先修過【ITU0155  專題製作（一）】	N	1210	簡佑宏	五 C-D 本部 科技系TB310教室	
+112	1	0	0	專題製作（二） </br>[ 學分學程：理工實作學程 ]			12	12		ITU0156	D	半	1.0	科技系（學）	HU71		Capstone Projects (II) </br>[ Program: The Program of STEM Innovation and Practices ]		4	0	50	必	◎必須先修過【ITU0155  專題製作（一）】	N	1211	林弘昌 蔡其瑞 許庭嘉	五 C-D 本部 科技系TB213教室	
+112	1	0	0	專題製作（二） </br>[ 學分學程：理工實作學程 ]			10	10		ITU0156	E	半	1.0	科技系（學）	HU71		Capstone Projects (II) </br>[ Program: The Program of STEM Innovation and Practices ]		4	0	50	必	◎必須先修過【ITU0155  專題製作（一）】	N	1212	蔡芸琤	五 C-D 本部 科技系TB312教室	
+112	1	10	0	電腦輔助設計與製造		設科組優先選課	13	13		ITU2060		半	3.0	科技系（學）	HU71		Computer-Aided Design and Manufacturing		4	0	35	選		N	1213	洪嘉駿 支裕文	一 10-B 本部 科技系TA509教室	
+112	1	1	0	Python程式設計與人工智慧應用	9		32	32		GCC9003		半	3.0	圖傳系（學）	HU72		Python Programming with Applications to Artificial Intelligence			1	37	選		N	1214	周遵儒	一 2-4 本部 綜1001	
+112	1	3	3	數位學習 </br>[ 學分學程：高齡學程 ]			48	45		GCU0138		半	2.0	圖傳系（學）	HU72		E Learning </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		1	0	45	選		N	1215	曹聖豪	三 6-7 本部 正102	
+112	1	10	2	視覺傳達設計			49	47		GCU0142		半	3.0	圖傳系（學）	HU72		Visual Communication Design	是	1	0	50	選		N	1216	王靜弦	四 2-4 本部 正106	
+112	1	10	7	設計史			36	29		GCU0157		半	3.0	圖傳系（學）	HU72		History Design		1	0	30	選		N	1217	林素惠	四 6-8 本部 製作教室B	
+112	1	5	0	圖文傳播基礎技術（一）		1.限圖傳系大一學生選課(選課學生必須為四技二專管道入學)2.第一週上課務必準時出席3.如有其他選課需求請與授課老師聯繫	29	29		GCU0174	A	半	3.0	圖傳系（學）	HU72		Basic Techniques of Graphic Communication(I)		1	0	50	必		N	1218	廖信	二 2-4 本部 製作教室A	
+112	1	5	3	程式設計			37	34		GCU0017	A	半	3.0	圖傳系（學）	HU72		Computer Programming		2	0	35	必	◎必須先修過【GCU0006  計算機概論】	N	1219	周遵儒	一 8-10 本部 教403	
+112	1	3	3	程式設計			23	20		GCU0017	B	半	3.0	圖傳系（學）	HU72		Computer Programming		2	0	27	必	◎必須先修過【GCU0006  計算機概論】	N	1220	周遵儒	二 8-10 本部 教404	
+112	1	10	9	影像處理 </br>[ 學分學程：知識轉譯學程 ]			57	48		GCU0027		半	2.0	圖傳系（學）	HU72		Image Processing </br>[ Program: The Program of Transformation of Knowledge and Cultural Production ]		2	0	50	選		N	1221	陳皇利	三 A-B 本部 教401	
+112	1	10	0	影視劇本編寫 </br>[ 學分學程：元宇宙學程 知識轉譯學程 ]			28	28		GCU0037		半	3.0	圖傳系（學）	HU72		Scrip Writing </br>[ Program: The Program of Metaverse Narrative The Program of Transformation of Knowledge and Cultural Production ]		2	0	30	選		N	1222	陳明秀	五 3-5 本部 新媒體專業教室	
+112	1	10	0	影視原理與製作			37	37		GCU0108		半	3.0	圖傳系（學）	HU72		Film/video Production		2	0	50	選		N	1223	祝濬清	五 8-10 本部 視聽教室	
+112	1	10	0	攝影學			45	45		GCU0132	A	半	3.0	圖傳系（學）	HU72		Photography		2	0	50	必		N	1224	陳仙舟	一 2-4 本部 圖傳系攝影室	
+112	1	10	0	攝影學			44	44		GCU0132	B	半	3.0	圖傳系（學）	HU72		Photography		2	0	50	必		N	1225	陳仙舟	二 2-4 本部 圖傳系攝影室	
+112	1	3	3	電腦繪圖與動畫技術			40	37		GCU0145		半	3.0	圖傳系（學）	HU72		Computer Graphics and Animation Techniques		2	0	37	選		N	1226	陳淑如	三 5-7 本部 教403	
+112	1	10	0	表現技法			47	47		GCU0155		半	2.0	圖傳系（學）	HU72		Expressional Technique		2	0	50	選		N	1227	王靜弦	四 6-7 本部 樸304	
+112	1	3	3	動畫實務基礎 </br>[ 學分學程：元宇宙學程 科技藝術學程 知識轉譯學程 ]			40	37		GCU0186		半	3.0	圖傳系（學）	HU72		Basics of Animation Practices </br>[ Program: The Program of Metaverse Narrative The Program of Digital Art and Technology The Program of Transformation of Knowledge and Cultural Production ]		2	0	37	選		N	1228	張晏榕	四 2-4 本部 教403	
+112	1	10	0	印刷出版工程企劃			19	19		GCU0055		半	3.0	圖傳系（學）	HU72		Printing & Publishing Technology Process		3	0	50	選		N	1229	葉振璧	三 8-10 本部 視聽教室	
+112	1	10	0	傳播科技技術（一）			14	14		GCU0075		半	3.0	圖傳系（學）	HU72		Communication Technology (I)		3	0	50	選		N	1230	邱卉榛	一 9-A 本部 誠206	
+112	1	10	0	專業技術訓練			35	35		GCU0121		半	3.0	圖傳系（學）	HU72		Training for Professional Techniques		3	0	50	必		N	1231	陳仙舟 劉立行 張晏榕	四 5-7 本部 視聽教室, 四 D 本部 視聽教室	
+112	1	10	1	印刷設計			14	13		GCU0128		半	2.0	圖傳系（學）	HU72		Printing Layout & Design		3	0	50	選	◎必須先修過【GCU0058  電腦二次元繪圖】	N	1232	陳皇利	四 A-B 本部 教402	
+112	1	10	0	編輯學			20	20		GCU0129		半	2.0	圖傳系（學）	HU72		Book Design & Planning		3	0	50	選		N	1233	萬岳憲	二 A-B 本部 誠401	
+112	1	10	0	印刷適性研究			22	22		GCU0134		半	2.0	圖傳系（學）	HU72		Printing Ability Research		3	0	50	選		N	1234	陳仙舟	五 3-4 本部 視聽教室	
+112	1	10	0	裝訂與加工			30	30		GCU0136		半	2.0	圖傳系（學）	HU72		Book Binding and Finishing		3	0	30	選		N	1235	陳仙舟	四 3-4 本部 製作教室B	
+112	1	10	0	數位版型原理與實務			31	31		GCU0185		半	2.0	圖傳系（學）	HU72		The Principles and Practices of Digital Template with Contents		3	0	50	選		N	1236	陳仙舟	五 1-2 本部 視聽教室	
+112	1	3	0	3D電腦角色動畫			16	16		GCU0190		半	3.0	圖傳系（學）	HU72		3D Computer Character Animation		3	0	27	選	◎必須先修過【GCU0036  電腦三次元繪圖】	N	1237	張晏榕	四 8-10 本部 教404	
+112	1	10	0	互動多媒體應用			25	25		GCU0192		半	3.0	圖傳系（學）	HU72		Interactive Multimedia	是	3	0	30	選		N	1238	王健華	二 7-9 本部 新媒體專業教室	
+112	1	10	4	畢業製作（二）			54	50		GCU0178		半	3.0	圖傳系（學）	HU72		Graduation Project (II)		4	0	50	必	◎必須先修過【GCU0177  畢業製作（一）】	N	1239	陳仙舟 陳明秀 劉立行 張晏榕	五 A-C 本部 視聽教室	
+112	1	10	0	設計群教材教法（教）		限大四以上具設計群師培生資格同學選課。第一次上課務必出席，如有任何選課問題請與授課老師聯繫。	11	11		GCUE101		半	2.0	圖傳系（學）	HU72		Teaching Materials and Methods: Design Group		4	0	50	選		N	1240	廖信	一 6 本部 視聽教室, 二 6 本部 視聽教室	
+112	1	10	0	設計群教學實習（一）（教）		限大四以上具設計群師培生資格同學選課。第一次上課務必出席，如有任何選課問題請與授課老師聯繫。	11	11		GCUE310		半	2.0	圖傳系（學）	HU72		Teaching Practicum: Design Group(I)		4	0	50	選	◎必須先修過(也可以同時修)【GCUE101  設計群教材教法（教）】	N	1241	廖信	一 7-10 本部 視聽教室	
+112	1	10	0	精微製造工程	7		19	19		MTC7001		半	3.0	機電系（學）	HU73		Precision Micro Manufacturing Engineering	是		0	30	選		N	1242	陳順同	三 7-9 本部 機電301會議室	
+112	1	10	1	機器人學	9		24	23		MTC0002		半	3.0	機電系（學）	HU73		Robotics			0	30	選		N	1243	陳俊達	三 A-C 本部 機電整合實驗室	
+112	1	10	4	有限元素分析	9		18	14		MTC0004		半	3.0	機電系（學）	HU73		Finite Element Analysis			0	35	選	◎必須先修過【MTU0101  動力學】、【MTU0098  靜力學】、【MTU0026  材料力學】	N	1244	陳延昌	三 A-C 本部 教403	
+112	1	13	10	微機電系統原理與應用	9		40	30		MTC0009		半	3.0	機電系（學）	HU73		Introduction to Micro-Electro-Mechanical System Technology			5	30	選		N	1245	楊啟榮	五 2-4 本部 機202會議室	
+112	1	10	7	半導體元件物理 </br>[ 學分學程：半導體技術學程 太陽能源與工程學程 ]	9		62	55		MTC0024		半	3.0	機電系（學）	HU73		Semiconductor Devices and Physics </br>[ Program: The Program of Semiconductor Technology The Program of Solar Energy Engineering ]			5	50	選		N	1246	劉傳璽	二 2-4 本部 機202會議室	
+112	1	10	0	數位影像處理	9		15	15		MTC0025		半	3.0	機電系（學）	HU73		Digital Image Processing	是		0	30	選		N	1247	柯坤呈	二 2-4 本部 機電302會議室	
+112	1	10	0	雷射工程技術與應用	9		21	21		MTC0027		半	3.0	機電系（學）	HU73		Laser Engineering Technology and Applications			3	50	選		N	1248	鄧敦建 張天立	二 2-4 本部 工501(TA501)	
+112	1	10	4	精密機械系統設計與實務	9		10	6		MTC9002		半	3.0	機電系（學）	HU73		Precision Mechanical System Design and Practice			0	30	選	◎必須先修過【MTU0005  機械製造】	N	1249	陳順同	四 A-C 本部 機202會議室	
+112	1	10	0	數位訊號處理	9		21	21		MTC9003		半	3.0	機電系（學）	HU73		Digital Signal Processing	是		5	30	選		N	1250	張國維	一 7-9 本部 CAD/CAM	
+112	1	20	5	物件導向程式設計	9		27	22		MTC9006		半	3.0	機電系（學）	HU73		Object-Oriented Programming			0	40	選	◎必須先修過【MTU0012  程式設計】	N	1251	吳順德	五 A-C 本部 教402	
+112	1	10	9	人工智慧	9		58	49		MTC9008		半	3.0	機電系（學）	HU73		Artificial Intelligence			0	50	選		N	1252	柯坤呈	一 6-8 本部 誠401	
+112	1	10	0	機械實務技術	9		4	4		MTC9012		半	3.0	機電系（學）	HU73		Mechanical Practical Skills			0	30	選		N	1253	洪宜芳	六 1-4 本部 CAD/CAM	
+112	1	10	0	電腦輔助光學設計進階	9		11	11		MTC9015		半	3.0	機電系（學）	HU73		Advanced Computer-Aided Optical Design			0	30	選		N	1254	鄧敦建	四 2-4 本部 CAD/CAM	
+112	1	10	8	可撓性電子材料與元件	9		12	4		MTC9017		半	3.0	機電系（學）	HU73		Flexible Electronics: Materials and Devices			0	30	選		N	1255	張天立	四 2-4 本部 機電302會議室	
+112	1	10	3	高分子加工學	9		6	3		MTC9020		半	3.0	機電系（學）	HU73		Polymer Processing			2	30	選	◎必須先修過【MTU0039  熱力學】	N	1256	柯坤呈	二 7-9 本部 機電301會議室	
+112	1	10	1	智慧精微及半導體製造PBL課程（一）	9		29	28		MTC9022		半	3.0	機電系（學）	HU73		PBL Course of Intelligent Precision and Semiconductor Manufacturing (I)			0	30	選		N	1257	楊啟榮 張國維 程金保 陳美勇 陳順同 鄧敦建 張天立 鄭淳護	五 7-9 本部 機電301會議室	
+112	1	10	7	機械製造			71	64		MTU0005		半	3.0	機電系（學）	HU73		The Processes of Manufacturing		2	5	60	必		N	1258	張天立	五 2-4 本部 誠202	
+112	1	20	18	工程數學（一）			63	45		MTU0009		半	3.0	機電系（學）	HU73		Engineering Mathematics (I)		2	5	55	必	◎必須先修過【MAU0181  微積分乙（二）】	N	1259	楊啟榮	二 2-4 本部 誠108	
+112	1	10	3	電路學 </br>[ 學分學程：半導體技術學程 太陽能源與工程學程 ]			76	73		MTU0013		半	3.0	機電系（學）	HU73		Circuit Theory </br>[ Program: The Program of Semiconductor Technology The Program of Solar Energy Engineering ]		2	5	80	必		N	1260	陳美勇	一 7-9 本部 誠102	
+112	1	20	17	動力學			75	58		MTU0101		半	3.0	機電系（學）	HU73		Dynamics		2	0	55	必		N	1261	劉傳璽	三 6-8 本部 誠102	
+112	1	10	0	電工實驗			30	30		MTU0102	A	半	1.0	機電系（學）	HU73		Experiments of Electric Circuits		2	0	30	必		N	1262	張國維	二 6-8 本部 機電整合實驗室	
+112	1	10	0	電工實驗			29	29		MTU0102	B	半	1.0	機電系（學）	HU73		Experiments of Electric Circuits		2	0	30	必		N	1263	張國維	二 9-A 本部 機電整合實驗室	
+112	1	10	10	電腦輔助製造			40	30		MTU0103		半	3.0	機電系（學）	HU73		Computer-Aided Manufacturing		2	0	30	選		N	1264	趙甦農	五 6-8 本部 教403	
+112	1	10	8	振動學			38	30		MTU0107		半	3.0	機電系（學）	HU73		Vibration		3	5	30	選		N	1265	楊啟榮	一 2-4 本部 機202會議室	
+112	1	10	0	液氣壓控制原理與應用			17	17		MTU0046		半	3.0	機電系（學）	HU73		Principle and Apply of the Fluid Control		4	0	30	選		N	1266	陳俊達	四 2-4 本部 機電整合實驗室	
+112	1	10	0	電磁學（二）			11	11		MTU0119		半	3.0	機電系（學）	HU73		Electromagnetism (II)　		4	0	50	選		N	1267	鄧敦建	四 6-8 本部 TA512	
+112	1	10	0	機電專題製作（二）		1.請依所選專題指導老師所公告之地點上課。	27	27		MTU0126	A	半	1.0	機電系（學）	HU73		Special Project on Mechatronic Engineering (II)		4	0	50	必	◎必須先修過【MTU0125  機電專題製作（一）】	N	1268	張國維 陳美勇 呂有勝 吳順德 陳俊達 柯坤呈 張天立	五 1 本部 教室自排	
+112	1	10	0	機電專題製作（二）		1.請依所選專題指導老師所公告之地點上課。	27	27		MTU0126	B	半	1.0	機電系（學）	HU73		Special Project on Mechatronic Engineering (II)		4	0	50	必	◎必須先修過【MTU0125  機電專題製作（一）】	N	1269	鄭淳護 楊啟榮 程金保 陳順同 劉傳璽 鄧敦建	五 1 本部 教室自排	
+112	1	6	0	機械群教學實習（二）（教）			9	9		MTUE310		半	2.0	機電系（學）	HU73		Teaching Practicum: Area of Mechanics Group (II)		4	0	30	選	◎必須先修過【MTUE210  機械群教學實習（一）（教）】	N	1270	鄭慶民	二 7-10 本部 機電302會議室	
+112	1	10	0	機械基礎技術			30	30		MTU0003	A	半	2.0	機電系（學）	HU73	　	The Mechanical Technology		1	0	30	必		N	1271	鄭慶民	一 6-9 本部 機電302會議室	
+112	1	10	1	機械基礎技術			31	30		MTU0003	B	半	2.0	機電系（學）	HU73	　	The Mechanical Technology		1	0	30	必		N	1272	鄭淳護	一 6-9 本部 機電301會議室	
+112	1	10	2	程式設計 </br>[ 學分學程：空間學程 ]			32	30		MTU0012	A	半	3.0	機電系（學）	HU73	　	Computer Programming </br>[ Program: The Program of Geospatial Information Science ]		1	0	30	必		N	1273	張國維	一 2-4 本部 CAD/CAM	
+112	1	10	1	程式設計 </br>[ 學分學程：空間學程 ]			43	42		MTU0012	B	半	3.0	機電系（學）	HU73	　	Computer Programming </br>[ Program: The Program of Geospatial Information Science ]		1	5	40	必		N	1274	吳順德	四 A-C 本部 教401	
+112	1	15	8	材料科學 </br>[ 學分學程：太陽能源與工程學程 ]			82	74		MTU0097		半	3.0	機電系（學）	HU73	　	Materials Science </br>[ Program: The Program of Solar Energy Engineering ]		1	3	80	必		N	1275	程金保	四 2-4 本部 誠201	
+112	1	10	0	工程圖學			34	34		MTU0117	A	半	2.0	機電系（學）	HU73	　	Engineering Graphics		1	1	35	必		N	1276	陳順同	四 6-9 本部 機202會議室	
+112	1	10	0	工程圖學			27	27		MTU0117	B	半	2.0	機電系（學）	HU73	　	Engineering Graphics		1	0	35	必		N	1277	陳美勇	二 10-C 本部 機202會議室	
+112	1	10	7	機構學			65	58		MTU0025		半	3.0	機電系（學）	HU73	　	Mechanisms		3	3	55	必		N	1278	陳俊達	三 7-9 本部 工501(TA501)	
+112	1	10	2	自動控制			62	60		MTU0028		半	3.0	機電系（學）	HU73	　	Automatic Control Engineering		3	0	60	必		N	1279	呂有勝	四 2-4 本部 誠109	
+112	1	10	6	自動控制實驗			29	23		MTU0106	A	半	1.0	機電系（學）	HU73	　	Experiments of Automatic Control		3	0	30	必	◎必須先修過【MTU0009  工程數學（一）】	N	1280	呂有勝	二 2-4 本部 CAD/CAM	
+112	1	10	0	自動控制實驗			30	30		MTU0106	B	半	1.0	機電系（學）	HU73	　	Experiments of Automatic Control		3	0	30	必	◎必須先修過【MTU0009  工程數學（一）】	N	1281	呂有勝	二 7-9 本部 CAD/CAM	
+112	1	0	0	程式設計 </br>[ 學分學程：空間學程 ]			36	36		MTU0012		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Computer Programming </br>[ Program: The Program of Geospatial Information Science ]		1	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1282	吳順德	六 2-4 本部 教402	
+112	1	0	0	電腦輔助製圖			36	36		MTU0021		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Computer Aided Drawing		1	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1283	陳順同	六 6-9 本部 教401	
+112	1	0	0	產業實務			36	36		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		1	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1284	程金保 陳美勇		
+112	1	0	0	產業實務專題研討			36	36		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		1	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1285	程金保 陳美勇		
+112	1	0	0	機構學			27	27		MTU0025		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanisms		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1286	陳美勇	五 A-C 本部 誠208	
+112	1	0	0	材料力學			27	27		MTU0026		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanics of Materials		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1287	鄭淳護	六 2-4 本部 誠203	
+112	1	0	0	電腦輔助製造			26	26		MTU0103		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Computer-Aided Manufacturing		3	0	50	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1288	趙甦農	六 6-8 本部 教403	
+112	1	0	0	產業實務			27	27		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1289	程金保 陳美勇		
+112	1	0	0	產業實務專題研討			27	27		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1290	程金保 陳美勇		
+112	1	20	14	機器學習在教育上的應用 </br>[ 學分學程：教育大數據微學程 ]			23	9		AEU0077		半	3.0	電機系（學）	HU75		Machine Learning in Education Research </br>[ Program: The Program of Big Data in Education ]			3	40	選	◎必須先修過【05UG030  大數據程式設計】、【05UG031  資料科學在教育上的應用】、【05UG032  學習分析工具實務應用】其中一門	N	1291	鍾明倫	二 2-4 本部 教402	
+112	1	26	22	類比積體電路導論 </br>[ 學分學程：半導體技術學程 ]			53	31		AEU0078		半	3.0	電機系（學）	HU75		Introduction to Analog Integrated Circuits </br>[ Program: The Program of Semiconductor Technology ]			5	30	選		N	1292	林群祐	四 6-8 本部 工501(TA501)	
+112	1	50	38	數位系統			92	54		AEU0003		半	3.0	電機系（學）	HU75		Digital Systems		1	0	50	必		N	1293	林政宏	一 7-9 本部 綜202演講廳	
+112	1	5	5	計算機概論			39	34		AEU0005	A	半	3.0	電機系（學）	HU75		Introduction to Computer Science	是	1	0	35	必		N	1294	呂成凱	四 2-4 本部 多媒體與通訊實驗室	
+112	1	5	5	計算機概論			40	35		AEU0005	B	半	3.0	電機系（學）	HU75		Introduction to Computer Science	是	1	0	35	必		N	1295	呂成凱	四 7-9 本部 多媒體與通訊實驗室	
+112	1	2	2	程式設計 </br>[ 學分學程：空間學程 ]			41	39		AEU0013	A	半	3.0	電機系（學）	HU75		Computer Programming </br>[ Program: The Program of Geospatial Information Science ]	是	1	1	37	必		N	1296	康立威	二 7-9 本部 綜1001	
+112	1	11	11	程式設計 </br>[ 學分學程：空間學程 ]			50	39		AEU0013	B	半	3.0	電機系（學）	HU75		Computer Programming </br>[ Program: The Program of Geospatial Information Science ]	是	1	1	50	必		N	1297	康立威	五 2-4 本部 教401	
+112	1	21	20	電子學（一） </br>[ 學分學程：太陽能源與工程學程 ]			70	50		AEU0006	A	半	3.0	電機系（學）	HU75		Electronics (I) </br>[ Program: The Program of Solar Energy Engineering ]		2	2	50	必		N	1298	蘇崇彥	五 2-4 本部 誠108	
+112	1	10	10	電子學（一） </br>[ 學分學程：太陽能源與工程學程 ]			60	50		AEU0006	B	半	3.0	電機系（學）	HU75		Electronics (I) </br>[ Program: The Program of Solar Energy Engineering ]		2	2	50	必		N	1299	蘇崇彥	四 7-9 本部 誠207	
+112	1	12	11	電子學實驗（一）			74	63		AEU0007		半	2.0	電機系（學）	HU75		Electronics Laboratory (I)	是	2	0	50	必		N	1300	林群祐	三 6-9 本部 電機系電子實驗室	
+112	1	20	15	工程數學（二）			85	70		AEU0015		半	3.0	電機系（學）	HU75		Engineering Mathematics (II)	是	2	0	70	必		N	1301	賴以威	二 2-4 本部 教103	
+112	1	5	5	電路學（二） </br>[ 學分學程：太陽能源與工程學程 ]			55	50		AEU0017		半	3.0	電機系（學）	HU75		Electric Circuits (II) </br>[ Program: The Program of Solar Energy Engineering ]		2	0	50	選		N	1302	郭建宏	一 2-4 本部 工401	
+112	1	14	12	資料結構			64	52		AEU0022		半	3.0	電機系（學）	HU75		Data Structures		2	0	50	選		N	1303	林政宏	二 7-9 本部 電機系電子實驗室	
+112	1	12	12	電工實驗			42	30		AEU0019		半	2.0	電機系（學）	HU75		Electrical Engineering Laboratory		3	0	30	選		N	1304	曾煥雯	一 6-9 本部 電機與感測實驗室	
+112	1	12	6	感測與轉換			36	30		AEU0021		半	3.0	電機系（學）	HU75		Sensors and Transducers		3	0	30	選		N	1305	盧明智	三 7-9 本部 電機與感測實驗室	
+112	1	10	0	通訊原理（一）			39	39		AEU0027		半	3.0	電機系（學）	HU75		Principles of Communication (I)		3	2	50	選		N	1306	王嘉斌	二 2-4 本部 誠109	
+112	1	10	10	電機機械（一）			54	44		AEU0030		半	3.0	電機系（學）	HU75		Electric Machineries (I)		3	0	50	選		N	1307	洪欽銘 陳瑄易	二 6-8 本部 工401	
+112	1	10	10	控制系統			58	48		AEU0043		半	3.0	電機系（學）	HU75		Control Systems	是	3	0	50	選		N	1308	許陳鑑	五 2-4 本部 工401	
+112	1	10	10	線性代數			61	51		AEU0066		半	3.0	電機系（學）	HU75		Linear Algebra		3	0	50	選		N	1309	黃政吉	四 2-4 本部 工401	
+112	1	10	0	電機專題製作（一）			18	18		AEU0070	A	半	2.0	電機系（學）	HU75		Special Project on Electrical Engineering (I)		3	0	50	必		N	1310	蔡政翰 賴以威	五 6-7 本部 電機系電子實驗室	
+112	1	10	0	電機專題製作（一）			17	17		AEU0070	B	半	2.0	電機系（學）	HU75		Special Project on Electrical Engineering (I)		3	0	50	必		N	1311	蘇崇彥	五 6-7 本部 電機系TA412會議室	
+112	1	10	0	電機專題製作（一）			24	24		AEU0070	C	半	2.0	電機系（學）	HU75		Special Project on Electrical Engineering (I)		3	0	50	必		N	1312	陳瑄易	五 6-7 本部 TA512	
+112	1	10	0	車輛電學			34	34		VEU0021		半	3.0	車能學位學程（學）	HU76		Automotive Electronics			0	50	選		N	1313	徐源茂 張俊興	二 A-C 本部 汽車工場B101	
+112	1	10	0	人工智慧與應用 </br>[ 學分學程：太陽能源與工程學程 ]			29	29		VEU0024		半	3.0	車能學位學程（學）	HU76		Artificial Intelligence and Applications </br>[ Program: The Program of Solar Energy Engineering ]			0	50	選		N	1314	陳韋任	二 6-8 本部 工教系複合式電腦教室	
+112	1	10	1	車輛系統建模與動態分析			15	14		VEU0041		半	3.0	車能學位學程（學）	HU76		Vehicle System Modeling and Dynamic Analysis			0	50	選	◎必須先修過【VEU0010  工程數學（一）】、【VEU0013  應用力學】	N	1315	林湛喬	五 6-8 本部 工教系複合式電腦教室	
+112	1	10	0	智慧電網			23	23		VEU0047		半	3.0	車能學位學程（學）	HU76		Smart Grid			0	50	選		N	1316	談光雄	五 2-4 本部 汽車工場B101	
+112	1	10	0	運輸冷凍空調			40	40		VEU0052		半	3.0	車能學位學程（學）	HU76		Transportation Refrigeration and Air Conditioning			0	50	選		N	1317	劉華棟	五 6-8 本部 汽車工場B101	
+112	1	10	0	專業技術訓練（一）			25	25		VEU0067		半	3.0	車能學位學程（學）	HU76		Training for Professional Techniques (I)			0	50	選		N	1318	呂有豐 鄧敦平 洪翊軒 陳韋任 白凱仁 張俊興 劉華棟	六 8-10 本部 汽車工場B101	
+112	1	10	0	專題研究（一）			22	22		VEU0069		半	2.0	車能學位學程（學）	HU76		Special Topics (I)	是		0	50	必		N	1319	呂有豐 鄧敦平 洪翊軒 陳韋任 白凱仁 張俊興 劉華棟	六 6-7 本部 汽車工場B101	
+112	1	10	0	能源科技概論 </br>[ 學分學程：太陽能源與工程學程 ]			26	26		VEU0002		半	2.0	車能學位學程（學）	HU76		Introduction to Energy Technology </br>[ Program: The Program of Solar Energy Engineering ]		1	5	50	必		N	1320	呂有豐	四 3-4 本部 汽車工場B101	
+112	1	10	0	電路學（一） </br>[ 學分學程：太陽能源與工程學程 ]			36	36		VEU0003		半	3.0	車能學位學程（學）	HU76		Electric Circuits (I) </br>[ Program: The Program of Solar Energy Engineering ]		1	5	50	必		N	1321	白凱仁	一 6-8 本部 汽車工場B101	
+112	1	10	0	電路學實驗			28	28		VEU0004		半	3.0	車能學位學程（學）	HU76		Electrical Circuits Experiment	是	1	0	30	必		N	1322	劉華棟	二 2-5 本部 電機與感測實驗室	
+112	1	10	0	能源基礎實習			27	27		VEU0075		半	3.0	車能學位學程（學）	HU76		Introduction to Energy Technology		1	0	30	必		N	1323	鄧敦平	五 1-4 本部 能源應用工場	
+112	1	10	3	車輛基礎實習			33	30		VEU0076		半	3.0	車能學位學程（學）	HU76		Vehicle Basic Technology		1	0	30	必		N	1324	張俊興	四 6-9 本部 汽車場一樓	
+112	1	10	9	工程數學（一） </br>[ 學分學程：太陽能源與工程學程 ]			59	50		VEU0010		半	3.0	車能學位學程（學）	HU76		Engineering Mathematics (I) </br>[ Program: The Program of Solar Energy Engineering ]		2	5	50	必		N	1325	洪翊軒	四 6-8 本部 工401	
+112	1	10	0	熱力學（一）			29	29		VEU0011		半	3.0	車能學位學程（學）	HU76		Thermo-Dynamics (I)	是	2	5	50	必		N	1326	陳韋任	二 2-4 本部 汽車工場B101	
+112	1	10	0	自動控制			39	39		VEU0014		半	3.0	車能學位學程（學）	HU76		Automatic Control Engineering		3	5	50	必		N	1327	陳美勇	二 6-8 本部 工501(TA501)	
+112	1	10	0	幾何光學	9		35	35		OEC9001		半	3.0	光電學位學程（學）	HU77		Geometrical Optics			5	50	必		N	1328	邱爾德	一 2-4 公館 Ｓ501	
+112	1	10	0	真空與薄膜技術	9		29	29		OEC9004		半	3.0	光電學位學程（學）	HU77		Vacuum and Thin Film Technology			0	50	選		N	1329	吳晉晟	六 6-8 公館 Ｓ502	
+112	1	10	2	生醫光電工程概論	9		47	45		OEC9100		半	3.0	光電學位學程（學）	HU77		Introduction to Biophotonics	是		5	50	選		N	1330	呂杰翰	三 7-9 公館 理圖002	
+112	1	10	0	光電電子學	9		24	24		OEC9112		半	3.0	光電學位學程（學）	HU77		Photonics	是		0	50	必		N	1332	楊承山	二 7-9 公館 Ｓ307	
+112	1	10	0	半導體雷射	9		29	29		OEC9113		半	3.0	光電學位學程（學）	HU77		Semiconductor Laser			3	50	選		N	1333	蘇益信	五 2-4 公館 Ｓ503	
+112	1	10	0	光電工程概論 </br>[ 學分學程：太陽能源與工程學程 ]			23	23		OEU0001		半	2.0	光電學位學程（學）	HU77		Introduction to Optoelectronics </br>[ Program: The Program of Solar Energy Engineering ]		1	0	50	必		N	1334	邱南福	四 1-2 公館 理圖002	
+112	1	10	8	工程數學（一）			30	22		OEU0003		半	3.0	光電學位學程（學）	HU77		Engineering Mathematics (I)		2	0	50	必	◎必須先修過【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】	N	1335	謝振傑	二 7-9 公館 Ｓ204	
+112	1	10	0	電磁學（一）			31	31		OEU0005		半	3.0	光電學位學程（學）	HU77		Electromagnetism (I)		2	5	50	必		N	1336	呂杰翰	四 2-4 公館 Ｓ204	
+112	1	10	0	光電實驗（二）			21	21		OEU0009		半	1.0	光電學位學程（學）	HU77		Optoelectronics Experiments (II)	是	3	0	50	必		N	1337	楊承山	二 3-4 公館 AP415光電實驗室	
+112	1	10	0	專題與實習（一）			24	24		OEU0013		半	2.0	光電學位學程（學）	HU77		Independent Study and Practice (I)	是	3	0	50	必		N	1338	呂杰翰 鄭超仁 謝振傑 邱南福 廖書賢 楊承山	一 5 公館 應用科學大樓B1演講廳, 二 5 公館 應用科學大樓B1演講廳, 三 5 公館 應用科學大樓B1演講廳	
+112	1	10	0	專題與實習（三）			10	10		OEU0020		半	1.0	光電學位學程（學）	HU77		Independent Study and Practice (III)	是	4	0	50	選		N	1339	邱南福 謝振傑	四 5 公館 應用科學大樓B1演講廳	
+112	1	10	0	俄羅斯語（一）			18	18		I0U0001		半	3.0	國社學院	I		Elementary Russian (I)			5	50	選		N	1340	王開顏	四 7-9 本部 美術館501	
+112	1	10	0	東亞區域專題研究			8	8		EAD0003		半	3.0	東亞系（博）	ID83		Special Topics on East Asian Area Studies	是		0	50	必	◎課程不開放上修	N	1341	關弘昌 田正利 莊仁傑	三 6-8 本部 東亞系第一教室	
+112	1	10	0	華語語系文化專題研究			7	7		CLD0036		半	3.0	華語系（博）	ID84		Special Topics on Sinophone Culture Studies			0	30	選	◎課程開放上修	N	1342	簡瑛瑛	一 7-9 本部 綜901	
+112	1	2	0	華語文教學實務專題研究		◎數位課程 僅顯示同步遠距及面授時間。	8	8		CLD0041		半	3.0	華語系（博）	ID84		Special Topics on Chinese Language Teaching Practicum			0	50	選	◎課程不開放上修	1	1343	蔡雅薰	◎面授/同步	
+112	1	5	0	歐洲文化史			15	15		ETM0001		半	3.0	歐文所（碩）	IM82		History of European Cultures	是		2	30	必	◎課程開放上修	N	1344	路狄諾	五 7-9 本部 博404	
+112	1	5	0	法國文化與觀光專題研究			27	27		ETM0061		半	3.0	歐文所（碩）	IM82		Special Topics on French Culture and Tourism			2	30	選	◎課程開放上修	N	1345	蔡倩玟	三 7-9 本部 博404	
+112	1	5	0	博物館與展覽文化研究			19	19		ETM0075		半	3.0	歐文所（碩）	IM82		Museum and Exhibition Cultural Studies	是		2	30	選	◎課程開放上修	N	1346	賴嘉玲	二 7-9 本部 博404	
+112	1	5	0	歐洲電影與旅行			14	14		ETM0078		半	3.0	歐文所（碩）	IM82		European Film and Travel	是		2	30	選	◎課程開放上修	N	1347	路狄諾	四 7-9 本部 博404	
+112	1	5	0	歐洲文化與觀光移地教學		本課程僅供112年德國移地教學生團選課。112年6-7月未參與德國柏林大學授課的同學請勿選課。	12	12		ETM0081		半	3.0	歐文所（碩）	IM82		European Cultures and Tourism─ Off-Site Learning	是	2	0	30	選	◎課程開放上修	N	1348	陳學毅	六 1-3 本部 博413	
+112	1	10	0	社會科學方法論		1.政經與區域發展領域必修。2. 上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	16	16		EAM0002		半	3.0	東亞系（碩）	IM83		Methodology of Social Sciences			3	50	必	◎課程不開放上修	N	1349	關弘昌 林昌平	三 2-4 本部 東亞系第一教室	
+112	1	10	0	華僑與僑務政策專題研究		上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	10	10		EAM0039		半	3.0	東亞系（碩）	IM83		Special Topics on Overseas Chinese and Overseas Chinese Affairs Policy			3	50	選	◎課程不開放上修	N	1350	范世平	一 2-4 本部 東亞系第一教室	
+112	1	10	0	人文學研究方法論		1. 文化與應用領域必修。2. 上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	9	9		EAM0044		半	3.0	東亞系（碩）	IM83		Research Methodology for Humanities			3	50	必	◎課程不開放上修	N	1351	江柏煒	二 6-8 本部 東亞系第一教室	
+112	1	10	0	東亞區域研究		1. 兩領域共同必修，碩士生皆須修習。2. 上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	23	23		EAM0046		半	3.0	東亞系（碩）	IM83		East Asian Area Studies			3	50	必	◎課程不開放上修	N	1352	王冠雄 張崑將 關弘昌 田正利	一 6-8 本部 東亞系第一教室	
+112	1	10	0	國家發展與區域研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	2	2		EAC8009		半	3.0	東亞系（碩）	IM83		National Development and Area Studies			3	50	選	◎課程不開放上修	N	1353	范世平	三 2-4 本部 東亞系第二教室	
+112	1	10	0	比較政府與政治研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	8	8		EAC8017		半	3.0	東亞系（碩）	IM83		Studies in Comparative Government and Politics			3	50	選	◎課程不開放上修	N	1354	陳文政	三 9-A 本部 東亞系第一教室	
+112	1	10	0	東亞臺商專題研究	8	碩一學生選修此課，請與授課老師聯絡。上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	8	8		EAC8021		半	3.0	東亞系（碩）	IM83		Special Topics on Taiwanese Businesses in East Asia			3	50	選	◎課程不開放上修	N	1356	田正利	四 2-4 本部 東亞系第三教室	
+112	1	10	1	東北亞儒學專題研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	5	4		EAC8033		半	3.0	東亞系（碩）	IM83		Special Topics on Northeast Asian Confucianism			3	50	選	◎課程不開放上修	N	1358	張崑將	一 2-4 本部 東亞系第二教室	
+112	1	10	0	東南亞社會變遷專題研究討論	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	10	10		EAC8035		半	3.0	東亞系（碩）	IM83		Southeast Asian Studies on Social Change			3	50	選	◎課程不開放上修	N	1359	張碧君	四 2-4 本部 東亞系第二教室	
+112	1	10	0	漢學與中國模式研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	9	9		EAC8039		半	3.0	東亞系（碩）	IM83		Sinology and China Model			3	50	選	◎課程不開放上修	N	1360	潘鳳娟	一 9-A 本部 東亞系第一教室	
+112	1	10	0	美國外交政策專題研究	8	上課教室為校本部誠大樓9樓。（請參考本系所網頁公告之課表）	15	15		EAC8044		半	3.0	東亞系（碩）	IM83		Special Topics on American Foreign Policy	是		3	50	選	◎課程不開放上修	N	1361	徐筱琦	二 2-4 本部 東亞系第一教室	
+112	1	10	0	東北亞安全專題研究	8	上課教室為校本部誠大樓9樓。（請參考本系所網頁公告之課表）	15	15		EAC8048		半	3.0	東亞系（碩）	IM83		Special Topics on Northeast Asian Security	是		3	50	選	◎課程不開放上修	N	1363	琴喜淵	二 6-8 本部 東亞系第三教室	
+112	1	2	0	華語文教學實習		修習本課程學生須配合進行財團法人國際合作發展基金會之線上華語教學	46	46		CLM0012		半	3.0	華語系（碩）	IM84		Chinese Language Teaching Practicum			0	50	選	◎課程不開放上修	N	1364	蔡雅薰	四 2-4 本部 博1002	
+112	1	10	2	漢語語法學			59	57		CLM0019		半	3.0	華語系（碩）	IM84		Syntactic Structures of Chinese			5	50	選	◎課程不開放上修	N	1365	陳俊光	五 2-4 本部 綜508會議室	
+112	1	10	0	中介語研究			9	9		CLM0037		半	3.0	華語系（碩）	IM84		Interlanguage Study			0	50	選	◎課程不開放上修	N	1366	孟柱億	三 7-9 本部 博1002	
+112	1	0	0	語言學專題研究 </br>[ 學分學程：國際教師學程-華語文 ]			23	23		CLM0042		半	3.0	華語系（碩）	IM84		Special Topics on Linguistics </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education ]			0	48	選	◎課程不開放上修	N	1367	洪嘉馡	二 2-4 本部 誠105	
+112	1	10	0	移民研究			29	29		CLM0054		半	3.0	華語系（碩）	IM84		Studies in Migration			0	50	選	◎課程不開放上修	N	1368	楊秉煌	二 2-4 本部 博1002	
+112	1	10	1	中外文化交流專題研究			15	14		CLM0065		半	3.0	華語系（碩）	IM84		Seminar on Research of Chinese and the World Cultural Exchange			0	30	選	◎課程不開放上修	N	1369	李育娟	二 6-8 本部 博1003	
+112	1	10	0	跨文化交流研究			18	18		CLM0093		半	3.0	華語系（碩）	IM84		Studies in Cross-Cultural Interaction			1	50	選	◎課程不開放上修	N	1370	孟柱億	四 7-9 本部 綜901	
+112	1	0	0	第二語言習得研究			26	26		CLM0105		半	3.0	華語系（碩）	IM84		Studies on Second Language Acquisition			0	30	選	◎課程不開放上修	N	1371	徐東伯	三 2-4 本部 綜901	
+112	1	10	0	分項華語文教學實習：外籍生		修習本課程學生須配合進行線上華語教學。	4	4		CLM0106		半	3.0	華語系（碩）	IM84		Target-Oriented Teaching Practicum: International Students			0	40	選	◎課程不開放上修	N	1372	杜昭玫	三 2-4 本部 博1003	
+112	1	30	6	分項華語文教學實習：國際學校		修習本課程學生須配合進行授課老師安排之華語教學。	6	0		CLM0107		半	3.0	華語系（碩）	IM84		Target-Oriented Teaching Practicum: International School			0	0	選	◎課程不開放上修	N	1373	曹靜儀	五 5-7 本部 博1003	
+112	1	0	0	海外華語教學實務	8	◎數位課程 僅顯示同步遠距及面授時間。	11	11		CLC0015		半	3.0	華語系（碩）	IM84		Chinese Language Teaching Practice Abroad			0	30	選	◎課程不開放上修	1	1374	曾金金	◎面授/同步	
+112	1	10	0	語言與文化研究	8		7	7		CLC0020		半	3.0	華語系（碩）	IM84		Studies in Language and Culture			0	50	選	◎課程不開放上修	N	1375	楊聰榮	三 2-4 本部 博1002	
+112	1	10	0	對比分析與偏誤分析	8		21	21		CLC8003		半	3.0	華語系（碩）	IM84		Contrastive Analysis and Error Analysis			5	50	選	◎課程不開放上修	N	1376	陳俊光	二 7-9 本部 博1002	
+112	1	10	0	媒體與華語教學	8		22	22		CLC8004		半	3.0	華語系（碩）	IM84		Media and Chinese Language Instruction			0	30	選	◎課程不開放上修	N	1377	簡瑛瑛	三 7-9 本部 綜901	
+112	1	10	0	華語方言教材教法	8	◎臺語      授課	10	10		CLC8005		半	3.0	華語系（碩）	IM84		Chinese Dialects Teaching Methods and Materials			1	30	選	◎課程不開放上修	N	1378	曾金金	一 7-9 本部 博1003	
+112	1	10	0	華語教學專題研究（一）	8		5	5		CLC8008		半	3.0	華語系（碩）	IM84		Special Topics on Chinese Instructional Methodology (I)			0	50	選	◎課程不開放上修	N	1379	陳寅清	四 6-8 本部 博1003	
+112	1	0	0	商業華語教材與教法	8		26	26		CLC8011		半	3.0	華語系（碩）	IM84		Business Chinese Teaching Methods and Materials			0	50	選	◎課程不開放上修	N	1380	陳麗宇	二 7-9 本部 綜901	
+112	1	10	5	漢字理論與應用	8		53	48		CLC8024		半	3.0	華語系（碩）	IM84		Theories and Applications of Chinese Characters			3	50	選	◎課程不開放上修	N	1381	林振興	四 6-8 本部 誠101	
+112	1	10	0	漢語語義學	8		22	22		CLC8026		半	3.0	華語系（碩）	IM84		Chinese Semantics			0	50	選	◎課程不開放上修	N	1382	蕭惠貞	一 6-8 本部 博1002	
+112	1	5	0	海外華語文教育研究	8		22	22		CLC8058		半	3.0	華語系（碩）	IM84		Studies in Overseas Chinese Language Education			2	50	選	◎課程不開放上修	N	1383	吳龍雲	一 2-4 本部 博1002	
+112	1	10	0	心理語言學	8		11	11		CLC8067		半	3.0	華語系（碩）	IM84		Psycholinguistics			0	50	選	◎課程不開放上修	N	1384	徐東伯	三 6-8 本部 博1003	
+112	1	10	0	華人移民專題研究	8		3	3		CLC8068		半	3.0	華語系（碩）	IM84		Special Topic on Chinese Immigration Studies			0	50	選	◎課程不開放上修	N	1385	楊聰榮	一 2-4 本部 博1003	
+112	1	3	0	人力資源發展研究			23	23		IWM0018		半	3.0	人資所（碩）	IM86		Human Resource Development	是	1	3	45	選	◎課程不開放上修	N	1386	張雯	一 6-8 本部 誠105	
+112	1	10	7	國際企業管理研究			22	15		IWM0030		半	3.0	人資所（碩）	IM86		International Business Management	是	1	5	45	選	◎課程不開放上修	N	1387	盧承杰	三 2-4 本部 誠105	
+112	1	3	0	組織行為研究			24	24		IWM0040		半	3.0	人資所（碩）	IM86		Organizational Behavior	是	1	3	45	選	◎課程不開放上修	N	1388	葉俶禎	四 7-9 本部 誠105	
+112	1	3	0	國際人力資源管理研究			7	7		IWM0055		半	3.0	人資所（碩）	IM86		International Human Resource Management	是	1	3	45	選	◎課程不開放上修	N	1389	鄭道有	三 7-9 本部 正101	
+112	1	10	0	國際性非營利組織人力資源發展研究			4	4		IWM0056		半	3.0	人資所（碩）	IM86		Human Resource Development for International Nonprofit Organizations	是	1	3	50	選	◎課程開放上修	N	1390	李浡	二 7-9 本部 美術館602	
+112	1	4	0	書報討論（一）			26	26		IWM0072		半	2.0	人資所（碩）	IM86		Seminar on Human Resource Development (I)	是	1	0	50	必	◎課程不開放上修	N	1391	林怡君	二 3-4 本部 誠104	
+112	1	10	0	人力資源發展研究方法			26	26		IWM0074		半	3.0	人資所（碩）	IM86		Research Methods in Human Resource Development	是	1	3	50	必	◎課程不開放上修	N	1392	盧承杰	四 2-4 本部 正101	
+112	1	10	1	職涯管理與員工輔導研究			26	25		IWM0088		半	3.0	人資所（碩）	IM86		Career Management and Employee Counseling	是	1	3	50	選	◎課程開放上修	N	1394	尹炯畯	一 2-4 本部 正101	
+112	1	4	0	高科技人力資源專題研究			5	5		IWM0058		半	3.0	人資所（碩）	IM86		Special Topic on Human Resources in High-Tech Industry	是	2	0	50	選	◎課程不開放上修	N	1395	葉俶禎	一 A-C 本部 誠104	
+112	1	10	0	中小企業人力資源專題研究			4	4		IWM0059		半	3.0	人資所（碩）	IM86		Special Topic on Human Resources in Small and Medium Enterprises Business	是	2	0	50	選	◎課程不開放上修	N	1396	林怡君	三 2-4 本部 教室自排	
+112	1	10	0	公部門人力資源專題研究			6	6		IWM0060		半	3.0	人資所（碩）	IM86		Special Topic on Human Resources in Public Sectors	是	2	0	50	選	◎課程不開放上修	N	1397	張雯	三 6-8 本部 誠107	
+112	1	10	0	國際服務業人力資源專題研究			7	7		IWM0062		半	3.0	人資所（碩）	IM86		Special Topic on Human Resources in International Service Industry	是	2	0	50	選	◎課程不開放上修	N	1398	盧承杰	三 6-8 本部 美術館602	
+112	1	10	0	人力資源發展專業實習			9	9		IWM0065		半	3.0	人資所（碩）	IM86		Practicum in Human Resource Development	是	2	0	50	選	◎課程不開放上修	N	1399	賴志	六 1-6 本部 誠107	
+112	1	10	0	統計與資料分析			8	8		IWM0075		半	3.0	人資所（碩）	IM86		Statistics and Data Analysis	是	2	0	50	選	◎課程不開放上修	N	1400	葉俶禎	一 7-9 本部 教404	
+112	1	10	0	書報討論（三）			29	29		IWM0085		半	2.0	人資所（碩）	IM86		Seminar on Human Resource Development (III)	是	2	0	50	必	◎必須先修過【IWM0072  書報討論（一）】、【IWM0073  書報討論（二）】 ◎課程不開放上修	N	1401	賴志	二 3-4 本部 誠106	
+112	1	10	0	專業技術人力發展專題研究			7	7		IWM0090		半	3.0	人資所（碩）	IM86		Special Topic on Workforce Development for Technological Professionals	是	2	0	50	選	◎課程不開放上修	N	1402	賴志	五 2-4 本部 正101	
+112	1	10	0	新聞採訪與寫作研究		大傳所限碩二學號雙號學生修習	10	10		MCM0006		半	3.0	大傳所（碩）	IM88		Studies in News Gathering and Writing			1	30	選	◎課程不開放上修	N	1403	陳炳宏	四 7-9 本部 綜7樓大傳所大教室	
+112	1	10	0	傳播應用統計			26	26		MCM0009		半	3.0	大傳所（碩）	IM88		Applied Statistics for Communication Studies			0	30	必	◎課程不開放上修	N	1404	林慧斐	四 3-5 本部 綜1001	
+112	1	10	0	質的研究			16	16		MCM0013		半	3.0	大傳所（碩）	IM88		Qualitative Research			1	30	選	◎課程不開放上修	N	1405	蔡如音	五 3-5 本部 綜7樓大傳所大教室	
+112	1	10	0	媒體經營管理與財務分析 </br>[ 學分學程：社會與傳播學程 ]			8	8		MCM0078		半	3.0	大傳所（碩）	IM88		The Management and Financial Statement Analysis for Media Industry </br>[ Program: Application Program in Society and Communication ]			0	30	選	◎課程不開放上修	N	1406	陳炳宏	二 7-9 本部 綜7樓大傳所大教室	
+112	1	10	0	全球化與媒體研究			27	27		MCM0082		半	3.0	大傳所（碩）	IM88		Studies in Globalization and Media			1	30	選	◎課程不開放上修	N	1407	胡綺珍	三 3-5 本部 綜7樓大傳所大教室	
+112	1	10	0	多媒體製作			13	13		MCM0111		半	3.0	大傳所（碩）	IM88		Multimedia Production			1	30	選	◎課程不開放上修	N	1408	蔣旭政	一 7-9 本部 綜1001	
+112	1	10	0	傳播專題討論（一）			26	26		MCM0112		半	1.0	大傳所（碩）	IM88		Seminar in Communication (I)			0	35	選	◎課程不開放上修	N	1409	胡綺珍	三 7 本部 綜7樓大傳所大教室	
+112	1	10	2	數位公關廣告策略與規劃			15	13		MCM0119		半	3.0	大傳所（碩）	IM88		Digital Advertising/Public Relations Strategy and Planning			1	25	選	◎課程不開放上修	N	1410	林慧斐	二 3-5 本部 綜10樓教室	
+112	1	10	0	傳播社會文化基礎			26	26		MCM0123		半	3.0	大傳所（碩）	IM88		The Social and Cultural Foundation of Communication			0	30	選	◎課程不開放上修	N	1411	王維菁 胡綺珍	二 3-5 本部 綜7樓大傳所大教室	
+112	1	10	0	傳播專業實習		限大傳所暑期實習學生修習	8	8		MCM0124		半	3.0	大傳所（碩）	IM88		Practicum in Communication			0	30	選	◎課程不開放上修	N	1412	蔡如音	一 1-6 本部 綜7樓大傳所大教室	
+112	1	10	0	社會工作理論專題			24	24		SWM0002		半	3.0	社工所（碩）	IM89		Seminar in Social Work Theory			3	50	必	◎課程開放上修	N	1413	張文	一 2-4 本部 正405	
+112	1	10	1	進階社會統計			10	9		SWM0003		半	3.0	社工所（碩）	IM89		Advanced Social Statistics			3	30	選	◎課程開放上修	N	1414	沈慶盈	三 6-8 本部 綜1001	
+112	1	10	0	進階直接服務專題			4	4		SWM0010		半	3.0	社工所（碩）	IM89		Seminar in Advanced Direct Practice			3	30	選	◎課程開放上修	N	1415	陳杏容	四 A-C 本部 樸SW504	
+112	1	10	0	家庭與經濟安全專題			8	8		SWM0020		半	3.0	社工所（碩）	IM89		Seminar in Family and Economic Security			3	30	選	◎課程開放上修	N	1416	王永慈	二 7-9 本部 誠106	
+112	1	10	0	多元文化專題 </br>[ 學分學程：社會與傳播學程 ]			23	23		SWM0022		半	3.0	社工所（碩）	IM89		Seminar in Multiculture </br>[ Program: Application Program in Society and Communication ]			3	30	選	◎課程開放上修	N	1417	潘淑滿	一 A-C 本部 樸SW504	
+112	1	10	0	社會福利實習（二）			4	4		SWM0066		半	3.0	社工所（碩）	IM89		Field Practicum: Social Welfare Services (II)			0	50	選	◎課程開放上修	N	1418	張文	六 2-4 本部 教室自排, 六 6-8 本部 教室自排	
+112	1	10	0	進階社會工作研究法			19	19		SWM0067		半	3.0	社工所（碩）	IM89		Advanced Research Methods in Social Work			0	50	必	◎課程開放上修	N	1419	陳杏容	四 6-8 本部 樸402	
+112	1	10	0	社會工作督導專題			20	20		SWM0070		半	3.0	社工所（碩）	IM89		Special Topics on Social Work Supervision			3	30	選	◎課程開放上修	N	1420	游美貴	一 8-10 本部 樸SW504	
+112	1	10	0	社會工作實地工作（二）			6	6		SWM0079		半	3.0	社工所（碩）	IM89		Field Practicum: Social Work Filed Work (II)			0	50	選	◎課程開放上修	N	1421	沈慶盈	六 2-4 本部 教室自排, 六 6-8 本部 教室自排	
+112	1	10	0	心理創傷與社會工作實務專題			23	23		SWM0086		半	3.0	社工所（碩）	IM89		Psychological Trauma and Social Work Practice			3	30	選	◎課程開放上修	N	1422	莊登閔	二 2-4 本部 樸SW504	
+112	1	10	0	跨文化社會工作實習（二）			5	5		SWM0092		半	3.0	社工所（碩）	IM89		Cross-Cultural Social Work Field Practicum (II)	是		0	30	必	◎課程開放上修	N	1423	游美貴	六 2-4 本部 樸SW504, 六 6-8 本部 樸SW504	
+112	1	10	0	儒學與全球政經脈絡	9	1. 大碩合開選修，文化與應用領域。2. 大三或大四以上的外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	6	6		EAC9005		半	3.0	東亞系（學）	IU83		Confucianism and Globalizing Political-Economic Context			5	50	選	◎必須先修過(也可以同時修)【EAU0209  東南亞區域文化】、【EAM0046  東亞區域研究】其中一門	N	1424	陳文政	二 9-A 本部 誠305	
+112	1	10	1	瞭解南海爭端	9	1. 大碩合開選修，政經與區域發展領域。2. 大三或大四以上的外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	10	9		EAC9007		半	3.0	東亞系（學）	IU83		Understanding South China Sea Disputes			5	50	選	◎必須先修過(也可以同時修)【EAU0128  社會科學研究方法】、【EAM0046  東亞區域研究】其中一門	N	1425	王冠雄	二 6-8 本部 樸304	
+112	1	5	1	中共對亞洲政策	9	1. 大碩合開選修，政經與區域發展領域。2. 大三或大四以上的外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	10	9		EAC9010		半	3.0	東亞系（學）	IU83		The PRC's Asian Policy			5	40	選	◎必須先修過(也可以同時修)【EAU0128  社會科學研究方法】、【EAM0046  東亞區域研究】其中一門	N	1426	林賢參	三 6-8 本部 樸205	
+112	1	10	0	程式設計實作與社會科學研究	9	1. 大碩合開選修，政經與區域發展領域。2. 大三或大四以上的外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	10	10		EAC9015		半	3.0	東亞系（學）	IU83		Programming Practice and Social Science Research			5	50	選	◎必須先修過(也可以同時修)【EAU0128  社會科學研究方法】、【EAM0046  東亞區域研究】其中一門	N	1427	邵軒磊	一 9-A 本部 誠304	
+112	1	10	2	初級韓語（一）		1. 韓語為母語者（包括韓國僑生與韓國籍學生等）不可選課。2. 初級語言課程於新生選課階段限本系修習。（外系生請於全校加退選階段登錄系統即時選課）	55	53		EAU0075		半	2.0	東亞系（學）	IU83		Elementary Korean (I)		1	5	50	選		N	1428	李圭旼	二 3-4 本部 樸407	
+112	1	10	0	初級日語（一）		1. 日語為母語者（包括日本僑生與日本籍學生等）不可選課。2. 初級語言課程於新生選課階段限本系修習。（外系生請於全校加退選階段登錄系統即時選課）	37	37		EAU0076		半	2.0	東亞系（學）	IU83		Elementary Japanese (I)		1	5	50	選		N	1429	林賢參	四 3-4 本部 正405	
+112	1	10	5	臺灣政治與經濟 </br>[ 學分學程：社會與傳播學程 ]		政經與區域發展領域	56	51		EAU0120		半	3.0	東亞系（學）	IU83		Taiwanese Politics and Economy </br>[ Program: Application Program in Society and Communication ]		1	5	50	選		N	1430	關弘昌	四 6-8 本部 樸407	
+112	1	25	4	創意城市與行銷 </br>[ 學分學程：區域學程 ]		文化與應用領域	55	51		EAU0127		半	3.0	東亞系（學）	IU83		Creative City and Marketing </br>[ Program: The Program of Region and Tourism Planning ]		1	5	50	選		N	1431	江柏煒	一 9-A 本部 誠202	
+112	1	6	0	統計學		政經與區域發展領域	29	29		EAU0131		半	3.0	東亞系（學）	IU83		Statistics		1	2	30	選		N	1432	林昌平	四 9-A 本部 綜1001	
+112	1	17	17	政治學		三校聯盟輔系學生請向授課教師詢問授權碼選課。大一共同必修，新生選課階段限本系大一修習。（不開放大二、大三、大四下修）	77	60		EAU0175		半	3.0	東亞系（學）	IU83		Political Science		1	0	60	必		N	1433	徐筱琦	一 6-8 本部 誠203	
+112	1	10	0	全球化政經概論 </br>[ 學分學程：社會與傳播學程 ]		政經與區域發展領域	32	32		EAU0195		半	3.0	東亞系（學）	IU83		An Introduction to Globalizing Politics and Economy </br>[ Program: Application Program in Society and Communication ]		1	5	50	選		N	1434	陳文政	三 6-8 本部 正106	
+112	1	25	17	東北亞區域文化		大一共同必修，新生選課階段限本系大一修習。（不開放大二、大三、大四下修）	79	62		EAU0207		半	3.0	東亞系（學）	IU83		Regional Culture of Northeast Asia		1	2	60	必		N	1435	張崑將	二 6-8 本部 誠302	
+112	1	20	20	國際關係概論 </br>[ 學分學程：國關與外交學程 ]		政經與區域發展領域	69	49		EAU0220		半	3.0	東亞系（學）	IU83		Introduction to International Relations </br>[ Program: The Program of International Relations and Diplomacy ]		1	5	50	選		N	1437	徐筱琦	二 9-A 本部 綜210展覽廳	
+112	1	10	0	東南亞族群關係與社會變遷		文化與應用領域	22	22		EAU0230		半	3.0	東亞系（學）	IU83		Ethnic Relations and Social Change in Southeast Asia		1	5	50	選		N	1438	張碧君	三 6-8 本部 樸407	
+112	1	10	0	東南亞歷史與人物		文化與應用領域	53	53		EAU0234		半	3.0	東亞系（學）	IU83		Southeast Asian History and Its Persons		1	5	50	選		N	1439	莊仁傑	四 6-8 本部 正405	
+112	1	10	0	中級韓語（一）		1. 韓語為母語者（包括韓國僑生與韓國籍學生等）不可選課。2. 語言課程選課第一階段限本系大二、大三、大四修習。	18	18		EAU0083		半	2.0	東亞系（學）	IU83		Intermediate Korean(I)		2	5	50	選		N	1440	金恩美	三 6-7 本部 正405	
+112	1	10	0	中級日語（一）		1. 日語為母語者（包括日本僑生與日本籍學生等）不可選課。2. 語言課程選課第一階段限本系大二、大三、大四修習。	40	40		EAU0085		半	2.0	東亞系（學）	IU83		Intermediate Japanese(I)		2	5	50	選		N	1441	張怡倩	一 3-4 本部 誠107	
+112	1	10	0	韓國歷史與人物 </br>[ 學分學程：韓語學程 ]		1. 文化與應用領域。2. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	25	25		EAU0101		半	3.0	東亞系（學）	IU83		Korean History and Historical Persons </br>[ Program: Korean Studies and Language Program ]		2	5	50	選	◎必須先修過【EAU0207  東北亞區域文化】	N	1442	金恩美	一 6-8 本部 正405	
+112	1	20	13	國際政治 </br>[ 學分學程：國關與外交學程 ]		1. 大二共同必修。2. 選課第一階段限大二修習。3. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	67	54		EAU0124		半	3.0	東亞系（學）	IU83		International Politics </br>[ Program: The Program of International Relations and Diplomacy ]		2	5	60	必	◎必須先修過【EAU0175  政治學】	N	1443	關弘昌	四 2-4 本部 誠202	
+112	1	10	0	東亞宗教概論		1. 文化與應用領域。2. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	23	23		EAU0148		半	3.0	東亞系（學）	IU83		Introduction to East Asian Religions		2	5	50	選		N	1444	潘鳳娟	二 6-8 本部 樸407	
+112	1	10	3	文化理論導讀		1. 文化與應用領域。2. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	20	17		EAU0177		半	3.0	東亞系（學）	IU83		Introduction to Cultural Theory		2	5	50	選	◎必須先修過【EAU0207  東北亞區域文化】	N	1445	張碧君	三 9-A 本部 誠105	
+112	1	10	1	戰後日本外交與防衛政策		1. 政經與區域發展領域。2. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	21	20		EAU0178		半	3.0	東亞系（學）	IU83		Post Wwii Japanese Diplomacy and Defense Policy		2	5	50	選	◎必須先修過【EAU0175  政治學】	N	1446	林賢參	四 6-8 本部 正102	
+112	1	10	5	國際組織概論 </br>[ 學分學程：國關與外交學程 ]		1. 政經與區域發展領域。2. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	30	25		EAU0194		半	3.0	東亞系（學）	IU83		Introduction to International Organizations </br>[ Program: The Program of International Relations and Diplomacy ]		2	5	50	選	◎必須先修過【EAU0175  政治學】	N	1447	王冠雄	二 2-4 本部 正405	
+112	1	10	0	法治與人權：內國、跨國與全球觀點		1. 政經與區域發展領域。2. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	35	35		EAU0222		半	3.0	東亞系（學）	IU83		The Rule of Law and Human Rights: National, Transnational, and Global Perspectives		2	5	50	選	◎必須先修過【EAU0175  政治學】	N	1448	陳文政	二 6-8 本部 正405	
+112	1	10	4	東亞的傳統與現代性對話		1. 大二共同必修。2. 選課第一階段限大二修習。3. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	58	54		EAU0226		半	3.0	東亞系（學）	IU83		East Asian Perspectives on Dialogue between Traditions and Modernity		2	5	60	必	◎必須先修過【EAU0207  東北亞區域文化】	N	1449	莊仁傑	二 9-A 本部 誠302	
+112	1	10	0	全球治理		1. 政經與區域發展領域。2. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	33	33		EAU0199		半	3.0	東亞系（學）	IU83		Global Governance		3	5	50	選	◎必須先修過【EAU0175  政治學】	N	1451	王冠雄	三 6-8 本部 樸202	
+112	1	10	3	中國大陸政經發展		1. 政經與區域發展領域。2. 外系生（含雙主修、輔系、學程、三校聯盟學生）如希望修課，經授課老師同意後，可用授權碼修課。	19	16		EAU0203		半	3.0	東亞系（學）	IU83		Development of Chinese Politics and Economy		3	5	50	選	◎必須先修過【EAU0175  政治學】	N	1452	范世平	四 2-4 本部 樸407	
+112	1	10	0	韓半島政治與經濟 </br>[ 學分學程：國貿與涉外學程 ]			6	6		EAU0204		半	3.0	東亞系（學）	IU83		Political Economy in Korean Peninsula </br>[ Program: The Program of  International Trade and foreign affairs ]	是	3	5	50	選		N	1453	琴喜淵	四 6-8 本部 綜508會議室	
+112	1	10	8	華語發音與正音			39	31		CLU0013		半	2.0	華語系（學）	IU84	國際華語與文化組	Chinese Pronunciation		1	0	50	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1456	劉崇仁	二 8-9 本部 樸403	
+112	1	10	3	中國傳統飲食文化			33	30		CLU0045		半	2.0	華語系（學）	IU84	國際華語與文化組	Chinese Dietary Culture		1	0	50	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1457	孫懿芬	四 8-9 本部 樸406	
+112	1	10	3	綜合華語（一） </br>[ 學分學程：科技化教學產業學程 ]			15	12		CLU0062	A	半	4.0	華語系（學）	IU84	國際華語與文化組	Integrated Chinese (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	0	50	必	◎限外籍生修習◎限華語系（學）「國際華語與文化組」選修	N	1458	陳懷萱	一 3-4 本部 樸403, 四 3-4 本部 樸403	
+112	1	16	16	綜合華語（一） </br>[ 學分學程：科技化教學產業學程 ]			28	12		CLU0062	B	半	4.0	華語系（學）	IU84	國際華語與文化組	Integrated Chinese (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	0	39	必	◎限外籍生修習◎限華語系（學）「國際華語與文化組」選修	N	1459	劉欣怡	一 3-4 本部 樸404, 四 3-4 本部 樸404	
+112	1	10	6	綜合華語（一） </br>[ 學分學程：科技化教學產業學程 ]			16	10		CLU0062	C	半	4.0	華語系（學）	IU84	國際華語與文化組	Integrated Chinese (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	0	50	必	◎限外籍生修習◎限華語系（學）「國際華語與文化組」選修	N	1460	王慧娟	一 3-4 本部 樸406, 四 3-4 本部 樸406	
+112	1	20	17	綜合華語（一） </br>[ 學分學程：科技化教學產業學程 ]			17	0		CLU0062	D	半	4.0	華語系（學）	IU84	國際華語與文化組	Integrated Chinese (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	0	35	必	◎限外籍生修習◎限華語系（學）「國際華語與文化組」選修	N	1461	孫懿芬	一 3-4 本部 樸402, 四 3-4 本部 樸402	
+112	1	10	0	讀寫訓練（一）			10	10		CLU0066	A	半	4.0	華語系（學）	IU84	國際華語與文化組	Training in Reading and Writing (I)		1	0	50	必	◎限外籍生修習◎限華語系（學）「國際華語與文化組」選修	N	1462	李育娟	一 6-7 本部 樸404, 四 6-7 本部 樸404	
+112	1	10	8	讀寫訓練（一）			16	8		CLU0066	B	半	4.0	華語系（學）	IU84	國際華語與文化組	Training in Reading and Writing (I)		1	0	50	必	◎限外籍生修習◎限華語系（學）「國際華語與文化組」選修	N	1463	曹靜儀	二 3-4 本部 樸406, 四 6-7 本部 樸406	
+112	1	10	3	讀寫訓練（一）			12	9		CLU0066	C	半	4.0	華語系（學）	IU84	國際華語與文化組	Training in Reading and Writing (I)		1	0	50	必	◎限外籍生修習◎限華語系（學）「國際華語與文化組」選修	N	1464	劉欣怡	二 3-4 本部 正301, 四 6-7 本部 正301	
+112	1	10	3	當代華語（一）			14	11		CLU0070	B	半	2.0	華語系（學）	IU84	國際華語與文化組	Contemporary Chinese (I)		1	0	50	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1465	劉崇仁	三 8-9 本部 樸404	
+112	1	15	14	當代華語（一）			25	11		CLU0070	C	半	2.0	華語系（學）	IU84	國際華語與文化組	Contemporary Chinese (I)		1	0	45	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1466	丁國雲	三 8-9 本部 樸403	
+112	1	3	2	聽力訓練（一）			13	11		CLU0072	A	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Listening (I)		1	0	50	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1467	王慧娟	二 6-7 本部 美術館501	
+112	1	10	6	聽力訓練（一）			17	11		CLU0072	B	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Listening (I)		1	0	50	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1468	劉崇仁	三 6-7 本部 樸404	
+112	1	15	15	聽力訓練（一）			24	9		CLU0072	C	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Listening (I)		1	0	45	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1469	曹靜儀	二 6-7 本部 樸406	
+112	1	4	3	會話訓練（一）			16	13		CLU0076	A	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Conversation (I)		1	0	50	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1470	曹靜儀	三 6-7 本部 誠104	
+112	1	10	10	會話訓練（一）			23	13		CLU0076	B	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Conversation (I)		1	0	50	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1471	劉欣怡	二 6-7 本部 樸404	
+112	1	10	2	會話訓練（一）			11	9		CLU0076	C	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Conversation (I)		1	0	50	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1472	王慧娟	一 6-7 本部 正205	
+112	1	10	8	漢字學習			45	37		CLU0111		半	2.0	華語系（學）	IU84	國際華語與文化組	Contemporary Chinese: Charater		1	0	50	選	◎限外籍生修習 ◎必須先修過(也可以同時修)【CLU0066  讀寫訓練（一）】	N	1473	劉欣怡	三 3-4 本部 樸403	
+112	1	10	0	文言文（一）			13	13		CLU0006	A	半	2.0	華語系（學）	IU84	國際華語與文化組	Classical Chinese (I)		2	0	50	必	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】	N	1474	陳懷萱	二 6-7 本部 樸403	
+112	1	10	1	文言文（一）			22	21		CLU0006	B	半	2.0	華語系（學）	IU84	國際華語與文化組	Classical Chinese (I)		2	0	50	必	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】	N	1475	陳懷萱	四 6-7 本部 樸403	
+112	1	10	1	華語報刊閱讀			29	28		CLU0016		半	2.0	華語系（學）	IU84	國際華語與文化組	Reading in Chinese Newspapers & Periodicals		2	0	50	選	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】	N	1476	陳懷萱	一 8-9 本部 樸403	
+112	1	10	1	讀寫訓練（三）			14	13		CLU0068	A	半	4.0	華語系（學）	IU84	國際華語與文化組	Training in Reading and Writing (III)		2	0	50	必	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】	N	1477	劉崇仁	一 6-7 本部 正406, 四 6-7 本部 正406	
+112	1	10	1	讀寫訓練（三）			22	21		CLU0068	B	半	4.0	華語系（學）	IU84	國際華語與文化組	Training in Reading and Writing (III)		2	0	50	必	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】	N	1478	陳寅清	一 6-7 本部 樸406, 三 6-7 本部 樸406	
+112	1	10	0	聽力訓練（三）			13	13		CLU0074	A	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Listening (III)		2	0	50	選	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】、【CLU0073  聽力訓練（二）】	N	1479	丁國雲	二 8-9 本部 樸404	
+112	1	10	3	聽力訓練（三）			24	21		CLU0074	B	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Listening (III)		2	0	50	選	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】、【CLU0073  聽力訓練（二）】	N	1480	劉崇仁	二 3-4 本部 美術館501	
+112	1	10	0	會話訓練（三）			14	14		CLU0078	A	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Conversation (III)		2	0	50	選	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】、【CLU0077  會話訓練（二）】	N	1481	王慧娟	二 3-4 本部 樸404	
+112	1	10	0	會話訓練（三）			17	17		CLU0078	B	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Conversation (III)		2	0	50	選	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】、【CLU0077  會話訓練（二）】	N	1482	丁國雲	二 6-7 本部 正203	
+112	1	10	2	中華文化概論			37	35		CLU0084		半	2.0	華語系（學）	IU84	國際華語與文化組	Introduction to Chinese Cultures		2	0	50	必	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】	N	1483	李育娟	五 3-4 本部 樸406	
+112	1	10	6	觀光華語			39	33		CLU0102		半	2.0	華語系（學）	IU84	國際華語與文化組	Chinese for Tourism		2	0	50	選	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】	N	1484	曹靜儀	三 8-9 本部 樸406	
+112	1	3	0	高階華語發音與正音			15	15		CLU0122		半	2.0	華語系（學）	IU84	國際華語與文化組	Advanced Chinese Pronunciation		2	0	50	選	◎限外籍生修習◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	1485	曹靜儀	四 3-4 本部 誠105	
+112	1	10	5	中國傳統藝術概論：書法			39	34		CLU0129		半	2.0	華語系（學）	IU84	國際華語與文化組	Introduction to Chinese Art: Chinese Calligraphy		2	0	50	選	◎限外籍生修習◎必須先修過【CLU0067  讀寫訓練（二）】	N	1486	曹靜儀	四 8-9 本部 樸307	
+112	1	10	1	現代漢語語法概要			35	34		CLU0061		半	2.0	華語系（學）	IU84	國際華語與文化組	Modern Chinese Grammar Introduction		3	0	50	必	◎限外籍生修習◎必須先修過【CLU0069  讀寫訓練（四）】	N	1487	陳懷萱	一 6-7 本部 樸403	
+112	1	10	0	高級會話：口語表達			13	13		CLU0085		半	2.0	華語系（學）	IU84	國際華語與文化組	Advanced Conversation: Oral Expressions		3	0	50	選	◎限外籍生修習◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	1488	劉欣怡	一 8-9 本部 樸404	
+112	1	10	0	讀寫訓練（五）			14	14		CLU0098	A	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Reading and Writing (V)		3	0	50	必	◎限外籍生修習◎必須先修過【CLU0069  讀寫訓練（四）】	N	1490	陳懷萱	五 3-4 本部 樸403	
+112	1	10	1	讀寫訓練（五）			22	21		CLU0098	B	半	2.0	華語系（學）	IU84	國際華語與文化組	Training in Reading and Writing (V)		3	0	50	必	◎限外籍生修習◎必須先修過【CLU0069  讀寫訓練（四）】	N	1491	王慧娟	五 3-4 本部 樸404	
+112	1	10	0	中國傳統藝術概論：射藝			30	30		CLU0127		半	2.0	華語系（學）	IU84	國際華語與文化組	Introduction to Chinese Art: She-Yi (Chinese Traditional Archery)		3	0	50	選	◎限外籍生修習◎必須先修過【CLU0069  讀寫訓練（四）】	N	1492	林育德	三 8-9 本部 綜202演講廳	
+112	1	10	1	中國詩詞欣賞			30	29		CLU0136		半	2.0	華語系（學）	IU84	國際華語與文化組	The Appreciation of Chinese Poetry		3	0	50	選	◎限外籍生修習◎必須先修過【CLU0069  讀寫訓練（四）】	N	1493	王慧娟	四 8-9 本部 樸403	
+112	1	10	0	高級會話：辯論			13	13		CLU0015		半	2.0	華語系（學）	IU84	國際華語與文化組	Advanced Conversation: Debating		4	0	50	選	◎限外籍生修習◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	1494	劉崇仁	一 8-9 本部 正406	
+112	1	10	0	財經文選			33	33		CLU0101		半	2.0	華語系（學）	IU84	國際華語與文化組	Selected Readings on Economy and Commerce		4	0	50	選	◎限外籍生修習◎必須先修過【CLU0069  讀寫訓練（四）】	N	1495	杜昭玫	二 3-4 本部 樸403	
+112	1	10	0	中國文學史概論			36	36		CLU0125		半	2.0	華語系（學）	IU84	國際華語與文化組	A General Introduction to History of Chinese Literature		4	0	50	選	◎限外籍生修習◎必須先修過【CLU0069  讀寫訓練（四）】	N	1496	邱詩雯	二 8-9 本部 樸406	
+112	1	10	0	中國政治史			44	44		CLU0131		半	2.0	華語系（學）	IU84	國際華語與文化組	Introduction to the Chinese Political History		4	0	50	選	◎限外籍生修習◎必須先修過【CLU0069  讀寫訓練（四）】	N	1497	林育德	三 6-7 本部 樸403	
+112	1	10	0	兒童華語教學			33	33		CLU1092		半	3.0	華語系（學）	IU84	應用華語文學組	Mandarin Curriculum Design for the Education of Children			0	50	選		N	1498	蘇珊	五 6-8 本部 誠401	
+112	1	10	1	臺灣電影			32	31		CLU2002		半	3.0	華語系（學）	IU84	應用華語文學組	Introduction to Taiwanese Films	是		0	50	選		N	1499	王卓異	五 2-4 本部 博1002	
+112	1	10	0	中國文學史			36	36		CLU0115	A	半	2.0	華語系（學）	IU84	應用華語文學組	History of Chinese Literature		1	0	50	必		N	1500	邱詩雯	二 3-4 本部 正401	
+112	1	10	0	中國文學史			33	33		CLU0115	B	半	2.0	華語系（學）	IU84	應用華語文學組	History of Chinese Literature		1	0	50	必		N	1501	邱詩雯	二 1-2 本部 正401	
+112	1	5	4	華語文教學導論 </br>[ 學分學程：科技化教學產業學程 ]			51	47		CLU1003	A	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Chinese Language Teaching </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	0	50	必		N	1502	張瓅勻	四 1-2 本部 正401	
+112	1	5	0	華語文教學導論 </br>[ 學分學程：科技化教學產業學程 ]			30	30		CLU1003	B	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Chinese Language Teaching </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	0	50	必		N	1503	張瓅勻	四 3-4 本部 正401	
+112	1	5	1	華語文教學導論 </br>[ 學分學程：科技化教學產業學程 ]			13	12		CLU1003	C	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Chinese Language Teaching </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	1	50	必		N	1504	陳嘉凌	四 6-7 本部 正402A	
+112	1	5	0	語言學概論			45	45		CLU1004	A	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Linguistics		1	0	50	必		N	1505	官英華	三 6-7 本部 正402A	
+112	1	5	0	語言學概論			29	29		CLU1004	B	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Linguistics		1	0	50	必		N	1506	官英華	三 9-10 本部 正402A	
+112	1	10	10	國學導讀			60	50		CLU1021		半	3.0	華語系（學）	IU84	應用華語文學組	Introduction to Chinese Classics and Literature		1	0	50	選		N	1507	陳嘉凌	二 6-8 本部 正402A	
+112	1	5	3	德語（一）			45	42		CLU1024		半	2.0	華語系（學）	IU84	應用華語文學組	German (I)		1	2	50	選		N	1508	官英華	一 3-4 本部 正404	
+112	1	10	10	教育導論			60	50		CLU1025		半	3.0	華語系（學）	IU84	應用華語文學組	Introduction to Education		1	0	50	選		N	1509	熊襄瑜	五 2-4 本部 正401	
+112	1	10	3	華語詞彙學			53	50		CLU1006	A	半	2.0	華語系（學）	IU84	應用華語文學組	Chinese Lexicography		2	2	50	必		N	1510	洪嘉馡	一 3-4 本部 正402A	
+112	1	10	0	華語詞彙學			36	36		CLU1006	B	半	2.0	華語系（學）	IU84	應用華語文學組	Chinese Lexicography		2	2	50	必		N	1511	洪嘉馡	一 6-7 本部 正402A	
+112	1	10	0	現代文學史			70	70		CLU1008		半	2.0	華語系（學）	IU84	應用華語文學組	Modern Literature		2	0	80	必		N	1512	林振興	四 3-4 本部 教103	
+112	1	0	0	中國文化導論			43	43		CLU1009	A	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Chinese Culture		2	0	50	必		N	1513	陳麗宇	二 3-4 本部 正402A	
+112	1	0	0	中國文化導論			43	43		CLU1009	B	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Chinese Culture		2	0	50	必		N	1514	陳麗宇	三 6-7 本部 樸203	
+112	1	5	1	僑民教育導論			51	50		CLU1010	A	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Overseas Chinese Education		2	2	50	必		N	1515	吳龍雲	二 6-7 本部 正301	
+112	1	5	0	僑民教育導論			21	21		CLU1010	B	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Overseas Chinese Education		2	2	50	必		N	1516	吳龍雲	二 3-4 本部 正304	
+112	1	3	3	多媒體與華語教學 </br>[ 學分學程：科技化教學產業學程 ]			30	27		CLU1015		半	3.0	華語系（學）	IU84	應用華語文學組	Computer-Assisted Chinese Language Instruction </br>[ Program: The Program of Technology-assisted Teaching Industry ]		2	0	27	選		N	1517	阮品綸	三 8-10 本部 教404	
+112	1	10	0	現代文學選讀		授課教師為劉婉俐老師。	18	18		CLU1020		半	3.0	華語系（學）	IU84	應用華語文學組	Modern Literature Readings		2	0	50	選	◎第二階段需人工加選	N	1518	劉婉俐	四 7-9 本部 誠102	
+112	1	5	0	德語（三）			15	15		CLU1039		半	2.0	華語系（學）	IU84	應用華語文學組	German (III)		2	2	50	選		N	1519	官英華	一 8-9 本部 正402A	
+112	1	10	0	華人社會與文化概論			37	37		CLU1081	A	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Chinese Society and Culture		2	0	50	必		N	1520	楊秉煌	五 1-2 本部 正105	
+112	1	10	0	華人社會與文化概論			48	48		CLU1081	B	半	2.0	華語系（學）	IU84	應用華語文學組	Introduction to Chinese Society and Culture		2	0	50	必		N	1521	楊秉煌	五 3-4 本部 正105	
+112	1	10	0	漢語語言學		授課教師為蔡慧瑾老師。	38	38		CLU0105	A	半	2.0	華語系（學）	IU84	應用華語文學組	Chinese Linguistics		3	0	50	必		N	1522	蔡慧瑾	五 6-7 本部 綜10樓教室	
+112	1	10	0	漢語語言學		授課教師為蔡慧瑾老師。	13	13		CLU0105	B	半	2.0	華語系（學）	IU84	應用華語文學組	Chinese Linguistics		3	0	50	必		N	1523	蔡慧瑾	五 8-9 本部 綜10樓教室	
+112	1	4	0	華語教材教法 </br>[ 學分學程：科技化教學產業學程 ]			19	19		CLU1018	A	半	2.0	華語系（學）	IU84	應用華語文學組	Chinese Teaching Materials and Methods </br>[ Program: The Program of Technology-assisted Teaching Industry ]		3	0	50	必		N	1524	邱詩雯	一 1-2 本部 誠104	
+112	1	4	0	華語教材教法 </br>[ 學分學程：科技化教學產業學程 ]			33	33		CLU1018	B	半	2.0	華語系（學）	IU84	應用華語文學組	Chinese Teaching Materials and Methods </br>[ Program: The Program of Technology-assisted Teaching Industry ]		3	0	50	必		N	1525	邱詩雯	四 3-4 本部 誠104	
+112	1	10	0	班級經營			42	42		CLU1037	B	半	3.0	華語系（學）	IU84	應用華語文學組	Class Management		3	0	50	選		N	1526	張雅惠	四 7-9 本部 綜10樓教室	
+112	1	10	0	華語語法教學設計			26	26		CLU1048		半	3.0	華語系（學）	IU84	應用華語文學組	Chinese Grammar Instructional Design		3	0	50	選		N	1527	陳立芬	一 7-9 本部 樸206	
+112	1	5	0	華語教學評量			26	26		CLU1085		半	3.0	華語系（學）	IU84	應用華語文學組	Assessment of Mandarin Chinese Learning		3	0	50	選		N	1528	張瓅勻	二 2-4 本部 綜901	
+112	1	10	0	臺灣文學選讀			23	23		CLU2001		半	3.0	華語系（學）	IU84	應用華語文學組	Selected Readings of Taiwanese Literature	是	3	0	50	選		N	1529	杜昭玫	二 6-8 本部 樸202	
+112	1	10	0	公民身份與華人認同			38	38		CLU1057		半	3.0	華語系（學）	IU84	應用華語文學組	Citizenship and Cultural Identity: Global Views on Chinese Migration		4	0	50	選		N	1530	楊聰榮	一 6-8 本部 誠402	
+112	1	50	30	企業實習		◎進階服務學習 修習本課程學生須配合進行國外線上華語教學。	30	0		CLU1065		半	2.0	華語系（學）	IU84	應用華語文學組	Internship		4	0	0	選		N	1531	邱詩雯	四 0-2 本部 誠304, 四 5 本部 誠304	
+112	1	10	0	兩岸僑務			30	30		CLU1073		半	3.0	華語系（學）	IU84	應用華語文學組	Comparison of Overseas Chinese Affairs		4	0	50	選		N	1532	陳嘉凌	二 2-4 本部 樸401	
+112	1	10	8	初級日文（一） </br>[ 學分學程：國關與外交學程 日語學程 ]			79	71		L0U1001	A	半	2.0	文學院	L		Japanese for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy The Program in Japanese as a Foreign Language ]			5	70	必	◎初選 日語學程 研究生得下修	N	1533	張文朝	一 A-B 本部 誠102	
+112	1	10	3	初級日文（一） </br>[ 學分學程：國關與外交學程 日語學程 ]			73	70		L0U1001	B	半	2.0	文學院	L		Japanese for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy The Program in Japanese as a Foreign Language ]			5	70	必	◎初選 日語學程 研究生得下修	N	1534	張文朝	二 A-B 本部 誠201	
+112	1	10	7	初級日文（一） </br>[ 學分學程：國關與外交學程 日語學程 ]			54	47		L0U1001	C	半	2.0	文學院	L		Japanese for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修	N	1535	許育惠	五 6-7 本部 誠108	
+112	1	15	11	初級日文（一） </br>[ 學分學程：國關與外交學程 日語學程 ]			62	51		L0U1001	D	半	2.0	文學院	L		Japanese for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修	N	1536	邱麗娟	四 1-2 本部 誠203	
+112	1	10	6	中級日文（一） </br>[ 學分學程：日語學程 ]			45	39		L0U1003	A	半	2.0	文學院	L		Intermediate Japanese (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【PGUT012  初級日文（一）】其中一門	N	1537	張文朝	三 8-9 本部 文學院B1會議室	
+112	1	10	7	中級日文（一） </br>[ 學分學程：日語學程 ]			39	32		L0U1003	B	半	2.0	文學院	L		Intermediate Japanese (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【PGUT012  初級日文（一）】其中一門	N	1538	洪韶翎	四 3-4 本部 樸201	
+112	1	10	5	日語會話與聽講（一） </br>[ 學分學程：日語學程 ]			44	39		L0U1005	A	半	2.0	文學院	L		Japanese Conversation and Listening Comprehension (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】、【L0U1003  中級日文（一）】、【L0U1004  中級日文（二）】其中一門	N	1539	池田晶子	一 A-B 本部 誠306	
+112	1	20	16	日語會話與聽講（一） </br>[ 學分學程：日語學程 ]			42	26		L0U1005	B	半	2.0	文學院	L		Japanese Conversation and Listening Comprehension (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】、【L0U1003  中級日文（一）】、【L0U1004  中級日文（二）】其中一門	N	1540	賴建樺	二 6-7 本部 誠101	
+112	1	25	18	進階日文（一） </br>[ 學分學程：日語學程 ]			32	14		L0U1009		半	2.0	文學院	L		Advanced Japanese (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	30	必	◎初選 日語學程 研究生得下修◎必須先修過【L0U1004  中級日文（二）】	N	1541	賴建樺	二 8-9 本部 樸302	
+112	1	10	0	進階日語會話與聽講（一） </br>[ 學分學程：日語學程 ]			26	26		L0U1011		半	2.0	文學院	L		Advanced Japanese Conversation and Listening Comprehension (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	選	◎初選 日語學程 研究生得下修	N	1542	邱麗娟	四 3-4 本部 正206	
+112	1	10	3	日本歷史 </br>[ 學分學程：日語學程 ]			72	69		L0U1014		半	2.0	文學院	L		History of Japan </br>[ Program: The Program in Japanese as a Foreign Language ]			5	65	選	◎初選 日語學程 研究生得下修	N	1543	富田哲	四 A-B 本部 誠202	
+112	1	10	5	日本文學史 </br>[ 學分學程：日語學程 ]			14	9		L0U1015		半	2.0	文學院	L		History of Japanese Literature </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	選	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】其中一門	N	1544	洪韶翎	四 5-6 本部 樸201	
+112	1	10	7	新聞日語 </br>[ 學分學程：日語學程 ]			15	8		L0U1018		半	2.0	文學院	L		News Japanese </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	選	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】其中一門	N	1545	簡嘉菁	五 8-9 本部 誠304	
+112	1	10	8	日文閱讀與寫作 </br>[ 學分學程：日語學程 ]			23	15		L0U1019	A	半	2.0	文學院	L		Japanese Reading and Writing </br>[ Program: The Program in Japanese as a Foreign Language ]			5	30	必	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】、【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1003  中級日文（一）】、【L0U1004  中級日文（二）】、【PGUT014  中級日文（一）】、【PGUT015  中級日文（二）】其中一門	N	1546	池田晶子	一 8-9 本部 正203	
+112	1	10	6	日文閱讀與寫作 </br>[ 學分學程：日語學程 ]			15	9		L0U1019	B	半	2.0	文學院	L		Japanese Reading and Writing </br>[ Program: The Program in Japanese as a Foreign Language ]			5	30	必	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】、【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1003  中級日文（一）】、【L0U1004  中級日文（二）】、【PGUT014  中級日文（一）】、【PGUT015  中級日文（二）】其中一門	N	1547	許育惠	五 8-9 本部 誠108	
+112	1	10	0	初級韓文（一） </br>[ 學分學程：國關與外交學程 韓語學程 ]			54	54		L0U2001	A	半	2.0	文學院	L		Korean for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1548	金恩美	一 3-4 本部 樸304	
+112	1	10	3	初級韓文（一） </br>[ 學分學程：國關與外交學程 韓語學程 ]			43	40		L0U2001	B	半	2.0	文學院	L		Korean for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1549	金家絃	一 1-2 本部 正305	
+112	1	10	7	初級韓文（一） </br>[ 學分學程：國關與外交學程 韓語學程 ]			58	51		L0U2001	C	半	2.0	文學院	L		Korean for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1550	李圭旼	二 6-7 本部 誠107	
+112	1	10	5	初級韓文（一） </br>[ 學分學程：國關與外交學程 韓語學程 ]			58	53		L0U2001	D	半	2.0	文學院	L		Korean for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1551	康雲柱	一 8-9 本部 誠101	
+112	1	10	2	初級韓文（一） </br>[ 學分學程：國關與外交學程 韓語學程 ]			42	40		L0U2001	E	半	2.0	文學院	L		Korean for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1552	洪攸善	三 8-9 本部 樸402	
+112	1	10	4	中級韓文（一） </br>[ 學分學程：韓語學程 ]			50	46		L0U2003	A	半	2.0	文學院	L		Intermediate Korean (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修 ◎必須先修過【L0U2002  初級韓文（二）】、【PGU7009  初級韓文（二）】、【PGU7001  初級韓文（一）】、【L0U2001  初級韓文（一）】其中一門	N	1553	金家絃	一 3-4 本部 正305	
+112	1	10	3	中級韓文（一） </br>[ 學分學程：韓語學程 ]			29	26		L0U2003	B	半	2.0	文學院	L		Intermediate Korean (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修 ◎必須先修過【L0U2002  初級韓文（二）】、【PGU7009  初級韓文（二）】、【PGU7001  初級韓文（一）】、【L0U2001  初級韓文（一）】其中一門	N	1554	李圭旼	二 8-9 本部 誠107	
+112	1	10	1	韓語會話與聽力練習（一） </br>[ 學分學程：韓語學程 ]			38	37		L0U2005	A	半	2.0	文學院	L		Korean Conversation and Listening Practice (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1555	金恩美	三 8-9 本部 樸201	
+112	1	10	0	韓語會話與聽力練習（一） </br>[ 學分學程：韓語學程 ]			32	32		L0U2005	B	半	2.0	文學院	L		Korean Conversation and Listening Practice (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1556	洪攸善	二 8-9 本部 誠301	
+112	1	10	0	韓語會話與聽力練習（一） </br>[ 學分學程：韓語學程 ]			47	47		L0U2005	C	半	2.0	文學院	L		Korean Conversation and Listening Practice (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1557	康雲柱	一 6-7 本部 誠301	
+112	1	10	5	韓語語法 </br>[ 學分學程：韓語學程 ]			15	10		L0U2011		半	2.0	文學院	L		Korean Grammar </br>[ Program: Korean Studies and Language Program ]			5	50	選	◎初選 韓語學程 研究生得下修◎必須先修過【L0U2003  中級韓文（一）】	N	1558	崔熲	三 8-9 本部 樸401	
+112	1	10	0	韓國名著選讀 </br>[ 學分學程：韓語學程 ]			19	19		L0U2013		半	2.0	文學院	L		Selected Readings in Korean Classics </br>[ Program: Korean Studies and Language Program ]			5	50	選	◎初選 韓語學程 研究生得下修	N	1559	洪攸善	四 3-4 本部 樸401	
+112	1	10	0	現代韓國政治與經濟 </br>[ 學分學程：韓語學程 ]			27	27		L0U2015		半	2.0	文學院	L		Politics and Economy in Modern Korea </br>[ Program: Korean Studies and Language Program ]			5	50	選	◎初選 韓語學程 研究生得下修	N	1560	朱立熙	四 10-A 本部 文學院B1會議室	
+112	1	10	0	韓國學概論 </br>[ 學分學程：韓語學程 ]			19	19		L0U2016		半	2.0	文學院	L		Introduction to Korean Studies </br>[ Program: Korean Studies and Language Program ]			5	50	選	◎初選 韓語學程 研究生得下修	N	1561	洪攸善	一 6-7 本部 樸201	
+112	1	10	0	韓國近代史 </br>[ 學分學程：韓語學程 ]			28	28		L0U2020		半	2.0	文學院	L		Korean Modern History </br>[ Program: Korean Studies and Language Program ]			5	60	選	◎初選 韓語學程 研究生得下修	N	1562	朱立熙	四 8-9 本部 文學院B1會議室	
+112	1	10	0	韓文閱讀與寫作 </br>[ 學分學程：韓語學程 ]			15	15		L0U2022	A	半	2.0	文學院	L		Korean Reading and Writing </br>[ Program: Korean Studies and Language Program ]			3	50	必	◎初選 韓語學程 研究生得下修	N	1563	金佳圓	一 6-7 本部 樸306	
+112	1	10	1	韓文閱讀與寫作 </br>[ 學分學程：韓語學程 ]			55	54		L0U2022	B	半	2.0	文學院	L		Korean Reading and Writing </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1564	康雲柱	二 3-4 本部 樸201	
+112	1	10	0	韓文閱讀與寫作 </br>[ 學分學程：韓語學程 ]			29	29		L0U2022	C	半	2.0	文學院	L		Korean Reading and Writing </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修	N	1565	洪攸善	二 6-7 本部 樸402	
+112	1	10	0	新聞韓語 </br>[ 學分學程：韓語學程 ]			15	15		L0U2023		半	2.0	文學院	L		News Korean </br>[ Program: Korean Studies and Language Program ]			5	50	選	◎初選 韓語學程 研究生得下修	N	1566	洪攸善	一 8-9 本部 樸201	
+112	1	10	0	觀光休閒韓語 </br>[ 學分學程：韓語學程 ]			29	29		L0U2026		半	2.0	文學院	L		Tourism and Leisure Korean </br>[ Program: Korean Studies and Language Program ]			5	50	選	◎初選 韓語學程 研究生得下修	N	1567	金佳圓	一 8-9 本部 樸306	
+112	1	15	10	高級韓文（一） </br>[ 學分學程：韓語學程 ]			31	21		L0U2029		半	2.0	文學院	L		Advanced Korean (I) </br>[ Program: Korean Studies and Language Program ]			5	40	選	◎初選 韓語學程 研究生得下修◎必須先修過【L0U2004  中級韓文（二）】	N	1568	金家絃	一 6-7 本部 正203	
+112	1	10	1	韓國文化政策 </br>[ 學分學程：韓語學程 ]			51	50		L0U2031		半	2.0	文學院	L		Cultural Policy in South Korea </br>[ Program: Korean Studies and Language Program ]			5	50	選	◎初選 韓語學程 研究生得下修	N	1569	洪攸善	三 6-7 本部 樸402	
+112	1	10	2	西洋哲學史（一） </br>[ 學分學程：哲學學程 ]			16	14		L0U3003		半	2.0	文學院	L		History of Western Philosophy (I) </br>[ Program: The Program in Philosophy ]			5	50	選	◎初選 哲學學程 研究生得下修	N	1570	蒲世豪	二 A-B 本部 誠208	
+112	1	10	2	法哲學與文學 </br>[ 學分學程：哲學學程 ]			15	13		L0U3005		半	2.0	文學院	L		Philosophy of Law and Literature </br>[ Program: The Program in Philosophy ]			5	50	選	◎初選 哲學學程 研究生得下修	N	1571	蔡士瑋	四 6-7 本部 誠104	
+112	1	10	1	當代美學專題 </br>[ 學分學程：哲學學程 ]			23	22		L0U3013		半	2.0	文學院	L		Contemporary Aesthetic </br>[ Program: The Program in Philosophy ]			5	50	選	◎初選 哲學學程 研究生得下修	N	1572	李立鈞	一 A-B 本部 誠108	
+112	1	10	0	原住民族知識體系與教育學 </br>[ 學分學程：原民教育學程 ]			16	16		L0U4001		半	2.0	文學院	L		Indigenous Knowledge Systems and Pedagogy </br>[ Program: The Program of Indigenous Education and Culture ]			5	50	必	◎初選 原民教育學程 研究生得下修	N	1573	汪明輝	三 8-9 本部 誠301	
+112	1	10	0	原住民族教育概論 </br>[ 學分學程：原民教育學程 ]			23	23		L0U4004		半	2.0	文學院	L		Introduction to Indigenous Education </br>[ Program: The Program of Indigenous Education and Culture ]			5	50	必	◎初選 原民教育學程 研究生得下修	N	1574	黃家凱	二 10-A 本部 誠207	
+112	1	10	1	臺灣原住民族文化概論 </br>[ 學分學程：原民教育學程 ]			7	6		L0U4021		半	2.0	文學院	L		Introduction of Indigenous Cultures in Taiwan </br>[ Program: The Program of Indigenous Education and Culture ]			5	50	選	◎初選 原民教育學程 研究生得下修	N	1575	黃家凱	二 8-9 本部 樸306	
+112	1	10	2	哲學批判與實作 </br>[ 學分學程：哲學學程 ]	9		5	3		L0C3001		半	2.0	文學院	L		Critical Thinking and Philosophical Practice </br>[ Program: The Program in Philosophy ]			5	50	選	◎初選 哲學學程 研究生得下修	N	1576	古秀鈴	二 6-7 本部 美術館601	
+112	1	10	0	高行健的文學與藝術	9		30	30		L0C9006		半	2.0	文學院	L		The Literature and Art of Gao Xingjian			5	80	選		N	1577	石曉楓 李志宏 黃于真 陳登武 何康國 梁志民 吳義芳	四 3-4 本部 綜509國際會議廳	
+112	1	10	0	文學與文化研究方法		教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	6	6		END1063		半	3.0	英語系（博）	LD21		Research Methods : Literature and Culture Studies	是		0	50	必	◎課程不開放上修	N	1578	路愷宜	三 8-10 本部 雲203	
+112	1	10	0	語意學專題討論		教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	2	2		END2007		半	3.0	英語系（博）	LD21		Seminar in Semantics	是		0	50	選	◎課程不開放上修	N	1579	陳乃嫻	一 7-9 本部 雲203	
+112	1	10	0	語音學專題討論		教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	1	1		END2033		半	3.0	英語系（博）	LD21		Seminar on Phonetics	是		0	50	選	◎課程不開放上修	N	1580	甯俐馨	二 3-5 本部 雲203	
+112	1	0	0	農業地理特論			2	2		GED0014		半	2.0	地理系（博）	LD23		Topics in Agricultural Geography			0	30	選	◎課程不開放上修	N	1581	張峻嘉	一 1-2 本部 地理系研討室五	
+112	1	0	0	地理學專題討論			4	4		GED0080		半	1.0	地理系（博）	LD23		Seminar on Geography	是		0	30	必	允許重複修 ◎課程開放上修	N	1582	汪明輝	三 3 本部 地理系研討室五	
+112	1	0	0	地理學野外調查			4	4		GED0081		半	1.0	地理系（博）	LD23		Field Work in Geography	是		0	30	必	允許重複修 ◎課程開放上修	N	1583	周學政	三 4 本部 地理系研討室五	
+112	1	10	0	翻譯與後現代理論			10	10		TID0021		半	3.0	翻譯所（博）	LD25		Translation and Post-modernism			0	50	選	◎課程開放上修	N	1584	陳子瑋	四 7-9 本部 譯506	
+112	1	10	0	筆譯理論			6	6		TID0036		半	3.0	翻譯所（博）	LD25		Theories of Translation			1	30	選	◎課程開放上修	N	1585	李根芳	四 7-9 本部 譯505	
+112	1	10	0	比較修辭學			6	6		TID0040		半	3.0	翻譯所（博）	LD25		Comparative Rhetoric			3	30	選	◎課程開放上修	N	1586	李奭學	五 7-9 本部 譯505	
+112	1	6	0	尚書研討	8		6	6		CHC0002		半	3.0	國文系（碩）	LM20		Studies in Shang-shu			3	30	選	◎課程不開放上修	N	1587	許華峰	一 2-4 本部 勤602	
+112	1	6	0	三禮研討	8		3	3		CHC0004		半	3.0	國文系（碩）	LM20		Studies in the Three Book of Rites			3	30	選	◎課程不開放上修	N	1588	林素英	一 7-9 本部 勤601	
+112	1	6	2	詞學研討	8		23	21		CHC0021		半	3.0	國文系（碩）	LM20		Studies in Tz'u			3	30	選	◎課程不開放上修	N	1589	潘麗珠	四 2-4 本部 勤602	
+112	1	6	0	散文教學研究	8		18	18		CHC0109		半	3.0	國文系（碩）	LM20		Research in Teaching Prose			3	30	選	◎課程不開放上修	N	1590	范宜如	三 7-9 本部 勤601	
+112	1	6	0	作文教學研究	8		11	11		CHC0110		半	2.0	國文系（碩）	LM20		Research in Teaching Composition			3	30	選	◎課程不開放上修	N	1591	張春榮	一 7-8 本部 勤603	
+112	1	6	0	宋代文學專題研究	8		12	12		CHC0137		半	3.0	國文系（碩）	LM20		Special Topics on Song Dynasty Literature			3	30	選	◎課程不開放上修	N	1592	王基倫	二 2-4 本部 勤602	
+112	1	6	0	明清小說專題研究	8		20	20		CHC0145		半	3.0	國文系（碩）	LM20		Special Topics on Novels in Ming and Ching Dynasties			3	30	選	◎課程不開放上修	N	1593	胡衍南	五 2-4 本部 勤603	
+112	1	6	0	周易經傳研討	8		9	9		CHC0153		半	3.0	國文系（碩）	LM20		Studies in The Book of Changes			3	30	選	◎課程開放上修	N	1594	賴貴三	三 2-4 本部 勤602	
+112	1	6	0	語言研究工具研討	8		6	6		CHC0162		半	3.0	國文系（碩）	LM20		Studies in Tools for Linguistic Research			3	30	選	◎課程開放上修	N	1595	吳聖雄	二 6-8 本部 勤604	
+112	1	6	0	神仙傳記專題研究	8		7	7		CHC7010		半	3.0	國文系（碩）	LM20		Special Topics on Divine Biography			3	30	選	◎課程不開放上修	N	1596	謝聰輝	二 7-9 本部 勤602	
+112	1	6	0	跨文化戲劇專題	8		12	12		CHC8012		半	3.0	國文系（碩）	LM20		Seminar on Cross-Cultural Drama			3	30	選	◎課程不開放上修	N	1597	陳芳	一 2-4 本部 勤601	
+112	1	3	0	數位內容與應用文字學研討	8		5	5		CHC8018		半	3.0	國文系（碩）	LM20		Studies in Digital Content and Applied Chinese Paleography			1	25	選	◎課程不開放上修	N	1598	羅凡晸	三 2-4 本部 教404	
+112	1	6	0	上古漢語語法專題	8		11	11		CHC8019		半	3.0	國文系（碩）	LM20		Seminar on Ancient Chinese Grammar			3	30	選	◎課程不開放上修	N	1599	郭維茹	三 2-4 本部 勤601	
+112	1	6	0	出土戰國楚簡篇章研究	8		5	5		CHC8020		半	3.0	國文系（碩）	LM20		Studies in Unearthed Chu Bamboo Slips Chapters During Ancient Chinese Warring States			3	30	選	◎課程開放上修	N	1600	黃麗娟	三 7-9 本部 勤602	
+112	1	6	0	當代莊子學研究	8		5	5		CHC8021		半	3.0	國文系（碩）	LM20		Contemporary Studies of Zhuangzi			3	30	選	◎課程不開放上修	N	1601	劉滄龍	二 7-9 本部 勤601	
+112	1	6	0	佛學專題研討	8		5	5		CHC8033		半	3.0	國文系（碩）	LM20		Seminar on Philosophy of Buddhism			3	30	選	◎課程不開放上修	N	1603	李幸玲	三 2-4 本部 勤603	
+112	1	6	0	近現代旅行文學專題研究	8		16	16		CHC8036		半	3.0	國文系（碩）	LM20		Special Topics on Modern Travel Literature			3	30	選	◎課程不開放上修	N	1604	陳室如	一 7-9 本部 勤602	
+112	1	10	2	當代文學理論與文化研究		誠8樓英語系國際會議室	22	20		ENM1051		半	3.0	英語系（碩）	LM21		Contemporary Literary Theory & Cultural Studies	是		1	50	選	◎課程不開放上修	N	1605	黃涵榆	五 2-4 本部 教室自排	
+112	1	10	0	英文寫作與研究方法（一）		教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	14	14		ENM1057		半	2.0	英語系（碩）	LM21		English Writing and Research Methods (I)	是		0	50	必	◎課程不開放上修	N	1606	狄亞倫	四 7-8 本部 雲202	
+112	1	10	1	文學與文化研究實作專題（一）		教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	8	7		ENM1060		半	2.0	英語系（碩）	LM21		Research Practices of Literature and Cultural Studies (I)	是		0	50	選	◎必須先修過【ENM1058  英文寫作與研究方法（二）】 ◎課程不開放上修	N	1607	李秀娟	一 8-9 本部 雲202	
+112	1	10	0	音韻學			15	15		ENM2002		半	3.0	英語系（碩）	LM21		Phonology	是		0	50	必	◎課程不開放上修	N	1608	林蕙珊	二 2-4 本部 誠701B	
+112	1	10	0	語意學		教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	16	16		ENM2021		半	3.0	英語系（碩）	LM21		Semantics	是		1	50	選	◎課程不開放上修	N	1609	李臻儀	三 7-9 本部 雲202	
+112	1	10	1	語用學		上課地點：誠7樓英語系第三會議室	24	23		ENM2022		半	3.0	英語系（碩）	LM21		Pragmatics	是		1	50	選	◎課程不開放上修	N	1610	張妙霞	五 2-4 本部 教室自排	
+112	1	10	0	研究方法與論文寫作			12	12		ENM2027		半	3.0	英語系（碩）	LM21		Research Methods and Academic Writing	是		0	50	必	◎課程不開放上修	N	1611	吳曉虹	四 6-8 本部 勤302	
+112	1	10	0	英語教學研討			15	15		ENM3017		半	3.0	英語系（碩）	LM21		Studies in English Language Teaching	是		0	50	選	◎課程不開放上修	N	1612	劉宇挺 陳秋蘭	一 2-4 本部 誠701A	
+112	1	10	0	電腦與語言教學			8	8		ENM3019		半	3.0	英語系（碩）	LM21		Computer and Language Teaching	是		0	50	選	◎課程不開放上修	N	1613	林至誠	一 7-9 本部 勤302	
+112	1	10	0	英語教學文法研究			9	9		ENM3020		半	3.0	英語系（碩）	LM21		Pedagogical Grammar in Tesl/tefl	是		2	50	選	◎課程不開放上修	N	1614	周中天	四 7-9 本部 誠701B	
+112	1	10	0	英文學術論文寫作			16	16		ENM3031		半	3.0	英語系（碩）	LM21		Academic Writing	是		0	50	必	◎必須先修過(也可以同時修)【ENM3017  英語教學研討】、【ENC3029  語言測驗與評量】、【ENC3035  外語習得】、【ENM3020  英語教學文法研究】其中一門 ◎課程不開放上修	N	1615	張珮青	二 2-4 本部 勤302	
+112	1	10	0	二十世紀美國重要作家	8	教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	15	15		ENC1011		半	3.0	英語系（碩）	LM21		Major 20th-Century American Authors	是		1	50	選	◎課程不開放上修	N	1616	高瑪麗	一 2-4 本部 雲202	
+112	1	10	0	英美文學史選讀	8	教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	11	11		ENC1117		半	3.0	英語系（碩）	LM21		Readings in British and American Literary History	是		1	50	選	◎課程不開放上修	N	1617	狄亞倫	四 2-4 本部 雲202	
+112	1	10	5	生態論述	8	教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	29	24		ENC1119		半	3.0	英語系（碩）	LM21		Ecocriticism	是		1	50	選	◎課程不開放上修	N	1618	貝格泰	三 2-4 本部 雲201	
+112	1	10	0	國語閩南語句法比較分析	8	教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	6	6		ENC2010		半	3.0	英語系（碩）	LM21		Comparartive Study of Mandarin Syntax and Taiwanese Syntax	是		2	50	選	◎課程不開放上修	N	1619	謝妙玲	三 2-4 本部 雲202	
+112	1	10	0	句法學研討	8	教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	4	4		ENC2038		半	3.0	英語系（碩）	LM21		Studies in Syntax	是		1	50	選	◎課程不開放上修	N	1620	颯楊	四 7-9 本部 雲203	
+112	1	10	0	心理語言學	8	教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	14	14		ENC2041		半	3.0	英語系（碩）	LM21		Psycholinguistics	是		1	50	選	◎課程不開放上修	N	1621	颯楊	五 6-8 本部 雲202	
+112	1	10	0	神經語言學	8	誠8樓第一會議室	8	8		ENC2047		半	3.0	英語系（碩）	LM21		Neurolinguistics	是		2	50	選	◎課程不開放上修	N	1622	詹曉蕙	二 6-8 本部 教室自排	
+112	1	10	0	第一語言習得	8	教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	9	9		ENC2052		半	3.0	英語系（碩）	LM21		First Language Acquisition	是		2	50	選	◎課程不開放上修	N	1623	陳純音	四 2-4 本部 雲201	
+112	1	10	0	量化方法與Ｒ語言實作	8	教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。	24	24		ENC2053		半	3.0	英語系（碩）	LM21		Quantitative Methods and R Programming	是		0	50	選	◎課程不開放上修	N	1624	甯俐馨	一 3-5 本部 正102	
+112	1	10	0	語言測驗與評量	8		16	16		ENC3029		半	3.0	英語系（碩）	LM21		Language Testing and Measurement	是		1	50	選	◎課程不開放上修	N	1625	張武昌	三 7-9 本部 勤302	
+112	1	10	0	聽講教學：理論與實際	8		18	18		ENC3031		半	3.0	英語系（碩）	LM21		Teaching Aural-Oral Communication : Theory & Practice	是		0	50	選	◎課程不開放上修	N	1626	吳美貞	三 2-4 本部 勤302	
+112	1	10	0	雙語讀寫發展	8		15	15		ENC3040		半	3.0	英語系（碩）	LM21		Biliteracy Development	是		0	50	選	◎課程不開放上修	N	1627	李宜倩	四 2-4 本部 勤302	
+112	1	10	0	創造力與外語教學	8		27	27		ENC3052		半	3.0	英語系（碩）	LM21		Creativity and Foreign Language Teaching	是		0	50	選	◎課程不開放上修	N	1628	王宏均	二 7-9 本部 誠701B	
+112	1	10	0	故宮檔案專題研究	8		12	12		HIC0014		半	2.0	歷史系（碩）	LM22		Special Topics on Archives of National Palace Museum			2	50	選	◎課程不開放上修	N	1630	葉高樹	二 3-4 本部 歷史系研究生第1教室	
+112	1	10	0	魏晉南北朝史專題研究	8		10	10		HIC0044		半	3.0	歷史系（碩）	LM22		Special Topics on the History of Wei, Chin, South and North Dynasties			2	50	選	◎課程不開放上修	N	1631	呂春盛	四 2-4 本部 歷史系研究生第2教室	
+112	1	10	0	明清性別與文化史專題研究	8		9	9		HIC0058		半	3.0	歷史系（碩）	LM22		Special Topics on History of Gender and Culture in Late Imperial China			3	50	選	◎課程不開放上修	N	1633	林麗月	四 2-4 本部 歷史系研究生第1教室	
+112	1	10	0	中美關係史專題研究	8		12	12		HIC8011		半	3.0	歷史系（碩）	LM22		Special Topics on History of Sino-American Relations			2	50	選	◎課程不開放上修	N	1634	吳翎君	一 6-8 本部 歷史系研究生第1教室	
+112	1	10	0	明清社會史專題研究	8		12	12		HIC8114		半	3.0	歷史系（碩）	LM22		Special Topics in Ming-Qing Social History			3	50	選	◎課程不開放上修	N	1635	邱仲麟	二 7-9 本部 歷史系研究生第2教室	
+112	1	10	0	中國上古史專題研究	8		3	3		HIC8115		半	3.0	歷史系（碩）	LM22		Special Topics in Chinese Ancient History			2	50	選	◎課程不開放上修	N	1636	石蘭梅	四 2-4 本部 歷史系研究生第3教室	
+112	1	10	0	歷史學研究法（一）		本課程為碩二必修課程，碩二以下勿修習。	23	23		HIM0133		半	2.0	歷史系（碩）	LM22		Seminar in Research Methods of Historiography (I)		2	0	50	必	◎課程不開放上修	N	1637	楊彥彬	一 3-4 本部 歷史系研究生第1教室	
+112	1	5	0	工業地理研討			5	5		GEM0015		半	2.0	地理系（碩）	LM23		Studies in Industrial Geography			3	30	選	◎課程開放上修	N	1638	王文誠	二 6-7 本部 地理系研討室五	
+112	1	0	0	遙測技術			6	6		GEM0037		半	2.0	地理系（碩）	LM23		Remote Sensing	是		0	30	選	◎課程開放上修	N	1639	張國楨	五 A-B 本部 地理系電腦教室	
+112	1	5	0	地理學研究法專題討論			22	22		GEM0121		半	2.0	地理系（碩）	LM23		Special Topics on Research Methods in Geography	是		0	30	必	◎課程開放上修	N	1640	陳瑩	三 3-4 本部 地理系會議室	
+112	1	0	0	農業地理研討	8		6	6		GEC0034		半	2.0	地理系（碩）	LM23		Studies in Agricultural Geography			3	30	選	◎課程不開放上修	N	1641	張峻嘉	一 8-9 本部 地理系研討室五	
+112	1	5	0	環境污染與管理	8		12	12		GEC0037		半	2.0	地理系（碩）	LM23		Environmental Pollution and Management			3	30	選	◎課程不開放上修	N	1642	郭乃文	二 6-7 本部 地理系會議室	
+112	1	5	0	空間與社會	8		10	10		GEC0057		半	2.0	地理系（碩）	LM23		Space and Society			3	30	選	◎課程開放上修	N	1643	李素馨	四 3-4 本部 地理系研討室五	
+112	1	5	1	多變量分析	8		14	13		GEC0068		半	3.0	地理系（碩）	LM23		Multivariate Analysis			3	30	選	◎課程不開放上修	N	1644	陳哲銘	四 2-4 本部 地理系會議室	
+112	1	5	2	空間資料庫	8		19	17		GEC0070		半	2.0	地理系（碩）	LM23		Spatial Database System			3	25	選	◎課程開放上修	N	1645	周學政	二 8-9 本部 地理系電腦教室	
+112	1	5	0	地理論文寫作法	8		18	18		GEC0076		半	3.0	地理系（碩）	LM23		Thesis Writing in Geography			3	30	選	◎課程不開放上修	N	1646	吳鄭重	三 9-A 本部 地理系會議室	
+112	1	5	1	社會經濟地理資訊系統	8		15	14		GEC7002		半	2.0	地理系（碩）	LM23		Socio-Economic Geographic Information System			3	25	選	◎課程開放上修	N	1647	周學政	二 6-7 本部 地理系電腦教室	
+112	1	5	0	食物地理研討	8		7	7		GEC8004		半	2.0	地理系（碩）	LM23		Studies in Food Geography			3	30	選	◎課程開放上修	N	1648	譚鴻仁	三 9-10 本部 地理系研討室五	
+112	1	5	0	生態系經營	8		4	4		GEC8006		半	3.0	地理系（碩）	LM23		Ecosystem Management	是		3	30	選	◎課程不開放上修	N	1649	廖學誠	四 7-9 本部 地理系研討室五	
+112	1	2	0	氣候變遷影響評估	8		11	11		GEC8010		半	3.0	地理系（碩）	LM23		Climate Change Impact Assessment			3	30	選	◎課程開放上修	N	1650	翁叔平	一 2-4 本部 地理系會議室	
+112	1	5	0	族群地理研討	8		5	5		GEC8036		半	2.0	地理系（碩）	LM23		Studies in Ethnogeography			3	30	選	◎課程不開放上修	N	1651	汪明輝	二 3-4 本部 地理系研討室五	
+112	1	5	0	地理學專題演講	8		5	5		GEC8079	A	半	2.0	地理系（碩）	LM23		Seminar on Geographical Studies	是		0	30	必	允許重複修 ◎課程開放上修	N	1652	沈淑敏	三 7-8 本部 地理系研討室五	
+112	1	5	0	地理學專題演講	8		19	19		GEC8079	B	半	2.0	地理系（碩）	LM23		Seminar on Geographical Studies			0	50	必	◎限碩一碩二碩三以上修習    允許重複修 ◎課程不開放上修	N	1653	韋煙灶 詹竣翔	三 7-8 本部 地理系會議室	
+112	1	10	0	翻譯產業研究	8		6	6		TIC0029		半	3.0	翻譯所（碩）	LM25		Studies of Translation & Interpretation Industries			3	30	選	◎課程不開放上修	N	1654	陳子瑋	二 2-4 本部 譯506	
+112	1	10	0	戲劇翻譯	8		9	9		TIC0043		半	3.0	翻譯所（碩）	LM25		Drama Translation			3	30	選	◎課程不開放上修	N	1655	賴慈芸	二 2-4 本部 譯505	
+112	1	10	0	電影與翻譯	8		9	9		TIC0062		半	3.0	翻譯所（碩）	LM25		Cinema and Translation			3	30	選	◎課程不開放上修	N	1656	李根芳	三 7-9 本部 譯506	
+112	1	10	0	量性研究方法	8		12	12		TIC0065		半	3.0	翻譯所（碩）	LM25		Quantitative Research Methods			1	30	選	◎課程不開放上修	N	1657	廖柏森	三 6-8 本部 譯505	
+112	1	10	0	翻譯工作坊（英譯中）	8		6	6		TIC8002		半	3.0	翻譯所（碩）	LM25		Translation Workshop: English into Chinese			0	30	選	◎課程不開放上修	N	1658	賴慈芸	四 2-4 本部 譯505	
+112	1	10	0	翻譯教學	8		8	8		TIC8009		半	3.0	翻譯所（碩）	LM25		Theories of Translation & Interpretation Teaching			0	30	選	◎課程不開放上修	N	1659	廖柏森	五 6-8 本部 正205	
+112	1	10	0	進階拉丁文（一）	8		6	6		TIC8020		半	3.0	翻譯所（碩）	LM25		Intermediate Latin (I)			0	30	選	◎課程不開放上修	N	1660	胡宗文	二 6-8 本部 譯505	
+112	1	10	0	基礎譯後編輯（中譯英）	8		5	5		TIC8022		半	3.0	翻譯所（碩）	LM25		Basic Post-Editing of English Translation Texts			0	30	選	◎課程不開放上修	N	1661	鄭永康	五 7-9 本部 譯506	
+112	1	10	0	口筆譯入門			30	30		TIM0088		半	2.0	翻譯所（碩）	LM25		Introduction to Translation & Interpretation		1	0	50	必	◎課程不開放上修	N	1662	廖柏森	一 7-8 本部 正204	
+112	1	10	0	筆譯練習（英譯中）			14	14		TIM0089		半	3.0	翻譯所（碩）	LM25		Translation Exercise (E to C)		1	0	30	選	◎課程不開放上修	N	1663	賴慈芸	五 2-4 本部 譯505	
+112	1	10	0	筆譯練習（中譯英）			21	21		TIM0090		半	3.0	翻譯所（碩）	LM25		Translation Exercise (C to E)		1	0	30	選	◎課程不開放上修	N	1664	胡宗文	四 7-9 本部 樸201	
+112	1	10	0	視譯			9	9		TIM0096		半	3.0	翻譯所（碩）	LM25		Sight Translation		1	0	30	選	◎課程不開放上修	N	1665	陳子瑋	一 2-4 本部 譯505	
+112	1	10	0	筆譯專業實務			18	18		TIM1010		半	2.0	翻譯所（碩）	LM25		Translation as a Profession		1	3	50	選	◎課程不開放上修	N	1666	蘇正隆	二 2-3 本部 正406	
+112	1	10	0	逐步口譯（英譯中）（一）			9	9		TIM2001		半	3.0	翻譯所（碩）	LM25		Consecutive Interpretation (English into Chinese) (I)		1	0	30	選	◎課程不開放上修	N	1667	汝明麗	三 2-4 本部 譯506	
+112	1	10	0	逐步口譯（中譯英）（一）			16	16		TIM2002		半	3.0	翻譯所（碩）	LM25		Consecutive Interpretation (Chinese into English) (I)		1	0	30	選	◎課程不開放上修	N	1668	范大龍	五 2-4 本部 樸201	
+112	1	10	0	口譯技巧（一）			20	20		TIM2042		半	3.0	翻譯所（碩）	LM25		Interpreting Skills (I)		1	0	30	選	◎課程不開放上修	N	1669	陳珮馨	五 6-8 本部 正101	
+112	1	10	0	口譯專業實習			5	5		TIM0064		半	3.0	翻譯所（碩）	LM25		Practicum: Interpretation		2	0	30	選	◎課程不開放上修	N	1670	汝明麗 葉泰民	一 6-8 本部 譯506	
+112	1	10	0	口譯技巧（三）			8	8		TIM0100		半	3.0	翻譯所（碩）	LM25		Interpreting Skills (III)		2	0	30	選	◎課程不開放上修	N	1671	汝明麗	一 2-4 本部 譯506	
+112	1	10	0	進階筆譯（英譯中）			12	12		TIM1042		半	3.0	翻譯所（碩）	LM25		Advanced Translation (English into Chinese )		2	0	30	選	◎課程不開放上修	N	1672	李根芳	一 7-9 本部 譯505	
+112	1	10	0	進階筆譯（中譯英）			8	8		TIM1043		半	3.0	翻譯所（碩）	LM25		Advanced Translation (Chinese into English)		2	0	30	選	◎課程不開放上修	N	1673	鄭永康	二 9-A 本部 譯505	
+112	1	10	0	同步口譯（英譯中）一			6	6		TIM2009		半	3.0	翻譯所（碩）	LM25		Simultaneous Interpretation from English into Chinese (I)		2	0	30	選	◎課程不開放上修	N	1674	陳子瑋	三 2-4 本部 譯505	
+112	1	10	0	逐步口譯（三）（英譯中）			11	11		TIM2034		半	3.0	翻譯所（碩）	LM25		Consecutive Interpretation from English into Chinese (III)		2	0	30	選	◎課程不開放上修	N	1675	汝明麗	四 2-4 本部 譯506	
+112	1	10	0	逐步口譯（三）（中譯英）			6	6		TIM2035		半	3.0	翻譯所（碩）	LM25		Consecutive Interpretation from Chinese into English (III)		2	0	30	選	◎課程不開放上修	N	1676	馬思揚	一 9-A 本部 譯506	
+112	1	10	0	臺灣研究	8		15	15		TCC0010		半	3.0	臺文系（碩）	LM26		Taiwan Studies			3	30	必	◎課程開放上修	N	1677	林芳玫	三 7-9 本部 雲306會議室	
+112	1	10	0	研究方法與論文寫作	8		22	22		TCC0011		半	3.0	臺文系（碩）	LM26		Research Methods and Academic Writing			3	30	選	◎課程開放上修	N	1678	莊佳穎	三 2-4 本部 雲306會議室	
+112	1	10	0	臺灣歌謠與文化研究	8		7	7		TCC1002		半	3.0	臺文系（碩）	LM26		Taiwan Ballads and Cultural Studies			3	30	選	◎課程開放上修	N	1679	陳龍廷	一 8-10 本部 雲306會議室	
+112	1	10	0	臺灣電影的語言、文化與文學	8		16	16		TCC1015		半	3.0	臺文系（碩）	LM26		Languages, Culture and Literature in Taiwan Cinema			6	30	選	◎課程開放上修	N	1680	曾秀萍	五 8-10 本部 雲306會議室	
+112	1	10	0	臺灣飲食文化專題研究	8		19	19		TCC1017		半	3.0	臺文系（碩）	LM26		Special Topics on Taiwan Food Culture			3	30	選	◎課程開放上修	N	1681	陳玉箴	二 2-4 本部 雲306會議室	
+112	1	10	0	臺灣當代文化歷史	8		16	16		TCC1029		半	3.0	臺文系（碩）	LM26		Contemporary Cultural Histories of Taiwan	是		3	30	選	◎課程開放上修	N	1682	伊恩	四 7-9 本部 雲306會議室	
+112	1	10	0	東亞語言文化比較	8		16	16		TCC2018		半	3.0	臺文系（碩）	LM26		Comparative Analysis of East Asia Languages and Cultures	是		3	30	選	◎課程開放上修	N	1683	賀安娟	二 7-9 本部 雲306會議室	
+112	1	10	0	臺灣南島語詞彙、句法與語意專題	8		6	6		TCC2033		半	3.0	臺文系（碩）	LM26		Studies in Morphology, Syntax, and Semantics of Formosan Languages			3	30	選	◎課程開放上修	N	1684	劉承賢	三 6-8 本部 雲303	
+112	1	10	0	臺語文學專題研究	8	◎臺語      授課	6	6		TCC3027		半	3.0	臺文系（碩）	LM26		Special Topics on Taiwanese Literature			3	30	選	◎課程開放上修	N	1685	呂美親	二 2-4 本部 雲303	
+112	1	10	0	臺灣近現代海洋史研究			9	9		THM0004		半	2.0	臺史所（碩）	LM27		Seminar in the Maritime History of Modern Taiwan			5	50	選	◎課程開放上修	N	1686	陳宗仁	一 6-7 本部 勤308	
+112	1	10	0	臺灣史日文史料導讀			8	8		THM0031		半	3.0	臺史所（碩）	LM27		Introduction to Japanese Materials in Taiwan History			5	50	選	◎課程開放上修	N	1687	新田龍希	二 7-9 本部 勤308	
+112	1	10	0	戰後臺灣政治史研究			9	9		THM0037		半	3.0	臺史所（碩）	LM27		Studies in the Postwar History of Taiwan Politics			5	50	選	◎課程開放上修	N	1688	陳佳宏	四 2-4 本部 勤308	
+112	1	10	0	殖民政策專題討論			16	16		THM0039		半	2.0	臺史所（碩）	LM27		Seminar on Colonial  Policy  Studies			5	50	選	◎課程開放上修	N	1689	吳密察	四 8-9 本部 勤308	
+112	1	10	0	近代教育與地方社會專題研究			4	4		THM0045		半	3.0	臺史所（碩）	LM27		Seminar on Modern Education and Local Society			5	50	選	◎課程開放上修	N	1690	許佩賢	三 2-4 本部 勤308	
+112	1	10	0	臺灣史料與研究法（一）			15	15		THM0053		半	2.0	臺史所（碩）	LM27		Seminar in Taiwan Historical Materials and the Research Method of Taiwan History(I)			5	50	必	◎課程開放上修	N	1691	張素玢 陳志豪	二 3-4 本部 勤308	
+112	1	10	0	數位人文與專題實作（一） </br>[ 學分學程：知識轉譯學程 ]			10	10		THM0059		半	2.0	臺史所（碩）	LM27		Digital Humanities and Practice(I) </br>[ Program: The Program of Transformation of Knowledge and Cultural Production ]			5	50	選	◎課程開放上修	N	1692	張素玢	三 8-9 本部 勤308	
+112	1	10	0	東亞海域史專題研究			7	7		THM0080		半	2.0	臺史所（碩）	LM27		Seminar on the Maritime History of East Asian			5	50	選	◎課程開放上修	N	1693	康培德 陳宗仁	一 3-4 本部 勤308	
+112	1	30	6	專業實習（二）			6	0		THM0087		半	2.0	臺史所（碩）	LM27		Practicum (II)			0	0	選	◎課程開放上修	N	1694	許佩賢	五 6-9 本部 勤308	
+112	1	10	0	地名學研究			13	13		THM0093		半	3.0	臺史所（碩）	LM27		Studies in Toponymy			5	50	選	◎課程開放上修	N	1695	康培德 韋煙灶 林聖欽	一 8-10 本部 勤308	
+112	1	5	0	劇本創作 </br>[ 學分學程：元宇宙學程 文學創作學程 ]			13	13		CHU0344		半	2.0	國文系（學）	LU20		Playwriting </br>[ Program: The Program of Metaverse Narrative The Program of Literature Creation ]			5	20	選		N	1696	馮翊綱	二 3-4 本部 樸202	
+112	1	5	0	出版實務產業實習			15	15		CHU0347		半	2.0	國文系（學）	LU20		Internship of Publishing Practice			0	30	選		N	1697	張晏瑞	一 8-10 本部 樸305	
+112	1	10	0	世界文學名著選讀			12	12		CHU0358		半	3.0	國文系（學）	LU20		Selected Readings on English Literature	是		0	50	選		N	1698	蘇婷	一 8-10 本部 樸205	
+112	1	10	0	學習評量（教）			23	23		CHUE074		半	2.0	國文系（學）	LU20		Learning Assessment			0	50	選		N	1699	李清筠	三 6-7 本部 樸304	
+112	1	10	0	書經（一）	9		10	10		CHC0169		半	2.0	國文系（學）	LU20		Shu-king (I)			5	50	選		N	1700	許華峰	五 3-4 本部 樸303	
+112	1	10	0	青銅器與金文研讀	9		17	17		CHC9003		半	3.0	國文系（學）	LU20		Studies on Bronze Vessels and Chinese Bronze Inscriptions			5	50	選		N	1701	陳炫瑋	五 2-4 本部 樸304	
+112	1	1	0	國語文課程與教學新興議題研究	9		11	11		CHC9004		半	3.0	國文系（學）	LU20		Emerging Issues in Curriculum and Instruction of Chinese Language Arts			1	45	選		N	1702	李鍑倫	二 2-4 本部 正101	
+112	1	10	0	文學概論 </br>[ 學分學程：科技化教學產業學程 文學創作學程 ]			23	23		CHU0015		半	3.0	國文系（學）	LU20		Introduction to Literature </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of Literature Creation ]		1	5	50	選		N	1703	范宜如	一 8-10 本部 樸304	
+112	1	3	0	中文電腦資料處理			17	17		CHU0061		半	2.0	國文系（學）	LU20		Computer Data Processing in Chinese		1	0	27	選		N	1704	羅凡晸	五 3-4 本部 教404	
+112	1	10	0	演說與辯論			17	17		CHU0079		半	3.0	國文系（學）	LU20		Elocution and Debating		1	5	50	選		N	1705	須文蔚	二 2-4 本部 樸304	
+112	1	10	0	詩歌吟誦學			28	28		CHU0146		半	2.0	國文系（學）	LU20		Chinese Poetry Recitation Pedagogy		1	5	50	選		N	1706	潘麗珠	四 8-9 本部 樸203	
+112	1	10	0	史記（一）			10	10		CHU0259	A	半	2.0	國文系（學）	LU20		Shih-Chi (I)		1	5	50	選		N	1707	王基倫	四 3-4 本部 樸204	
+112	1	10	10	史記（一）			60	50		CHU0259	B	半	2.0	國文系（學）	LU20		Shih-Chi (I)		1	5	50	選		N	1708	陳炫瑋	四 6-7 本部 樸203	
+112	1	10	0	荀子（二）			42	42		CHU0264		半	2.0	國文系（學）	LU20		Hsun-Tzu (II)		1	5	50	選		N	1709	黃瑩暖	二 3-4 本部 樸303	
+112	1	10	1	樂府詩（一）			50	49		CHU0285		半	2.0	國文系（學）	LU20		Ancient Chinese Poems & Songs (I)		1	5	50	選		N	1710	林淑雲	二 3-4 本部 樸305	
+112	1	10	6	四書（一）			56	50		CHU0310	A	半	2.0	國文系（學）	LU20		Four Books (I)		1	5	50	選		N	1711	金培懿	二 8-9 本部 樸203	
+112	1	30	18	四書（一）			68	50		CHU0310	B	半	2.0	國文系（學）	LU20		Four Books (I)		1	5	50	選		N	1712	黃瑩暖	四 3-4 本部 教202會議廳	
+112	1	4	0	現代散文 </br>[ 學分學程：文學創作學程 ]			30	30		CHU0325		半	2.0	國文系（學）	LU20		Modern Prose </br>[ Program: The Program of Literature Creation ]		1	0	30	選		N	1714	石曉楓	二 6-7 本部 誠104	
+112	1	10	1	書法及習作（一）			39	38		CHU0337	A	半	2.0	國文系（學）	LU20		Chinese Calligraphy (I)		1	0	45	選		N	1715	林宜蓉	三 8-9 本部 樸307	
+112	1	10	1	書法及習作（一）			45	44		CHU0337	B	半	2.0	國文系（學）	LU20		Chinese Calligraphy (I)		1	0	45	選		N	1716	羅凡晸	五 1-2 本部 樸307	
+112	1	10	0	兒童文學 </br>[ 學分學程：文學創作學程 ]			50	50		CHU0340		半	2.0	國文系（學）	LU20		Children's Literature </br>[ Program: The Program of Literature Creation ]		1	5	50	選		N	1717	陳室如	二 6-7 本部 樸303	
+112	1	10	0	中古文史資料選讀			39	39		CHU0353		半	2.0	國文系（學）	LU20		Selected Readings in Historical Materials of Medieval China		1	5	50	選		N	1718	陳亭佑	五 1-2 本部 樸303	
+112	1	10	5	寓言導讀			57	52		CHU3010		半	3.0	國文系（學）	LU20		Introduction to Chinese Fables		1	5	50	選		N	1719	祁立峰	三 8-10 本部 正405	
+112	1	10	5	國學概論 </br>[ 學分學程：科技化教學產業學程 ]	1		52	47		CHU0350		半	2.0	國文系（學）	LU20		Introduction to Chinese Classics & Literature </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	5	50	必		N	1720	賴貴三	四 8-9 本部 樸204	
+112	1	10	0	經學通論（一）	1		49	49		CHU3006		半	2.0	國文系（學）	LU20		Introduction to Confucian Classics (I)		1	5	50	必		N	1721	陳炫瑋	一 8-9 本部 樸204	
+112	1	20	18	國學概論 </br>[ 學分學程：科技化教學產業學程 ]	2		68	50		CHU0350		半	2.0	國文系（學）	LU20		Introduction to Chinese Classics & Literature </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	5	50	必		N	1722	曾暐傑	二 8-9 本部 誠108	
+112	1	10	0	經學通論（一）	2		30	30		CHU3006		半	2.0	國文系（學）	LU20		Introduction to Confucian Classics (I)		1	5	50	必		N	1723	許華峰	一 8-9 本部 樸203	
+112	1	10	3	國學概論 </br>[ 學分學程：科技化教學產業學程 ]	3		49	46		CHU0350		半	2.0	國文系（學）	LU20		Introduction to Chinese Classics & Literature </br>[ Program: The Program of Technology-assisted Teaching Industry ]		1	5	50	必		N	1724	許華峰	一 6-7 本部 樸203	
+112	1	10	0	經學通論（一）	3		43	43		CHU3006		半	2.0	國文系（學）	LU20		Introduction to Confucian Classics (I)		1	5	50	必		N	1725	金培懿	二 6-7 本部 樸203	
+112	1	10	0	閩南語概論			17	17		CHU0132		半	2.0	國文系（學）	LU20		Introduction to the Southern-Min Dialect		2	5	50	選		N	1726	林香薇	一 3-4 本部 誠206	
+112	1	10	0	語言學概論 </br>[ 學分學程：客語學程 科技化教學產業學程 ]			34	34		CHU0139	A	半	2.0	國文系（學）	LU20		Introduction to Linguistics </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]		2	5	50	必		N	1727	吳聖雄	一 3-4 本部 樸303	
+112	1	10	0	語言學概論 </br>[ 學分學程：客語學程 科技化教學產業學程 ]			52	52		CHU0139	B	半	2.0	國文系（學）	LU20		Introduction to Linguistics </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]		2	5	50	必		N	1728	王錦慧	一 6-7 本部 樸302	
+112	1	25	8	文字學（一）			58	50		CHU0211	A	半	2.0	國文系（學）	LU20		Chinese Etymology (I)		2	5	50	必		N	1729	賴貴三	五 1-2 本部 誠203	
+112	1	10	0	文字學（一）			49	49		CHU0211	B	半	2.0	國文系（學）	LU20		Chinese Etymology (I)		2	5	50	必		N	1730	黃麗娟	四 3-4 本部 樸302	
+112	1	10	0	文字學（一）			30	30		CHU0211	C	半	2.0	國文系（學）	LU20		Chinese Etymology (I)		2	0	50	必		N	1731	羅凡晸	三 8-9 本部 樸304	
+112	1	10	8	詩選及習作（一）			38	30		CHU0213	A	半	2.0	國文系（學）	LU20		Selection of Poems & Writing Practice (I)		2	5	30	必		N	1732	林佳蓉	三 8-9 本部 樸204	
+112	1	11	11	詩選及習作（一）			42	31		CHU0213	B	半	2.0	國文系（學）	LU20		Selection of Poems & Writing Practice (I)		2	5	30	必		N	1733	黃敬家	五 3-4 本部 樸204	
+112	1	10	0	詩選及習作（一）			10	10		CHU0213	C	半	2.0	國文系（學）	LU20		Selection of Poems & Writing Practice (I)		2	5	30	必		N	1734	何維剛	三 8-9 本部 樸206	
+112	1	10	9	楚辭（一）			57	48		CHU0223		半	2.0	國文系（學）	LU20		Chu-Tzu (I)		2	5	50	選		N	1735	郭乃禎	三 6-7 本部 樸302	
+112	1	10	0	書法研究（一）			21	21		CHU0251		半	2.0	國文系（學）	LU20		Study of Chinese Calligraphy (I)		2	5	45	選		N	1736	黃明理	二 8-9 本部 樸307	
+112	1	30	10	中國哲學概論（一）			59	49		CHU0275		半	2.0	國文系（學）	LU20		Introduction to Chinese Philosophy (I)		2	5	50	選		N	1738	黃瑩暖	二 8-9 本部 誠202	
+112	1	10	0	散文選及習作（一）			30	30		CHU0289	A	半	2.0	國文系（學）	LU20		Selections of Proses & Writing Practice (I)		2	3	30	必		N	1739	范宜如	一 3-4 本部 樸205	
+112	1	1	1	散文選及習作（一）			31	30		CHU0289	B	半	2.0	國文系（學）	LU20		Selections of Proses & Writing Practice (I)		2	5	30	必		N	1740	林淑雲	一 3-4 本部 樸203	
+112	1	10	1	散文選及習作（一）			29	28		CHU0289	C	半	2.0	國文系（學）	LU20		Selections of Proses & Writing Practice (I)		2	5	30	必		N	1741	何維剛	四 3-4 本部 樸203	
+112	1	10	2	紅樓夢與戲曲			52	50		CHU0346		半	2.0	國文系（學）	LU20		A Dream of Red Mansions and Chinese Opera		2	5	50	選		N	1742	蔡孟珍	四 8-9 本部 樸303	
+112	1	10	7	中國文學史（一）	1		55	48		CHU0291		半	3.0	國文系（學）	LU20		History of Chinese Literature (I)		2	5	50	必		N	1743	鍾宗憲	二 2-4 本部 樸203	
+112	1	10	8	中國文學史（一）	2		59	51		CHU0291		半	3.0	國文系（學）	LU20		History of Chinese Literature (I)		2	5	50	必		N	1744	陳亭佑	五 6-8 本部 樸203	
+112	1	10	0	中國文學史（一）	3	◎數位課程 僅顯示同步遠距及面授時間。	31	31		CHU0291		半	3.0	國文系（學）	LU20		History of Chinese Literature (I)		2	5	50	必		1	1745	胡衍南	◎面授/同步	
+112	1	10	0	論文寫作指導			16	16		CHU0062		半	2.0	國文系（學）	LU20		Thesis Writing		3	5	50	選		N	1746	謝聰輝	二 3-4 本部 樸204	
+112	1	10	6	曲選及習作			56	50		CHU0089		半	3.0	國文系（學）	LU20		Selections of Chu & Writing Practice		3	5	50	必		N	1747	蔡孟珍	三 8-10 本部 樸302	
+112	1	10	0	詞選及習作			16	16		CHU0103	A	半	3.0	國文系（學）	LU20		Selectinons of Tzu & Writing Practice		3	5	50	必		N	1748	王基倫	二 8-10 本部 樸205	
+112	1	10	8	詞選及習作			57	49		CHU0103	B	半	3.0	國文系（學）	LU20		Selectinons of Tzu & Writing Practice		3	5	50	必		N	1749	林佳蓉	二 5-7 本部 樸204	
+112	1	10	0	專家詩			17	17		CHU0147		半	2.0	國文系（學）	LU20		Poems by Specialists		3	5	50	選		N	1750	徐國能	三 8-9 本部 樸305	
+112	1	10	0	晚明小品			29	29		CHU0177		半	3.0	國文系（學）	LU20		Xiao-pin of Late Ming Dynasty		3	5	50	選		N	1752	黃明理	四 8-10 本部 樸304	
+112	1	10	0	跨文化對話			11	11		CHU0207		半	2.0	國文系（學）	LU20		Trans-Cultural Dialogue		3	5	50	選		N	1753	劉滄龍	三 8-9 本部 正403	
+112	1	10	0	聲韻學（一）			30	30		CHU0217	A	半	2.0	國文系（學）	LU20		Chinese Phonology (I)		3	5	50	必		N	1754	吳聖雄	一 6-7 本部 樸303	
+112	1	10	6	聲韻學（一）			56	50		CHU0217	B	半	2.0	國文系（學）	LU20		Chinese Phonology (I)		3	5	50	必		N	1755	林香薇	一 6-7 本部 樸205	
+112	1	10	0	聲韻學（一）			25	25		CHU0217	C	半	2.0	國文系（學）	LU20		Chinese Phonology (I)		3	5	50	必		N	1756	陳筱琪	四 6-7 本部 樸305	
+112	1	10	0	左傳（一）			32	32		CHU0227		半	2.0	國文系（學）	LU20		Tso-Chuan (I)		3	5	50	選		N	1757	陳炫瑋	四 3-4 本部 樸205	
+112	1	10	0	昭明文選（一）			37	37		CHU0239		半	2.0	國文系（學）	LU20		Jau-Ming Wen-Sheuan (I)		3	5	50	選		N	1758	林淑雲	二 6-7 本部 樸302	
+112	1	10	0	專家文（一）			10	10		CHU0247		半	2.0	國文系（學）	LU20		Essays by Specialists (I)		3	5	50	選		N	1759	王基倫	一 6-7 本部 樸204	
+112	1	10	0	宋明理學導讀（一）			25	25		CHU0253		半	2.0	國文系（學）	LU20		Intro to Neo-Confucianism of Sung & Ming Dynasties (I)		3	5	50	選		N	1760	黃瑩暖	四 8-9 本部 樸404	
+112	1	10	0	文心雕龍（一）			51	51		CHU0267		半	2.0	國文系（學）	LU20		Liu Shih`s Critical Theories & Essays (I)		3	5	50	選		N	1761	祁立峰	四 6-7 本部 樸303	
+112	1	5	1	現代小說 </br>[ 學分學程：文學創作學程 ]			46	45		CHU0326		半	2.0	國文系（學）	LU20		Contemporary Novels </br>[ Program: The Program of Literature Creation ]		3	0	45	選		N	1762	石曉楓	二 8-9 本部 誠104	
+112	1	10	0	書法與身心抒發 </br>[ 學分學程：文學創作學程 ]			16	16		CHU0339		半	2.0	國文系（學）	LU20		Revitalizing Mind & Body with Calligraphy </br>[ Program: The Program of Literature Creation ]		3	5	50	選	◎必須先修過【CHU0251  書法研究（一）】、【CHU0252  書法研究（二）】、【CHU0337  書法及習作（一）】、【CHU0338  書法及習作（二）】、【CHU0209  書法（一）】、【CHU0210  書法（二）】其中一門	N	1763	黃明理	二 3-4 本部 樸307	
+112	1	10	0	國文文法（一）	1		51	51		CHU0219		半	2.0	國文系（學）	LU20		Chinese Grammar (I)		3	5	50	必		N	1765	郭維茹	三 8-9 本部 樸303	
+112	1	10	0	中國哲學史（一） </br>[ 學分學程：哲學學程 ]	1		36	36		CHU0318		半	2.0	國文系（學）	LU20		History of Chinese Philosophy(I) </br>[ Program: The Program in Philosophy ]		3	5	50	必		N	1766	李幸玲	一 8-9 本部 樸302	
+112	1	10	0	國文文法（一）	2		49	49		CHU0219		半	2.0	國文系（學）	LU20		Chinese Grammar (I)		3	5	50	必		N	1767	王錦慧	四 6-7 本部 樸302	
+112	1	10	4	中國哲學史（一） </br>[ 學分學程：哲學學程 ]	2		55	51		CHU0318		半	2.0	國文系（學）	LU20		History of Chinese Philosophy(I) </br>[ Program: The Program in Philosophy ]		3	5	50	必		N	1768	江淑君	一 3-4 本部 樸302	
+112	1	10	0	國文文法（一）	3		28	28		CHU0219		半	2.0	國文系（學）	LU20		Chinese Grammar (I)		3	5	50	必		N	1769	王錦慧	四 8-9 本部 樸302	
+112	1	10	2	中國哲學史（一） </br>[ 學分學程：哲學學程 ]	3		52	50		CHU0318		半	2.0	國文系（學）	LU20		History of Chinese Philosophy(I) </br>[ Program: The Program in Philosophy ]		3	5	50	必		N	1770	江淑君	四 3-4 本部 樸303	
+112	1	10	0	訓詁學			22	22		CHU0008	A	半	2.0	國文系（學）	LU20		Semantics		4	5	50	必		N	1771	吳聖雄	一 8-9 本部 樸303	
+112	1	10	1	訓詁學			28	27		CHU0008	B	半	2.0	國文系（學）	LU20		Semantics		4	5	50	必		N	1772	黃麗娟	二 3-4 本部 樸205	
+112	1	10	0	文學批評 </br>[ 學分學程：文學創作學程 ]			35	35		CHU0074		半	3.0	國文系（學）	LU20		Literary Criticism </br>[ Program: The Program of Literature Creation ]		4	5	50	選		N	1773	須文蔚	一 2-4 本部 樸305	
+112	1	10	0	應用文及習作			49	49		CHU0125		半	2.0	國文系（學）	LU20		Practical Writing		4	5	50	必		N	1774	陳亭佑	二 3-4 本部 樸306	
+112	1	10	4	詩經（一）			54	50		CHU0231		半	2.0	國文系（學）	LU20		Shi-King (I)		4	5	50	選		N	1775	金培懿	三 8-9 本部 樸203	
+112	1	25	19	易經（一）			72	53		CHU0233		半	2.0	國文系（學）	LU20		I-King (I)		4	5	50	選		N	1776	賴貴三	五 3-4 本部 誠203	
+112	1	10	0	古典戲曲選（一）			25	25		CHU0257		半	2.0	國文系（學）	LU20		Selections of Classical Drama(I)		4	5	50	選		N	1777	蔡孟珍	四 3-4 本部 樸304	
+112	1	10	0	現代戲劇 </br>[ 學分學程：元宇宙學程 ]			19	19		CHU0335		半	3.0	國文系（學）	LU20		Contemporary Chinese Drama </br>[ Program: The Program of Metaverse Narrative ]		4	5	50	選		N	1779	陳芳	二 6-8 本部 樸305	
+112	1	9	9	國文教學實習（一）（教）			39	30		CHUE110	A	半	2.0	國文系（學）	LU20		Teaching Practicum: Chinese (I)		4	0	30	選	◎必須先修過【CHUE001  國文教材教法（教）】、【CHUE004  國文教材教法研究（教）】其中一門	N	1780	鍾宗憲	四 6-9 本部 樸205	
+112	1	8	8	國文教學實習（一）（教）			38	30		CHUE110	B	半	2.0	國文系（學）	LU20		Teaching Practicum: Chinese (I)		4	0	30	選	◎必須先修過【CHUE001  國文教材教法（教）】、【CHUE004  國文教材教法研究（教）】其中一門	N	1781	李鍑倫	四 6-9 本部 樸206	
+112	1	10	0	中國哲學史（三） </br>[ 學分學程：哲學學程 ]	1		15	15		CHU0303		半	2.0	國文系（學）	LU20		History of Chinese Philosophy(III) </br>[ Program: The Program in Philosophy ]		4	5	50	必		N	1782	李幸玲	二 3-4 本部 樸206	
+112	1	10	0	中國哲學史（三） </br>[ 學分學程：哲學學程 ]	2		50	50		CHU0303		半	2.0	國文系（學）	LU20		History of Chinese Philosophy(III) </br>[ Program: The Program in Philosophy ]		4	5	50	必		N	1783	江淑君	二 3-4 本部 樸302	
+112	1	10	0	中國哲學史（三） </br>[ 學分學程：哲學學程 ]	3		24	24		CHU0303		半	2.0	國文系（學）	LU20		History of Chinese Philosophy(III) </br>[ Program: The Program in Philosophy ]		4	5	50	必		N	1784	李幸玲	一 3-4 本部 樸206	
+112	1	10	0	互動式英語閱讀 </br>[ 學分學程：榮譽英語學程 ]		進階英語課程/榮譽英語學程	23	23		ENU5003		半	2.0	英語系（學）	LU21		Interactive Reading in English </br>[ Program: The Honors Program in Advanced English ]	是		3	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎必須先修過【00UB8A1  英文（二）】	N	1785	江璧羽	二 3-4 本部 正302	
+112	1	10	0	進階英語聽講練習 </br>[ 學分學程：榮譽英語學程 ]		進階英語課程/榮譽英語學程	18	18		ENU5006		半	2.0	英語系（學）	LU21		Advanced Aural-Oral Training in English </br>[ Program: The Honors Program in Advanced English ]	是		0	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎必須先修過【00UB8A1  英文（二）】	N	1786	許月貴	五 3-4 本部 誠701B	
+112	1	10	0	英語口語表達 </br>[ 學分學程：榮譽英語學程 ]		進階英語課程/榮譽英語學程	14	14		ENU5008		半	2.0	英語系（學）	LU21		English Oral Training </br>[ Program: The Honors Program in Advanced English ]	是		1	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修 ◎必須先修過【英文（二）】	N	1787	常紹如	四 8-9 本部 正305	
+112	1	10	1	英語溝通討論與思辯知能 </br>[ 學分學程：榮譽英語學程 ]		進階英語課程/榮譽英語學程	15	14		ENU5011		半	2.0	英語系（學）	LU21		English Language Communication and Critical Thinking Training </br>[ Program: The Honors Program in Advanced English ]	是		3	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎必須先修過【00UB8A1  英文（二）】	N	1789	曾於萱	二 8-9 本部 正302	
+112	1	10	0	英語發表技巧 </br>[ 學分學程：榮譽英語學程 ]		進階英語課程/榮譽英語學程	20	20		ENU5012		半	2.0	英語系（學）	LU21		Presentation Skills in English </br>[ Program: The Honors Program in Advanced English ]	是		2	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎必須先修過【00UB8A1  英文（二）】	N	1790	多德	四 6-7 本部 誠304	
+112	1	10	0	國際時事議題英文 </br>[ 學分學程：榮譽英語學程 ]		進階英語課程/榮譽英語學程	27	27		ENU5013		半	2.0	英語系（學）	LU21		Global News and International Affairs in English </br>[ Program: The Honors Program in Advanced English ]	是		3	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎必須先修過【00UB8A1  英文（二）】	N	1791	曾於萱	二 6-7 本部 正302	
+112	1	10	1	英文寫作技巧：連貫性與銜接性 </br>[ 學分學程：榮譽英語學程 ]		進階英語課程/榮譽英語學程	18	17		ENU5014		半	2.0	英語系（學）	LU21		English Writing Skills: Coherence and Cohesion </br>[ Program: The Honors Program in Advanced English ]	是		1	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修 ◎必須先修過【英文（二）】	N	1792	羅門	五 6-7 本部 誠701B	
+112	1	10	0	行動文學：說故事的藝術及其應用 </br>[ 學分學程：元宇宙學程 ]	9	◎進階服務學習	22	22		ENC9002		半	3.0	英語系（學）	LU21		Literature in Action: Storytelling and Its Applications </br>[ Program: The Program of Metaverse Narrative ]	是		3	50	選		N	1794	張瓊惠	二 6-8 本部 正306	
+112	1	10	0	英文（一） </br>[ 學分學程：科技化教學產業學程 ]			29	29		ENU0168	A	半	3.0	英語系（學）	LU21		English (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	1	2	30	必		N	1795	江璧羽	二 6-8 本部 正305	
+112	1	10	1	英文（一） </br>[ 學分學程：科技化教學產業學程 ]			31	30		ENU0168	B	半	3.0	英語系（學）	LU21		English (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	1	0	30	必		N	1796	柯珍宜	一 2-4 本部 誠305	
+112	1	10	0	英文（一） </br>[ 學分學程：科技化教學產業學程 ]			30	30		ENU0168	C	半	3.0	英語系（學）	LU21		English (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	1	0	30	必		N	1797	多德	一 2-4 本部 誠304	
+112	1	10	0	寫作指導（一）		建議修習輔系第一年時選修	20	20		ENU0237	A	半	2.0	英語系（學）	LU21		Guided Writing (I)	是	1	0	20	必		N	1798	林蕙珊	五 6-7 本部 樸302	
+112	1	10	3	寫作指導（一）		建議修習輔系第一年時選修	23	20		ENU0237	B	半	2.0	英語系（學）	LU21		Guided Writing (I)	是	1	0	20	必		N	1799	謝妙玲	五 6-7 本部 正305	
+112	1	10	0	寫作指導（一）		建議修習輔系第一年時選修	20	20		ENU0237	C	半	2.0	英語系（學）	LU21		Guided Writing (I)	是	1	0	20	必		N	1800	陳正賢	五 6-7 本部 樸303	
+112	1	10	1	寫作指導（一）		建議修習輔系第一年時選修	21	20		ENU0237	D	半	2.0	英語系（學）	LU21		Guided Writing (I)	是	1	0	20	必		N	1801	孔繁偉	五 6-7 本部 樸304	
+112	1	10	0	寫作指導（一）		建議修習輔系第一年時選修	20	20		ENU0237	E	半	2.0	英語系（學）	LU21		Guided Writing (I)	是	1	0	20	必		N	1802	蘇榕	五 6-7 本部 樸305	
+112	1	10	1	寫作指導（一）		建議修習輔系第一年時選修	21	20		ENU0237	F	半	2.0	英語系（學）	LU21		Guided Writing (I)	是	1	0	20	必		N	1803	常紹如	一 8-9 本部 正305	
+112	1	10	0	寫作指導（一）		建議修習輔系第一年時選修	20	20		ENU0237	G	半	2.0	英語系（學）	LU21		Guided Writing (I)	是	1	0	20	必		N	1804	許月貴	一 8-9 本部 誠701B	
+112	1	10	0	文學作品導讀（一） </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第二年以後選修	46	46		ENU0257		半	2.0	英語系（學）	LU21		Approaches to Literary Works (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	1	2	50	必		N	1805	李秀娟	三 8-9 本部 正302	
+112	1	10	3	英語會話（一）		建議修習輔系第一年時選修	28	25		ENU0269	A	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1806	多德	五 1-2 本部 誠304	
+112	1	10	1	英語會話（一）		建議修習輔系第一年時選修	25	24		ENU0269	B	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1807	多德	五 3-4 本部 誠304	
+112	1	10	0	英語會話（一）		建議修習輔系第一年時選修	12	12		ENU0269	C	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	1	25	必		N	1808	謝妙玲	五 3-4 本部 勤302	
+112	1	10	0	英語發音（一）			20	20		ENU0281	A	半	2.0	英語系（學）	LU21		English Pronunciation (I)	是	1	0	20	選		N	1809	羅美蘭	四 3-4 本部 誠305	
+112	1	10	0	英語發音（一）			20	20		ENU0281	B	半	2.0	英語系（學）	LU21		English Pronunciation (I)	是	1	0	20	選		N	1810	陳正賢	四 3-4 本部 正302	
+112	1	10	0	英語發音（一）			18	18		ENU0281	C	半	2.0	英語系（學）	LU21		English Pronunciation (I)	是	1	0	20	選		N	1811	林至誠	四 3-4 本部 誠304	
+112	1	10	0	英語發音（一）			19	19		ENU0281	D	半	2.0	英語系（學）	LU21		English Pronunciation (I)	是	1	0	20	選		N	1812	林蕙珊	五 3-4 本部 正305	
+112	1	10	5	文學作品導讀（一） </br>[ 學分學程：科技化教學產業學程 ]	1	建議修習輔系第二年以後選修	52	47		ENU0257		半	2.0	英語系（學）	LU21		Approaches to Literary Works (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	1	0	50	必		N	1813	路愷宜	三 6-7 本部 誠305	
+112	1	10	2	英語會話（一）	1	建議修習輔系第一年時選修	27	25		ENU0269	A	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1814	柯衣凡	四 6-7 本部 正302	
+112	1	10	1	英語會話（一）	1	建議修習輔系第一年時選修	26	25		ENU0269	B	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1815	常紹如	四 6-7 本部 正305	
+112	1	10	0	英語聽講（一）	1		34	34		ENU0279		半	2.0	英語系（學）	LU21		Basic Aural-Oral Training in English (I)	是	1	0	40	選		N	1816	許月貴	一 6-7 本部 誠701B	
+112	1	10	5	文學作品導讀（一） </br>[ 學分學程：科技化教學產業學程 ]	2	建議修習輔系第二年以後選修	55	50		ENU0257		半	2.0	英語系（學）	LU21		Approaches to Literary Works (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	1	0	50	必		N	1817	曾思旭	三 6-7 本部 正302	
+112	1	10	0	英語會話（一）	2	建議修習輔系第一年時選修	24	24		ENU0269	A	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1818	柯衣凡	四 8-9 本部 正302	
+112	1	10	3	英語會話（一）	2	建議修習輔系第一年時選修	31	28		ENU0269	B	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1819	多德	四 8-9 本部 誠304	
+112	1	10	0	英語聽講（一）	2		40	40		ENU0279		半	2.0	英語系（學）	LU21		Basic Aural-Oral Training in English (I)	是	1	0	40	選		N	1820	吳靜蘭	一 6-7 本部 誠701A	
+112	1	10	0	語言與文化			31	31		ENU0065		半	3.0	英語系（學）	LU21		Language & Culture	是	2	0	50	選		N	1822	孔繁偉	三 6-8 本部 正305	
+112	1	10	0	女性文學			14	14		ENU0146		半	3.0	英語系（學）	LU21		Literature by Women	是	2	0	50	選		N	1823	戴宇呈	三 6-8 本部 誠304	
+112	1	10	3	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	53	50		ENU0150	A	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1824	羅美蘭	四 6-7 本部 誠305	
+112	1	10	6	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	55	49		ENU0150	B	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1825	劉宇挺	一 6-7 本部 正302	
+112	1	10	1	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	50	49		ENU0150	C	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1826	李宜倩	一 6-7 本部 正303	
+112	1	10	3	英語演講：演說技巧			33	30		ENU0217	A	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1827	曾思旭	四 8-9 本部 正303	
+112	1	10	4	英語演講：演說技巧			33	29		ENU0217	B	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1828	李宜倩	四 6-7 本部 正304	
+112	1	10	3	英語演講：演說技巧			28	25		ENU0217	C	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1829	曾思旭	四 6-7 本部 正303	
+112	1	10	0	初級法文（一）			27	27		ENU0253		半	2.0	英語系（學）	LU21		Beginning French (I)		2	0	30	選		N	1830	李曉芸	二 8-9 本部 正304	
+112	1	10	1	語言學概論（一） </br>[ 學分學程：客語學程 科技化教學產業學程 ]		建議修習輔系第一年時選修	51	50		ENU0259	A	半	2.0	英語系（學）	LU21		Introduction to Linguistics (I) </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1831	陳純音	四 8-9 本部 誠301	
+112	1	10	0	語言學概論（一） </br>[ 學分學程：客語學程 科技化教學產業學程 ]		建議修習輔系第一年時選修	33	33		ENU0259	B	半	2.0	英語系（學）	LU21		Introduction to Linguistics (I) </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1832	吳曉虹	四 3-4 本部 正305	
+112	1	10	2	初級日文（一）			30	28		ENU0265	A	半	2.0	英語系（學）	LU21		Beginning Japanese (I)		2	0	30	選		N	1833	井郁子	一 8-9 本部 誠305	
+112	1	10	4	初級日文（一）			33	29		ENU0265	B	半	2.0	英語系（學）	LU21		Beginning Japanese (I)		2	0	30	選		N	1834	井郁子	三 8-9 本部 誠305	
+112	1	10	4	中級英語聽講（一）			13	9		ENU0283	A	半	2.0	英語系（學）	LU21		Intermediate Aural-Oral Training in English (I)	是	2	0	25	必	◎必須先修過【ENU0279  英語聽講（一）】、【ENU0280  英語聽講（二）】	N	1835	曾於萱	四 1-2 本部 誠701B	
+112	1	10	5	中級英語聽講（一）			22	17		ENU0283	B	半	2.0	英語系（學）	LU21		Intermediate Aural-Oral Training in English (I)	是	2	0	25	必	◎必須先修過【ENU0279  英語聽講（一）】、【ENU0280  英語聽講（二）】	N	1836	曾於萱	四 3-4 本部 誠701B	
+112	1	10	2	中級寫作（一）			19	17		ENU0287	A	半	2.0	英語系（學）	LU21		Intermediate Writing (I)	是	2	0	18	必	◎必須先修過【ENU0237  寫作指導（一）】、【ENU0238  寫作指導（二）】	N	1837	貝格泰	五 6-7 本部 正401	
+112	1	10	0	中級寫作（一）			18	18		ENU0287	B	半	2.0	英語系（學）	LU21		Intermediate Writing (I)	是	2	0	18	必	◎必須先修過【ENU0237  寫作指導（一）】、【ENU0238  寫作指導（二）】	N	1838	曾於萱	五 6-7 本部 正306	
+112	1	10	3	中級寫作（一）			21	18		ENU0287	C	半	2.0	英語系（學）	LU21		Intermediate Writing (I)	是	2	0	18	必	◎必須先修過【ENU0237  寫作指導（一）】、【ENU0238  寫作指導（二）】	N	1839	黃涵榆	五 6-7 本部 正402A	
+112	1	10	1	中級寫作（一）			19	18		ENU0287	D	半	2.0	英語系（學）	LU21		Intermediate Writing (I)	是	2	0	18	必	◎必須先修過【ENU0237  寫作指導（一）】、【ENU0238  寫作指導（二）】	N	1840	多德	五 6-7 本部 誠304	
+112	1	10	0	中級寫作（一）			18	18		ENU0287	E	半	2.0	英語系（學）	LU21		Intermediate Writing (I)	是	2	0	18	必	◎必須先修過【ENU0237  寫作指導（一）】、【ENU0238  寫作指導（二）】	N	1841	戴宇呈	五 6-7 本部 正403	
+112	1	12	11	中級寫作（一）			14	3		ENU0287	F	半	2.0	英語系（學）	LU21		Intermediate Writing (I)	是	2	0	18	必	◎必須先修過【ENU0237  寫作指導（一）】、【ENU0238  寫作指導（二）】	N	1842	柯衣凡	五 6-7 本部 正405	
+112	1	10	0	旅遊業英語			29	29		ENU0339		半	3.0	英語系（學）	LU21		Tourism English	是	2	0	50	選		N	1844	陳乃嫻	一 3-5 本部 正302	
+112	1	10	0	文學的生命課程			28	28		ENU0346		半	3.0	英語系（學）	LU21		Life Lessons through Literature	是	2	0	50	選		N	1845	高瑪麗	一 8-10 本部 正304	
+112	1	10	0	文法與修辭 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	36	36		ENU6025		半	3.0	英語系（學）	LU21		Grammar & Rhetoric </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1846	丁仁	五 6-8 本部 誠305	
+112	1	10	0	語言學概論（一） </br>[ 學分學程：客語學程 科技化教學產業學程 ]	1	建議修習輔系第一年時選修	41	41		ENU0259		半	2.0	英語系（學）	LU21		Introduction to Linguistics (I) </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1847	李臻儀	一 6-7 本部 誠305	
+112	1	10	4	英國文學：中古時期至十八世紀（一）	1		54	50		ENU0291		半	2.0	英語系（學）	LU21		English Literature: Medieval Period to the Eighteenth Century (I)	是	2	0	50	必		N	1848	狄亞倫	二 3-4 本部 正303	
+112	1	10	3	文法與修辭 </br>[ 學分學程：科技化教學產業學程 ]	1		46	43		ENU6025		半	3.0	英語系（學）	LU21		Grammar & Rhetoric </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1849	丁仁	五 3-5 本部 誠305	
+112	1	10	0	語言學概論（一） </br>[ 學分學程：客語學程 科技化教學產業學程 ]	2	建議修習輔系第一年時選修	44	44		ENU0259		半	2.0	英語系（學）	LU21		Introduction to Linguistics (I) </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1850	李臻儀	二 3-4 本部 誠305	
+112	1	10	0	英國文學：中古時期至十八世紀（一）	2		50	50		ENU0291		半	2.0	英語系（學）	LU21		English Literature: Medieval Period to the Eighteenth Century (I)	是	2	0	50	必		N	1851	高瑪麗	四 8-9 本部 誠203	
+112	1	10	5	文法與修辭 </br>[ 學分學程：科技化教學產業學程 ]	2		55	50		ENU6025		半	3.0	英語系（學）	LU21		Grammar & Rhetoric </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1852	吳曉虹	五 3-5 本部 誠402	
+112	1	10	5	語言習得			51	46		ENU0038		半	3.0	英語系（學）	LU21		Language Acquisition		3	0	50	選		N	1853	程玉秀	三 6-8 本部 正304	
+112	1	10	2	語言分析			20	18		ENU0200		半	3.0	英語系（學）	LU21		Linguistic Analysis		3	0	50	選	◎必須先修過【ENU0259  語言學概論（一）】、【ENU0331  語言學概論（一）】其中一門	N	1854	吳靜蘭	二 3-5 本部 正306	
+112	1	10	0	職場英文			29	29		ENU0219		半	2.0	英語系（學）	LU21		English for Occupational Purposes	是	3	0	50	選		N	1855	曾於萱	四 8-9 本部 正306	
+112	1	10	0	討論與辯論（一）			27	27		ENU0247	A	半	2.0	英語系（學）	LU21		Discussion & Debate (I)	是	3	0	30	必		N	1856	常紹如	一 6-7 本部 正305	
+112	1	10	0	討論與辯論（一）			30	30		ENU0247	B	半	2.0	英語系（學）	LU21		Discussion & Debate (I)	是	3	0	30	必		N	1857	柯衣凡	一 6-7 本部 正104	
+112	1	10	2	討論與辯論（一）			32	30		ENU0247	C	半	2.0	英語系（學）	LU21		Discussion & Debate (I)	是	3	0	30	必		N	1858	戴宇呈	四 3-4 本部 正306	
+112	1	10	0	中級法文（一）			21	21		ENU0255		半	2.0	英語系（學）	LU21		Intermediate French (I)		3	0	30	選		N	1859	李曉芸	二 6-7 本部 正304	
+112	1	10	0	中級日文（一）			27	27		ENU0267		半	2.0	英語系（學）	LU21		Intermediate Japanese (I)		3	5	30	選		N	1860	李文晴	三 6-7 本部 正303	
+112	1	10	5	高級英語聽講（一）			26	21		ENU0285	A	半	2.0	英語系（學）	LU21		Advanced Aural-Oral Training in English (I)	是	3	0	25	必	◎必須先修過【ENU0283  中級英語聽講（一）】、【ENU0284  中級英語聽講（二）】	N	1861	柯珍宜	二 1-2 本部 誠701A	
+112	1	20	18	高級英語聽講（一）			28	10		ENU0285	B	半	2.0	英語系（學）	LU21		Advanced Aural-Oral Training in English (I)	是	3	0	25	必	◎必須先修過【ENU0283  中級英語聽講（一）】、【ENU0284  中級英語聽講（二）】	N	1862	柯珍宜	四 1-2 本部 誠701A	
+112	1	10	2	高級寫作（一）			21	19		ENU0289	A	半	2.0	英語系（學）	LU21		Advanced Writing (I)	是	3	0	19	必	◎必須先修過【ENU0287  中級寫作（一）】、【ENU0288  中級寫作（二）】	N	1863	江璧羽	五 3-4 本部 誠701A	
+112	1	10	2	高級寫作（一）			20	18		ENU0289	B	半	2.0	英語系（學）	LU21		Advanced Writing (I)	是	3	0	19	必	◎必須先修過【ENU0287  中級寫作（一）】、【ENU0288  中級寫作（二）】	N	1864	路愷宜	五 3-4 本部 正303	
+112	1	10	1	高級寫作（一）			20	19		ENU0289	C	半	2.0	英語系（學）	LU21		Advanced Writing (I)	是	3	0	19	必	◎必須先修過【ENU0287  中級寫作（一）】、【ENU0288  中級寫作（二）】	N	1865	詹曉蕙	五 3-4 本部 正306	
+112	1	10	1	高級寫作（一）			20	19		ENU0289	D	半	2.0	英語系（學）	LU21		Advanced Writing (I)	是	3	0	19	必	◎必須先修過【ENU0287  中級寫作（一）】、【ENU0288  中級寫作（二）】	N	1866	陳乃嫻	五 3-4 本部 誠205	
+112	1	10	0	研究方法：語言相關研究			17	17		ENU0337		半	3.0	英語系（學）	LU21		Research Methods: Language-Related Studies	是	3	0	50	選		N	1867	蘇席瑤	二 6-8 本部 誠305	
+112	1	10	0	日常醫學英文			17	17		ENU0347		半	3.0	英語系（學）	LU21		English for Health and Medicine	是	3	0	50	選		N	1868	陳乃嫻	五 6-8 本部 正302	
+112	1	10	0	英語教材教法（教） </br>[ 學分學程：PASSION偏鄉教育學程 ]			27	27		ENUE001		半	2.0	英語系（學）	LU21		Teaching Materials and Methods : English </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]		3	0	50	選		N	1869	王宏均	五 1-2 本部 正303	
+112	1	10	3	英語語言史	1		59	56		ENU0017		半	3.0	英語系（學）	LU21		History of the English Language	是	3	0	60	必	◎必須先修過【ENU0259  語言學概論（一）】、【ENU0260  語言學概論（二）】	N	1870	吳靜蘭	一 2-4 本部 誠202	
+112	1	20	15	英國文學：浪漫時期至現代（一）	1		66	51		ENU0293		半	2.0	英語系（學）	LU21		English Literature: Romantic Period to the Present (I)	是	3	5	50	必		N	1871	黃涵榆	四 6-7 本部 誠203	
+112	1	10	9	美國文學	2		59	50		ENU0226		半	3.0	英語系（學）	LU21		American Literature	是	3	0	50	必		N	1872	李秀娟	一 2-4 本部 正303	
+112	1	10	3	英國文學：浪漫時期至現代（一）	2		53	50		ENU0293		半	2.0	英語系（學）	LU21		English Literature: Romantic Period to the Present (I)	是	3	0	50	必		N	1873	貝格泰	四 6-7 本部 正306	
+112	1	0	0	電腦輔助英語學習		建議先修過「英語教學概論」及「語言習得」後再選修。	24	24		ENU0213		半	3.0	英語系（學）	LU21		Computer-assisted English Learning	是	4	0	50	選		N	1874	張珮青	二 6-8 本部 誠701A	
+112	1	10	2	中英翻譯（一） </br>[ 學分學程：榮譽英語學程 ]		建議修習輔系第二年以後選修	29	27		ENU0277	A	半	2.0	英語系（學）	LU21		English-Chinese Translation (I) </br>[ Program: The Honors Program in Advanced English ]		4	2	25	選		N	1875	李宜懃	一 3-4 本部 正306	
+112	1	10	0	中英翻譯（一） </br>[ 學分學程：榮譽英語學程 ]		建議修習輔系第二年以後選修	24	24		ENU0277	B	半	2.0	英語系（學）	LU21		English-Chinese Translation (I) </br>[ Program: The Honors Program in Advanced English ]		4	0	25	選		N	1876	易家如	一 3-4 本部 正304	
+112	1	10	0	中英翻譯（一） </br>[ 學分學程：榮譽英語學程 ]		建議修習輔系第二年以後選修	25	25		ENU0277	C	半	2.0	英語系（學）	LU21		English-Chinese Translation (I) </br>[ Program: The Honors Program in Advanced English ]		4	0	25	選		N	1877	易家如	一 6-7 本部 正304	
+112	1	10	5	中英翻譯（一） </br>[ 學分學程：榮譽英語學程 ]		建議修習輔系第二年以後選修	30	25		ENU0277	D	半	2.0	英語系（學）	LU21		English-Chinese Translation (I) </br>[ Program: The Honors Program in Advanced English ]		4	2	25	選		N	1878	李宜懃	三 6-7 本部 正306	
+112	1	10	0	進階日文（一）			11	11		ENU0295		半	2.0	英語系（學）	LU21		Advanced Japanese (I)		4	5	30	選		N	1879	李文晴	三 8-9 本部 正303	
+112	1	10	0	財經英文與翻譯	1	此班建議師資生選修，非師資生請於112下學期再於同時段修習此門課	26	26		ENU0220		半	2.0	英語系（學）	LU21		Financial English and Translation		4	2	30	選		N	1880	李宜懃	一 6-7 本部 正306	
+112	1	10	0	英語教學實習（一）（教）	1	提醒擬修習112-2「英語教學實習(二)(教)」同學，須先通過全民英檢高級初試或等同之國際標準化測驗，請提早準備。	20	20		ENUE110		半	2.0	英語系（學）	LU21		Teaching Practicum : English (I)		4	0	50	選	◎必須先修過【ENUE001  英語教材教法（教）】	N	1881	曾俊傑	四 1-4 本部 正304	
+112	1	10	0	英語教學實習（一）（教）	2	提醒擬修習112-2「英語教學實習(二)(教)」同學，須先通過全民英檢高級初試或等同之國際標準化測驗，請提早準備。	27	27		ENUE110		半	2.0	英語系（學）	LU21		Teaching Practicum : English (I)		4	0	50	選	◎必須先修過【ENUE001  英語教材教法（教）】	N	1882	王宏均	四 1-4 本部 正303	
+112	1	10	1	中國史學名著選讀			47	46		HIU0053		半	3.0	歷史系（學）	LU22		Selected Readings in Chinese Historiography			3	50	選		N	1883	陳登武	四 6-8 本部 誠306	
+112	1	10	0	文藝復興史			42	42		HIU0145		半	3.0	歷史系（學）	LU22		The Renaissance			0	50	選		N	1885	陳秀鳳	五 6-8 本部 誠307	
+112	1	10	0	博物館與導覽			33	33		HIU0147		半	3.0	歷史系（學）	LU22		Museology and History			0	50	選		N	1886	石蘭梅	四 8-10 本部 誠305	
+112	1	10	0	中國近代史			21	21		HIU0334		半	3.0	歷史系（學）	LU22		Modern History of China			0	50	選		N	1887	周東怡	三 6-8 本部 誠306	
+112	1	10	0	臺灣當代史			42	42		HIU0338		半	3.0	歷史系（學）	LU22		Contemporary History of Taiwan			2	50	選		N	1888	王麒銘	四 8-10 本部 正406	
+112	1	10	5	魏晉史			56	51		HIU0352		半	2.0	歷史系（學）	LU22		History of Wei and Chin			0	50	選		N	1889	呂春盛	五 3-4 本部 誠208	
+112	1	10	1	法國史			43	42		HIU0354		半	3.0	歷史系（學）	LU22		History of France			0	50	選		N	1890	陳秀鳳	四 6-8 本部 誠307	
+112	1	10	0	清代中國史			30	30		HIU0358		半	2.0	歷史系（學）	LU22		Chinese History in Ch'ing Dynasty			2	50	選		N	1891	葉高樹	一 3-4 本部 誠208	
+112	1	10	0	西洋中古史			38	38		HIU0362		半	3.0	歷史系（學）	LU22		Medieval History of Western World			0	50	選		N	1892	陳秀鳳	三 6-8 本部 誠307	
+112	1	10	0	宋史			26	26		HIU0365		半	3.0	歷史系（學）	LU22		History of the Song Dynasty			2	50	選		N	1893	李宗翰	三 6-8 本部 正406	
+112	1	10	3	日本史			56	53		HIU0368		半	3.0	歷史系（學）	LU22		History of Japan			2	50	選		N	1894	周東怡	四 2-4 本部 誠306	
+112	1	10	0	中日關係史			49	49		HIU0370		半	2.0	歷史系（學）	LU22		History of Sino-Japanese Relations			2	50	選		N	1895	周東怡	二 3-4 本部 誠306	
+112	1	10	1	臺灣涉外關係史			49	48		HIU0372		半	2.0	歷史系（學）	LU22		History of Taiwan's Foreign Relations			2	50	選		N	1896	陳佳宏	一 3-4 本部 誠306	
+112	1	10	10	臺灣社會史			61	51		HIU0374		半	2.0	歷史系（學）	LU22		Social History of Taiwan			0	50	選		N	1897	陳志豪	二 6-7 本部 誠306	
+112	1	10	10	臺灣史		本課程為中等學校社會領域「領域內跨科課程」，故提供地理系、公領系同學修習，非前述之外系生請勿修習。	54	44		HIU0384		半	2.0	歷史系（學）	LU22		History of Taiwan			0	50	選	◎歷史系（學） 不得修習◎限外系修習	N	1898	陳南旭	三 10-A 本部 誠307	
+112	1	13	13	世界史		本課程為中等學校社會領域「領域內跨科課程」，故提供地理系、公領系同學修習，非前述之外系生請勿修習。	63	50		HIU0385		半	2.0	歷史系（學）	LU22		History of the World			0	50	選	◎歷史系（學） 不得修習◎限外系修習	N	1899	陳建元	三 B-C 本部 誠307	
+112	1	10	5	秦史			55	50		HIU0391		半	3.0	歷史系（學）	LU22		History of Chin People and Chin Dynasty			0	50	選		N	1900	陳健文	三 8-10 本部 正306	
+112	1	10	3	近代中國社會文化史			52	49		HIU0396		半	3.0	歷史系（學）	LU22		Social and Cultural History of Modern China			0	50	選		N	1901	陳惠芬	四 2-4 本部 誠307	
+112	1	10	4	近代西洋思想史			57	53		HIU0397		半	2.0	歷史系（學）	LU22		History of Modern Western Thought			2	50	選		N	1902	陳建元	五 6-7 本部 誠306	
+112	1	10	0	歷史教材教法（教）			18	18		HIUE001		半	2.0	歷史系（學）	LU22		Teaching Materials and Methods: History			0	50	選		N	1903	吳翎君	三 8-9 本部 歷史系視聽教室	
+112	1	10	0	歷史科教學實習（二）（教）		本課程為進階實習課程，注重入校實地學習訓練，限大四以上修習。	19	19		HIUE210		半	2.0	歷史系（學）	LU22		Teaching Practicum: History (II)			0	50	選	◎必須先修過【HIUE110  歷史科教學實習（一）（教）】	N	1904	石蘭梅	五 6-9 本部 樸201	
+112	1	10	0	滿文（一）	9		26	26		HIC0072		半	2.0	歷史系（學）	LU22		Manchu (I)			2	50	選		N	1905	林士鉉	二 A-B 本部 誠307	
+112	1	10	0	東亞社會文化史專題	9		23	23		HIC9004		半	2.0	歷史系（學）	LU22		Seminar on Socio-Cultural History of East Asia			2	50	選		N	1906	陳南旭	二 3-4 本部 誠307	
+112	1	10	0	十九世紀福爾摩沙與世界研討	9		27	27		HIC9013		半	3.0	歷史系（學）	LU22		Studies in Nineteenth-Century Formosa and the World			2	50	選		N	1907	林欣宜	一 6-8 本部 誠306	
+112	1	10	0	近代西方知識分子與中國文化研討	9		10	10		HIC9019		半	2.0	歷史系（學）	LU22		Seminar on Western Intellectuals and Chinese Culture, 1750-1950			2	50	選		N	1908	李峙皞	三 6-7 本部 歷史系視聽教室	
+112	1	10	0	現代香港社會文化議題研討 </br>[ 學分學程：元宇宙學程 ]	9		15	15		HIC9033		半	3.0	歷史系（學）	LU22		Seminar on Socio-Cultural Issues in Modern Hong Kong </br>[ Program: The Program of Metaverse Narrative ]	是		3	50	選		N	1909	吳有能	三 9-A 本部 誠306	
+112	1	10	0	英格蘭法律史研討	9		11	11		HIC9035		半	3.0	歷史系（學）	LU22		Seminar on the History of English Common Law			2	50	選		N	1910	盧省言	四 9-A 本部 誠307	
+112	1	10	0	歷史、記憶與正義研討	9		17	17		HIC9036		半	3.0	歷史系（學）	LU22		Seminar on History, Memory and Justice	是		3	50	選		N	1911	吳有能	一 9-A 本部 正102	
+112	1	10	8	史學導論		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	38	30		HIU0062	A	半	2.0	歷史系（學）	LU22		Introduction to Historiography		1	0	30	必		N	1912	楊彥彬	二 8-9 本部 正406	
+112	1	10	10	史學導論		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	40	30		HIU0062	B	半	2.0	歷史系（學）	LU22		Introduction to Historiography		1	0	30	必		N	1913	林欣宜	二 8-9 本部 誠307	
+112	1	10	8	世界通史（上古）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	38	30		HIU0344	A	半	2.0	歷史系（學）	LU22		General History of the World (Ancient History)		1	0	30	必		N	1914	陳秀鳳	五 3-4 本部 誠307	
+112	1	10	6	世界通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	36	30		HIU0344	B	半	2.0	歷史系（學）	LU22		General History of the World (Ancient History)		1	0	30	必		N	1915	楊彥彬	五 3-4 本部 誠306	
+112	1	10	7	臺灣通史（1895年前）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	37	30		HIU0348	A	半	2.0	歷史系（學）	LU22		General History of Taiwan (Before 1895)		1	0	30	必		N	1916	林欣宜	二 6-7 本部 正406	
+112	1	10	4	臺灣通史（1895年前）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	34	30		HIU0348	B	半	2.0	歷史系（學）	LU22		General History of Taiwan (Before 1895)		1	0	30	必		N	1917	王麒銘	二 6-7 本部 誠307	
+112	1	10	5	中國通史（上古）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	35	30		HIU0380	A	半	2.0	歷史系（學）	LU22		General History of China (Ancient History)		1	0	30	必		N	1918	陳健文	一 3-4 本部 正406	
+112	1	10	5	中國通史（上古）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	35	30		HIU0380	B	半	2.0	歷史系（學）	LU22		General History of China (Ancient History)		1	0	30	必		N	1919	呂春盛	一 3-4 本部 誠307	
+112	1	10	0	中國通史（近世）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	24	24		HIU0342	A	半	2.0	歷史系（學）	LU22		General History of China (Early-Modern)		2	0	30	必		N	1920	陳昭揚	二 8-9 本部 誠206	
+112	1	10	5	中國通史（近世）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	34	29		HIU0342	B	半	2.0	歷史系（學）	LU22		General History of China (Early-Modern)		2	0	30	必		N	1921	李宗翰	二 8-9 本部 正105	
+112	1	10	3	世界通史（近世）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	32	29		HIU0346	A	半	2.0	歷史系（學）	LU22		General History of the World (Early-Modern)		2	0	30	必		N	1922	盧省言	五 8-9 本部 誠204	
+112	1	10	1	世界通史（近世）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	31	30		HIU0346	B	半	2.0	歷史系（學）	LU22		General History of the World (Early-Modern)		2	0	30	必		N	1923	楊彥彬	五 8-9 本部 誠205	
+112	1	10	1	史學方法（一）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	30	29		HIU0221	A	半	2.0	歷史系（學）	LU22		Methodology of Historiography (I)		3	0	30	必		N	1924	葉高樹	二 8-9 本部 誠306	
+112	1	10	3	史學方法（一）		備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。	33	30		HIU0221	B	半	2.0	歷史系（學）	LU22		Methodology of Historiography (I)		3	0	30	必		N	1925	陳健文	二 8-9 本部 正401	
+112	1	5	0	地理學計畫導向學習			41	41		GEU0229		半	3.0	地理系（學）	LU23		Project-Based Learning in Geography			3	50	選		N	1926	吳鄭重	三 6-8 本部 正206	
+112	1	5	0	地學通論（一）			35	35		GEU0233	C	半	2.0	地理系（學）	LU23		Introduction to Geography (I)	是		3	50	必		N	1927	洪立三	一 8-9 本部 正206	
+112	1	5	0	地學通論（二） </br>[ 學分學程：環境監測學程 ]			8	8		GEU0234	C	半	2.0	地理系（學）	LU23		Introduction to Geography (II) </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]	是		5	60	必		N	1928	沈淑敏 翁叔平 李宗祐 陳瑩	二 10-A 本部 誠109	
+112	1	5	0	環境管理與區域規劃實務 </br>[ 學分學程：環境監測學程 區域學程 ]			11	11		GEU0235		半	3.0	地理系（學）	LU23		Environmental Management and Regional Planning Practice </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Region and Tourism Planning ]			0	50	選		N	1929	李素馨 郭乃文	一 A-C 本部 地理系區域教室	
+112	1	5	3	聚落地理			54	51		GEU0007		半	2.0	地理系（學）	LU23		Settlement Geography		1	3	50	選		N	1930	譚鴻仁	四 3-4 本部 正205	
+112	1	7	7	地學通論（一）		新生選課階段限本系大一新生選課，非本系大一新生請於加退選階段選課。授權碼優先發放給延畢學生。	61	54		GEU0233	A	半	2.0	地理系（學）	LU23		Introduction to Geography (I)		1	2	53	必		N	1931	林聖欽	一 A-B 本部 誠208	
+112	1	5	0	地學通論（一）		新生選課階段限本系大一新生選課，非本系大一新生請於加退選階段選課。	18	18		GEU0233	B	半	2.0	地理系（學）	LU23		Introduction to Geography (I)		1	3	50	必		N	1932	張峻嘉	一 3-4 本部 正206	
+112	1	10	8	地學通論（二） </br>[ 學分學程：環境監測學程 ]		新生選課階段限本系大一新生選課，非本系大一新生請於加退選階段選課。	58	50		GEU0234	A	半	2.0	地理系（學）	LU23		Introduction to Geography (II) </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		1	0	50	必		N	1933	沈淑敏 翁叔平 李宗祐 陳瑩	一 6-7 本部 誠302	
+112	1	10	3	地學通論（二） </br>[ 學分學程：環境監測學程 ]		新生選課階段限本系大一新生選課，非本系大一新生請於加退選階段選課。	49	46		GEU0234	B	半	2.0	地理系（學）	LU23		Introduction to Geography (II) </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		1	0	50	必		N	1934	沈淑敏 翁叔平 李宗祐 陳瑩	四 1-2 本部 正205	
+112	1	4	3	臺灣地理	1		54	51		GEU0011		半	3.0	地理系（學）	LU23		Geography of Taiwan		1	3	50	必		N	1935	洪立三	二 2-4 本部 正205	
+112	1	5	3	地質學 </br>[ 學分學程：環境監測學程 ]	1	本課程為下學期「地形學」的先修課程。	53	50		GEU0046		半	3.0	地理系（學）	LU23		Geology </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		1	3	50	選		N	1936	林宗儀	二 7-9 本部 正205	
+112	1	5	0	氣象學	1	本課程為下學期「氣侯學」的先修課程。	44	44		GEU0047		半	3.0	地理系（學）	LU23		Meteorology		1	3	50	選		N	1937	翁叔平	四 7-9 本部 正205	
+112	1	20	2	計量地理	1		58	56		GEU0167		半	3.0	地理系（學）	LU23		Quantitative Geography		1	3	60	必		N	1938	陳哲銘	三 6-8 本部 誠202	
+112	1	5	1	地質學 </br>[ 學分學程：環境監測學程 ]	2	本課程為下學期「地形學」的先修課程。	51	50		GEU0046		半	3.0	地理系（學）	LU23		Geology </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		1	3	50	選		N	1939	林宗儀	三 7-9 本部 正205	
+112	1	5	0	氣象學	2	本課程為下學期「氣侯學」的先修課程。	49	49		GEU0047		半	3.0	地理系（學）	LU23		Meteorology		1	3	50	選		N	1940	洪致文	四 7-9 本部 正206	
+112	1	20	0	計量地理	2		48	48		GEU0167		半	3.0	地理系（學）	LU23		Quantitative Geography		1	3	60	必		N	1941	陳哲銘	二 7-9 本部 誠102	
+112	1	5	0	水文學 </br>[ 學分學程：環境監測學程 空間學程 ]			24	24		GEU0003		半	3.0	地理系（學）	LU23		Hydrology </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Geospatial Information Science ]		2	3	50	選		N	1942	李宗祐	二 6-8 本部 正206	
+112	1	5	0	臺灣地形			23	23		GEU0024		半	3.0	地理系（學）	LU23		Geomorphology of Taiwan		2	3	50	選		N	1943	沈淑敏	四 2-4 本部 正406	
+112	1	0	0	地理資訊系統 </br>[ 學分學程：環境監測學程 空間學程 ]			25	25		GEU0166	A	半	3.0	地理系（學）	LU23		Geographic Information System </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Geospatial Information Science ]		2	0	25	必		N	1944	吳秉昇	四 3-5 本部 地理系電腦教室	
+112	1	0	0	地理資訊系統 </br>[ 學分學程：環境監測學程 空間學程 ]			25	25		GEU0166	B	半	3.0	地理系（學）	LU23		Geographic Information System </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Geospatial Information Science ]		2	0	25	必		N	1945	吳秉昇	四 7-9 本部 地理系電腦教室	
+112	1	5	5	地理資訊系統 </br>[ 學分學程：環境監測學程 空間學程 ]			29	24		GEU0166	C	半	3.0	地理系（學）	LU23		Geographic Information System </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Geospatial Information Science ]	是	2	0	25	必		N	1946	張國楨	五 3-5 本部 地理系電腦教室	
+112	1	5	5	地理資訊系統 </br>[ 學分學程：環境監測學程 空間學程 ]			30	25		GEU0166	D	半	3.0	地理系（學）	LU23		Geographic Information System </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Geospatial Information Science ]		2	0	25	必		N	1947	張國楨	五 6-8 本部 地理系電腦教室	
+112	1	5	0	測量學 </br>[ 學分學程：環境監測學程 區域學程 空間學程 ]			44	44		GEU0184		半	3.0	地理系（學）	LU23		Surveying </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Region and Tourism Planning The Program of Geospatial Information Science ]		2	3	50	選		N	1948	王聖鐸	一 6-8 本部 誠107	
+112	1	5	5	國家公園與世界遺產 </br>[ 學分學程：區域學程 ]			51	46		GEU0187		半	2.0	地理系（學）	LU23		National Park and World Heritage </br>[ Program: The Program of Region and Tourism Planning ]		2	3	50	選		N	1949	李素馨	四 6-7 本部 樸204	
+112	1	5	0	生態觀光與遊憩 </br>[ 學分學程：區域學程 ]			58	58		GEU0194		半	3.0	地理系（學）	LU23		Ecotourism and Recreation </br>[ Program: The Program of Region and Tourism Planning ]		2	3	65	選		N	1950	郭乃文	五 2-4 本部 誠109	
+112	1	5	1	地理學研究法			17	16		GEU0202		半	3.0	地理系（學）	LU23		Approach in Geography		2	0	35	選		N	1951	洪致文	二 8-10 本部 地理系會議室	
+112	1	10	10	經濟地理 </br>[ 學分學程：國關與外交學程 ]	1		62	52		GEU0006		半	3.0	地理系（學）	LU23		Economic Geography </br>[ Program: The Program of International Relations and Diplomacy ]		2	3	50	必		N	1952	許嘉麟	二 2-4 本部 誠202	
+112	1	10	8	地圖學 </br>[ 學分學程：空間學程 ]	1	授權碼優先發放給大四以上同學	60	52		GEU0017		半	3.0	地理系（學）	LU23		Cartography </br>[ Program: The Program of Geospatial Information Science ]		2	3	50	必		N	1953	王聖鐸	一 2-4 本部 誠402	
+112	1	10	0	地圖學 </br>[ 學分學程：空間學程 ]	2	授權碼優先發放給大四以上同學	51	51		GEU0017		半	3.0	地理系（學）	LU23		Cartography </br>[ Program: The Program of Geospatial Information Science ]		2	3	50	必		N	1954	王聖鐸	二 2-4 本部 誠402	
+112	1	5	0	土壤地理 </br>[ 學分學程：環境監測學程 ]			23	23		GEU0004		半	2.0	地理系（學）	LU23		Soil Geography </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		3	5	50	選		N	1955	韋煙灶	二 A-B 本部 誠202	
+112	1	2	0	氣候變遷 </br>[ 學分學程：環境監測學程 ]			24	24		GEU0039		半	3.0	地理系（學）	LU23		Climate Change </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		3	3	50	選		N	1956	翁叔平	五 7-9 本部 正206	
+112	1	5	0	市場地理 </br>[ 學分學程：空間學程 ]			43	43		GEU0053		半	2.0	地理系（學）	LU23		Marketing Geography </br>[ Program: The Program of Geospatial Information Science ]		3	3	50	選		N	1957	周學政	三 9-10 本部 正206	
+112	1	5	2	衛星影像處理與應用 </br>[ 學分學程：環境監測學程 空間學程 ]			18	16		GEU0176		半	3.0	地理系（學）	LU23		Satellite Image Analysis and Applications </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Geospatial Information Science ]		3	0	25	選	◎必須先修過【GEU0166  地理資訊系統】	N	1958	張國楨	三 6-8 本部 地理系電腦教室	
+112	1	5	0	土地法規 </br>[ 學分學程：區域學程 空間學程 ]			44	44		GEU0227		半	3.0	地理系（學）	LU23		Land Laws and Regulations </br>[ Program: The Program of Region and Tourism Planning The Program of Geospatial Information Science ]		3	3	50	選		N	1959	張鈺光	一 7-9 本部 正106	
+112	1	5	0	環保行政學			26	26		GEU0230		半	2.0	地理系（學）	LU23		Environmental Protection Administration		3	3	50	選		N	1960	顏秀慧	四 6-7 本部 誠107	
+112	1	3	3	地理視覺化 </br>[ 學分學程：元宇宙學程 區域學程 空間學程 ]			28	25		GEU0239		半	3.0	地理系（學）	LU23		Geovisualization </br>[ Program: The Program of Metaverse Narrative The Program of Region and Tourism Planning The Program of Geospatial Information Science ]		3	1	25	選		N	1961	周學政	四 2-4 本部 教404	
+112	1	5	0	原住民族地理 </br>[ 學分學程：區域學程 原民教育學程 ]			10	10		GEU0242		半	3.0	地理系（學）	LU23		Indigenous Geography </br>[ Program: The Program of Region and Tourism Planning The Program of Indigenous Education and Culture ]		3	3	50	選		N	1962	汪明輝	四 7-9 本部 正106	
+112	1	3	0	生物多樣性與保育概論 </br>[ 學分學程：環境監測學程 ]			17	17		GEU0249		半	3.0	地理系（學）	LU23		Introduction to Biodiversity and Conservation Biology </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		3	1	43	選		N	1963	陳瑩	二 6-8 本部 誠105	
+112	1	5	2	地理思想	1		53	51		GEU0118		半	3.0	地理系（學）	LU23		Geographic Thoughts		3	3	50	必		N	1964	陳哲銘 譚鴻仁	二 2-4 本部 正106	
+112	1	5	5	經濟地理 </br>[ 學分學程：國關與外交學程 ]	2		51	46		GEU0006		半	3.0	地理系（學）	LU23		Economic Geography </br>[ Program: The Program of International Relations and Diplomacy ]		3	3	50	必		N	1965	王文誠	二 2-4 本部 正206	
+112	1	5	5	地理思想	2		70	65		GEU0118		半	3.0	地理系（學）	LU23		Geographic Thoughts		3	3	70	必		N	1966	蘇淑娟	一 2-4 本部 誠101	
+112	1	5	2	非洲地理			29	27		GEU0070		半	2.0	地理系（學）	LU23		Geography of Africa		4	0	50	選	◎必須先修過【GEU0014  世界地理】	N	1967	張峻嘉	一 6-7 本部 正206	
+112	1	3	0	社會領域課程概論		須修完「社會領域課程概論」，才能選修「社會領域探究與實作」；限大三大四學生修習	33	33		GEU0241		半	2.0	地理系（學）	LU23		Introduction to Social Studies		4	1	43	選		N	1968	蘇淑娟	五 3-4 本部 誠105	
+112	1	3	0	地理教學實習（一）（教）		本課程含實地學習時數36小時	19	19		GEUE110		半	2.0	地理系（學）	LU23		Teaching Practicum: Geography (I)		4	0	40	選	◎必須先修過【GEUE001  地理教材教法（教）】	N	1969	林聖欽	二 6-9 本部 樸201	
+112	1	10	0	基礎口筆譯入門 </br>[ 學分學程：中英翻譯學程 ]	9		42	42		TIC9001		半	3.0	翻譯所（學）	LU25		Introduction to Translation and Interpretation </br>[ Program: The Program of Translation and Interpretation ]			5	50	必	◎初選 中英翻譯學程 研究生得下修	N	1970	陳子瑋 徐立妍	一 7-9 本部 教202會議廳	
+112	1	10	1	中英筆譯（二） </br>[ 學分學程：中英翻譯學程 ]	9		13	12		TIC9003		半	3.0	翻譯所（學）	LU25		Translation (II) </br>[ Program: The Program of Translation and Interpretation ]			3	50	選	◎必須先修過【TIC9002  中英筆譯（一）】	N	1971	朱雯琪	一 2-4 本部 樸201	
+112	1	10	0	中英口譯（二） </br>[ 學分學程：中英翻譯學程 ]	9		10	10		TIC9006		半	3.0	翻譯所（學）	LU25		Interpreting (II) </br>[ Program: The Program of Translation and Interpretation ]			3	50	選	◎必須先修過【TIC9005  中英口譯（一）】	N	1972	詹柏勻	五 7-9 本部 勤302	
+112	1	10	1	臺灣電影導論			47	46		TCU1004		半	2.0	臺文系（學）	LU26		Introduction to Taiwan Cinema			3	50	選		N	1973	蔡逸璇	四 8-9 本部 正403	
+112	1	10	0	臺灣媒介批評			26	26		TCU1007		半	2.0	臺文系（學）	LU26		Media Criticism			3	50	選		N	1974	劉定綱	一 6-7 本部 正404	
+112	1	10	10	初級臺語			61	51		TCU2005		半	2.0	臺文系（學）	LU26		Beginning Taiwanese			3	50	選		N	1975	蔡惠名	五 3-4 本部 正403	
+112	1	10	0	英文臺灣文獻			27	27		TCU2006		半	3.0	臺文系（學）	LU26		English Readings about Taiwan	是		3	50	選		N	1976	賀安娟	二 2-4 本部 文學院B1會議室	
+112	1	10	1	初級客語			27	26		TCU2016		半	2.0	臺文系（學）	LU26		Beginning Hakka			3	50	選		N	1977	呂亭慧	四 6-7 本部 正403	
+112	1	10	0	自動語料收集與分析入門			16	16		TCU2046		半	3.0	臺文系（學）	LU26		Introduction to Automatic Retrieval of Linguistic Data and Corpus Analysis			3	50	選		N	1978	劉承賢	二 2-4 本部 正403	
+112	1	10	0	賴和文學作品選讀			9	9		TCU3028		半	3.0	臺文系（學）	LU26		Selected Readings in Lua Ho's Literature			3	50	選		N	1979	周馥儀	二 6-8 本部 正404	
+112	1	10	0	多媒體臺語文創作			10	10		TCU4009		半	2.0	臺文系（學）	LU26		Multi-Media Creative Writing in Taiwanese			3	50	選		N	1980	陳龍廷	四 6-7 本部 正404	
+112	1	10	0	社區文化資產與當代臺灣文化			35	35		TCU4016		半	2.0	臺文系（學）	LU26		Cultural Heritage in Community and Modern Taiwan Culture			3	50	選		N	1981	周馥儀	二 9-10 本部 正404	
+112	1	10	1	採訪寫作與媒體傳播 </br>[ 學分學程：元宇宙學程 ]			12	11		TCU4024		半	2.0	臺文系（學）	LU26		Reporting, Writing, and Media Communication </br>[ Program: The Program of Metaverse Narrative ]			3	50	選		N	1982	曾偉旻	一 A-B 本部 誠307	
+112	1	10	0	臺語的口語表達			24	24		TCU4034		半	2.0	臺文系（學）	LU26		Speech in Taiwanese			3	50	選		N	1984	蔡惠名	三 8-9 本部 誠106	
+112	1	10	0	臺灣在世界文化中的再現			32	32		TCU4036		半	3.0	臺文系（學）	LU26		The Representation of Taiwan in World Culture	是		3	50	選		N	1985	伊恩	五 2-4 本部 樸302	
+112	1	10	0	臺語教材教法（教）			15	15		TCUE001		半	2.0	臺文系（學）	LU26		Taiwanese Language Teaching Methods and Materials			0	50	選		N	1986	王秀容	一 10-A 本部 誠305	
+112	1	10	0	臺灣文化概論			52	52		TCU0024		半	3.0	臺文系（學）	LU26		Introduction to Taiwan Culture		1	3	50	必		N	1987	莊佳穎	四 2-4 本部 正403	
+112	1	10	0	臺語導論			46	46		TCU0025		半	3.0	臺文系（學）	LU26		Introduction to Taiwanese		1	3	50	必		N	1988	許慧如	一 2-4 本部 正403	
+112	1	10	0	臺灣文學史			33	33		TCU0028		半	3.0	臺文系（學）	LU26		Taiwan Literary History		1	3	50	必		N	1989	林巾力	一 7-9 本部 正403	
+112	1	10	0	文化研究概論			28	28		TCU0011		半	3.0	臺文系（學）	LU26		Introduction to Culture Studies		2	3	50	必		N	1990	林芳玫	一 8-10 本部 正404	
+112	1	10	0	語言學概論			41	41		TCU0026		半	3.0	臺文系（學）	LU26		Introduction to Linguistics		2	3	50	必		N	1991	劉承賢	一 2-4 本部 誠205	
+112	1	10	0	大學臺語			37	37		TCU4018		半	3.0	臺文系（學）	LU26		College-Level Taiwanese		2	3	50	必		N	1992	呂美親	二 6-8 本部 正403	
+112	1	10	0	臺灣古典文學選			24	24		TCU0007		半	3.0	臺文系（學）	LU26		Selected Readings in Taiwan Classical Literature		3	3	50	必		N	1993	林淑慧	三 6-8 本部 正404	
+112	1	10	0	學術閱讀與寫作			28	28		TCU0030		半	3.0	臺文系（學）	LU26		Academic Reading and Writing		3	0	50	必		N	1994	曾秀萍	五 5-7 本部 誠203	
+112	1	10	0	臺灣文化史			28	28		TCU1010		半	3.0	臺文系（學）	LU26		Taiwanese Culture History　		3	3	50	必		N	1995	陳玉箴	二 6-8 本部 正204	
+112	1	10	0	臺灣歷史的公眾寫作 </br>[ 學分學程：知識轉譯學程 ]	9		11	11		THC9003		半	3.0	臺史所（學）	LU27		Public Writing of Taiwan History </br>[ Program: The Program of Transformation of Knowledge and Cultural Production ]			5	50	選		N	1996	陳志豪	一 2-4 本部 樸306	
+112	1	10	0	當代音樂教育研究法			3	3		MUD0005		半	2.0	音樂系（博）	MD90		Research in Music Education			0	50	必	◎課程開放上修	N	1997	潘宇文	一 9-10 本部 樂研五	
+112	1	10	0	民族音樂學理論與實際			5	5		MUD0009		半	2.0	音樂系（博）	MD90		Theory and Practice of Ethnomusicology			0	50	必	◎課程開放上修	N	1998	張海欣	三 8-9 本部 樂研五	
+112	1	10	0	創作研討（一）			1	1		MUD0016		半	2.0	音樂系（博）	MD90		Studies in Composition (I)			0	50	必	◎課程開放上修	N	1999	趙菁文	四 8-9 本部 樂研六	

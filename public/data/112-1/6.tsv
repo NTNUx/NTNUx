@@ -1,0 +1,12 @@
+﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
+112	1	0	0	統計學(一)		管理學院 ; 工業管理系 ; 限本系生、二技雙號學生選修、EMI課程、英語授課、業界師資協同教學、限40人 ; 限修學制：大、碩、博	0	0		ABU0389	B	半	3.0	校際臺科大（學）	9UAB		Statistics (1)	是			1	選			6000	葉瑞徽	五 6-8 MA-010	
+112	1	0	0	工程數學(一)		工程學院 ; 機械工程系 ; R7演算課，由助教上課 ; 限修學制：大、碩、博	0	0		ABU0454	D	半	3.0	校際臺科大（學）	9UAB		Engineering Mathematics (I)				0	選			6002	蘇裕軒	四 6-7 TR-412-2, 二 3-4 TR-412-2	
+112	1	0	0	水利工程演算		工程學院 ; 營建工程系 ; 英語授課、限臺巴科大學生修讀、EMI課程 ; 限修學制：大、碩、博	0	0		ABU0878	A	半	0.5	校際臺科大（學）	9UAB		Hydraulic Engineering Tutorial	是			0	選			6003	鍾秉宸	五 6 IB-610	
+112	1	0	0	文化社會學	7	社會科學院 ; 社會學研究所 ;   限修學制：大、碩、博	1	1		AAC7I97	B	半	3.0	校際臺大（學）	9UAA		Sociology of Culture				3	選	◎加退選全授權碼選課		6004	李令儀	三 7-9 社211	
+112	1	0	0	金融科技與創新		管理學院 ; 商學研究所 ;   限修學制：大三以上、碩、博	0	0		AAM2039	A	半	3.0	校際臺大（碩）	9MAA		Financial Technology and Innovation				2	選	◎課程開放上修 ◎加退選全授權碼選課		6005	陳文華	二 7-9 管一405	
+112	1	0	0	營建業組織結構與經營管理		工學院 ; 土木工程學研究所 ;   限修學制：碩	0	0		AAM2040	A	半	3.0	校際臺大（碩）	9MAA		Organization Structure and Management of Construction Industry				1	選	◎課程不開放上修		6006	王明德	二 A-C 土研402	
+112	1	0	0	社會工作概論上		社會科學院 ; 社會工作學系 ; 社工概下,社會團體工作,社會個案工作,社工實習指引先修課；討論課每週四5-6節。 ; 限修學制：大、碩、博	1	1		AAU0041	C	半	3.0	校際臺大（學）	9UAA		Introduction to Social Work (1)				0	選	◎加退選全授權碼選課		6007	李美儀	二 2-4 社101, 四 5-6 請洽系所辦	
+112	1	0	2	程式設計與資料分析		共同教育中心 ; 共同教育組 ; 限非電資學院學生選修。需自備筆電。 ; 限修學制：大、碩、博	2	0		AAU1392	A	半	3.0	校際臺大（學）	9UAA		Programming and Data Analysis				10	選	◎加退選全授權碼選課		6008	郭耀仁	五 2-4 綜302	
+112	1	0	0	公共政策一		社會科學院 ; 政治學系 ; 限大三以上修課，大二以下同學須獲得開課教師同意。 ; 限修學制：大三以上、碩、博	1	1		AAU2095	A	半	2.0	校際臺大（學）	9UAA		Public Policy (I)				0	選	◎加退選全授權碼選課		6097	郭銘峰	三 8-9 社科303	
+112	1	0	0	英語檢定		人文社會學院 ; 應用外語系 ; 遴選不開放選修 ; 限修學制：大、碩、博	0	0		ABU0762	A	半	0.0	校際臺科大（學）	9UAB		English Proficiency Requirement				0	選			6100			
+112	1	0	0	進階英語檢定		人文社會學院 ; 應用外語系 ; 遴選不開放選修 ; 限修學制：大、碩、博	0	0		ABU0838	A	半	0.0	校際臺科大（學）	9UAB		English Proficiency Requirement				0	選			6101			

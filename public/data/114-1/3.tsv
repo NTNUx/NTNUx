@@ -1,0 +1,977 @@
+﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
+114	1	10	0	中國哲學與審美研究			27	27		ATM6152		半	3.0	美術系（碩）	TM60		The Studies of Chinese Philosophy and Aesthetics			0	30	選	◎課程不開放上修	N	3000	吳宥鋅	二 6-8 和平 美501	
+114	1	10	0	美術教育史與美術教育哲理	8	授課教師:傅斌輝	8	8		ATC0004		半	3.0	美術系（碩）	TM60		History and Philosophy of Art Education			0	30	選	◎課程不開放上修	N	3001	傅斌暉	二 10-B 和平 美301	
+114	1	10	0	綜合媒材創作研究	8	授課教師:王瓊麗	10	10		ATC0037		半	3.0	美術系（碩）	TM60		Studies in Mixed Technique in Painting			0	30	選	◎課程不開放上修	N	3002	王瓊麗	二 7-9 和平 美504	
+114	1	10	0	版畫創作研究	8	授課教師:林福全	6	6		ATC0087		半	3.0	美術系（碩）	TM60		Studies in Creative Printmaking			0	30	選	◎課程不開放上修	N	3003	林福全	五 8-10 和平 美201	
+114	1	10	0	藝術與法律	8	授課教師:廖凰玎	8	8		ATC0132		半	3.0	美術系（碩）	TM60		Art and Law			0	30	選	◎課程不開放上修	N	3004	廖凰玎	四 2-4 和平 美406	
+114	1	10	0	繪畫創作研究（一）	8		8	8		ATC0225		半	3.0	美術系（碩）	TM60		Studies in Special Painting (I)			0	30	選	◎課程不開放上修	N	3005	宋曉明	一 2-4 和平 美401	
+114	1	10	3	藝術與文化理論研究	8	授課教師:趙可卿	19	16		ATC0228		半	3.0	美術系（碩）	TM60		Studies in Art and Cultural Theories			2	30	選	◎課程不開放上修	N	3006	趙可卿	三 2-4 和平 美301	
+114	1	10	0	歐洲現代藝術專題研究：一八八０∼一九四五	8	授課教師:楊永源	7	7		ATC0237		半	3.0	美術系（碩）	TM60		Special Topics on European Art: 1880-1945			2	30	選	◎課程不開放上修	N	3007	楊永源	二 6-8 和平 美203	
+114	1	10	0	臺灣當代藝術專題研究	8		21	21		ATC0250		半	3.0	美術系（碩）	TM60		Special Topics on Contemporary Taiwanese Art			0	30	選	◎課程不開放上修	N	3008	白適銘	四 A-C 和平 美203	
+114	1	10	10	藝術論文寫作與分析	8	授課教師:顧素琿	40	30		ATC0270		半	3.0	美術系（碩）	TM60		Art Thesis Writing and Analysis			0	30	選	◎課程不開放上修	N	3009	顧素琿	一 6-8 和平 美301	
+114	1	10	0	當代藝術專題研究	8		6	6		ATC0310		半	3.0	美術系（碩）	TM60		Special Topics on Contemporary Arts	是		1	30	選	◎課程不開放上修	N	3010	魏竹君	四 2-4 和平 美301	
+114	1	10	0	當代繪畫研究與創作（一）	8		21	21		ATC0334		半	3.0	美術系（碩）	TM60		Study and Creation of Contemporary Painting (I)			0	30	選	◎課程不開放上修	N	3011	朱友意	四 2-4 和平 美504	
+114	1	10	0	媒體藝術研討	8		4	4		ATC0341		半	3.0	美術系（碩）	TM60		Seminar in Media Art			0	30	選	◎課程不開放上修	N	3012	邱誌勇	五 8-10 和平 美406	
+114	1	10	0	視覺效果與影像處理 </br>[ 學分學程：科技藝術學程 ]	8	授課教師:陳永賢	3	3		ATC0347		半	3.0	美術系（碩）	TM60		Visual Effects and Image Manipulation </br>[ Program: The Program of Digital Art and Technology ]			0	30	選	◎課程不開放上修	N	3013	陳永賢	四 6-8 和平 美406	
+114	1	10	0	新媒體互動藝術專題研究 </br>[ 學分學程：科技藝術學程 ]	8	授課教師:李炳曄	4	4		ATC0349		半	3.0	美術系（碩）	TM60		Research of New Media Interactive Art </br>[ Program: The Program of Digital Art and Technology ]			0	30	選	◎課程不開放上修	N	3014	李炳曄	二 2-4 和平 美203	
+114	1	10	0	美術館教育專題研究	8	授課教師:吳岱融	13	13		ATC0359		半	3.0	美術系（碩）	TM60		Selected Topics in Museum Education			0	30	選	◎課程不開放上修	N	3015	吳岱融	三 7-9 和平 美406	
+114	1	10	0	現代美學新論	8	授課教師:高榮禧	19	19		ATC3022		半	3.0	美術系（碩）	TM60		New Introduction to Modern Aesthetics			0	30	選	◎課程不開放上修	N	3016	高榮禧	五 8-10 和平 美203	
+114	1	10	0	視覺文化與繪畫創作研究	8		18	18		ATC8013		半	3.0	美術系（碩）	TM60		Visual Culture and Painting			0	30	選	◎課程不開放上修	N	3017	蔡芷芬	三 2-4 和平 美405	
+114	1	10	0	美術館與藝術史研究	8	授課教師:廖仁義	26	26		ATC8019		半	3.0	美術系（碩）	TM60		Studies in the Art Museum and the Art History			0	30	選	◎課程不開放上修	N	3018	廖仁義	五 2-4 和平 美203	
+114	1	10	0	視覺隱喻與應用	8		8	8		ATC8044		半	3.0	美術系（碩）	TM60		Visual Metaphors and Applications			0	30	選	◎課程不開放上修	N	3019	陳淑華	三 7-9 和平 美502	
+114	1	10	0	書寫藝術研究	8	授課教師:程代勒	24	24		ATC8045		半	3.0	美術系（碩）	TM60		Studies in Calligraphy Art			0	30	選	◎課程不開放上修	N	3020	程代勒	四 6-8 和平 美501	
+114	1	10	0	修復科技專題研究（三）	8		9	9		ATC8048		半	3.0	美術系（碩）	TM60		Conservation Special Project (III)			0	30	選	◎課程不開放上修	N	3021	吳盈君	二 6-8 和平 美506	
+114	1	10	0	媒介、觀眾與體驗 </br>[ 學分學程：科技藝術學程 ]	8		7	7		ATC8068		半	3.0	美術系（碩）	TM60		Studies of Mediated Audience and Experience for the Arts </br>[ Program: The Program of Digital Art and Technology ]			0	30	選	◎課程不開放上修	N	3022	蘇瑤華	四 2-4 和平 美405	
+114	1	10	0	中國繪畫史研究導論			7	7		AHM0002		半	3.0	藝史所（碩）	TM67		Introduction to the History of Chinese Painting			1	30	選	◎課程開放上修	N	3024	蔡家丘	四 2-4 和平 青田406室	
+114	1	10	0	圖像學			17	17		AHM0020		半	3.0	藝史所（碩）	TM67		Iconography	是		1	30	選	◎課程開放上修	N	3025	Candida Syndikus	二 7-9 和平 青田405室	
+114	1	10	0	中國藝術史傳統文獻研究導論			3	3		AHM0081		半	3.0	藝史所（碩）	TM67		Introduction to Traditional Documentary Sources in Chinese Art			1	30	選	◎課程開放上修	N	3026	林麗江	四 2-4 和平 青田405室	
+114	1	10	0	宋代繪畫			7	7		AHM0097		半	3.0	藝史所（碩）	TM67		Song Painting			1	30	選	◎課程開放上修	N	3027	林麗江	三 7-9 和平 青田405室	
+114	1	10	0	繪畫史研究導論			10	10		AHM0115		半	3.0	藝史所（碩）	TM67		Introduction to the History of Painting	是		1	30	選	◎課程開放上修	N	3028	諾斯邦	三 3-5 和平 青田406室	
+114	1	10	0	繪畫與電影專題研究：畫布與銀幕之間			6	6		AHM0143		半	3.0	藝史所（碩）	TM67		Painting and Film: between the Canvas and the Movie Screen	是		1	30	選	◎課程開放上修	N	3029	諾斯邦	二 3-5 和平 青田406室	
+114	1	10	0	二十世紀建築			7	7		AHM0173		半	3.0	藝史所（碩）	TM67		Twentieth-Century Architecture			1	30	選	◎課程開放上修	N	3030	王維周	一 7-9 和平 青田405室	
+114	1	10	0	東亞書畫保存修復專題			8	8		AHM0239		半	3.0	藝史所（碩）	TM67		Studies in Preservation and Conservation of East Asian Painting and Calligraphy			1	30	選	◎課程開放上修	N	3031	林煥盛	二 7-9 和平 青田406室	
+114	1	10	0	藝術策展實踐與理論			11	11		AHM0800		半	3.0	藝史所（碩）	TM67		Curatorial Practice and Theory in the Arts	是		1	30	選	◎課程開放上修	N	3032	謝佩君	三 7-9 和平 青田406室	
+114	1	10	0	版畫、書籍與地圖：1500年左右歐洲的複製藝術			5	5		AHM0801		半	3.0	藝史所（碩）	TM67		Prints, Books, and Maps: Reproductive Arts in Europe around 1500	是		1	30	選	◎課程開放上修	N	3033	Candida Syndikus	一 7-9 和平 青田406室	
+114	1	8	0	全球冷戰與東亞藝術			6	6		AHM0802		半	3.0	藝史所（碩）	TM67		Global Cold War and East Asian Art			1	30	選	◎課程開放上修	N	3034	賴毓芝 陳蓓	四 7-9 和平 青田406室	
+114	1	6	3	研究方法論			33	30		VDM0002		半	3.0	設計系（碩）	TM68		Theory and Approach of Study			0	30	必	◎課程開放上修	N	3035	伊彬	一 5-7 和平 綜914	
+114	1	3	0	商業廣告設計研究		授課教師：何清輝老師	19	19		VDM0007		半	3.0	設計系（碩）	TM68		Studies of Commercial Design			0	30	選	◎課程開放上修	N	3036	何清輝	二 2-4 和平 設計系6A教室	
+114	1	3	0	品牌設計專題研究			29	29		VDM0010		半	3.0	設計系（碩）	TM68		Special Topics on Branding Design			0	30	選	◎課程開放上修	N	3037	王千睿	四 2-4 和平 設計系3B教室	
+114	1	5	0	平面設計專題研究		授課教師：德國魏瑪包浩斯大學藝術與設計學院平面設計領域教授Markus Weisbedk，密集授課(共計6次)，上課日期：9/2、9/9、9/16、9/23、9/30、10/7，每次上課時間：13:20-21:20，上課教室：青田大樓6A教室	15	15		VDM0025		半	3.0	設計系（碩）	TM68		Special Topics on Graphic Design	是		1	30	選	◎課程開放上修	N	3038	MARKUS WEISBECK	◎密集課程	
+114	1	3	0	視覺設計專題研究			13	13		VDM0029		半	3.0	設計系（碩）	TM68		Special Topics on Visual Design			0	30	選	◎課程開放上修	N	3039	施令紅	三 8-10 和平 綜914	
+114	1	3	0	動態影像研究		授課教師：曾乙文老師	8	8		VDM0035		半	3.0	設計系（碩）	TM68		Studies in Motion Graphics	是		0	30	選	◎課程開放上修	N	3040	曾乙文	三 5-7 和平 綜914	
+114	1	3	0	產品設計專題研究			13	13		VDM0045		半	3.0	設計系（碩）	TM68		Special Topics on Product Design			0	30	選	◎課程開放上修	N	3041	梁桂嘉	二 2-4 和平 設計系3B教室	
+114	1	3	0	綠色設計專題	8		21	21		VDC8005		半	3.0	設計系（碩）	TM68		Special Topics in Green Design			0	30	選	◎課程開放上修	N	3042	鄧建國	五 2-4 和平 設計系2A教室	
+114	1	3	0	設計創意評量專題研究	8		9	9		VDC8008		半	3.0	設計系（碩）	TM68		Special Topics on Design Creativity Assessment	是		0	30	選	◎課程開放上修	N	3043	周賢彬	四 7-9 和平 綜913	
+114	1	10	9	文化資產保存與活化（一） </br>[ 學分學程：文物保存修復學程 ]			40	31		ATU0357		半	3.0	美術系（學）	TU60		Conservation and Rehabilitation of Cultural Heritage (I) </br>[ Program: The Program of Conservation of Cultural Relics ]			2	30	選	◎初選 文物保存修復學程 研究生得下修	N	3044	江柏煒	二 2-4 和平 綜10樓教室	
+114	1	10	8	西方繪畫顏料製作 </br>[ 學分學程：文物保存修復學程 ]			25	17		ATU0373		半	3.0	美術系（學）	TU60		Making of Western Painting Pigments </br>[ Program: The Program of Conservation of Cultural Relics ]			2	30	選	◎初選 文物保存修復學程 研究生得下修 ◎必須先修過(也可以同時修)【ATU0353  西方繪畫材料技法與臨摹（一）】、【ATU0354  西方繪畫材料技法與臨摹（二）】其中一門	N	3045	吳盈君	一 2-4 和平 美506	
+114	1	10	0	藝術產業實習	9		5	5		ATC9002		半	3.0	美術系（學）	TU60		Practice in Art Industry			0	30	選		N	3046	蘇瑤華	六 6-10 和平 美405	
+114	1	10	6	藝術概論 </br>[ 學分學程：社團領導學程 ]		授課教師:顧素琿	58	52		ATU0013		半	2.0	美術系（學）	TU60		An Introduction to Art </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		1	3	50	必		N	3047	顧素琿	三 6-7 和平 美101	
+114	1	10	5	西方美術史（一）		授課教師:趙可卿	58	53		ATU0305		半	2.0	美術系（學）	TU60		History of Western Art (I)		1	3	50	必		N	3048	趙可卿	二 6-7 和平 美101	
+114	1	10	1	中國美術史			51	50		ATU0026		半	2.0	美術系（學）	TU60		History of Chinese Art		2	3	50	必		N	3049	白適銘	二 8-9 和平 美101	
+114	1	10	9	繪畫發展與心智成長 </br>[ 學分學程：藝教學程 ]			55	46		ATU0232		半	2.0	美術系（學）	TU60		Drawing Development and Mental Growth </br>[ Program: The Program of Art Education Therapy ]		2	2	50	選		N	3050	江學瀅	一 1-2 和平 美301	
+114	1	11	9	美學（一） </br>[ 學分學程：社團領導學程 ]			62	53		ATU0237		半	2.0	美術系（學）	TU60		Aesthetics (I) </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		2	3	50	必		N	3051	魏竹君	五 6-7 和平 美101	
+114	1	10	5	版畫（一） </br>[ 學分學程：藝教學程 ]		授課教師:楊紋瑜	30	25		ATU0307		半	2.0	美術系（學）	TU60		Printmaking (I) </br>[ Program: The Program of Art Education Therapy ]		2	2	30	選		N	3052	楊紋瑜	五 3-4 和平 美201	
+114	1	10	10	攝影		授課教師:張國治	38	28		ATU6013		半	2.0	美術系（學）	TU60		Photography		2	3	30	選		N	3053	張國治	一 9-10 和平 美301	
+114	1	10	2	基礎雕塑		授課教師:林正仁	24	22		ATU0023		半	3.0	美術系（學）	TU60		Sculpture - University Foundation Level		3	1	30	選		N	3054	林正仁	五 2-4 和平 美101	
+114	1	10	3	陶藝（一） </br>[ 學分學程：藝教學程 ]		授課教師:唐瑄	32	29		ATU0231		半	3.0	美術系（學）	TU60		Ceramics (I) </br>[ Program: The Program of Art Education Therapy ]		3	0	30	選		N	3055	唐瑄	三 8-10 和平 美B002陶藝	
+114	1	10	4	藝術批評			33	29		ATU0340		半	2.0	美術系（學）	TU60		Art Criticism		3	2	50	選		N	3056	魏竹君	五 3-4 和平 美301	
+114	1	10	9	藝術治療與繪本應用 </br>[ 學分學程：藝教學程 高齡學程 ]			45	36		ATU0346		半	2.0	美術系（學）	TU60		Art Therapy and the Application of Picture Books </br>[ Program: The Program of Art Education Therapy The program of Cultivating Seniors Service Talent in Community ]		3	2	30	選		N	3057	江學瀅	一 3-4 和平 美301	
+114	1	10	6	行為與觀念藝術		授課教師:姚瑞中	37	31		ATU0196		半	2.0	美術系（學）	TU60		Performance and Conceptual Art		4	2	30	選		N	3058	姚瑞中	五 9-10 和平 美405	
+114	1	10	0	現代版畫（一）		授課教師:楊紋瑜	18	18		ATU0245		半	2.0	美術系（學）	TU60		Modern Printmaking (I)		4	2	30	選		N	3059	楊紋瑜	五 6-7 和平 美201	
+114	1	10	5	文物保存修復倫理原則與檢視登錄 </br>[ 學分學程：文物保存修復學程 ]		授課教師:潘怡伶	34	29		ATU0350		半	2.0	美術系（學）	TU60		Conservation Ethics and Documentation of Culture Relics </br>[ Program: The Program of Conservation of Cultural Relics ]		4	2	30	選	◎初選 文物保存修復學程 研究生得下修	N	3060	潘怡伶	四 6-7 和平 美506	
+114	1	10	2	西方繪畫材料技法與臨摹（一） </br>[ 學分學程：文物保存修復學程 ]			37	35		ATU0353		半	3.0	美術系（學）	TU60		Techniques and Materials-Painting Conservation Basic (I) </br>[ Program: The Program of Conservation of Cultural Relics ]		4	2	30	選	◎初選 文物保存修復學程 研究生得下修	N	3061	鈴鴨富士子	一 7-9 和平 美506	
+114	1	10	9	東方繪畫材料技法與臨摹（一） </br>[ 學分學程：文物保存修復學程 ]		授課教師:潘怡伶	32	23		ATU0355		半	3.0	美術系（學）	TU60		Techniques and Materials-Asian Painting Conservation Basic (I) </br>[ Program: The Program of Conservation of Cultural Relics ]		4	2	30	選	◎初選 文物保存修復學程 研究生得下修 ◎必須先修過(也可以同時修)【ATU0350  文物保存修復倫理原則與檢視登錄】	N	3062	潘怡伶	四 2-4 和平 美506	
+114	1	10	0	臺灣美術史			43	43		ATU1003		半	2.0	美術系（學）	TU60		History of Taiwan Art		4	2	50	必		N	3063	白適銘	四 8-9 和平 美101	
+114	1	10	2	美術教學實習（教）			29	27		ATUE010		半	2.0	美術系（學）	TU60		Teaching Practicum: Fine Arts		4	0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修 ◎必須先修過(也可以同時修)【ATU0014  美術教育】、【ATU0232  繪畫發展與心智成長】其中一門	N	3064	江學瀅	二 6-9 和平 美301	
+114	1	10	0	基礎油畫（一） </br>[ 學分學程：藝教學程 ]		授課教師:侯忠穎	28	28		ATU0233		半	1.0	美術系（學）	TU60	國畫組	Oil Painting - University Foundation Level (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3066	侯忠穎	一 6-7 和平 美402	
+114	1	10	0	書法（楷書） </br>[ 學分學程：藝教學程 ]			26	26		ATU0335		半	1.0	美術系（學）	TU60	國畫組	Calligraphy (Regular Script) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3067	林政榮	三 9-10 和平 美505	
+114	1	10	0	素描（一） </br>[ 學分學程：藝教學程 ]			29	29		ATU6061		半	2.0	美術系（學）	TU60	國畫組	Drawing </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3068	吳宥鋅	二 1-4 和平 美505	
+114	1	10	0	水彩（一） </br>[ 學分學程：藝教學程 ]			23	23		ATU6064		半	1.0	美術系（學）	TU60	國畫組	Watercolor (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3069	宋曉明	四 3-4 和平 美401	
+114	1	10	0	基礎彩墨（一） </br>[ 學分學程：藝教學程 ]			25	25		ATU6066		半	1.0	美術系（學）	TU60	國畫組	Chinese Color Ink- and- Brush Painting- University Foundation Level (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3070	孫翼華	二 8-9 和平 美505	
+114	1	10	0	水墨花鳥創作		授課教師:胡以誠	10	10		ATU0215		半	3.0	美術系（學）	TU60	國畫組	Studio Chinese Painting: Birds and Flowers		2	1	30	選		N	3071	胡以誠	一 6-8 和平 美305	
+114	1	10	1	膠彩畫材料運用		授課教師:高永隆	31	30		ATU0267		半	3.0	美術系（學）	TU60	國畫組	Exploration of Materials in		2	0	30	選		N	3072	高永隆	三 6-8 和平 美305	
+114	1	10	1	書法（篆書）			25	24		ATU0287		半	2.0	美術系（學）	TU60	國畫組	Calligraphy (Seal Script)		2	1	30	選		N	3073	林政榮	二 6-7 和平 美305	
+114	1	10	0	水墨材料開發			28	28		ATU0290		半	3.0	美術系（學）	TU60	國畫組	Material Development in		2	0	30	選		N	3074	莊連東	三 9-A 和平 美305	
+114	1	10	0	水墨意象與紙藝實務		授課教師:曾霆羽	26	26		ATU0336		半	3.0	美術系（學）	TU60	國畫組	Images of Chinese Ink Painting and the Practice of Paper Arts		2	0	30	選		N	3075	曾霆羽	四 2-4 和平 美305	
+114	1	10	3	山水創作基礎			15	12		ATU0364		半	3.0	美術系（學）	TU60	國畫組	Fundamental Practice of Chinese Landscape Painting	是	2	2	30	選		N	3076	管偉邦	二 2-4 和平 美305	
+114	1	10	5	進階油畫（一）		授課教師:侯忠穎	36	31		ATU6057		半	2.0	美術系（學）	TU60	國畫組	Oil Painting (I)		2	0	30	必		N	3077	侯忠穎	四 8-A 和平 美402	
+114	1	10	0	水墨素描			9	9		ATU0209		半	3.0	美術系（學）	TU60	國畫組	Drawing: Chinese Ink-And-Brush		3	0	30	選		N	3078	林政榮	二 2-4 和平 美302	
+114	1	10	1	篆刻（印學）			20	19		ATU0275		半	2.0	美術系（學）	TU60	國畫組	Seal Carving (stamp)		3	2	30	選		N	3079	林政榮	二 9-10 和平 美302	
+114	1	10	0	書寫藝術（一）		授課教師:謝榮恩	21	21		ATU0299		半	2.0	美術系（學）	TU60	國畫組	Calligraphy Art (I)		3	0	30	選		N	3080	謝榮恩	四 3-4 和平 美302	
+114	1	10	0	實驗水墨			25	25		ATU0348		半	3.0	美術系（學）	TU60	國畫組	Experimental Ink Art		3	0	30	選		N	3081	吳宥鋅	三 6-8 和平 美302	
+114	1	10	0	畢業創作發表（一）			23	23		ATU6059		半	2.0	美術系（學）	TU60	國畫組	Studio Based Graduate Seminar (I)		4	0	30	必		N	3082	吳宥鋅 曾霆羽	三 A-B 和平 美303, 三 C-D 和平 美304	
+114	1	10	0	現代美術史		授課教師:趙可卿	15	15		ATU0369		半	2.0	美術系（學）	TU60	西畫組	History of Modern Art	是		2	50	選		N	3083	趙可卿	二 8-9 和平 美405	
+114	1	10	0	藝術大師小故事	9		8	8		ATC9018		半	3.0	美術系（學）	TU60	西畫組	behind the Artists	是		1	50	選		N	3084	陳淑華	三 10-B 和平 美502	
+114	1	10	9	藝術、文化、生活	9		30	21		ATC9020		半	3.0	美術系（學）	TU60	西畫組	Art, Culture, Life	是		1	50	選		N	3085	陳淑華	二 10-B 和平 美502	
+114	1	10	0	基礎油畫（一） </br>[ 學分學程：藝教學程 ]			27	27		ATU0233		半	1.0	美術系（學）	TU60	西畫組	Oil Painting - University Foundation Level (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3086	朱友意	一 6-7 和平 美602	
+114	1	10	0	書法（楷書） </br>[ 學分學程：藝教學程 ]		授課教師:曾霆羽	30	30		ATU0335		半	1.0	美術系（學）	TU60	西畫組	Calligraphy (Regular Script) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3087	曾霆羽	三 9-10 和平 美302	
+114	1	10	2	素描（一） </br>[ 學分學程：藝教學程 ]			28	26		ATU6061		半	2.0	美術系（學）	TU60	西畫組	Drawing </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3088	蔡芷芬	二 1-4 和平 美401	
+114	1	10	1	水彩（一） </br>[ 學分學程：藝教學程 ]		授課教師:侯忠穎	32	31		ATU6064		半	1.0	美術系（學）	TU60	西畫組	Watercolor (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3089	侯忠穎	四 3-4 和平 美602	
+114	1	10	0	基礎彩墨（一） </br>[ 學分學程：藝教學程 ]			25	25		ATU6066		半	1.0	美術系（學）	TU60	西畫組	Chinese Color Ink- and- Brush Painting- University Foundation Level (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3090	管偉邦	二 8-9 和平 美305	
+114	1	10	2	素描媒材與形式探索（一）			26	24		ATU0254		半	3.0	美術系（學）	TU60	西畫組	Media and Style Exploration in Drawing (I)		2	1	30	選		N	3091	宋曉明	一 6-8 和平 美401	
+114	1	10	0	進階油畫（一）			22	22		ATU6057		半	2.0	美術系（學）	TU60	西畫組	Oil Painting (I)		2	0	30	必		N	3092	朱友意	四 8-A 和平 美602	
+114	1	10	3	人體素描（一）		授課教師:馬曉瑛	29	26		ATU0243		半	3.0	美術系（學）	TU60	西畫組	Figure Drawing (I)		3	2	30	選		N	3093	馬曉瑛	二 2-4 和平 美403	
+114	1	10	0	當代藝術討論與分析（一）			26	26		ATU0277		半	2.0	美術系（學）	TU60	西畫組	Seminar on Contemporary Art (I)		3	2	30	選		N	3094	蔡芷芬	二 6-7 和平 美405	
+114	1	10	0	當代繪畫創作（一）			29	29		ATU0279		半	3.0	美術系（學）	TU60	西畫組	Creative Contemporary Painting (I)		3	0	30	選		N	3095	朱友意	一 8-10 和平 美403	
+114	1	10	1	現代繪畫之創作語彙			20	19		ATU0332		半	3.0	美術系（學）	TU60	西畫組	Painting as A Performative Language in Modern Art		3	2	30	選		N	3096	宋曉明	四 6-8 和平 美401	
+114	1	10	0	畢業創作發表（一）			25	25		ATU6059		半	2.0	美術系（學）	TU60	西畫組	Studio Based Graduate Seminar (I)		4	0	30	必		N	3097	朱友意 蔡芷芬 宋曉明 侯忠穎	三 A-B 和平 美404, 三 C-D 和平 美503	
+114	1	10	0	專業技術訓練			12	12		VDU0256		半	3.0	設計系（學）	TU68		Training for Professional Techniques			0	50	選	◎必須先修過【VDU0019  電腦繪圖】	N	3098	廖偉民 王千睿	五 9-C 和平 設計系3A教室	
+114	1	10	2	工場安全與衛生（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	11	9		VDU0265		半	2.0	設計系（學）	TU68		Workplace Safety and Hygiene (I)			0	35	選	◎必須先修過(也可以同時修)【VDU0263  基礎模型製作（一）】	N	3099	蘇瀚	五 6-7 和平 設計系2A教室	
+114	1	5	0	服務設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:范日奎老師	18	18		VDU0267		半	3.0	設計系（學）	TU68		Service Design (I)			0	35	選		N	3100	范日奎	三 A-C 和平 綜913	
+114	1	3	0	進階設計表現（一）	9	授課教師：黃明仁老師	5	5		VDC0001		半	3.0	設計系（學）	TU68		Advanced Topics on Design Presentation (I)			0	50	選		N	3101	黃明仁	五 6-8 和平 綜914	
+114	1	6	6	商業空間設計（一）	9	台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	7	1		VDC9005		半	2.0	設計系（學）	TU68		Commercial Space Design (I)	是		0	35	選	◎必須先修過【VDU0197  室內設計（二）】	N	3102	長友大輔	二 9-10 和平 設計系2A教室	
+114	1	6	0	數位媒材整合設計（一） </br>[ 學分學程：元宇宙學程 科技藝術學程 ]	9	台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	13	13		VDC9007		半	2.0	設計系（學）	TU68		Digital Media Integration Design (I) </br>[ Program: The Program of Metaverse Narrative The Program of Digital Art and Technology ]	是		0	35	選		N	3103	黃心健	一 6-7 和平 綜1001	
+114	1	2	0	插畫設計表現研究	9		19	19		VDC9010		半	3.0	設計系（學）	TU68		Studies in Illustration			0	50	選		N	3104	伊彬	一 8-10 和平 綜914	
+114	1	14	13	設計概論		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	63	50		VDU0004		半	2.0	設計系（學）	TU68		Introduction to Design	是	1	0	50	必		N	3105	長友大輔	一 3-4 和平 美101	
+114	1	10	1	色彩學		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	43	42		VDU0006		半	2.0	設計系（學）	TU68		Color Theory		1	0	50	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】	N	3106	施令紅	四 3-4 和平 綜914	
+114	1	5	3	電腦繪圖		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	31	28		VDU0019	A	半	3.0	設計系（學）	TU68		Computer Graphics		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】	N	3107	廖偉民	二 3-5 和平 綜914	
+114	1	5	1	電腦繪圖		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    曾乙文老師	15	14		VDU0019	B	半	3.0	設計系（學）	TU68		Computer Graphics		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】	N	3108	曾乙文	二 6-8 和平 綜1001	
+114	1	10	6	基礎設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	32	26		VDU0070	A	半	3.0	設計系（學）	TU68		Basic Design (I)		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】	N	3109	廖偉民	四 6-8 和平 設計系2A教室	
+114	1	5	3	基礎設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	19	16		VDU0070	B	半	3.0	設計系（學）	TU68		Basic Design (I)		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】	N	3110	蘇瀚	四 6-8 和平 設計系2B教室	
+114	1	5	2	設計素描（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	27	25		VDU0108	A	半	3.0	設計系（學）	TU68		Sketching (I)		1	0	35	必	◎必須先修過(也可以同時修)【VDU0004  設計概論】	N	3111	伊彬	二 7-9 和平 綜914	
+114	1	5	3	設計素描（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	18	15		VDU0108	B	半	3.0	設計系（學）	TU68		Sketching (I)		1	0	35	必	◎必須先修過(也可以同時修)【VDU0004  設計概論】	N	3112	許和捷	一 6-8 和平 設計系2A教室	
+114	1	5	2	基礎模型製作（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	17	15		VDU0263		半	2.0	設計系（學）	TU68		Basic Model Design (I)		1	0	35	選	◎必須先修過(也可以同時修)【VDU0070  基礎設計（一）】	N	3113	蘇瀚	三 6-7 和平 設計系2A教室	
+114	1	5	5	字體設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:林玠里老師	28	23		VDU0080		半	2.0	設計系（學）	TU68		Typography (I)		2	0	35	必	◎必須先修過【VDU0019  電腦繪圖】	N	3114	林玠里	三 6-7 和平 設計系2B教室	
+114	1	5	1	３Ｄ電腦動畫（一） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	31	30		VDU0174		半	3.0	設計系（學）	TU68		3 D Computer Animation Design (I) </br>[ Program: The Program of Digital Art and Technology ]		2	0	35	必		N	3115	周賢彬	一 6-8 和平 教401	
+114	1	10	10	攝影		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課老師:陳漢元老師	43	33		VDU0177		半	2.0	設計系（學）	TU68		Photography		2	0	35	選		N	3116	陳漢元	六 3-4 和平 設計系2A教室	
+114	1	5	0	產品設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	22	22		VDU0192		半	3.0	設計系（學）	TU68		Product Design (I)		2	0	35	必	◎必須先修過(也可以同時修)【VDU0070  基礎設計（一）】	N	3117	鄧建國	二 6-8 和平 設計系2B教室	
+114	1	5	4	室內設計（一） </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	16	12		VDU0196		半	2.0	設計系（學）	TU68		Interior Design (I) </br>[ Program: Interdisciplinary Program For Interior Design Profession ]	是	2	0	35	選	◎必須先修過(也可以同時修)【VDU0070  基礎設計（一）】	N	3118	長友大輔	二 3-4 和平 設計系2B教室	
+114	1	6	5	視覺傳達設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	30	25		VDU0200		半	3.0	設計系（學）	TU68		Visual Communication Design (I)		2	0	35	必	◎必須先修過【VDU0019  電腦繪圖】	N	3119	施令紅	四 6-8 和平 科技系TC411教室	
+114	1	5	0	媒體設計（一） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:李文閣老師	27	27		VDU0206		半	2.0	設計系（學）	TU68		Media Design (I) </br>[ Program: The Program of Digital Art and Technology ]		2	0	35	必		N	3120	李文閣	二 3-4 和平 綜913	
+114	1	10	2	室內設計圖學 </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:劉大章老師	28	26		VDU0211		半	2.0	設計系（學）	TU68		Interior Design Drawing </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		2	0	35	選		N	3121	劉大章	二 1-2 和平 設計系2A教室	
+114	1	5	0	數位建模		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:黃浩瑜老師	31	31		VDU0218		半	2.0	設計系（學）	TU68		Digital Modeling		2	0	35	選		N	3122	黃浩瑜	三 6-7 和平 綜913	
+114	1	5	0	版畫設計		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:李延祥老師	17	17		VDU0224		半	2.0	設計系（學）	TU68		Printmaking and Design		2	0	35	選		N	3123	李延祥	五 3-4 和平 綜913	
+114	1	5	0	表現技法（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:林玠里老師	17	17		VDU0246		半	2.0	設計系（學）	TU68		Sketching and Drawing Method (I)		2	0	35	選	◎必須先修過(也可以同時修)【VDU0019  電腦繪圖】	N	3124	林玠里	三 8-9 和平 設計系2B教室	
+114	1	5	0	產品表現技法（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:曾乙文老師	24	24		VDU0248		半	3.0	設計系（學）	TU68		Product Design Presentation Techniques (I)		2	0	35	必		N	3125	曾乙文	五 2-4 和平 設計系2B教室	
+114	1	5	0	創新設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:曾乙文老師	23	23		VDU0253		半	3.0	設計系（學）	TU68		Innovation Design (I)		2	0	35	必		N	3126	曾乙文	四 2-4 和平 設計系2B教室	
+114	1	5	5	介面設計與使用者體驗（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:黃莉庭老師	34	29		VDU0269		半	3.0	設計系（學）	TU68		UI/UX Design (I)		2	0	35	選	◎必須先修過【VDU0019  電腦繪圖】	N	3127	黃莉庭	四 2-4 和平 綜913	
+114	1	6	6	包裝設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:王丙南老師	27	21		VDU0090		半	2.0	設計系（學）	TU68		Package Design (I)		3	0	35	必	◎必須先修過【VDU0200  視覺傳達設計（一）】	N	3128	王丙南	四 3-4 和平 設計系2A教室	
+114	1	10	9	廣告設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:黃莉庭老師	27	18		VDU0104		半	2.0	設計系（學）	TU68		Advertising Design (I)	是	3	0	35	必	◎必須先修過【VDU0200  視覺傳達設計（一）】	N	3129	黃莉庭	三 6-7 和平 科技系TC411教室	
+114	1	5	0	視覺識別系統（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:陳銘福老師	18	18		VDU0137		半	2.0	設計系（學）	TU68		Visual Identity System (I)		3	0	35	選	◎必須先修過【VDU0200  視覺傳達設計（一）】	N	3130	陳銘福	四 6-7 和平 設計系3B教室	
+114	1	5	0	材料與製造		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	9	9		VDU0151		半	3.0	設計系（學）	TU68		Material and Manufacturing		3	0	35	選		N	3131	蘇瀚	二 2-4 和平 設計系3C教室	
+114	1	5	0	產品分析		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:周育潤老師	13	13		VDU0152		半	3.0	設計系（學）	TU68		Product Analysis		3	0	35	選		N	3132	周育潤	五 6-8 和平 設計系3B教室	
+114	1	10	0	施工圖 </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:劉大章老師	8	8		VDU0157		半	2.0	設計系（學）	TU68		Construction Drawing </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		3	0	35	選		N	3133	劉大章	二 3-4 和平 設計系2A教室	
+114	1	5	5	３Ｄ動畫創作（一） </br>[ 學分學程：元宇宙學程 科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:呂奇駿老師	39	34		VDU0181		半	2.0	設計系（學）	TU68		3d Animation (I) </br>[ Program: The Program of Metaverse Narrative The Program of Digital Art and Technology ]		3	0	35	選		N	3134	呂奇駿	一 3-4 和平 設計系3B教室	
+114	1	5	1	動態平面設計（一） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:李文閣老師	26	25		VDU0187		半	3.0	設計系（學）	TU68		Motion Graphic Design (I) </br>[ Program: The Program of Digital Art and Technology ]		3	0	35	選		N	3135	李文閣	二 6-8 和平 綜913	
+114	1	5	0	動畫劇本創作		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:呂奇駿老師	26	26		VDU0228		半	2.0	設計系（學）	TU68		Animation Script Writing		3	0	35	選		N	3136	呂奇駿	一 5-6 和平 設計系3B教室	
+114	1	5	0	進階產品設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	15	15		VDU0232		半	6.0	設計系（學）	TU68		Advanced Product Design (I)		3	0	35	必	◎必須先修過【VDU0192  產品設計（一）】	N	3137	梁桂嘉 王千睿	二 6-8 和平 設計系3B教室, 五 2-4 和平 綜914	
+114	1	5	4	資訊圖表設計		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	23	19		VDU0271		半	2.0	設計系（學）	TU68		Infographics and Interface Design		3	0	35	選	◎必須先修過【VDU0200  視覺傳達設計（一）】	N	3138	廖偉民	三 8-9 和平 設計系6A教室	
+114	1	5	0	設計畢業製作（一）		授課教師:黃莉庭老師	23	23		VDU0179	A	半	3.0	設計系（學）	TU68		Graduate Work: Design (I)		4	0	35	必		N	3139	黃莉庭	四 8-10 和平 教室自排	
+114	1	5	0	設計畢業製作（一）			17	17		VDU0179	B	半	3.0	設計系（學）	TU68		Graduate Work: Design (I)		4	0	35	必		N	3140	長友大輔	四 8-10 和平 設計系3A教室	
+114	1	10	0	品牌策略			40	40		VDU0257		半	2.0	設計系（學）	TU68		Strategic Brand		4	0	50	必	◎必須先修過(也可以同時修)【VDU0179  設計畢業製作（一）】	N	3141	王千睿	四 6-7 和平 設計系3A教室	
+114	1	0	0	PASSION國英數教材教法 </br>[ 學分學程：科技化教學產業學程 PASSION偏鄉教育學程 ]			34	34		PGUZ001		半	2.0	PASSION偏鄉學程	ZU79		PASSION Teaching Materials and Methods </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of PASSION Quality Education in Rural Schools ]			5	30	必	◎初選 PASSION偏鄉學程 研究生得下修	N	3142	胡翠君	五 6-7 和平 正405	
+114	1	3	1	PASSION遠距教學實習 </br>[ 學分學程：PASSION偏鄉教育學程 ]			29	28		PGUZ006		半	2.0	PASSION偏鄉學程	ZU79		PASSION Distance Learning </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]			5	27	必	允許重複修◎初選 PASSION偏鄉學程 研究生得下修◎必須先修過【PGUZ002  PASSION實習課程】	N	3143	胡翠君	一 8-9 公館 理圖802	
+114	1	20	9	統計學 </br>[ 學分學程：基礎管理學程 ]			58	49		PGUA007		半	3.0	基礎管理學程	ZU83		Statistics </br>[ Program: The Program of Fundamental Management ]			3	50	必		N	3144	邱皓政	三 8-10 和平 誠301	
+114	1	10	0	期貨與選擇權 </br>[ 學分學程：財金學程 ]			51	51		PGUB014		半	3.0	財金學程	ZU84		Futures and Options </br>[ Program: The Program of Finance ]			3	60	選		N	3146	楊智元	三 A-C 和平 誠202	
+114	1	5	0	地景調查與分析 </br>[ 學分學程：環境監測學程 區域學程 ]			24	24		PGUS007		半	3.0	環境監測學程	ZU89		Landscape Survey and Analysis </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Region and Tourism Planning ]			3	50	選	◎初選 環境監測學程 研究生得下修	N	3147	洪致文	二 7-9 和平 地理系會議室	
+114	1	5	0	環境教育概論 </br>[ 學分學程：環境監測學程 區域學程 ]			17	17		PGUS014		半	2.0	環境監測學程	ZU89		Introduction to Environmental Education </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Region and Tourism Planning ]			3	50	選	◎初選 環境監測學程 研究生得下修	N	3148	林炯明	三 6-7 和平 正205	
+114	1	5	0	災害管理與防救實務 </br>[ 學分學程：環境監測學程 ]			14	14		PGUS015		半	2.0	環境監測學程	ZU89		Disaster Management and Prevention Practice </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]			3	50	選	◎初選 環境監測學程 研究生得下修	N	3149	李清安	二 8-9 和平 正205	
+114	1	10	1	歐洲文學概論 </br>[ 學分學程：歐洲文化學程 ]			17	16		PGUL013		半	3.0	歐洲文化學程	ZU93		Introduction to European Literatures </br>[ Program: European Cultures and Languages Program ]			4	60	選	◎初選 歐洲文化學程 研究生得下修	N	3151	黃慧玉	二 10-B 和平 博413	
+114	1	10	0	歐洲藝術名作閱讀 </br>[ 學分學程：歐洲文化學程 ]			26	26		PGUL022		半	3.0	歐洲文化學程	ZU93		Reading European Art Masterpieces </br>[ Program: European Cultures and Languages Program ]			4	60	選	◎初選 歐洲文化學程 研究生得下修	N	3152	賴嘉玲	一 10-B 和平 博413	
+114	1	10	0	法文（一） </br>[ 學分學程：歐洲文化學程 ]			37	37		PGUL036		半	3.0	歐洲文化學程	ZU93		French (I) </br>[ Program: European Cultures and Languages Program ]			5	40	選	◎初選 歐洲文化學程 研究生得下修	N	3153	蔡倩玟	四 10-B 和平 博413	
+114	1	10	0	法文（三） </br>[ 學分學程：歐洲文化學程 ]			15	15		PGUL038		半	3.0	歐洲文化學程	ZU93		French (III) </br>[ Program: European Cultures and Languages Program ]			5	40	選	◎初選 歐洲文化學程 研究生得下修	N	3154	黃慧玉	五 7-9 和平 教室自排	
+114	1	15	10	德文（一） </br>[ 學分學程：歐洲文化學程 ]			47	37		PGUL040		半	3.0	歐洲文化學程	ZU93		German (I) </br>[ Program: European Cultures and Languages Program ]			5	40	選	◎初選 歐洲文化學程 研究生得下修	N	3155	陳學毅	五 10-B 和平 博413	
+114	1	10	0	西班牙文（三） </br>[ 學分學程：歐洲文化學程 ]			10	10		PGUL046		半	3.0	歐洲文化學程	ZU93		Spanish (III) </br>[ Program: European Cultures and Languages Program ]			5	40	選	◎初選 歐洲文化學程 研究生得下修	N	3156	許玉燕	三 10-B 和平 博404	
+114	1	10	0	歐洲奇幻文學 </br>[ 學分學程：歐洲文化學程 ]			20	20		PGUL049		半	3.0	歐洲文化學程	ZU93		European Speculative Literature </br>[ Program: European Cultures and Languages Program ]			4	60	選	◎初選 歐洲文化學程 研究生得下修	N	3157	梁孫傑	三 10-B 和平 博413	
+114	1	10	0	現代散文寫作指導 </br>[ 學分學程：文學創作學程 ]		任課老師：朱國珍老師。	25	25		PGUU017		半	2.0	文學創作學程	ZU94		Guided Writing in Modern Prose </br>[ Program: The Program of Literature Creation ]			5	50	選	◎初選 文學創作學程 研究生得下修	N	3158	朱國珍	五 3-4 和平 樸307	
+114	1	3	0	流行文化 </br>[ 學分學程：社會與傳播學程 ]			17	17		PGU1012		半	3.0	社會與傳播學程	ZU9E		Popular Culture </br>[ Program: Application Program in Society and Communication ]			3	27	選		N	3160	蔡如音	二 3-5 和平 美術館501	
+114	1	10	0	社會工作概論 </br>[ 學分學程：人社學程 社會與傳播學程 ]			32	32		PGU1020		半	3.0	社會與傳播學程	ZU9E		Introduction to Social Work </br>[ Program: Human Services and Social Work Credit Program Application Program in Society and Communication ]			0	50	必		N	3161	張文	二 A-C 和平 誠109	
+114	1	10	0	社會團體工作 </br>[ 學分學程：人社學程 社會與傳播學程 ]			21	21		PGU1023		半	3.0	社會與傳播學程	ZU9E		Social Group Work </br>[ Program: Human Services and Social Work Credit Program Application Program in Society and Communication ]			0	50	選		N	3162	陳杏容	四 A-C 和平 樸SW504	
+114	1	0	0	社團行銷實務 </br>[ 學分學程：社團領導學程 ]			17	17		PGU8001		半	3.0	社團領導學程	ZU9Q		Marketing Practice of Student Club </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]			0	50	選	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	3163	林昌平	六 A-C 和平 綜301	
+114	1	0	0	社團經營實習（一） </br>[ 學分學程：社團領導學程 ]			39	39		PGU8003		半	2.0	社團領導學程	ZU9Q		Practicum in Student Club Management (I) </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]			0	100	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	3164	林昌平	五 10-C 和平 綜301	
+114	1	10	1	大師創業管理入門 </br>[ 學分學程：運動管理學程 運動科技學程 科技化教學產業學程 肌力與體能學程 大師創業學程 ]			36	35		PGU9001		半	2.0	大師創業學程	ZU9V		General Management Principles of Entrepreneurship </br>[ Program: The Program of Sports Industry Management The Program of Sports Technology The Program of Technology-assisted Teaching Industry The Program of Strength and Conditioning Program of Entrepreneurship ]			5	50	必		N	3165	韓宗憲	一 A-B 和平 誠201	
+114	1	10	0	誰是下個賈伯斯─大師創業發想與實踐（一） </br>[ 學分學程：運動管理學程 運動科技學程 科技化教學產業學程 大師創業學程 ]			28	28		PGU9002		半	2.0	大師創業學程	ZU9V		Who's the Next Steve Jobs? Planning and Practice of the Entrepreneurship (I) </br>[ Program: The Program of Sports Industry Management The Program of Sports Technology The Program of Technology-assisted Teaching Industry Program of Entrepreneurship ]			5	50	必		N	3166	呂緗柔	三 A-B 和平 誠305	
+114	1	20	5	大師創業論壇－打造你的創業夢 </br>[ 學分學程：科技化教學產業學程 肌力與體能學程 大師創業學程 ]			56	51		PGU9003		半	2.0	大師創業學程	ZU9V		Master Entrepreneur Forum: Building Your Own Enterprise </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of Strength and Conditioning Program of Entrepreneurship ]			5	50	必		N	3167	林政宏	二 A-B 和平 誠102	
+114	1	10	0	正義與人權			34	34		GBU0012		半	3.0	全球研究學位學程（學）	IUH0		Justice and Human Rights	是	2	3	50	選		N	3168	黃獻寬	一 6-8 和平 綜210展覽廳	
+114	1	10	0	臺灣當代文化歷史 </br>[ 學分學程：環境人文學程 ]	8		15	15		TCC1029		半	3.0	臺文系（碩）	LM26		Contemporary Cultural Histories of Taiwan </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		0	50	選	◎課程開放上修	N	3169	天江喜久	三 2-4 和平 正102	
+114	1	10	4	邊界，權力與臺灣文化 </br>[ 學分學程：環境人文學程 ]			26	22		TCU1017		半	3.0	臺文系（學）	LU26		Borders, Power, and Culture in Taiwan </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		0	50	選		N	3170	天江喜久	一 8 和平 正206, 一 9-10 和平 誠105	
+114	1	0	0	專題製作（二） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	10	10		ITU0156	E	半	1.0	科技系（學）	HU71		Capstone Projects (II) </br>[ Program: The Program of STEM Innovation and Practices ]		4	0	50	必		N	3171	張敬珣	五 C-D 和平 科技系TB210教室	
+114	1	50	18	漢字教學 </br>[ 學分學程：華語文教學學程 ]			18	0		CLU1058		半	2.0	華語系（學）	IU84	應用華語文學組	Teaching of Chinese Characters </br>[ Program: The Program of Teaching Chinese as a Second Language ]			0	0	必		N	3172	林振興	五 3-4 和平 樸105	
+114	1	10	0	運動管理學專題研究		和平校區I體育館3樓運動管理學研究室	5	5		PED0065		半	3.0	體育系（博）	AD30		Special Topics in Sport Management			0	50	選	◎課程開放上修	N	3173	鄭志富	四 2-4 和平 教室自排	
+114	1	10	0	當代化學文獻導讀（一）	9		20	20		CMC9016	A	半	2.0	化學系（學）	SU42		Source Readings in Contemporary Chemistry Literature (I)	是		0	40	選	允許重複修	N	3174	黎重義	三 3-4 公館 Ｓ303	
+114	1	10	0	當代化學文獻導讀（一）	9		20	20		CMC9016	B	半	2.0	化學系（學）	SU42		Source Readings in Contemporary Chemistry Literature (I)	是		0	40	選	允許重複修	N	3175	王彥士	三 3-4 公館 Ｓ304	
+114	1	10	0	臺灣古典散文與文化論述	8		7	7		TCC3001		半	3.0	臺文系（碩）	LM26		Taiwan Classical Prose and Cultural Discourse			0	50	選	◎課程開放上修	N	3176	林淑慧	一 7-9 和平 雲303	
+114	1	10	0	編輯學			14	14		GCU0129		半	2.0	圖傳系（學）	HU72		Book Design & Planning		3	0	50	選		N	3177	萬岳憲	二 A-B 和平 誠307	
+114	1	10	0	裝訂與加工			22	22		GCU0136		半	2.0	圖傳系（學）	HU72		Book Binding and Finishing		2	0	30	選		N	3178	陳仙舟	二 1-2 和平 製作教室B	
+114	1	10	0	運動裁判法			26	26		PEU2003		半	2.0	體育系（學）	AU30		Sport Officiating		3	0	50	選		N	3179	鄭國輝	三 8-9 和平 正203	
+114	1	10	0	物理教學實習（二）（IB） </br>[ 學分學程：國際教師學程-物理 ]	9		10	10		IBC9003		半	1.0	師培學院	EU		Teaching Practicum: Physics (II) (IB) </br>[ Program: The Program of International Baccalaureate Educator Certificate-International  Physics  Education ]			0	50	選		N	3180	陳育霖	二 3-4 公館 Ｓ305	
+114	1	3	1	體育（游泳初級）			31	30		00UP115	D	半	1.0	普通體育	PE		Physical Education (Beginning Swimming)			0	30	必	允許重複修	N	3181	鄭國輝	一 6-7 和平 游泳館1F大泳池	
+114	1	3	1	體育（游泳初級）			30	29		00UP115	E	半	1.0	普通體育	PE		Physical Education (Beginning Swimming)			0	30	必	允許重複修	N	3182	鄭國輝	二 1-2 和平 游泳館1F大泳池	
+114	1	4	4	體育（游泳初級）			33	29		00UP115	F	半	1.0	普通體育	PE		Physical Education (Beginning Swimming)			0	30	必	允許重複修	N	3183	鄭國輝	五 3-4 和平 游泳館1F大泳池	
+114	1	3	0	體育（水球）			18	18		00UP046		半	1.0	普通體育	PE		Physical Education (Water Polo)			0	30	必	允許重複修	N	3184	鄭國輝	二 3-4 和平 游泳館1F大泳池	
+114	1	10	0	奈米科學與技術導論	9		7	7		PHC9027		半	1.0	物理系（學）	SU41		Introduction to Nanoscience and Nanotechnology	是		0	50	選		N	3185	葉乃裳	◎密集課程	
+114	1	0	0	USR永續發展導論		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG110	A	半	3	校際臺科大（學）	9UAB		Introduction to USR Sustainable Development				2	通			3186	王瑩	二 10 IB-607, 二 8-9 IB-607	A2UG
+114	1	0	0	大數據與程式設計導論		通識教育中心 ; 限50人、通識領域課程、請同學自備筆記型電腦 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：邏輯運算領域；106-108入學：數學與邏輯思維；97-105入學：數學與科學思維	1	1		85UG011	A	半	2	校際臺科大（學）	9UAB		Introduction of Big Data and Programming				2	通			3187	李啟龍	一 10 TR-309, 一 9 TR-309	A4UG
+114	1	0	0	工作平權及就業歧視		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG102	A	半	2	校際臺科大（學）	9UAB		Gender Equality in Employment and Workplace Discrimination				2	通			3188	林麗燕	四 10 T4-402, 四 9 T4-402	A2UG
+114	1	0	0	中醫學概論		通識教育中心 ; 限50人、通識領域課程、英語授課、EMI課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	2	2		86UG052	A	半	2	校際臺科大（學）	9UAB		Introduction of Traditional Chinese Medicine	是			2	通			3189	彭溫雅	三 1-2 TR-409-1	A3UG
+114	1	0	0	元宇宙中的訪談與助人實作		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG109	A	半	2	校際臺科大（學）	9UAB		Metaverse-based Interviewing and Helping Techniques				2	通			3190	葉北辰	一 3-4 TR-211	A2UG
+114	1	0	0	文化遺產與永續發展		通識教育中心 ; 限50人、通識領域課程、創新教學課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG087	A	半	2	校際臺科大（學）	9UAB		Culture Heritage and Sustainable Development				2	通			3191	林宜珍	三 3-4 TR-512	A2UG
+114	1	0	0	文化遺產與永續發展		通識教育中心 ; 限30人、通識領域課程、創新教學課程、EMI課程、英語授課 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG087	B	半	2	校際臺科大（學）	9UAB		Culture Heritage and Sustainable Development	是			2	通			3192	林宜珍	三 8-9 TR-615	A2UG
+114	1	0	0	台灣古蹟建築入門		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	1	1		84UG053	A	半	2	校際臺科大（學）	9UAB		An Introduction to Taiwan's Historic Architecture				2	通			3193	陳薏如	五 6-7 E1-306	A1UG
+114	1	0	0	台灣古蹟建築入門		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	2	2		84UG053	B	半	2	校際臺科大（學）	9UAB		An Introduction to Taiwan's Historic Architecture				2	通			3194	陳薏如	五 8-9 E1-306	A1UG
+114	1	0	1	台灣傳統建築形式與作法		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	2	1		81UG081	A	半	2	校際臺科大（學）	9UAB		Traditional Architectural Forms and Practices				2	通			3195	陳薏如	一 6-7 TR-211	A1UG
+114	1	0	0	台灣傳統建築形式與作法		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	1	1		81UG081	B	半	2	校際臺科大（學）	9UAB		Traditional Architectural Forms and Practices				2	通			3196	陳薏如	一 8-9 TR-211	A1UG
+114	1	0	0	永續發展與社會（一）		通識教育中心 ; 限50人、通識領域課程、PBL課程、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG068	A	半	2	校際臺科大（學）	9UAB		Sustainable Development and Society I				2	通			3197	黃淑怡	三 3-4 華夏恆毅樓D406	A2UG
+114	1	0	0	永續發展與社會（一）		通識教育中心 ; 限30人、通識領域課程、英語授課、EMI課程、PBL課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG068	B	半	2	校際臺科大（學）	9UAB		Sustainable Development and Society I	是			2	通			3198	黃淑怡	一 3-4 TR-613	A2UG
+114	1	0	0	光影素描與彩繪速寫文化		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	2	2		81UG083	A	半	2	校際臺科大（學）	9UAB		Light and Shadow Sketch and Color Sketch Culture				2	通			3199	鄒家鈺	二 1-2 TR-616	A1UG
+114	1	0	2	光影素描與彩繪速寫文化		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	4	2		81UG083	B	半	2	校際臺科大（學）	9UAB		Light and Shadow Sketch and Color Sketch Culture				2	通			3200	鄒家鈺	二 3-4 TR-616	A1UG
+114	1	0	0	年代美甲社會價值暨文化探討		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	2	2		84UG052	A	半	2	校際臺科大（學）	9UAB		Discussion on the Social Value and Culture of Nail Art in the Era				2	通			3201	高瑞雲	五 1-2 TR-611	A1UG
+114	1	0	0	年代美甲社會價值暨文化探討		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	2	2		84UG052	B	半	2	校際臺科大（學）	9UAB		Discussion on the Social Value and Culture of Nail Art in the Era				2	通			3202	高瑞雲	五 3-4 TR-611	A1UG
+114	1	0	0	自然療法與食療		通識教育中心 ; 通識領域課程、限50人、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	0	0		86UG059	A	半	2	校際臺科大（學）	9UAB		Natural Medicine and Diet				2	通			3203	陳美均	一 10 華夏營管大樓K502, 一 9 華夏營管大樓K502	A3UG
+114	1	0	1	自然療法與食療		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	3	2		86UG059	B	半	2	校際臺科大（學）	9UAB		Natural Medicine and Diet				2	通			3204	陳美均	五 6-7 TR-617	A3UG
+114	1	0	0	技術與社會：從理論框架到永續實踐		通識教育中心 ; 英語授課、EMI課程、限30人、通識領域課程、已修過「傳播科技發展與文化」者不得修習本課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG106	A	半	2	校際臺科大（學）	9UAB		Technology and Society: From Theoretical Frameworks to Sustainable Practices				2	通			3205	洪秀錦	四 6-7 TR-616	A2UG
+114	1	0	0	幸福心理學		通識教育中心 ; 限50人、通識領域課程、英語授課、EMI課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		8AUG021	A	半	2	校際臺科大（學）	9UAB		Social Psychology: Personal Growth in Human Relationship	是			2	通			3207	徐昀	四 6-7 TR-211	A2UG
+114	1	0	0	性別、科技與全球化		通識教育中心 ; 限30人、通識領域課程、PBL課程、英語授課、EMI課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG091	A	半	2	校際臺科大（學）	9UAB		Gender, Technology and Globalization	是			2	通			3208	黃淑怡	一 8-9 TR-613	A2UG
+114	1	0	0	社會學與人生		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG082	A	半	2	校際臺科大（學）	9UAB		Sociology and Life				2	通			3209	黃信洋	二 10 TR-614, 二 9 TR-614	A2UG
+114	1	0	0	社會學與人生		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG082	B	半	2	校際臺科大（學）	9UAB		Sociology and Life				2	通			3210	黃信洋	三 10 TR-210, 三 9 TR-210	A2UG
+114	1	0	0	城南小旅行		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG085	A	半	2	校際臺科大（學）	9UAB		Cultural Trips Within Taipei City's South Side				2	通			3211	黃信洋	三 6-7 TR-213	A2UG
+114	1	0	0	城南小旅行		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG085	B	半	2	校際臺科大（學）	9UAB		Cultural Trips Within Taipei City's South Side				2	通			3212	黃信洋	二 6-7 TR-511	A2UG
+114	1	0	0	客家戲曲妝扮美感探索		通識教育中心 ; 限50人、通識領域課程、創新教學課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG078	A	半	2	校際臺科大（學）	9UAB		Exploring the Beauty of Hakka Opera Makeup				2	通			3213	石美芳	四 6-7 TR-610	A1UG
+114	1	0	0	原住民美學及藝術策展實踐		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	1	1		81UG082	A	半	2	校際臺科大（學）	9UAB		Indigenous Aesthetics and Art Curating Practice				2	通			3214	曾瓊慧	一 10 TR-511, 一 9 TR-511	A1UG
+114	1	0	0	原住民族文化資產與藝術實踐		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG084	A	半	2	校際臺科大（學）	9UAB		Indigenous Cultural Heritage and Artistic Practices				2	通			3215	簡志霖	二 10 TR-210, 二 9 TR-210	A1UG
+114	1	0	0	時事漫談智慧財產與科技法		智慧財產學程 ; 通識領域課程、英語授課、限100人、EMI課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	3	3		83UG055	A	半	2	校際臺科大（學）	9UAB		Law of Intellectual Property and Technology- Current Topics	是			5	通			3216	Richard	二 6-7 IB-401	A2UG
+114	1	0	1	校園性別事件防治實務		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	1		83UG103	A	半	2	校際臺科大（學）	9UAB		Gender Equality Education Case Study on Campus				2	通			3217	林麗燕	一 10 TR-210, 一 9 TR-210	A2UG
+114	1	0	0	校園性別事件防治實務		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG103	B	半	2	校際臺科大（學）	9UAB		Gender Equality Education Case Study on Campus				2	通			3218	林麗燕	五 6-7 T4-303	A2UG
+114	1	0	0	配色的基礎與實踐		通識教育中心 ; 限50人、通識領域課程、PBL課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	2	2		81UG058	A	半	2	校際臺科大（學）	9UAB		Principals and Practical Applications of Color Scheme				2	通			3219	陳鴻興	四 10 TR-511, 四 9 TR-511	A1UG
+114	1	0	0	彩繪圖案設計與生活應用		通識教育中心 ; 通識領域課程、限50人、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG080	A	半	2	校際臺科大（學）	9UAB		Color Painting Design and Life Application				2	通			3220	陳美均	三 10 華夏營管大樓K506, 三 9 華夏營管大樓K506	A1UG
+114	1	0	1	彩繪圖案設計與生活應用		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	3	2		81UG080	B	半	2	校際臺科大（學）	9UAB		Color Painting Design and Life Application				2	通			3221	陳美均	五 8-9 TR-617	A1UG
+114	1	0	0	組織行為		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG108	A	半	2	校際臺科大（學）	9UAB		Organizational Behavior				2	通			3222	隋風銘	四 1-2 TR-512	A2UG
+114	1	0	0	組織行為		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG108	B	半	2	校際臺科大（學）	9UAB		Organizational Behavior				2	通			3223	隋風銘	四 10 T4-404, 四 9 T4-404	A2UG
+114	1	0	0	聊天機器人與文化探索		通識教育中心 ; 限50人、通識領域課程、英語授課、EMI課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：數學與邏輯思維；97-105入學：數學與科學思維	1	1		85UG022	A	半	2	校際臺科大（學）	9UAB		Chatbots and Cultural Theme Exploration	是			2	通			3224	陳錦瑜	二 8-9 TR-411	A3UG
+114	1	0	1	創新與創業		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	1		83UG092	A	半	2	校際臺科大（學）	9UAB		Innovation and Entrepreneurship				2	通			3225	隋風銘	二 6-7 TR-611	A2UG
+114	1	0	0	創新與創業		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG092	B	半	2	校際臺科大（學）	9UAB		Innovation and Entrepreneurship				2	通			3226	隋風銘	二 8-9 TR-611	A2UG
+114	1	0	0	愛情多樣性		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG052	A	半	2	校際臺科大（學）	9UAB		The Diversity of Intimate Relationships				2	通			3227	許碩驛	四 3-4 TR-212	A2UG
+114	1	0	0	資訊素養與媒體識讀		通識教育中心 ; 限50人、通識領域課程、英語授課、EMI課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG075	A	半	2	校際臺科大（學）	9UAB		Information and Media Literacy	是			2	通			3228	洪秀錦	三 3-4 TR-412-2	A2UG
+114	1	0	0	慢城南的漫書寫		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	2	2		84UG051	A	半	2	校際臺科大（學）	9UAB		Writing Therapy Applied in the South Side of Taipei				2	通			3229	許碩驛	四 10 TR-609, 四 9 TR-609	A1UG
+114	1	0	0	領導與溝通		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG035	A	半	2	校際臺科大（學）	9UAB		Leadership and Communication				2	通			3230	王淑俐	三 10 TR-610, 三 9 TR-610	A2UG
+114	1	0	0	親密關係暴力事件案例探討		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG104	A	半	2	校際臺科大（學）	9UAB		Case Study on Intimate Relationship Violence				2	通			3231	林麗燕	四 1-2 TR-513	A2UG
+114	1	0	0	親密關係暴力事件案例探討		通識教育中心 ; 通識領域課程、限50人、上課地點華夏科大，上課節次起訖時間請依照臺科大上課時間表 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG104	B	半	2	校際臺科大（學）	9UAB		Case Study on Intimate Relationship Violence				2	通			3232	林麗燕	二 10 華夏恆毅樓D406, 二 9 華夏恆毅樓D406	A2UG
+114	1	0	0	職場性騷擾事件之處理機制		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG105	A	半	2	校際臺科大（學）	9UAB		Sexual Harassment in the Workplace				2	通			3233	林麗燕	二 1-2 TR-617	A2UG
+114	1	0	0	職場性騷擾事件之處理機制		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG105	B	半	2	校際臺科大（學）	9UAB		Sexual Harassment in the Workplace				2	通			3234	林麗燕	五 8-9 T4-303	A2UG
+114	1	0	0	職場倫理		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG107	A	半	2	校際臺科大（學）	9UAB		Workplace Ethics				2	通			3235	隋風銘	五 6-7 E2-102	A2UG
+114	1	0	0	職場倫理		通識教育中心 ; 通識領域課程、限50人 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG107	B	半	2	校際臺科大（學）	9UAB		Workplace Ethics				2	通			3236	隋風銘	五 8-9 E2-102	A2UG
+114	1	0	0	舊城南裡究電影		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	2	2		81UG079	A	半	2	校際臺科大（學）	9UAB		Exploring Cinema Therapy Through Southern Taipei Films				2	通			3237	許碩驛	三 8-9 TR-212	A1UG
+114	1	0	0	藝術與公共環境		通識教育中心 ; 限50人、通識領域課程 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	2	2		81UG074	A	半	2	校際臺科大（學）	9UAB		Public Art and Environment				2	通			3238	林宜珍	四 3-4 TR-617	A1UG
+114	1	0	1	AI輔助英文應用寫作		寫作教學中心 ; 大學部以上皆可選修。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	2	1		8HUG054	A	半	2	校際臺大（學）	9UAA		AI-Powered English Writing Application & Advancement				3	通			3239	陳翊齊	一 3-4 共205	A1UG
+114	1	0	1	小故事，大世界		寫作教學中心 ; 大學以上可修。教室博雅301，78節統一上課、第6節實作。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	4	3		8HUG029	A	半	3	校際臺大（學）	9UAA		Storytelling and Communication for Social Change and Leadership				3	通			3240	李維晏	三 6-8 博雅301	A1UG
+114	1	0	0	小故事，大世界		寫作教學中心 ; 大學以上可修。教室博雅301，78節統一上課、第9節實作。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	2	2		8HUG029	B	半	3	校際臺大（學）	9UAA		Storytelling and Communication for Social Change and Leadership				3	通			3241	李維晏	三 7-9 請洽系所辦	A1UG
+114	1	0	1	日治時代臺灣教育史		歷史學系 ; 同時為歷史系選修(20人)。外加國北教、臺藝大各開放5位 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	1	0		84UG047	A	半	2	校際臺大（學）	9UAA		History of Education in Taiwan During the Japanese Colonial Period				5	通	◎加退選全授權碼選課		3242	歐素瑛	三 8-9 博雅202	A1UG
+114	1	0	1	全球通識講座-認識全球		政治學系 ; 另社團幹部30名由老師發授權碼。政治系學生修習本課程不計入畢業學分，雙修之學生不計入雙修學分。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	8	7		83UG049	A	半	2	校際臺大（學）	9UAA		Global Awareness				10	通	◎加退選全授權碼選課		3243	馮  燕	四 3-4 博雅103	A2UG
+114	1	0	0	自我行銷有一套：實用中文寫作		寫作教學中心 ; 大學以上皆可選修。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	3	3		8HUG055	A	半	3	校際臺大（學）	9UAA		Self-Promotion Art: Practical Chinese Writing				3	通			3244	蘇虹菱	三 6-8 共406	A1UG
+114	1	0	0	非營利組織經營與管理(NPO之戀)		共同教育中心 ; 開學加簽80名。第一周未出席刪除選課。學期結束時邀請同學自由填寫與課程相關之不記名學術研究問卷。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	2	2		83UG101	A	半	2	校際臺大（學）	9UAA		Strategic Perspectives in Nonprofit Management(Love of NPO)				20	通	◎加退選全授權碼選課		3245	粘曉菁	四 3-4 博雅201	A2UG
+114	1	0	0	南亞社會與樂舞表演		共同教育中心 ; 開放國北教大、臺藝大各2人。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG061	A	半	3	校際臺大（學）	9UAA		South Asian Musical Performance and Society	是			2	通	◎加退選全授權碼選課		3246	黃佩玲	一 7-9 共103	A1UG
+114	1	0	0	科技英文寫作與表達		寫作教學中心 ; 大學部以上可選修。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	3	3		8HUG056	A	半	3	校際臺大（學）	9UAA		English Technical Writing and Communication				3	通			3247	陳翊齊	三 2-4 共401	A1UG
+114	1	0	0	科學說人話：科普寫作		寫作教學中心 ; 大學以上皆可選修。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	1	1		8HUG035	A	半	3	校際臺大（學）	9UAA		Popular Science Writing				3	通			3248	蘇虹菱	四 6-8 共405	A1UG
+114	1	0	1	英文即席演講溝通術		寫作教學中心 ; 大學部以上皆可選修。第一週請務必出席 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	4	3		8HUG057	A	半	2	校際臺大（學）	9UAA		Mastering Impromptu Speeches	是			3	通			3249	胡至柔	五 3-4 普302	A1UG
+114	1	0	0	英文專題寫作		寫作教學中心 ; 大學部以上皆可選修。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	2	2		8HUG052	A	半	3	校際臺大（學）	9UAA		Writing for Academic Success (3)				3	通			3250	熊宜君	一 2-4 共405	A1UG
+114	1	0	0	英文專題寫作		寫作教學中心 ; 大學部以上皆可選修。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	2	2		8HUG052	B	半	3	校際臺大（學）	9UAA		Writing for Academic Success (3)	是			3	通			3251	葉芳萍	三 6-8 共402	A1UG
+114	1	0	1	英語演說與溝通技巧		寫作教學中心 ; 大學以上可選修。教室博雅301，34節統一上課第2節實作。加簽請至課堂上，第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	4	3		8HUG030	A	半	3	校際臺大（學）	9UAA		Introduction to English Presentations	是			3	通			3252	柯凱?	三 2-4 博雅301	A1UG
+114	1	0	0	英語演說與溝通技巧		寫作教學中心 ; 大學以上可選修。教室博雅301，34節統一上課第5節實作。加簽請至課堂上，第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	3	3		8HUG030	B	半	3	校際臺大（學）	9UAA		Introduction to English Presentations	是			3	通			3253	柯凱?	三 3-5 請洽系所辦	A1UG
+114	1	0	0	框架外的思考:五分鐘英文講台		寫作教學中心 ; 大學以上可選修。教室博雅301，78節統一上課第6節實作。加簽請至課堂上，第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	2	2		8HUG025	A	半	3	校際臺大（學）	9UAA		Exploratory Writers on a 5-Minute Stage				3	通			3254	李維晏	二 6-8 博雅301	A1UG
+114	1	0	0	框架外的思考:五分鐘英文講台		寫作教學中心 ; 大學以上可選修。教室博雅301，78節統一上課第9節實作。加簽請至課堂上，第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	2	2		8HUG025	B	半	3	校際臺大（學）	9UAA		Exploratory Writers on a 5-Minute Stage				3	通			3255	李維晏	二 7-9 請洽系所辦	A1UG
+114	1	0	2	海峽兩岸關係史一		歷史學系 ; 開放國北教、臺藝大各5位加選。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	6	4		84UG041	A	半	2	校際臺大（學）	9UAA		History of Cross-strait Relations (?)				5	通	◎加退選全授權碼選課		3256	李君山	二 6-7 博雅101/華南講	A1UG
+114	1	0	0	海峽兩岸關係史一		歷史學系 ; 開放國北教、臺藝大各5位加選。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	4	4		84UG041	B	半	2	校際臺大（學）	9UAA		History of Cross-strait Relations (?)				5	通	◎加退選全授權碼選課		3257	李君山	五 3-4 普203	A1UG
+114	1	0	3	探索臺灣：女性與臺灣社會		共同教育中心 ; 開放國北教3名臺藝大3名。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	4	1		83UG039	A	半	2	校際臺大（學）	9UAA		Exploring Taiwan: Women and Taiwanese Society	是			3	通	◎加退選全授權碼選課		3258	郭任?	一 3-4 博雅202	A2UG
+114	1	0	3	探索臺灣：自然資源保育與經營管理		森林環境暨資源學系 ;   限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	5	2		86UG040	A	半	2	校際臺大（學）	9UAA		Exploring Taiwan: Natural Resources Conservation and Management	是			10	通	◎加退選全授權碼選課		3259	劉奇璋	四 6-7 博雅202	A3UG
+114	1	0	1	探索臺灣：自然環境與資源		森林環境暨資源學系 ;   限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	3	2		86UG055	A	半	2	校際臺大（學）	9UAA		Exploring Taiwan: natural environment and resources	是			3	通	◎加退選全授權碼選課		3260	袁孝維	三 8-9 博雅201	A3UG
+114	1	0	0	探索臺灣：聆聽臺灣的樂動		共同教育中心 ; 開放國北教大、臺藝大各2人。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	0	0		83UG093	A	半	3	校際臺大（學）	9UAA		Exploring Taiwan: Musicking and Listening in Taiwan	是			2	通	◎加退選全授權碼選課		3261	黃佩玲	三 7-9 綜503	A2UG
+114	1	0	0	探索臺灣：臺灣電影與臺灣社會		共同教育中心 ; 開放國北教3名臺藝大3名。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	1	1		83UG097	A	半	2	校際臺大（學）	9UAA		Exploring Taiwan: Film and Social Culture in Taiwan	是			3	通	◎加退選全授權碼選課		3262	郭任?	二 3-4 博雅201	A2UG
+114	1	0	0	深造預備英文寫作		寫作教學中心 ; 大學以上可選修。教室博雅301，34節統一上課第2節實作。加簽請至課堂上，第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	1	1		8HUG027	A	半	3	校際臺大（學）	9UAA		English Writing for Academic Pursuit				3	通			3263	胡至柔	四 2-4 博雅301	A1UG
+114	1	0	0	深造預備英文寫作		寫作教學中心 ; 大學以上可選修。教室博雅301，34節統一上課第5節實作。加簽請至課堂上，第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	2	2		8HUG027	B	半	3	校際臺大（學）	9UAA		English Writing for Academic Pursuit				3	通			3264	胡至柔	四 3-5 請洽系所辦	A1UG
+114	1	0	0	現代生物學之應用		生命科學系 ;   限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	2	2		86UG008	A	半	2	校際臺大（學）	9UAA		Application of Modern Biology				5	通			3265	朱家瑩	一 8-9 博雅103	A3UG
+114	1	0	0	創意與寫作表達		寫作教學中心 ; 大學以上皆可選修。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG033	A	半	3	校際臺大（學）	9UAA		Writing as Creative Communication				3	通			3266	蘇虹菱	一 3-5 共404	A1UG
+114	1	0	0	森林生物多樣性概論		森林環境暨資源學系 ; 114年11月7日至11月11日為校外教學日，此時間若與其他課程衝堂，請勿選課。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	3	3		86UG037	A	半	3	校際臺大（學）	9UAA		Introduction to Forest Biodiversity				4	通	◎加退選全授權碼選課		3267	丁宗蘇	六 2-4 請洽系所辦, 六 6-9 請洽系所辦	A3UG
+114	1	0	0	森林生物多樣性概論		森林環境暨資源學系 ; 114年11月14日至11月18日為校外教學日，此時間若與其他課程衝堂，請勿選課。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	4	4		86UG037	B	半	3	校際臺大（學）	9UAA		Introduction to Forest Biodiversity				4	通	◎加退選全授權碼選課		3268	丁宗蘇	六 2-4 請洽系所辦, 六 6-9 請洽系所辦	A3UG
+114	1	0	0	新媒體AI應用英文寫作		寫作教學中心 ; 大學部以上皆可選修。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	1	1		8HUG058	A	半	2	校際臺大（學）	9UAA		English Writing for the Media and the Web in the Age of AI	是			3	通			3269	歐墨然	一 6-7 共402	A1UG
+114	1	0	0	臺灣近代史		歷史學系 ; 同時為歷史系選修(20人)。外加國北教、臺藝大各開放5位。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	2	2		84UG046	A	半	2	校際臺大（學）	9UAA		The History of Modern Taiwan				5	通	◎加退選全授權碼選課		3270	歐素瑛	三 6-7 博雅202	A1UG
+114	1	0	4	歐盟莫內講座—中國大陸研究學程導論		國發所 ;   限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	5	1		83UG094	A	半	2	校際臺大（學）	9UAA		EU Jean Monnet Chair—Introduction to Mainland China Study				5	通	◎加退選全授權碼選課		3271	葉國俊	二 6-7 社科202	A1UG
+114	1	0	0	職場交涉藝術		寫作教學中心 ; 大學部以上皆可選修。第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	3	3		83UG095	A	半	2	校際臺大（學）	9UAA		The Art of Negotiation	是			3	通			3272	胡至柔	一 3-4 共302	A2UG
+114	1	0	0	職場英文寫作與口語表達		寫作教學中心 ; 大學以上可選修。教室博雅301，34節統一上課第2節實作。加簽請至課堂上，第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	3	3		8HUG026	A	半	3	校際臺大（學）	9UAA		English Written and Oral Communication for Professional Pursuit				3	通			3273	陳巧玲	一 2-4 博雅301	A1UG
+114	1	0	0	職場英文寫作與口語表達		寫作教學中心 ; 大學以上可選修。教室博雅301，34節統一上課第5節實作。加簽請至課堂上，第一週請務必出席。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	1	1		8HUG026	B	半	3	校際臺大（學）	9UAA		English Written and Oral Communication for Professional Pursuit				3	通			3274	陳巧玲	一 3-5 請洽系所辦	A1UG
+114	1	0	0	職場倫理與職場精神		共同教育中心 ; 選上本課程者第一週務必出席，否則刪除選課。開放國北教4名臺藝大4名。 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：哲學思維與道德推理；97-105入學：哲學思維與	3	3		82UG010	A	半	3	校際臺大（學）	9UAA		Occupational Ethics and Workplace Spirituality				4	通			3275	洪英正	一 7-9 博雅301	A2UG
+114	1	0	0	讀中生智：字裡行間的永續未來		寫作教學中心 ; 大學部以上皆可選修。第一週請務必出席 ; 限修學制：大、碩、博 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與	3	3		83UG096	A	半	2	校際臺大（學）	9UAA		Reading to Connect: A Sustainable Future Between the Lines	是			3	通			3276	胡至柔	二 3-4 普202	A2UG
+114	1	0	0	1980年代之後的日本經濟與經濟政策		學分學程 ; 日本研究學程 ; 日本研究學程學生優先選課。日文系學生修習本學程課程之學分，不計為系內指定選修學分。 ; 限修學制：大、碩、博	1	1		AAU0277	A	半	2.0	校際臺大（學）	9UAA		Japanomics after 1980's and Its Economic Policy				10	選	◎加退選全授權碼選課		3277	蘇顯揚	四 8-9 共304	
+114	1	0	0	20世紀新音樂	7	文學院 ; 音樂學研究所 ;   限修學制：大、碩、博	0	0		AAC7A93	A	半	3.0	校際臺大（學）	9UAA		New Music in the Twentieth Century				2	選	◎加退選全授權碼選課		3278	楊建章	四 7-9 樂學館105	
+114	1	0	0	BIM技術與應用 (I)	7	工學院 ; 土木工程學研究所 ; 停修截止日10/3 ; 限修學制：大、碩、博	0	0		AAC7L77	A	半	1.0	校際臺大（學）	9UAA		Technology and Application of BIM (I)	是			3	選	◎加退選全授權碼選課		3279	謝尚賢	一 2-4 土研407	
+114	1	0	0	BIM技術與應用 (II)	7	工學院 ; 土木工程學研究所 ; 須具備BIM技術與應用 (I)課程之知識基礎。 ; 限修學制：大、碩、博	0	0		AAC7L78	A	半	2.0	校際臺大（學）	9UAA		Technology and Application of BIM (II)	是			3	選	◎加退選全授權碼選課		3280	謝尚賢	一 2-5 請洽系所辦	
+114	1	0	1	Big Data程式語言、編譯與應用	7	電機資訊學院 ; 資訊工程學研究所 ; 上課教室：資102。 ; 限修學制：大、碩、博	1	0		AAC7N66	A	半	3.0	校際臺大（學）	9UAA		Big Data Programs, Compilers and Apps	是			3	選	◎加退選全授權碼選課		3281	廖世偉	五 1-3 請洽系所辦	
+114	1	0	3	GenAI世代創新創業的機會與挑戰	7	學分學程 ; 創意創業學程 ;   限修學制：大、碩、博	3	0		AAC7N67	A	半	3.0	校際臺大（學）	9UAA		Overcoming Uphill Challenges for the GenAI Generation Entrepreneurs				10	選	◎加退選全授權碼選課		3282	王崇智	三 7-9 共201	
+114	1	0	1	PEERS 社交技巧團體實作		醫學院 ; 醫學系 ; 初選不開放．完成量表與面談，符合者可加選。請洽心輔中心陳威宇老師。不列入醫學系通識學分。心輔中心多功能室上課 ; 限修學制：大、碩、博	1	0		AAU2094	A	半	2.0	校際臺大（學）	9UAA		PEERS Social Skills Training Group Practice				5	選	◎加退選全授權碼選課 ◎初選不開放		3283	簡意玲	一 3-4 請洽系所辦	
+114	1	0	0	Perl程式語言與生物資訊	7	生命科學院 ; 基因體與系統生物學學位學程 ; 本課程以英語授課。地點:生科院3A教室 ; 限修學制：大、碩、博	0	0		AAC7F56	A	半	3.0	校際臺大（學）	9UAA		Perl computer programming for bioinformatics	是			6	選			3284	林友瑜	二 2-4 生科4C	
+114	1	0	3	R語言在生態學的應用	7	生命科學院 ; 生態學與演化生物學研究所 ;   限修學制：大、碩、博	4	1		AAC7531	A	半	3.0	校際臺大（學）	9UAA		Introduction to R for Ecologists	是			2	選	◎加退選全授權碼選課		3285	澤大衛	二 2-4 綜502	
+114	1	0	0	WTO法	7	法律學院 ; 法律研究所 ; 教室:研霖五1702。 ; 限修學制：大三以上、碩、博	0	0		AAC7F57	A	半	2.0	校際臺大（學）	9UAA		Law of the World Trade Organization				3	選	◎加退選全授權碼選課		3286	洪德欽	三 3-4 請洽系所辦	
+114	1	0	0	一般醫學保健		醫學院 ; 復健醫學系 ; 與陳慧君、蘇韋如合開。 ; 限修學制：大、碩、博	4	4		AAU0025	A	半	2.0	校際臺大（學）	9UAA		Primary Care Medicine and Health				7	選			3287	陳慧玲	三 8-9 普101	
+114	1	0	0	二十世紀英國文學		文學院 ; 外國語文學系 ; 英國文學與美國文學九科擇五必修。 ; 限修學制：大、碩、博	0	0		AAU0671	A	半	3.0	校際臺大（學）	9UAA		Twentieth-century English Literature	是			2	選			3288	高維泓	五 6-8 綜504	
+114	1	0	2	二李詞		文學院 ; 中國文學系 ;   限修學制：大、碩、博	3	1		AAU0575	A	半	3.0	校際臺大（學）	9UAA		Ci Poetry of Li Yu and Li Qing-zhao				1	選	◎加退選全授權碼選課		3289	劉少雄	三 3-5 普302	
+114	1	0	1	人工智慧與科學	7	理學院 ;     限修學制：大、碩、博	5	4		AAC7N68	A	半	2.0	校際臺大（學）	9UAA		AI in Science				5	選			3290	吳俊輝	四 9-10 新202	
+114	1	0	0	人工智慧與都市土地使用：模擬、實作與批判視角		工學院 ; 建築與城鄉研究所 ;   限修學制：碩、博	0	0		AAM2299	A	半	3.0	校際臺大（碩）	9MAA		AI in Urban Land Use: From Simulation and Practice to Critical Reflection				1	選	◎課程不開放上修		3291	黃麗玲	三 A-C 工綜313	
+114	1	0	0	人文地理學通論		理學院 ; 地理環境資源學系 ;   限修學制：大、碩、博	0	0		AAU0672	A	半	3.0	校際臺大（學）	9UAA		Introduction to Human Geography				2	選	◎加退選全授權碼選課		3292	洪廣冀	四 7-9 地理305	
+114	1	0	1	人文科技的交響：新趨勢與新素養（一）		文學院 ; 中國文學系 ;   限修學制：大、碩、博	1	0		AAU1395	A	半	3.0	校際臺大（學）	9UAA		The Interplay of Humanity and Technology-New Trends and New Competencies (I)				5	選	◎加退選全授權碼選課		3293	鄭毓瑜	四 7-9 博雅301	
+114	1	0	0	人文與科技的對話		共同教育中心 ; 通識教育組 ;   限修學制：大、碩、博	1	1		AAU1322	A	半	2.0	校際臺大（學）	9UAA		The Dialogue between Humanities and Technology				5	選	◎加退選全授權碼選課		3294	袁孝維	三 6-7 綜合大講堂	
+114	1	0	0	人居環境微氣候學	7	理學院 ; 地理環境資源學研究所 ;   限修學制：大、碩、博	0	0		AAC7N69	A	半	3.0	校際臺大（學）	9UAA		Microclimatology in the Built Environment	是			2	選	◎加退選全授權碼選課		3296	莊振義	二 7-9 地理二教室	
+114	1	0	0	人與環境關係導論		工學院 ; 土木工程學系 ; 本系建築學群課程選修科目之一。 ; 限修學制：大三以上、碩、博	1	1		AAU0278	A	半	3.0	校際臺大（學）	9UAA		Human Environment Relations				1	選			3297	邱啟新	四 2-4 新202	
+114	1	0	0	人際溝通與讀者服務	7	文學院 ; 圖書資訊學研究所 ; U選課程，大學部與研究所學生均可修習。 ; 限修學制：大、碩、博	0	0		AAC7999	A	半	3.0	校際臺大（學）	9UAA		Interpersonal Communication and Reader’s Service				1	選	◎加退選全授權碼選課		3298	陳書梅	一 7-9 圖資會議室	
+114	1	0	0	人類學		文學院 ; 人類學系 ; 限本系和雙輔生。 ; 限修學制：大、碩、博	1	1		AAU1100	A	半	3.0	校際臺大（學）	9UAA		Introduction to Anthropology				1	選	◎加退選全授權碼選課		3299	張正衡	四 3-5 普405	
+114	1	0	0	人體生理學		醫學院 ; 生理學研究所 ;   限修學制：大、碩、博	0	0		AAM0625	A	半	6.0	校際臺大（碩）	9MAA		Human Physiology				1	選	◎課程開放上修		3300	湯志永	二 7-9 基醫1003, 四 7-9 基醫1003	
+114	1	0	0	人體神經肌肉骨骼生物力學	7	工學院 ; 醫學工程學研究所 ; 上課地點：永齡館439室。 ; 限修學制：大三以上、碩、博	0	0		AAC7H39	A	半	3.0	校際臺大（學）	9UAA		Biomechanics of the Human Neuromusculoskeletal System				3	選	◎加退選全授權碼選課		3301	呂東武	四 6-8 請洽系所辦	
+114	1	0	0	三維電腦視覺與深度學習應用	7	電機資訊學院 ; 資訊工程學研究所 ;   限修學制：大四以上、碩、博	1	1		AAC7D64	A	半	3.0	校際臺大（學）	9UAA		3D Computer Vision with Deep Learning Applications				1	選	◎加退選全授權碼選課		3302	陳祝嵩	一 7-9 資107	
+114	1	0	0	上層海洋邊界層物理	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	1	1		AAC7A00	A	半	2.0	校際臺大（學）	9UAA		Physics in Upper Ocean Boundary Layer				2	選			3303	許哲源	四 3-4 海研231	
+114	1	0	0	口譯研究工作坊		文學院 ; 翻譯碩士學位學程 ; 1.上課時間：第1,3,5,7,9,11週。  2.停修申請截止日期：114年11月14日。 ; 限修學制：碩、博	0	0		AAM2300	A	半	1.0	校際臺大（碩）	9MAA		Interpreting Studies Workshop	是			3	選	◎課程不開放上修 ◎加退選全授權碼選課		3304	劉敏華	五 2-4 請洽系所辦	
+114	1	0	0	土耳其文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU1398	A	半	3.0	校際臺大（學）	9UAA		Turkish (I) (1)				2	選	◎加退選全授權碼選課		3305	初雅士	一 A-D 普204	
+114	1	0	0	土耳其文二上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU1225	A	半	3.0	校際臺大（學）	9UAA		Turkish (II) (1)				2	選	◎必須先修過土耳其文一下】 ◎加退選全授權碼選課		3306	初雅士	三 A-D 普202	
+114	1	0	0	土壤化學		生物資源暨農學院 ; 農業化學系 ; 群組必修，8科目中必修7學分。 ; 限修學制：大、碩、博	0	0		AAU0280	A	半	2.0	校際臺大（學）	9UAA		Soil Chemistry				2	選	◎加退選全授權碼選課		3307	王尚禮	三 3-4 農化一第六-1	
+114	1	0	0	土壤化學分析	7	生物資源暨農學院 ; 農業化學研究所 ;   限修學制：大四以上、碩、博	0	0		AAC7G28	A	半	2.0	校際臺大（學）	9UAA		Soil Chemical Analysis				2	選	◎加退選全授權碼選課		3308	何聖賓	五 3-4 農化二106	
+114	1	0	0	土壤生態與生物多樣性專題討論		生命科學院 ; 生命科學研究所 ; 初選不開放．時地另訂。請於開學前向授課教師查詢。 ; 限修學制：大、碩、博	0	0		AAM1161	A	半	2.0	校際臺大（碩）	9MAA		Soil Ecology and Biodiversity Seminar				2	選	◎課程開放上修 ◎加退選全授權碼選課 ◎初選不開放		3309	張智涵		
+114	1	0	0	土壤學		生物資源暨農學院 ; 農業化學系 ;   限修學制：大、碩、博	1	1		AAU0281	A	半	2.0	校際臺大（學）	9UAA		Soil Science				3	選			3310	許正一	二 3-4 新505	
+114	1	0	0	大地材料組成律模式		工學院 ; 土木工程學研究所 ;   限修學制：大、碩、博	0	0		AAM0801	A	半	3.0	校際臺大（碩）	9MAA		Constitutive Law of Geomaterials	是			5	選	◎課程開放上修 ◎加退選全授權碼選課		3311	葛宇甯	二 2-4 土220	
+114	1	0	0	大局勢：美元流動性與七大參與者		進修推廣學院 ; 事業經營碩士在職學位學程 ; 本課程採實體與線上同步授課，實際上課時間為19:00~21:45，上課地點請洽進修推廣學院。 ; 限修學制：大、碩、博	0	0		AAM1917	A	半	3.0	校際臺大（碩）	9MAA		The Grand Chessboard: Dollar Liquidity in Global Markets				1	選	◎課程開放上修 ◎加退選全授權碼選課		3312	賽明成	一 A-C 請洽系所辦	
+114	1	0	0	大氣化學		理學院 ; 大氣科學系 ; 大氣環境化學學群必修  先修:普通化學甲，未有此先修則須與授課老師確定具備所需基礎知識 ; 限修學制：大、碩、博	0	0		AAU0673	A	半	3.0	校際臺大（學）	9UAA		Atmospheric Chemistry				1	選	◎必須先修過普通化學甲上】 ◎加退選全授權碼選課		3313	洪惠敏	二 2 大氣A108, 五 3-4 大氣A108	
+114	1	0	0	大氣物理化學	7	理學院 ; 大氣科學研究所 ; 大氣環境化學學群必修 ; 限修學制：大、碩、博	2	2		AAC7163	A	半	3.0	校際臺大（學）	9UAA		Atmospheric Physical Chemistry				2	選			3314	陳正平	四 8-9 大氣B105, 五 6 大氣B105	
+114	1	0	0	大氣科學概論		理學院 ; 大氣科學系 ;   限修學制：大、碩、博	0	0		AAU0283	A	半	2.0	校際臺大（學）	9UAA		Introduction to Atmospheric Science				5	選			3315	吳俊傑	二 1-2 大氣B105	
+114	1	0	0	大氣科學學生英文演講報告	7	理學院 ; 大氣科學研究所 ; 欲修課同學請務必詳閱課綱 ; 限修學制：大、碩、博	0	0		AAC7N70	A	半	1.0	校際臺大（學）	9UAA		English Presentation for Students in the Atmospheric Sciences				1	選			3316	林依依	五 6 大氣A206	
+114	1	0	0	大氣動力學二		理學院 ; 大氣科學系 ; 天氣與氣候學群必修 ; 限修學制：大、碩、博	1	1		AAU1299	A	半	3.0	校際臺大（學）	9UAA		Atmospheric Dynamics (II)				2	選	◎必須先修過大氣動力學一】		3317	郭鴻基	一 1-2 大氣B105, 三 2 大氣B105	
+114	1	0	0	大氣程式實作	7	理學院 ; 大氣科學研究所 ; 限當學期修「程式與科學計算」之同學(併)修此課.欲修課之外校同學，請先與授課老師聯繫. ; 限修學制：大、碩、博	0	0		AAC7C51	A	半	1.0	校際臺大（學）	9UAA		Programming Workshop in Atmospheric Sciences				1	選	◎必須先修過程式與科學計算】 ◎加退選全授權碼選課		3318	陳維婷	一 10 大氣B105	
+114	1	0	1	大腦事件誘發電位資料收集與分析導論		文學院 ; 語言學研究所 ;   限修學制：大、碩、博	1	0		AAM0627	A	半	3.0	校際臺大（碩）	9MAA		Introduction to Event-Related Potential (ERP) data collection and analysis				2	選	◎課程開放上修 ◎加退選全授權碼選課		3319	李佳霖	一 6-8 博雅307	
+114	1	0	0	工控系統之資訊安全	7	電機資訊學院 ; 電機工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7C52	A	半	3.0	校際臺大（學）	9UAA		Industry Control System (ICS) Cybersecurity				2	選	◎加退選全授權碼選課		3320	林志達	二 7-9 電二102	
+114	1	0	0	工程力學		生物資源暨農學院 ; 生物環境系統工程學系 ;   限修學制：大、碩、博	0	0		AAU2330	A	半	3.0	校際臺大（學）	9UAA		Engineering  Mechanics				3	選	◎加退選全授權碼選課		3321	胡明哲	四 2-4 共205	
+114	1	0	0	工程專案管理		工學院 ; 土木工程學研究所 ;   限修學制：大、碩、博	0	0		AAM2038	A	半	3.0	校際臺大（碩）	9MAA		Project Management for Construction	是			1	選	◎課程開放上修 ◎加退選全授權碼選課		3322	林之謙	三 2-4 土320	
+114	1	0	0	工程圖學		工學院 ; 土木工程學系 ; 電腦教室:計中116。 ; 限修學制：大、碩、博	0	0		AAU1532	A	半	2.0	校際臺大（學）	9UAA		Engineering Graphics				3	選	◎加退選全授權碼選課		3323	謝尚賢	五 2-4 新401	
+114	1	0	0	工程圖學		工學院 ; 土木工程學系 ; 電腦教室:工綜323室。 ; 限修學制：大、碩、博	0	0		AAU1532	B	半	2.0	校際臺大（學）	9UAA		Engineering Graphics				1	選	◎加退選全授權碼選課		3324	謝依芸	五 2-4 新402	
+114	1	0	0	工程與法律		工學院 ; 土木工程學系 ; 本系F層課程,土木學群選科之一。 ; 限修學制：大、碩、博	1	1		AAU2268	A	半	3.0	校際臺大（學）	9UAA		Engineering and Law				3	選	◎加退選全授權碼選課		3325	曾惠斌	二 7-9 新502	
+114	1	0	0	工程數學1		工學院 ; 土木工程學系 ;   限修學制：大、碩、博	1	1		AAU1767	A	半	2.0	校際臺大（學）	9UAA		Engineering Mathematics 1				1	選	◎加退選全授權碼選課		3326	張書瑋	四 3-4 新505	
+114	1	0	0	工程數學一		工學院 ; 化學工程學系 ; 本系同學儘量在初選階段選定本課程。 ; 限修學制：大、碩、博	0	0		AAU0286	A	半	3.0	校際臺大（學）	9UAA		Engineering Mathematics (I)				1	選	◎必須先修過　（　微積分甲上 和 微積分甲下　）　｜　（　微積分1 和 微積分2 和 微積分3 和 微積分4　）】		3327	吳紀聖	三 2 綜501, 五 3-4 綜501	
+114	1	0	0	工程數學一		工學院 ; 化學工程學系 ; 本系同學儘量在初選階段選定本課程。 ; 限修學制：大、碩、博	0	0		AAU0286	B	半	3.0	校際臺大（學）	9UAA		Engineering Mathematics (I)	是			1	選	◎必須先修過　（　微積分甲上 和 微積分甲下　）　｜　（　微積分1 和 微積分2 和 微積分3 和 微積分4　）】		3328	林立強	三 2 綜504, 五 3-4 綜504	
+114	1	0	0	工程數學一		生物資源暨農學院 ; 生物機電工程學系 ;   限修學制：大、碩、博	2	2		AAU0286	C	半	3.0	校際臺大（學）	9UAA		Engineering Mathematics (I)				2	選			3329	顏炳郎	二 2-4 生機101	
+114	1	0	0	工程學術英文寫作與口頭報告		教務處 ; 寫作教學中心 ;   限修學制：碩、博	0	0		AAM0717	A	半	3.0	校際臺大（碩）	9MAA		Academic Writing and Presentation in Engineering Studies				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3330	李維晏	三 2-4 博雅406	
+114	1	0	0	中尺度氣象學		理學院 ; 大氣科學研究所 ;   限修學制：大、碩、博	0	0		AAM1089	A	半	2.0	校際臺大（碩）	9MAA		Mesoscale Meteorology				2	選	◎課程開放上修		3331	游政谷	一 8-9 大氣系A100	
+114	1	0	0	中世紀文學與當代迴響		文學院 ; 外國語文學研究所 ; 第二、三類。 ; 限修學制：碩、博	0	0		AAM2301	A	半	3.0	校際臺大（碩）	9MAA		Medieval Literature and Its Modern Afterlives	是			2	選	◎課程不開放上修 ◎加退選全授權碼選課		3332	劉雅詩	四 6-8 人文B109	
+114	1	0	0	中美關係與全球治理專題	7	社會科學院 ; 國家發展研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7F61	A	半	3.0	校際臺大（學）	9UAA		Seminar on China-US relations and global governance				1	選	◎加退選全授權碼選課		3333	林竣達	二 6-8 國發208	
+114	1	0	0	中級會計專題		管理學院 ; 會計學系 ; 本課有先修科目規定，第一週未全程到課，不予加簽。 ; 限修學制：大三以上、碩、博	0	0		AAU0377	A	半	3.0	校際臺大（學）	9UAA		Special Topics on Intermediate Accounting				1	選	◎必須先修過中級會計學二　｜　會計學乙二下　｜　中級會計學下】 ◎加退選全授權碼選課		3334	陳坤志	三 2-4 管二305	
+114	1	0	10	中級會計學上		管理學院 ; 財務金融學系 ; 週二56堂實習課，教室：管二301。 ; 限修學制：大、碩、博	10	0		AAU0756	A	半	3.0	校際臺大（學）	9UAA		Intermediate Accounting (1)				5	選	◎必須先修過（會計學原理上 和 會計學原理下 )　｜　（會計學一 和 會計學二）　｜　（會計學一上 和 會計學一下）　｜　（會計學甲一上 和 會計學甲一下）】 ◎加退選全授權碼選課		3335	劉心才	三 2-4 管二201	
+114	1	0	3	中級會計學上		管理學院 ; 會計學系 ; 實習時間：四56(地點：管二206) ; 限修學制：大、碩、博	3	0		AAU0756	B	半	3.0	校際臺大（學）	9UAA		Intermediate Accounting (1)				1	選	◎必須先修過　（　會計學原理上 和 會計學原理下　）　｜　（　　會計學甲一上 和 會計學甲一下　）　｜　（　會計學一上 和 會計學一下　）】 ◎加退選全授權碼選課		3336	王全三	一 A-C 管一101	
+114	1	0	1	中草藥藥效及毒理評估	7	醫學院 ; 藥學研究所 ; 開放2名，限臺大校際聯盟中草藥學程學生選課。 ; 限修學制：大、碩、博	1	0		AAC7682	A	半	2.0	校際臺大（學）	9UAA		Efficacy and Toxicity Examination of Herbal Medicine				2	選	◎加退選全授權碼選課		3337	徐莞曾	二 6-7 基醫303	
+114	1	0	0	中國大陸政府與政治		社會科學院 ; 政治學系 ; 與「中國大陸政治經濟發展」二擇一必修。 ; 限修學制：大三以上、碩、博	1	1		AAU1977	A	半	2.0	校際臺大（學）	9UAA		Chinese Politics				3	選	◎加退選全授權碼選課		3338	陶儀芬	一 3-4 社科201	
+114	1	0	1	中國文學史上		文學院 ; 中國文學系 ;   限修學制：大、碩、博	1	0		AAU1724	A	半	3.0	校際臺大（學）	9UAA		History of Chinese Literature (1)				1	選	◎加退選全授權碼選課		3339	吳旻旻	四 7-9 普303	
+114	1	0	0	中國古代的社會與生活		文學院 ; 歷史學系 ; 第一、二週未到課逕予退選。 ; 限修學制：大、碩、博	1	1		AAU0941	A	半	2.0	校際臺大（學）	9UAA		History of Daily Life in Pre-modern China				2	選	◎加退選全授權碼選課		3340	張嘉鳳	五 7-8 新201	
+114	1	0	0	中國古代的科學、技術與醫療		文學院 ; 歷史學系 ;   限修學制：大	0	0		AAU0077	A	半	2.0	校際臺大（學）	9UAA		History of Science, Technology, and Medicine in Pre-modern China				1	選	◎加退選全授權碼選課		3341	張嘉鳳	五 3-4 文19	
+114	1	0	0	中國古代的修辭與哲學		文學院 ; 哲學研究所 ; 文學院院學士哲學系課程（A群組）。 研究所：儒家、道家領域。  大學部：(A)東方哲學史群組。 ; 限修學制：大、碩、博	0	0		AAM2302	A	半	3.0	校際臺大（碩）	9MAA		Rhetoric and Philosophy in Early China				2	選	◎課程開放上修 ◎加退選全授權碼選課		3342	徐乃義	三 7-9 人文342	
+114	1	0	0	中國古代政治文化		文學院 ; 歷史學系 ;   限修學制：大	2	2		AAU1228	A	半	3.0	校際臺大（學）	9UAA		The History of Political Culture in Imperial China				2	選	◎加退選全授權碼選課		3343	傅  揚	二 2-4 文16	
+114	1	0	0	中國物質文化史		文學院 ; 歷史學系 ;   限修學制：大、碩、博	1	1		AAU1399	A	半	3.0	校際臺大（學）	9UAA		Material Culture of China				3	選	◎加退選全授權碼選課		3344	許雅惠	三 7-9 普304	
+114	1	0	0	中國近三百年文學史專題(一)		文學院 ; 中國文學研究所 ;   限修學制：碩、博	1	1		AAM0950	A	半	3.0	校際臺大（碩）	9MAA		Seminar on the Histories of Chinese Literature Since the 18th Century  I				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3345	梅家玲	一 6-8 中文研討	
+114	1	0	0	中國思想史專題研究		文學院 ; 歷史學研究所 ; 學士班高年級同學徵得老師同意，可領取授權碼加選。 ; 限修學制：碩、博	0	0		AAM0622	A	半	3.0	校際臺大（碩）	9MAA		Pro-seminar on the History of Chinese Thought				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3346	宋家復	五 2-4 歷史研討室	
+114	1	0	0	中國政治思想專題		社會科學院 ; 政治學研究所 ; 碩班必修：政治思想。 ; 限修學制：碩、博	0	0		AAM0951	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Chinese Political Thoughts				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3347	安井伸介	三 6-7 社科研602	
+114	1	0	0	中國政治哲學一		社會科學院 ; 政治學系 ; 第一週上課時說明發放授權碼的規則，勿寄信來詢問。 ; 限修學制：大、碩、博	1	1		AAU0287	A	半	2.0	校際臺大（學）	9UAA		Chinese Political Philosophy (I)				1	選	◎加退選全授權碼選課		3348	安井伸介	四 6-7 社科405	
+114	1	0	0	中國政治哲學一		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	1	1		AAU0287	B	半	2.0	校際臺大（學）	9UAA		Chinese Political Philosophy (I)				3	選			3349	林俊宏	四 6-7 社科407	
+114	1	0	0	中國科技、政治與社會專題		社會科學院 ; 國家發展研究所 ;   限修學制：博	0	0		AAD0345	A	半	3.0	校際臺大（博）	9DAA		Technological Development, Politics and Society of China				5	選	◎課程不開放上修 ◎加退選全授權碼選課		3350	劉秋婉	二 6-8 國發210	
+114	1	0	2	中國哲學史一		文學院 ; 哲學系 ;   限修學制：大、碩、博	3	1		AAU1034	A	半	3.0	校際臺大（學）	9UAA		History of Chinese Philosophy (I)				2	選	◎加退選全授權碼選課		3351	李賢中	三 2-5 新202	
+114	1	0	0	中國戲劇及劇場史		文學院 ; 戲劇學系 ; 兼為亞洲藝術學程課程。學程學生請於開學後向授課教師索取授權碼。 ; 限修學制：大三以上、碩、博	0	0		AAU0864	A	半	2.0	校際臺大（學）	9UAA		History of Chinese Drama and Theatre				2	選	◎加退選全授權碼選課		3352	林鶴宜	三 3-4 總一館108	
+114	1	0	0	中國戲劇名著選讀		文學院 ; 戲劇學系 ; 兼為經典人文及亞洲藝術學程課程。學程學生請於開學後向授課教師索取授權碼加簽。 ; 限修學制：大、碩、博	1	1		AAU0679	A	半	2.0	校際臺大（學）	9UAA		Classical Masterpieces of Chinese Drama				2	選	◎加退選全授權碼選課		3353	林智莉	四 3-4 總一館108	
+114	1	0	0	中等土壤力學	7	工學院 ; 土木工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7M88	A	半	3.0	校際臺大（學）	9UAA		Intermediate Soil Mechanics	是			2	選	◎加退選全授權碼選課		3354	卿建業	二 7-9 土224	
+114	1	0	0	中華民國對外關係		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	3	3		AAU0288	A	半	2.0	校際臺大（學）	9UAA		Foreign Relations of R.o.c.				5	選	◎加退選全授權碼選課		3355	陳世民	三 8-9 社科和碩講堂	
+114	1	0	1	中華民國憲法及政府一		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	2	1		AAU0002	A	半	2.0	校際臺大（學）	9UAA		The Constitution and Government of the Republic of China (I)				3	選	◎加退選全授權碼選課		3356	陳淳文	四 8-9 社科和碩講堂	
+114	1	0	0	中醫概論		醫學院 ; 藥學系 ; 上課教室:水森館101教室。臺大聯盟限中草藥學程學生修習。 ; 限修學制：大、碩、博	0	0		AAU1727	A	半	1.0	校際臺大（學）	9UAA		Outline of Traditional Chinese Medicine				2	選	◎加退選全授權碼選課		3357	張嘉銓	一 7-8 請洽系所辦	
+114	1	0	1	中藥方劑學（含實驗）	7	醫學院 ; 藥學研究所 ; 與楊淑齡、郭永德合開。臺大聯盟限中草藥學程學生修習。 ; 限修學制：大、碩、博	2	1		AAC7C53	A	半	3.0	校際臺大（學）	9UAA		Prescription of Chinese Drug ( with Lab)				2	選	◎加退選全授權碼選課		3358	張嘉銓	五 7-9 基醫303	
+114	1	0	0	中藥炮製學(含實驗)	7	醫學院 ; 藥學研究所 ; 暑期先修。密集上課：6/16-6/27。與李威著合授。臺大聯盟限中草藥學程學生修習。 ; 限修學制：大、碩、博	0	0		AAC7C54	A	半	3.0	校際臺大（學）	9UAA		Process of Chinese Herbal Medicine				2	選	◎加退選全授權碼選課		3359	張嘉銓		
+114	1	0	1	中藥概論		醫學院 ; 藥學系 ; 上課教室:水森館101教室。臺大聯盟限中草藥學程學生修習。 ; 限修學制：大、碩、博	2	1		AAU1035	A	半	1.0	校際臺大（學）	9UAA		Outline of Chinese Materia Medica				2	選	◎加退選全授權碼選課		3360	張嘉銓	一 7-8 請洽系所辦	
+114	1	0	1	六朝文史資料專題		文學院 ; 中國文學研究所 ;   限修學制：碩、博	2	1		AAM2303	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Historical and Literary Resources of the Six Dynasties				1	選	◎課程不開放上修		3361	張蓓蓓	四 3-4 文19	
+114	1	0	0	公司治理與財務報表	7	管理學院 ; 會計學研究所 ; 先修科目:需先修過初會課程。 ; 限修學制：大、碩、博	3	3		AAC7F64	A	半	3.0	校際臺大（學）	9UAA		Corporate Governance and Financial Statements				10	選			3362	傅文芳	一 7-9 管二101	
+114	1	0	0	公民科學中的多元參與及實踐	7	理學院 ; 氣候變遷與永續發展國際學位學程 ;   限修學制：大三以上、碩、博	1	1		AAC7N71	A	半	3.0	校際臺大（學）	9UAA		Citizen Science: Multiple Perspectives on Participation	是			2	選	◎加退選全授權碼選課		3363	陳怡秀	二 6-8 全變中心G202	
+114	1	0	0	公共政策一		社會科學院 ; 政治學系 ; 限大三以上修課，大二以下同學須獲得開課教師同意。 ; 限修學制：大三以上、碩、博	0	0		AAU2095	A	半	2.0	校際臺大（學）	9UAA		Public Policy (I)				2	選	◎加退選全授權碼選課		3364	郭銘峰	三 8-9 社科303	
+114	1	0	0	公共政策與政治新聞報導	7	社會科學院 ; 新聞研究所 ; 新聞所學生優先。 ; 限修學制：大四以上、碩、博	0	0		AAC7N72	A	半	3.0	校際臺大（學）	9UAA		Government and Public Affairs Reporting				1	選	◎加退選全授權碼選課		3365	詹怡宜	四 2-4 新聞308	
+114	1	0	0	公共衛生中的倡議與傳播		公共衛生學院 ; 全球衛生碩士學位學程 ; 開放本校研究生和高年級大學部學生選修 ; 限修學制：大三以上、碩、博	0	0		AAM2304	A	半	2.0	校際臺大（碩）	9MAA		Advocacy and Communication in Public Health	是			1	選	◎課程開放上修 ◎加退選全授權碼選課		3366	張竹芩	二 9-10 公衛215	
+114	1	0	0	公共衛生倫理		公共衛生學院 ; 健康政策與管理研究所 ;   限修學制：碩、博	0	0		AAM0423	A	半	1.0	校際臺大（碩）	9MAA		Public Health Ethics				2	選	◎課程不開放上修		3367	吳建昌	二 8-9 公衛201	
+114	1	0	0	公法專題		社會科學院 ; 公共事務研究所 ;   限修學制：碩、博	0	0		AAM2162	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Public Law				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3368	陳淳文	三 3-4 社科研607	
+114	1	0	0	分子生物學		生物資源暨農學院 ; 農業化學系 ; 中文授課英文書籍。 ; 限修學制：大、碩、博	0	0		AAU1981	A	半	3.0	校際臺大（學）	9UAA		Molecular Biology				4	選	◎加退選全授權碼選課		3369	羅凱尹	五 2-4 普406	
+114	1	0	0	分子生物學	7	生命科學院 ; 生化科技研究所 ;   限修學制：大、碩、博	0	0		AAC7A90	A	半	4.0	校際臺大（學）	9UAA		Molecular Biology				2	選			3370	鄭梅君	二 3-4 共201, 四 3-4 共203	
+114	1	0	0	分子生物學	7	醫學院 ; 醫學院暨公共衛生學院共同課程 ; 醫學校區研究所共同課程。上課教室:基醫302。與分子生物學及技術合班上課。 ; 限修學制：大、碩、博	0	0		AAC7A90	B	半	3.0	校際臺大（學）	9UAA		Molecular Biology				2	選			3371	余明俊	二 9-10 請洽系所辦, 四 9-10 請洽系所辦	
+114	1	0	0	分子生物學	7	生物資源暨農學院 ; 昆蟲學研究所 ; 星期四第8節課為問題討論時段。系訂專業必修13選6，至少計14學分，多餘學分可計入一般選修。 ; 限修學制：大、碩、博	0	0		AAC7A90	C	半	4.0	校際臺大（學）	9UAA		Molecular Biology				5	選	◎加退選全授權碼選課		3372	張俊哲	三 9-10 學新614, 四 9-10 學新614	
+114	1	0	0	分子生物學		醫學院 ; 分子醫學研究所 ;   限修學制：大、碩、博	0	0		AAM0631	A	半	4.0	校際臺大（碩）	9MAA		Molecular Biology	是			5	選	◎課程開放上修		3373	李芳仁	三 3-4 基醫504, 五 3-4 基醫504	
+114	1	0	0	分子生物學		生命科學院 ; 生命科學系 ;   限修學制：大三以上、碩、博	0	0		AAU1981	B	半	4.0	校際臺大（學）	9UAA		Molecular Biology				5	選			3374	靳宗洛	一 6-7 生科4B, 四 3-4 生科4B	
+114	1	0	0	分子生物學及技術	7	醫學院 ; 醫學院暨公共衛生學院共同課程 ; 醫學校區研究所共同課程。 ; 限修學制：大、碩、博	0	0		AAC7170	A	半	4.0	校際臺大（學）	9UAA		Molecular Biology and Techniques				3	選			3375	余明俊	二 9-10 基醫302, 四 9-10 基醫302	
+114	1	0	0	分子辨識	7	生物資源暨農學院 ; 農業化學研究所 ;   限修學制：大、碩、博	0	0		AAC7172	A	半	2.0	校際臺大（學）	9UAA		Molecular Recognition				2	選			3376	徐駿森	三 8-9 農化一第五	
+114	1	0	0	分析一	7	理學院 ; 數學研究所 ; 此課程研究生選修不算學分。 ; 限修學制：大	0	0		AAC7537	A	半	5.0	校際臺大（學）	9UAA		Analysis(Honor Program)(I)	是			2	選			3377	林偉傑	二 2-4 天數102, 四 3-4 天數102	
+114	1	0	0	分析導論一		理學院 ; 數學系 ;   限修學制：大、碩、博	1	1		AAU0562	A	半	5.0	校際臺大（學）	9UAA		Introduction to Mathematical Analysis(I)				5	選			3378	崔茂培	二 2-4 新202, 四 3-4 天數202	
+114	1	0	0	化工熱力學		工學院 ; 化學工程學系 ;   限修學制：大、碩、博	0	0		AAU1402	A	半	3.0	校際臺大（學）	9UAA		Chemical Engineering Thermodynamics				1	選	◎加退選全授權碼選課		3379	陳立仁	二 3-4 聯電講堂, 四 2 聯電講堂	
+114	1	0	0	化工熱力學		工學院 ; 化學工程學系 ;   限修學制：大、碩、博	0	0		AAU1402	B	半	3.0	校際臺大（學）	9UAA		Chemical Engineering Thermodynamics				1	選	◎加退選全授權碼選課		3380	林祥泰	二 3-4 綜301, 四 2 綜301	
+114	1	0	0	化石		理學院 ; 地質科學系 ;   限修學制：大、碩、博	1	1		AAU0563	A	半	2.0	校際臺大（學）	9UAA		Fossils				8	選	◎加退選全授權碼選課		3381	林日白	一 6-7 地質212	
+114	1	0	0	化石實習		理學院 ; 地質科學系 ; 須與正課同時修習。 ; 限修學制：大、碩、博	0	0		AAU0564	A	半	1.0	校際臺大（學）	9UAA		Fossils Lab				1	選	◎加退選全授權碼選課		3382	林日白		
+114	1	0	0	化學生態學	7	生物資源暨農學院 ; 昆蟲學研究所 ; 群組必修24選3，至少計8學分，多餘學分可計入一般選修。 ; 限修學制：大、碩、博	0	0		AAC7F65	A	半	3.0	校際臺大（學）	9UAA		Chemical Ecology	是			2	選	◎加退選全授權碼選課		3383	林柏安	四 2-4 學新705	
+114	1	0	0	化學海洋概論	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAC7B83	A	半	1.0	校際臺大（學）	9UAA		Introduction to Chemical Oceanography	是			4	選			3384	謝玉德	二 3 海研大講堂	
+114	1	0	0	化學海洋學		理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAM0187	A	半	3.0	校際臺大（碩）	9MAA		Chemical Oceanography	是			2	選	◎課程開放上修		3385	曾鈞懋	五 2-4 海研231	
+114	1	0	0	天氣診斷專題一	7	理學院 ; 大氣科學研究所 ;   限修學制：大、碩、博	0	0		AAC7156	A	半	2.0	校際臺大（學）	9UAA		Seminar on Weather Diagnosis				4	選			3386	楊明仁	四 8-9 大氣A108	
+114	1	0	2	天氣與社會	7	理學院 ; 地理環境資源學研究所 ;   限修學制：大、碩、博	3	1		AAC7K40	A	半	3.0	校際臺大（學）	9UAA		Weather and Society				1	選	◎加退選全授權碼選課		3387	簡旭伸	三 2-4 地理二教室	
+114	1	0	0	天氣學一		理學院 ; 大氣科學系 ;   限修學制：大、碩、博	4	4		AAU0293	A	半	2.0	校際臺大（學）	9UAA		Synoptic Meteorology (I)				4	選	◎必須先修過大氣熱力學】		3388	楊明仁	四 3-4 大氣B105	
+114	1	0	0	天氣學實習一		理學院 ; 大氣科學系 ;   限修學制：大、碩、博	4	4		AAU0294	A	半	1.0	校際臺大（學）	9UAA		Lab. of Synoptic Meteorology (I)				4	選			3389	楊明仁	五 7-9 大氣B105	
+114	1	0	0	天線	7	電機資訊學院 ; 電機工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7314	A	半	3.0	校際臺大（學）	9UAA		Antenna	是			8	選	◎加退選全授權碼選課		3390	陳士元	二 7-9 電二145	
+114	1	0	0	心血管疾病預防醫學		公共衛生學院 ; 流行病學與預防醫學研究所 ; 教室為公衛545。 ; 限修學制：大、碩、博	0	0		AAM0190	A	半	2.0	校際臺大（碩）	9MAA		Preventive Medicine of Cardiovascular Disease				1	選	◎課程開放上修		3391	簡國龍	一 8-9 請洽系所辦	
+114	1	0	0	心理測驗		理學院 ; 心理學系 ;   限修學制：大、碩、博	0	0		AAU2269	A	半	3.0	校際臺大（學）	9UAA		Psychological Testing				2	選	◎必須先修過（　統計學上 和 統計學下　）　｜　）（　心理統計學上 和 心理統計學下　）　｜　（　心理及教育統計學上 和 心理及教育統計學下　）】 ◎加退選全授權碼選課		3392	姚開屏	一 6-7 北館視聽, 四 6 北館視聽	
+114	1	0	0	心理測驗實習		理學院 ; 心理學系 ; 須同時修習心理測驗,或已修習過心理測驗者。 ; 限修學制：大、碩、博	0	0		AAU2270	A	半	1.0	校際臺大（學）	9UAA		Practicum of Psychological Testing				2	選	◎加退選全授權碼選課		3393	姚開屏	四 7 北館視聽	
+114	1	0	0	心理學專題研究四	7	理學院 ; 心理學研究所 ;   限修學制：大、碩、博	0	0		AAC7N73	A	半	3.0	校際臺大（學）	9UAA		Seminar In Psychology(IV)				2	選	◎加退選全授權碼選課		3394	葉素玲	一 2-4 南館S217	
+114	1	0	0	文化人類學基礎理論		文學院 ; 人類學研究所 ; 人類所碩博士班必修課 ; 限修學制：碩、博	0	0		AAM0708	A	半	3.0	校際臺大（碩）	9MAA		Fundamental Theories of Cultural Anthropology				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3395	王梅霞	二 7-9 人文B106	
+114	1	0	1	文字探勘初論	7	管理學院 ; 資訊管理學研究所 ; 商業資料分析學分學程課程。 ; 限修學制：大、碩、博	2	1		AAC7A01	A	半	3.0	校際臺大（學）	9UAA		Introduction of Text Mining				2	選	◎加退選全授權碼選課		3396	陳建錦	五 2-4 管二301	
+114	1	0	1	文學、動物與社會		文學院 ; 外國語文學系 ; 第一堂課視情況加收20名以內。 ; 限修學制：大、碩、博	2	1		AAU0381	A	半	3.0	校際臺大（學）	9UAA		Literature,animals and Society				2	選	◎加退選全授權碼選課		3397	黃宗慧	一 7-9 博雅201	
+114	1	0	0	文學作品讀法上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU0050	A	半	3.0	校際臺大（學）	9UAA		Approaches to Literature (1)	是			2	選	◎加退選全授權碼選課		3398	于昌民	一 2-4 綜602	
+114	1	0	0	文學研究方法		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU0485	A	半	3.0	校際臺大（學）	9UAA		Methodology for Literary Studies				2	選			3399	朱偉誠	四 2-4 新502	
+114	1	0	0	文學理論與文學研究方法		文學院 ; 臺灣文學研究所 ;   限修學制：碩、博	1	1		AAM1094	A	半	3.0	校際臺大（碩）	9MAA		Theories and Methods of Literary Study				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3400	蘇碩斌	一 7-9 人文530	
+114	1	0	0	文學與物		文學院 ; 臺灣文學研究所 ;   限修學制：碩、博	1	1		AAM2305	A	半	3.0	校際臺大（碩）	9MAA		Things in Literature				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3401	李育霖	三 3-5 人文530	
+114	1	0	0	文獻中的研究方法與技術1	7	生命科學院 ; 生化科學研究所 ; 本課有先修科目規定，請詳課程大綱。 ; 限修學制：大、碩、博	0	0		AAC7B84	A	半	1.0	校際臺大（學）	9UAA		Research Methods and Techniques in Literatures (1)				3	選			3402	余榮熾	三 3-4 普204	
+114	1	0	3	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	3	0		AAU0069	A	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3403	池田晶子	一 8-10 共308	
+114	1	0	1	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語者請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	2	1		AAU0069	B	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3404	村上理奈	三 3-5 共307	
+114	1	0	2	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	2	0		AAU0069	C	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3405	洪淑娟	三 5-7 共303	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	D	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3406	劉伊涵	一 5-7 共305	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	E	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3407	江佩璇	二 2-4 共307	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	F	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3408	村上理奈	四 3-5 共401	
+114	1	0	2	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	2	0		AAU0069	G	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3409	洪淑娟	五 5-7 共306	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	H	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3410	林姿妙	四 3-5 共302	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	I	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3411	池田晶子	一 5-7 共308	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	J	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3412	彭誼芝	一 3-5 共406	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	K	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3413	張鈞竹	五 5-7 共303	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	L	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3414	李禹錫	一 5-7 共302	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	M	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3415	洪淑娟	五 2-4 共306	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	N	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3416	張鈞竹	三 5-7 共302	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	O	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3417	黃意婷	三 5-7 共407	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	P	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3418	許惠晴	四 5-7 共306	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	Q	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3419	村上理奈	一 2-4 共303	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	R	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3420	李禹錫	一 8-10 共305	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	S	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3421	劉沅華	四 3-5 共305	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	T	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3422	劉伊涵	一 2-4 共305	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語者請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	U	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3423	楊又儒	三 8-10 共305	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	V	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3424	林姿妙	二 3-5 共306	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	W	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3425	賴建樺	二 5-7 共308	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	X	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3426	彭誼芝	二 3-5 共407	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語者請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	Y	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3427	張鈞竹	四 5-7 共303	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	Z	半	3.0	校際臺大（學）	9UAA		Japanese (I) (1)				1	選	◎加退選全授權碼選課		3428	許惠晴	二 5-7 共403	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	A	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3429	江佩璇	二 5-7 共405	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	B	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3430	楊又儒	二 3-5 共305	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	C	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3431	池田晶子	三 8-10 共304	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	D	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3432	彭誼芝	四 3-5 共404	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	E	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3433	李欣倫	四 5-7 共202	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語者請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	F	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3434	李禹錫	二 5-7 共404	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	G	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3435	楊又儒	三 2-4 共402	
+114	1	0	1	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	0		AAU0069	H	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3436	村上理奈	三 8-10 共306	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	I	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3437	曾寶儀	三 5-7 共308	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0069	J	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3438	李禹錫	二 8-10 共402	
+114	1	0	3	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	3	0		AAU0069	K	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3439	楊又儒	四 2-4 共308	
+114	1	0	1	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語者請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	0		AAU0069	L	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3440	張鈞竹	四 8-10 共303	
+114	1	0	1	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	0		AAU0069	M	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3441	賴建樺	四 8-10 共308	
+114	1	0	0	日文一上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0069	N	半	3.0	校際臺大（學）	9UAA	A	Japanese (I) (1)				1	選	◎加退選全授權碼選課		3442	賴建樺	四 5-7 共308	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	A	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3443	賴建樺	五 3-5 共305	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	B	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3444	石川隆男	二 5-7 共303	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	C	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3445	池田晶子	五 5-7 共307	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0057	D	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3446	許惠晴	三 5-7 共202	
+114	1	0	1	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	0		AAU0057	E	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3447	林姿妙	三 3-5 共306	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0057	F	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3448	李欣倫	一 8-10 共304	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	G	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3449	賴建樺	二 8-10 共308	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	H	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3450	洪淑娟	三 8-10 共303	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語者請勿選修。限非日文系學生修習。已取得學分者請勿重複修。 ; 限修學制：大、碩、博	0	0		AAU0057	I	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3451	江佩璇	一 3-5 共306	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	J	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3452	張鈞竹	三 8-10 共302	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。第二外語擇一修習兩年。 ; 限修學制：大、碩、博	1	1		AAU0057	K	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3453	黃意婷	四 7-9 共404	
+114	1	0	1	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	2	1		AAU0057	L	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3454	劉沅華	四 8-10 共306	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	M	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3455	守時愛里	二 8-10 共303	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0057	N	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3456	李欣倫	一 5-7 共304	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0057	O	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3457	劉沅華	一 8-10 共407	
+114	1	0	1	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	0		AAU0057	P	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3458	黃意婷	四 3-5 共307	
+114	1	0	1	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	0		AAU0057	Q	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3459	許惠晴	三 2-4 共202	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	R	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3460	石川隆男	二 2-4 共303	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0057	S	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3461	曾寶儀	一 2-4 共407	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	T	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3462	曾寶儀	一 5-7 共407	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0057	U	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3463	劉伊涵	四 2-4 共407	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	1	1		AAU0057	V	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3464	彭誼芝	五 3-5 共308	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	W	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3465	劉伊涵	四 5-7 共407	
+114	1	0	0	日文二上		文學院 ; 日本語文學系 ; 日籍或以日語為母語之學生請勿選修。限非日文系學生修習。已取得學分者請勿重複修習。 ; 限修學制：大、碩、博	0	0		AAU0057	X	半	3.0	校際臺大（學）	9UAA		Japanese (II) (1)				1	選	◎必須先修過　（　日文上 和 日文下　）　｜　（　日文一上 和 日文一下　）】 ◎加退選全授權碼選課		3466	江佩璇	三 5-7 共304	
+114	1	0	0	日本政治探討		學分學程 ; 日本研究學程 ; 日本研究學程學生優先選課。日文系學生修習本課程之學分，不計為系內指定選修學分。 ; 限修學制：大、碩、博	0	0		AAU0296	A	半	2.0	校際臺大（學）	9UAA		Special Topics in Japanese Politics				10	選	◎加退選全授權碼選課		3467	何思慎	一 8-9 普302	
+114	1	0	0	日本動漫之跨界議題		文學院 ; 外國語文學研究所 ; 第三類。本課程於第一週課堂現場處理加簽及旁聽申請，不接受email或電話詢問/申請。 ; 限修學制：碩、博	0	0		AAM1912	A	半	3.0	校際臺大（碩）	9MAA		Border Crossing in Japanese Anime and Manga	是			1	選	◎課程不開放上修 ◎加退選全授權碼選課		3468	趙恬儀	二 7-9 人文B109	
+114	1	0	2	日治時期臺灣政治史專題		文學院 ; 歷史學研究所 ;   限修學制：碩、博	3	1		AAM0633	A	半	3.0	校際臺大（碩）	9MAA		Seminar on Political History of Taiwan under Japanese rule				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3469	陳翠蓮	一 7-9 歷史研討室	
+114	1	0	0	月經:理論、思潮與行動		醫學院 ; 醫學系 ;   限修學制：大、碩、博	4	4		AAU1526	A	半	2.0	校際臺大（學）	9UAA		Period: Theory, Thoughts and Actions				5	選	◎加退選全授權碼選課		3470	黃韻如	三 9-10 博雅102	
+114	1	0	0	木材膠合劑與複合材料	7	生物資源暨農學院 ; 森林環境暨資源學研究所 ; 生物材料學群選擇必修。 ; 限修學制：大、碩、博	0	0		AAC7B85	A	半	3.0	校際臺大（學）	9UAA		Wood Adhesives and Composites				5	選	◎加退選全授權碼選課		3471	柯淳涵	三 7-9 林四	
+114	1	0	0	木質文化資產保存特論		生物資源暨農學院 ; 森林環境暨資源學研究所 ;   限修學制：碩、博	0	0		AAM0861	A	半	3.0	校際臺大（碩）	9MAA		Special Topics on Conservation of Wooden Cultural Properties				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3472	蔡明哲	二 6-8 木性	
+114	1	0	0	比較文學方法		文學院 ; 外國語文學研究所 ;   限修學制：博	0	0		AAD0066	A	半	3.0	校際臺大（博）	9DAA		Comparative Literary Methodology	是			2	選	◎課程不開放上修 ◎加退選全授權碼選課		3473	孟克禮	一 5-7 博雅206	
+114	1	0	0	比較政治專題研究		社會科學院 ; 政治學研究所 ; 博班核心課程：比較政治。上課教室為社科研608。 ; 限修學制：博	0	0		AAD0101	A	半	2.0	校際臺大（博）	9DAA		Seminar on Comparative Politics				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3474	張佑宗	四 8-9 請洽系所辦	
+114	1	0	0	比較政治理論一		社會科學院 ; 政治學系 ;   限修學制：大三以上、碩、博	0	0		AAU0487	A	半	2.0	校際臺大（學）	9UAA		Theories of Comparative Politics (I)				5	選	◎加退選全授權碼選課		3475	張佑宗	五 3-4 社科303	
+114	1	0	0	比較政治理論專題		社會科學院 ; 政治學研究所 ; 碩班必修：比較政治。 ; 限修學制：碩、博	0	0		AAM0725	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Theories of Comparative Politics				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3476	張佑宗	四 8-9 社科研608	
+114	1	0	0	比較憲法	7	社會科學院 ; 國家發展研究所 ;   限修學制：大、碩、博	0	0		AAC7F67	A	半	2.0	校際臺大（學）	9UAA		Comparative Constitutional Law				3	選	◎加退選全授權碼選課		3477	林建志	一 3-4 國發210	
+114	1	0	0	水生生物生理學	7	生命科學院 ; 漁業科學研究所 ; Ｃ群選擇必修。 ; 限修學制：大、碩、博	0	0		AAC7543	A	半	3.0	校際臺大（學）	9UAA		Aquatic Animal Physiology				3	選			3478	王永松	一 6-8 漁科302B	
+114	1	0	0	水產微生物代謝體專題討論	7	生命科學院 ; 漁業科學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7544	A	半	2.0	校際臺大（學）	9UAA		Seminar on the Metabolomics of Aquacultural Microorganisms				5	選			3479	李宗徽	一 3-4 漁科107	
+114	1	0	0	水產養殖技術	7	生命科學院 ; 漁業科學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7181	A	半	2.0	校際臺大（學）	9UAA		Aquaculture Technology				3	選			3480	韓玉山	四 3-4 漁科107	
+114	1	0	0	水質化學	7	理學院 ; 地質科學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7K32	A	半	2.0	校際臺大（學）	9UAA		Water Chemistry				2	選			3481	溫良碩	四 3-4 地質212	
+114	1	0	0	水聲海洋學	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	1	1		AAC7545	A	半	3.0	校際臺大（學）	9UAA		Acoustical Oceanography				2	選			3482	黃千芬	三 2-4 海研110教室	
+114	1	0	0	世界新秩序與貨幣市場		進修推廣學院 ; 事業經營碩士在職學位學程 ; 本課程採實體與線上同步授課，實際上課時間為19:00~21:45，上課地點請洽進修推廣學院。 ; 限修學制：大、碩、博	0	0		AAM1919	A	半	3.0	校際臺大（碩）	9MAA		New World Order and Money Market				1	選	◎課程開放上修 ◎加退選全授權碼選課		3483	賽明成	四 A-C 請洽系所辦	
+114	1	0	1	世紀末文學與文化		文學院 ; 中國文學系 ;   限修學制：大、碩、博	2	1		AAU1038	A	半	3.0	校際臺大（學）	9UAA		Fin de Siecle Literature and Culture				1	選	◎加退選全授權碼選課		3484	潘少瑜	二 7-9 普204	
+114	1	0	1	主體性理論選讀		文學院 ; 臺灣文學研究所 ;   限修學制：碩、博	2	1		AAM1784	A	半	3.0	校際臺大（碩）	9MAA		Selected Readings In Subjectivity				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3485	鄭芳婷	五 6-8 人文530	
+114	1	0	0	以Excel進行資料分析	7	生命科學院 ; 基因體與系統生物學學位學程 ; 本學程學生選課不列入畢業學分。 ; 限修學制：大、碩、博	5	5		AAC7C85	A	半	2.0	校際臺大（學）	9UAA		Data Processing with Excel				10	選			3486	林友瑜	一 6-7 共201	
+114	1	0	0	代數導論一		理學院 ; 數學系 ;   限修學制：大、碩、博	1	1		AAU0684	A	半	4.0	校際臺大（學）	9UAA		Introduction to Algebra(I)	是			2	選			3487	佐藤信夫	三 6-7 新103, 五 6-7 新103	
+114	1	0	0	代謝生物化學概論	7	生命科學院 ; 植物科學研究所 ;   限修學制：大、碩、博	0	0		AAC7F70	A	半	2.0	校際臺大（學）	9UAA		Metabolic Biochemistry Made Easy	是			5	選	◎加退選全授權碼選課		3488	賀端華		
+114	1	0	0	北印度塔布拉鼓音樂文化與實踐	7	文學院 ; 音樂學研究所 ; 上課地點：普通教學館506 ; 限修學制：大、碩、博	0	0		AAC7A02	A	半	2.0	校際臺大（學）	9UAA		Music of India (Tabla)——North India Drums	是			2	選	◎加退選全授權碼選課		3489	高  玄	四 3-4 請洽系所辦	
+114	1	0	0	半導體元件物理	7	電機資訊學院 ; 電機工程學研究所 ;   限修學制：大、碩、博	1	1		AAC7I99	A	半	3.0	校際臺大（學）	9UAA		Physics of Semiconductor Devices	是			10	選			3490	張子璿	三 2-4 電二143	
+114	1	0	0	半導體材料與元件量測技術 </br>[ 學分學程：台積電半導體學程 ]	7	重點科技研究學院 ; 元件材料與異質整合碩士學位學程 ; 上課地點：學新館113室 ; 限修學制：大、碩、博	0	0		AAC7J00	A	半	3.0	校際臺大（學）	9UAA		Semiconductor Material and Device Characterization </br>[ Program: NTNU and TSMC Semiconductor Program ]	是			3	選			3491	李敏鴻	五 7-9 請洽系所辦	
+114	1	0	0	半導體產業面面觀、經驗分享與實際演練	7	重點科技研究學院 ; 元件材料與異質整合碩士學位學程 ; 教室：學新館113室 ; 限修學制：大、碩、博	0	0		AAC7J01	A	半	3.0	校際臺大（學）	9UAA		A Comprehensive View of Semiconductor Industry- Experience and Practicality	是			5	選	◎加退選全授權碼選課		3492	楊光磊	一 2-4 請洽系所辦	
+114	1	0	2	半導體智慧製造概論	7	重點科技研究學院 ; 奈米工程與科學碩士學位學程 ; 上課教室：應用力學館111室. ; 限修學制：大、碩、博	2	0		AAC7J02	A	半	3.0	校際臺大（學）	9UAA		Introduction to Semiconductor Intelligent Manufacturing				5	選	◎加退選全授權碼選課		3493	藍俊宏	四 7-9 請洽系所辦	
+114	1	0	0	古生物學	7	理學院 ; 地質科學研究所 ; 上課教室：地質212。 ; 限修學制：大三以上、碩、博	1	1		AAC7K44	A	半	2.0	校際臺大（學）	9UAA		Paleontology				1	選	◎加退選全授權碼選課		3494	徐澔德	二 6-7 地質212	
+114	1	0	0	古希臘文一上		文學院 ; 外國語文學系 ; 第二外語擇一修習兩年。 ; 限修學制：大、碩、博	0	0		AAU0228	A	半	3.0	校際臺大（學）	9UAA		Ancient Greek (I)(1)	是			4	選			3495	范吉歐	一 6-7 外教205, 四 6-7 外教205	
+114	1	0	0	古典社會學理論		社會科學院 ; 社會學系 ;   限修學制：大三以上、碩、博	0	0		AAU1983	A	半	3.0	校際臺大（學）	9UAA		Classical Sociological Theory				2	選	◎加退選全授權碼選課		3497	黃克先	二 2-4 社103	
+114	1	0	0	古海洋學專題研究		理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAM2306	A	半	2.0	校際臺大（碩）	9MAA		Topics in Advanced Paleoceanography	是			2	選	◎課程開放上修		3498	賀詩琳	二 8-9 海研115	
+114	1	0	0	古湖泊學	7	理學院 ; 地質科學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7548	A	半	3.0	校際臺大（學）	9UAA		Paleolimnology	是			1	選	◎加退選全授權碼選課		3499	施路易	四 3-4 地質315	
+114	1	0	2	古琴音樂欣賞與實習【一】		文學院 ; 音樂學研究所 ; 初選不開放。請開學第一次上課時提交個人簡歷、學習古琴的動機、審查通過後以授權碼加選。 ; 限修學制：大、碩、博	3	1		AAU1407	A	半	2.0	校際臺大（學）	9UAA		Gu Qin Music: Appreciation and Practice (I)				2	選	◎加退選全授權碼選課		3500	李孔元	二 6-7 樂學館106	
+114	1	0	0	史前史		文學院 ; 人類學系 ; 限本系、雙輔生修習。 ; 限修學制：大、碩、博	0	0		AAU1103	A	半	3.0	校際臺大（學）	9UAA		Prehistory	是			1	選	◎加退選全授權碼選課		3501	高  德	二 2-4 普406	
+114	1	0	0	台灣的經濟發展專題		社會科學院 ; 國家發展研究所 ;   限修學制：大、碩、博	0	0		AAM0698	A	半	2.0	校際臺大（碩）	9MAA		Special Topic on Taiwans Economic Development				5	選	◎課程開放上修 ◎加退選全授權碼選課		3502	周治邦	五 8-9 國發208	
+114	1	0	0	外泌體的考驗		醫學院 ; 基因體暨蛋白體醫學研究所 ; 上課地點：基醫1303幸福講堂 ; 限修學制：大、碩、博	0	0		AAM2164	A	半	2.0	校際臺大（碩）	9MAA		Extracellular Vesicles and The Challenges of Studying Them				2	選	◎課程開放上修		3503	洪維廷	二 6-7 請洽系所辦	
+114	1	0	0	外語教學概論		文學院 ; 外國語文學系 ; 外文系、語言所及教育學程學生優先。中英雙語授課。第一週缺席且未經核准者，視同退選。 ; 限修學制：大、碩、博	0	0		AAU0488	A	半	3.0	校際臺大（學）	9UAA		Introduction to Foreign Language Learning and Training				1	選	◎加退選全授權碼選課		3504	楊乃冬	四 2-4 外教206	
+114	1	0	0	左傳乙上		文學院 ; 中國文學系 ; 群組必修C五門必修習一門。 ; 限修學制：大、碩、博	0	0		AAU0870	A	半	2.0	校際臺大（學）	9UAA		Tso Chuan (b)(1)				1	選	◎加退選全授權碼選課		3505	李隆獻	三 8-9 文17	
+114	1	0	0	布袋戲入門		文學院 ; 戲劇學系 ; 戲劇學系及學程學生優先。兼為藝術設計、臺灣研究及亞洲藝術學程課程。 ; 限修學制：大、碩、博	0	0		AAU0689	A	半	2.0	校際臺大（學）	9UAA		Introduction to Puppet Theater				1	選	◎加退選全授權碼選課		3506	黃僑偉	五 3-4 總一館115	
+114	1	0	0	平行計算		工學院 ; 工程科學及海洋工程學研究所 ;   限修學制：大、碩、博	0	0		AAM2247	A	半	3.0	校際臺大（碩）	9MAA		Parallel Computing				3	選	◎課程開放上修 ◎加退選全授權碼選課		3507	黃乾綱	一 7-9 工科202	
+114	1	0	0	本質與本質主義		文學院 ; 哲學研究所 ; 文學院院學士哲學系課程（C群組）。 研究所：B、E領域。  大學部：(C)哲學專題群組。 ; 限修學制：大、碩、博	0	0		AAM2307	A	半	3.0	校際臺大（碩）	9MAA		Essence and Essentialism	是			1	選	◎課程開放上修 ◎加退選全授權碼選課		3508	鄧敦民	三 3-5 人文345	
+114	1	0	0	未來農業	7	生物資源暨農學院 ; 生物機電工程學研究所 ;   限修學制：大、碩、博	1	1		AAC7550	A	半	3.0	校際臺大（學）	9UAA		Future Agriculture				3	選			3509	陳世芳	二 2-4 生機201	
+114	1	0	0	正義的理論與實踐		文學院 ; 哲學系 ;   限修學制：大、碩、博	1	1		AAU1141	A	半	3.0	校際臺大（學）	9UAA		Theory and Practice of Justice	是			3	選			3510	苑舉正	三 2-4 普304	
+114	1	0	0	民法概要乙		管理學院 ; 財務金融學系 ; 9/15、10/13上課地點為綜合大講堂. ; 限修學制：大、碩、博	1	1		AAU0097	A	半	3.0	校際臺大（學）	9UAA		Outline of Civil Code (b)				5	選			3511	朱漢寶	一 6-8 博雅102	
+114	1	0	0	民法概要乙		管理學院 ; 會計學系 ;   限修學制：大、碩、博	3	3		AAU0097	B	半	3.0	校際臺大（學）	9UAA		Outline of Civil Code (b)				5	選			3512	游?璋	四 2-4 管二206	
+114	1	0	1	民商法專題	7	管理學院 ; 財務金融學研究所 ; 先修科目：民法概要、民法總則或商事法。 ; 限修學制：大、碩、博	1	0		AAC7551	A	半	3.0	校際臺大（學）	9UAA		The Seminar on Civil and Commercial Laws				3	選	◎加退選全授權碼選課		3513	蕭忠仁	三 A-C 管一403	
+114	1	0	0	民族與民族主義		社會科學院 ; 社會學研究所 ;   限修學制：大三以上、碩、博	1	1		AAM1398	A	半	3.0	校際臺大（碩）	9MAA		Nations and Nationalism	是			1	選	◎課程開放上修 ◎加退選全授權碼選課		3514	翁哲瑞	三 7-9 社205	
+114	1	0	1	民眾基本救護		醫學院 ; 復健醫學系 ; 開學第一周接受加選，第一堂課缺席強制退選，與范程羿 朱聖恩 周志中 劉政亨 李安阜 孫仁堂合開。 ; 限修學制：大、碩、博	3	2		AAU0098	A	半	4.0	校際臺大（學）	9UAA		Basic Life Support and Prehosptial Care				2	選	◎加退選全授權碼選課		3515	陳石池	三 6-9 基醫304	
+114	1	0	0	永續金融與ESG	7	社會科學院 ; 國家發展研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7F71	A	半	2.0	校際臺大（學）	9UAA		Sustainable finance and ESG				1	選	◎加退選全授權碼選課		3516	林竣達	一 3-4 國發208	
+114	1	0	0	永續健康與環境	7	公共衛生學院 ; 全球衛生碩士學位學程 ;   限修學制：大三以上、碩、博	1	1		AAC7184	A	半	2.0	校際臺大（學）	9UAA		Sustainable Health and Environment	是			1	選			3517	詹長權	三 2-3 公衛105	
+114	1	0	0	永續循環農業		生物資源暨農學院 ; 生物環境系統工程學研究所 ; English Taugh Courses ; 限修學制：大、碩、博	0	0		AAM1980	A	半	3.0	校際臺大（碩）	9MAA		Circular Agriculture for Sustainability	是			8	選	◎課程開放上修 ◎加退選全授權碼選課		3518	潘述元	五 2-4 農工金城	
+114	1	0	0	犯罪、毒品與人性	7	理學院 ; 心理學研究所 ;   限修學制：大、碩、博	12	12		AAC7552	A	半	3.0	校際臺大（學）	9UAA		Crime, Drugs,and Humanities				20	選	◎加退選全授權碼選課		3519	賴文崧	四 7-9 綜合大講堂	
+114	1	0	0	生化技術原理與應用	7	生命科學院 ; 生化科技研究所 ; 學士班B群組必修課程之一。 ; 限修學制：大、碩、博	0	0		AAC7H42	A	半	2.0	校際臺大（學）	9UAA		Principles and Applications of Biochemical Techniques				2	選	◎必須先修過生物化學　｜　生物化學甲　　｜　生物化學乙】		3520	張世宗	五 3-4 農化二B10-1	
+114	1	0	0	生化技術與數據分析原理	7	生命科學院 ; 生化科學研究所 ; 除本所學生外優先錄取修習“尖端生物化學”領域專長模組之大學部學生。 ; 限修學制：大、碩、博	1	1		AAC7F72	A	半	2.0	校際臺大（學）	9UAA		Principles of Biochemical Techniques and Data Analysis				1	選			3521	史有伶	二 6-7 生化N101	
+114	1	0	0	生化科技專案設計與實務二		生命科學院 ; 生化科技學系 ; 初選不開放．上課時間地點請洽授課教師。 ; 限修學制：大、碩、博	0	0		AAU1466	A	半	2.0	校際臺大（學）	9UAA		Project Design and Practice in Biochemical Science and Technology(II)	是			3	選	◎加退選全授權碼選課 ◎初選不開放		3522	陳彥榮		
+114	1	0	0	生技藥物遞輸學		醫學院 ; 藥學研究所 ;   限修學制：大、碩、博	0	0		AAM1775	A	半	3.0	校際臺大（碩）	9MAA		Biopharmaceutical Delivery				1	選	◎課程開放上修 ◎加退選全授權碼選課		3523	林君榮	五 7-9 水森415	
+114	1	0	0	生命的軟弱韌性	7	學分學程 ; 領導學程 ; 初選不開放．領導學程認列選修課程。 ; 限修學制：大、碩、博	0	0		AAC7I21	A	半	2.0	校際臺大（學）	9UAA		The Strength of Resilience				1	選	◎加退選全授權碼選課 ◎初選不開放		3524	曾雪峰	三 3-4 綜401	
+114	1	0	0	生命科學導論		生命科學院 ; 生命科學系 ;   限修學制：大、碩、博	1	1		AAU0489	A	半	1.0	校際臺大（學）	9UAA		Introduction to Life Sciences				5	選			3525	潘建源	三 5 生科4B	
+114	1	0	2	生命美學		學分學程 ; 生命教育學分學程 ; 初選不開放．8/26前填寫修課表單https://forms.gle/cvCqLCbJtF23L4Ec7 ; 限修學制：大、碩、博	2	0		AAU2282	A	半	3.0	校際臺大（學）	9UAA		Life Aesthetics				2	選	◎加退選全授權碼選課 ◎初選不開放		3526	李賢中	四 8-10 綜401	
+114	1	0	0	生物元素比生態學		理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAM1921	A	半	2.0	校際臺大（碩）	9MAA		Ecological Stoichiometry	是			1	選	◎課程開放上修		3527	何珮綺	二 6-7 海研115	
+114	1	0	0	生物化學一		生命科學院 ; 生化科技學系 ;   限修學制：大、碩、博	0	0		AAU1200	A	半	4.0	校際臺大（學）	9UAA		Biochemistry(I)				4	選			3528	李家瑋	一 3-4 普101, 四 3-4 博雅101/華南講	
+114	1	0	0	生物化學乙上		生命科學院 ; 生化科學研究所 ; 欲修此科目者請務必閱讀課程大綱。本課程有先修科目規定。 ; 限修學制：大、碩、博	0	0		AAU1307	A	半	2.0	校際臺大（學）	9UAA		Biochemistry (b)(1)				5	選	◎必須先修過有機化學　｜　（　有機化學 和 普通化學　）　｜　（　有機化學 和 普通化學甲上 和 普通化學甲下　）】		3529	張茂山	二 1-2 普103	
+114	1	0	0	生物化學甲上		生命科學院 ; 生化科學研究所 ; 欲修此科目者請務必閱讀課程大綱。 ; 限修學制：大、碩、博	0	0		AAU1308	A	半	4.0	校際臺大（學）	9UAA		Biochemistry (a)(1)				5	選	◎必須先修過有機化學　｜　（　有機化學 和 普通化學　）　｜　（　有機化學 和 普通化學甲上 和 普通化學甲下　）】		3530	冀宏源	二 3-4 新204, 四 1-2 新204	
+114	1	0	0	生物代謝體分析技術導論	7	生命科學院 ; 漁業科學研究所 ;   限修學制：大三以上、碩、博	1	1		AAC7554	A	半	2.0	校際臺大（學）	9UAA		Introduction to Analytical Techniques of the Metabolomics				5	選			3531	李宗徽	二 3-4 漁科107	
+114	1	0	0	生物地球化學導論	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAC7186	A	半	2.0	校際臺大（學）	9UAA		Introduction to Biogeochemistry				2	選			3532	王珮玲	三 6-7 海研115	
+114	1	0	0	生物多樣性概論		生物資源暨農學院 ; 森林環境暨資源學系 ; 森林生物學群必修，資源保育與管理學群選擇必修。 ; 限修學制：大、碩、博	1	1		AAU0100	A	半	3.0	校際臺大（學）	9UAA		Introductory Biodiversity				3	選			3533	丁宗蘇	四 6-8 林一	
+114	1	0	0	生物材料之生命週期評估	7	生物資源暨農學院 ; 森林環境暨資源學研究所 ;   限修學制：大、碩、博	0	0		AAC7N74	A	半	3.0	校際臺大（學）	9UAA		Life Cycle Assessment for Biomaterials				2	選	◎加退選全授權碼選課		3534	官崇煜	二 6-8 共206	
+114	1	0	0	生物物理導論		理學院 ; 物理學研究所 ;   限修學制：大、碩、博	0	0		AAM1179	A	半	2.0	校際臺大（碩）	9MAA		Introduction to Biological Physics				2	選	◎課程開放上修		3535	林耿慧	一 3-4 新物815	
+114	1	0	0	生物科技管理	7	醫學院 ; 醫學檢驗暨生物技術學研究所 ;   限修學制：大、碩、博	0	0		AAC7K27	A	半	2.0	校際臺大（學）	9UAA		Biotechnology Management				1	選	◎加退選全授權碼選課		3536	俞松良	二 3-4 檢506教室	
+114	1	0	0	生物氣象學	7	理學院 ; 大氣科學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7717	A	半	3.0	校際臺大（學）	9UAA		Biometeorology				1	選			3537	林博雄	一 6-8 大氣A104	
+114	1	0	0	生物海洋概論	7	理學院 ; 海洋研究所 ; 上下學期皆開課,全所碩士生必修。 ; 限修學制：大、碩、博	0	0		AAC7B87	A	半	1.0	校際臺大（學）	9UAA		Introduction to Biological Oceanography				5	選			3538	鍾明宗	一 3 海研大講堂	
+114	1	0	0	生物海洋學	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAC7188	A	半	3.0	校際臺大（學）	9UAA		Biological Oceanography	是			2	選			3539	謝志豪	二 2-4 海研232	
+114	1	0	0	生物統計學		生命科學院 ; 生命科學系 ;   限修學制：大、碩、博	0	0		AAU1988	A	半	3.0	校際臺大（學）	9UAA		Biostatistics				3	選			3540	張俊偉	一 2-4 共201	
+114	1	0	0	生物標記物與它們的產地		醫學院 ; 基因體暨蛋白體醫學研究所 ; 合授老師：陳弘昕。 ; 限修學制：大、碩、博	0	0		AAM2166	A	半	2.0	校際臺大（碩）	9MAA		Fantastic Genomic Biomarkers and Where to Find Them	是			3	選	◎課程開放上修 ◎加退選全授權碼選課		3542	許書睿	三 6-7 基醫508	
+114	1	0	0	生物機電工程概論		生物資源暨農學院 ; 生物機電工程學系 ;   限修學制：大、碩、博	0	0		AAU1838	A	半	1.0	校際臺大（學）	9UAA		Introduction to Biomechatronics Engineering				3	選	◎加退選全授權碼選課		3543	吳筱梅	五 6 知武會議室	
+114	1	0	0	生理心理學		理學院 ; 心理學系 ; 合開教師：陳可欣、游文愷、張廷宇、楊幼屏(國防醫學院醫學系) ; 限修學制：大、碩、博	1	1		AAU0297	A	半	3.0	校際臺大（學）	9UAA		Physiological Psychology				2	選	◎必須先修過普通心理學】 ◎加退選全授權碼選課		3544	葉俊毅	一 2-4 北館視聽	
+114	1	0	0	生理心理學專題研究七	7	理學院 ; 心理學研究所 ;   限修學制：大、碩、博	0	0		AAC7353	A	半	3.0	校際臺大（學）	9UAA		Supervised Research in Physiological Psychology (VII)				2	選	◎加退選全授權碼選課		3545	賴文崧	二 A-C 南館S217	
+114	1	0	0	生理時鐘與感光細胞專題討論		生命科學院 ; 生命科學研究所 ; 時地另訂，請於開學前向授課教師查詢。 ; 限修學制：大、碩、博	0	0		AAM1278	A	半	2.0	校際臺大（碩）	9MAA		Circadian rhythm and photo reception cells				1	選	◎課程開放上修		3546	陳示國		
+114	1	0	0	生態愛：環境倫理與多物種規劃設計		工學院 ; 建築與城鄉研究所 ; 鼓勵與中文文獻與翻譯書籍相互對照。 ; 限修學制：碩、博	0	0		AAM2308	A	半	3.0	校際臺大（碩）	9MAA		Ecophilia: Environmental Ethics, Multispecies Planning and Design	是			1	選	◎課程不開放上修		3547	郭怡君	一 6-8 公館101	
+114	1	0	1	生態檢核 </br>[ 學分學程：生態產業學程 ]	7	生物資源暨農學院 ; 森林環境暨資源學研究所 ;   限修學制：大、碩、博	1	0		AAC7F74	A	半	3.0	校際臺大（學）	9UAA		Ecological Considerations for Engineering Projects </br>[ Program: The Program of the Eco-sustainable Industry (Eco-sustainable industry Program) ]				3	選	◎加退選全授權碼選課		3548	劉奇璋	五 2-4 新404	
+114	1	0	0	生機特論		生物資源暨農學院 ; 生物機電工程學研究所 ; 博 碩一必修  上課地點:生機新館(鄭江樓南棟)101 ; 限修學制：大、碩、博	0	0		AAM1103	A	半	1.0	校際臺大（碩）	9MAA		Special Topics on Biomechatronics				3	選	◎課程開放上修		3549	陳倩瑜	四 1-2 生機101	
+114	1	0	0	生醫產業科技管理		進修推廣學院 ; 生物科技管理碩士在職學位學程 ; 本課程採實體與線上同步授課，實際上課時間為19:00~21:45，上課地點請洽進修推廣學院。 ; 限修學制：大四以上、碩、博	0	0		AAM1922	A	半	3.0	校際臺大（碩）	9MAA		Management of Technologies in Bio-medical Industry				5	選	◎課程開放上修		3550	胡凱焜	二 A-C 請洽系所辦	
+114	1	0	0	生藥學 (含中藥)		醫學院 ; 藥學系 ;   限修學制：大、碩、博	0	0		AAU1729	A	半	3.0	校際臺大（學）	9UAA		Pharmacognosy (Including Traditional Chinese Medicine)				2	選			3551	張嘉銓	四 2 基醫304, 五 3-4 基醫303	
+114	1	0	0	用AI探究因果與時間旅行		文學院 ; 哲學系 ;   限修學制：大、碩、博	0	0		AAU2331	A	半	3.0	校際臺大（學）	9UAA		Using AI to Tackle Philosophical Issues on Causation and Time Travel	是			5	選	◎加退選全授權碼選課		3552	周先捷	二 2-4 普203	
+114	1	0	0	用臺語學民法	7	法律學院 ; 法律研究所 ; 用臺語授課。 ; 限修學制：大、碩、博	5	5		AAC7K48	A	半	1.0	校際臺大（學）	9UAA		Learning Civil Law in Taiwanese				5	選			3553	詹森林	三 8-9 霖1403	
+114	1	0	0	田野工作坊	7	創新設計學院 ;   上課日期、教室：9/14（日）、9/27（六）；卓越研究大樓R508，停修日期：9/14。 ; 限修學制：大、碩、博	0	0		AAC7356	A	半	1.0	校際臺大（學）	9UAA		Fieldwork Workshop				3	選	◎加退選全授權碼選課		3554	黃書緯		
+114	1	0	0	伊斯蘭歷史與文化		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	1		AAU0872	A	半	2.0	校際臺大（學）	9UAA		Islamic History and Culture				2	選	◎加退選全授權碼選課		3555	初雅士	三 6-7 共105	
+114	1	0	0	企業犯罪與經濟刑法		進修推廣學院 ; 事業經營法務碩士在職學位學程 ; 本課程為線上與線下同步授課方式，實際上課時間為19:00至21:45，上課地點請洽進修推廣學院。 ; 限修學制：大、碩、博	0	0		AAM2309	A	半	3.0	校際臺大（碩）	9MAA		Enterprise Crime and Economic Criminal Law				5	選	◎課程開放上修		3556	洪士軒	二 A-C 請洽系所辦	
+114	1	0	0	企業併購、重整與私募基金	7	管理學院 ; 商學研究所 ;   限修學制：大三以上、碩、博	1	1		AAC7H43	A	半	3.0	校際臺大（學）	9UAA		Mergers and Acquisitions, Corporate Restructuring and Private Equity				2	選	◎加退選全授權碼選課		3557	林家振	五 10-B 管一104	
+114	1	0	0	企業法務入門		進修推廣學院 ; 事業經營法務碩士在職學位學程 ; 本課程為線上與線下同步授課方式，實際上課時間為19:00至21:45，上課地點請洽進修推廣學院。 ; 限修學制：大、碩、博	1	1		AAM2310	A	半	3.0	校際臺大（碩）	9MAA		Introduction to Corporate Legal Affairs				5	選	◎課程開放上修		3558	洪士軒	三 A-C 請洽系所辦	
+114	1	0	0	光合作用與光植物生理學	7	生命科學院 ; 植物科學研究所 ; 英文授課。合開教師:蔡皇龍。 ; 限修學制：大、碩、博	0	0		AAC7B89	A	半	3.0	校際臺大（學）	9UAA		Photosynthesis and Photophysiology of Plant Growth	是			2	選			3559	謝旭亮	一 7 生科4C, 四 3-4 生科4C	
+114	1	0	0	光電子學	7	電機資訊學院 ; 光電工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7K49	A	半	3.0	校際臺大（學）	9UAA		Optical Electronics				5	選			3560	黃升龍	四 6-8 電二144	
+114	1	0	0	光電科技入門與實作		電機資訊學院 ; 電機工程學系 ; 上課時間請參加9/1中午12:30在電二101說明會。 ; 限修學制：大、碩、博	0	0		AAU2210	A	半	3.0	校際臺大（學）	9UAA		Photonics workshop for beginners				2	選	◎加退選全授權碼選課		3561	林晃巖		
+114	1	0	0	光學診斷技術		電機資訊學院 ; 生醫電子與資訊學研究所 ;   限修學制：大、碩、博	0	0		AAM1250	A	半	3.0	校際臺大（碩）	9MAA		Optical Techniques in Diagnosis	是			3	選	◎課程開放上修		3562	宋孔彬	五 2-4 明達303	
+114	1	0	0	光學量測系統原理設計 </br>[ 學分學程：台積電半導體學程 ]		工學院 ; 應用力學研究所 ; 計入本系課程。 ; 限修學制：碩、博	0	0		AAM0859	A	半	3.0	校際臺大（碩）	9MAA		Design Principle of Optical Measurement System </br>[ Program: NTNU and TSMC Semiconductor Program ]				5	選	◎課程不開放上修 ◎加退選全授權碼選課		3563	李世光	三 7-9 應111	
+114	1	0	0	光學導論		理學院 ; 物理學系 ;   限修學制：大、碩、博	1	1		AAU0471	A	半	3.0	校際臺大（學）	9UAA		Optics				1	選	◎加退選全授權碼選課		3564	藍劭宇	三 7-9 新物304	
+114	1	0	2	先秦道家哲學		文學院 ; 哲學系 ; (A)東方哲學史群組，群組課程請參閱本系網頁修業課程規定。 ; 限修學制：大、碩、博	2	0		AAU0581	A	半	3.0	校際臺大（學）	9UAA		The Taoist Philosophy in the Pre-ch'in Period				2	選	◎加退選全授權碼選課		3565	魏家豪	二 3-5 普502	
+114	1	0	0	先秦儒家哲學經典：《荀子》		文學院 ; 哲學系 ; (A)東方哲學史群組，群組課程請參閱本系網頁修業課程規定。 ; 限修學制：大、碩、博	2	2		AAU2332	A	半	3.0	校際臺大（學）	9UAA		Classics in Early Confucian Philosophy: the Xunzi				4	選			3566	徐乃義	五 7-9 新301	
+114	1	0	0	先秦儒學		文學院 ; 中國文學系 ;   限修學制：大、碩、博	1	1		AAU2333	A	半	2.0	校際臺大（學）	9UAA		Pre-Qin Confucianism				5	選	◎加退選全授權碼選課		3567	伍振勳	五 3-4 普403	
+114	1	0	0	先進半導體與顯示技術	7	電機資訊學院 ; 電子工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7A81	A	半	3.0	校際臺大（學）	9UAA		Advanced Technologies for Semiconductor and Display				10	選			3568	劉致為	二 7-9 明達231	
+114	1	0	1	全人健康		學分學程 ; 生命教育學分學程 ; 初選不開放．博雅406未來教室，8/31前填動機單https://psee.io/7ylvef ; 限修學制：大、碩、博	1	0		AAU1991	A	半	1.0	校際臺大（學）	9UAA		Essentials and Practice of Healthy Living				2	選	◎加退選全授權碼選課 ◎初選不開放		3569	李婉甄	三 A-C 請洽系所辦	
+114	1	0	0	全民國防教育軍事訓練課程－全民國防		學生事務處 ; 校園安全中心 ; 第一週未到課視同退選。 ; 限修學制：大、碩、博	4	4		AAU0691	A	半	0.0	校際臺大（學）	9UAA		All-out Defense Education Military Training - Civil Defense				4	選			3570	余宗基	五 6-7 共301	
+114	1	0	0	全民國防教育軍事訓練課程－全民國防		學生事務處 ; 校園安全中心 ; 第一週未到課視同退選。 ; 限修學制：大、碩、博	4	4		AAU0691	B	半	0.0	校際臺大（學）	9UAA		All-out Defense Education Military Training - Civil Defense				4	選			3571	余宗基	五 8-9 共301	
+114	1	0	0	全民國防教育軍事訓練課程－防衛動員		學生事務處 ; 校園安全中心 ; 第一週未到課視同退選。 ; 限修學制：大、碩、博	3	3		AAU0477	A	半	0.0	校際臺大（學）	9UAA		All-out Defense Education Military Training - Defense Mobilization				4	選			3572	余宗基	三 6-7 普203	
+114	1	0	0	全民國防教育軍事訓練課程－防衛動員		學生事務處 ; 校園安全中心 ; 第一週未到課視同退選。 ; 限修學制：大、碩、博	2	2		AAU0477	B	半	0.0	校際臺大（學）	9UAA		All-out Defense Education Military Training - Defense Mobilization				4	選			3573	余宗基	三 8-9 普203	
+114	1	0	0	全民國防教育軍事訓練課程－國防科技		學生事務處 ; 校園安全中心 ; 第一週未到課視同退選。 ; 限修學制：大、碩、博	2	2		AAU0873	A	半	0.0	校際臺大（學）	9UAA		All-out Defense Education Military Training - Defense Technology				4	選			3574	劉鐵軍	二 3-4 新203	
+114	1	0	0	全民國防教育軍事訓練課程－國防科技		學生事務處 ; 校園安全中心 ; 第一週未到課視同退選。 ; 限修學制：大、碩、博	4	4		AAU0873	B	半	0.0	校際臺大（學）	9UAA		All-out Defense Education Military Training - Defense Technology				4	選			3575	劉鐵軍	二 6-7 新203	
+114	1	0	0	全民國防教育軍事訓練課程－國際情勢		學生事務處 ; 校園安全中心 ; 第一週未到課視同退選。 ; 限修學制：大、碩、博	3	3		AAU0559	A	半	0.0	校際臺大（學）	9UAA		All-out Defense Education Military Training - International Situations				4	選			3576	劉鐵軍	四 6-7 新102	
+114	1	0	0	全民國防教育軍事訓練課程－國際情勢		學生事務處 ; 校園安全中心 ; 第一週未到課視同退選。 ; 限修學制：大、碩、博	3	3		AAU0559	B	半	0.0	校際臺大（學）	9UAA		All-out Defense Education Military Training - International Situations				4	選			3577	劉鐵軍	四 3-4 新204	
+114	1	0	0	全球化與東亞政經發展專題		社會科學院 ; 政治學研究所 ; 國際關係，本國政治，比較政治。 ; 限修學制：碩、博	1	1		AAM1924	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Globalization and East Asian Political Economy				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3578	陶儀芬	一 6-7 社科研603	
+114	1	0	0	全球生物醫學觀點		醫學院 ; 國際三校農業生技與健康醫療碩士學位學程 ; 與日本筑波大學同步遠距教學，上課地點：基礎醫學大樓B1-018視訊會議室。(請洽學程辦公室) ; 限修學制：大三以上、碩、博	0	0		AAM1925	A	半	3.0	校際臺大（碩）	9MAA		Perspectives in Global Biomedical Sciences	是			6	選	◎課程開放上修		3579	李財坤	三 2-4 請洽系所辦	
+114	1	0	0	再生能源及生物資源循環利用技術	7	生物資源暨農學院 ; 生物機電工程學研究所 ; 與日本筑波大學遠距教學  上課日為10/4~12/13，每週五的11:20~14:10 ; 限修學制：大、碩、博	1	1		AAC7F78	A	半	2.0	校際臺大（學）	9UAA		Renewable Energy and Bioresource Recycling Technologies	是			3	選			3580	黃振康	五 4-6 計資106	
+114	1	0	0	再現與美非女性小說		文學院 ; 外國語文學研究所 ; 第二類。 ; 限修學制：碩、博	0	0		AAM0432	A	半	3.0	校際臺大（碩）	9MAA		Representation and Afro-american Women's Novels				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3581	劉亮雅	二 7-9 人文B114-1	
+114	1	0	0	刑法總則一		法律學院 ; 法律學系 ; 與科法所合班。科法所請選「A41 M0230」。 ; 限修學制：大、碩、博	2	2		AAU0035	A	半	3.0	校際臺大（學）	9UAA		Criminal Code-general Principles (I)				2	選			3582	謝煜偉	一 6-8 萬2101	
+114	1	0	1	印尼文一上		教務處 ; 外語教學暨資源中心 ; 第一週未請假缺席則視同退選。第二週後不開放加選。母語人士(包括馬來西亞籍)勿修習。不開放旁聽。 ; 限修學制：大、碩、博	3	2		AAU0231	A	半	3.0	校際臺大（學）	9UAA		Indonesian (I)(1)				2	選	◎加退選全授權碼選課		3583	王麗蘭	一 3-5 新504	
+114	1	0	0	印尼文二上		教務處 ; 外語教學暨資源中心 ; 第一週未請假缺席則視同退選。第二週後不開放加選。母語人士(包括馬來西亞籍)勿修習。不開放旁聽。 ; 限修學制：大、碩、博	1	1		AAU0232	A	半	3.0	校際臺大（學）	9UAA		Indonesian (II)(1)				2	選	◎加退選全授權碼選課		3584	王麗蘭	一 6-8 新301	
+114	1	0	0	同志小說		文學院 ; 外國語文學系 ; 小說群組（F群組）擇一必修。 ; 限修學制：大、碩、博	0	0		AAU1732	A	半	3.0	校際臺大（學）	9UAA		Queer Fiction				2	選			3585	朱偉誠	一 7-9 共403	
+114	1	0	0	地下水	7	生物資源暨農學院 ; 生物環境系統工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7J68	A	半	3.0	校際臺大（學）	9UAA		Ground Water				5	選	◎加退選全授權碼選課		3586	蔡瑞彬	三 2-4 農工九	
+114	1	0	0	地方政府與管理		社會科學院 ; 政治學系 ; B10之後入學者，本科為11擇4必修科目。詳見myNTU之各系所必修科目及應修學分資料查詢系統。 ; 限修學制：大、碩、博	0	0		AAU0300	A	半	2.0	校際臺大（學）	9UAA		Local Government and Management				1	選	◎加退選全授權碼選課		3587	郭銘峰	三 6-7 社科303	
+114	1	0	0	地表作用與地形		理學院 ; 地質科學系 ;   限修學制：大、碩、博	0	0		AAU0302	A	半	2.0	校際臺大（學）	9UAA		Earth Surface Processes and Landforms				2	選	◎加退選全授權碼選課		3588	徐澔德	一 3-4 中庭大講堂	
+114	1	0	1	地球化學分析與實務	7	理學院 ; 地質科學研究所 ;   限修學制：大三以上、碩、博	3	2		AAC7A10	A	半	2.0	校際臺大（學）	9UAA		Principles and Practice of Geochemical Analysis				2	選	◎加退選全授權碼選課		3589	朱美妃	三 6-7 地質313	
+114	1	0	0	地球化學原理(含實習)		理學院 ; 地質科學系 ; 上課地點：中庭大講堂 ; 限修學制：大、碩、博	0	0		AAU0930	A	半	3.0	校際臺大（學）	9UAA		Geochemistry				5	選	◎加退選全授權碼選課		3590	沈川洲	三 6-8 中庭大講堂	
+114	1	0	0	地球系統模式		理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAM2311	A	半	3.0	校際臺大（碩）	9MAA		Earth System Model				2	選	◎課程開放上修		3592	曾于?	三 6-8 海研231	
+114	1	0	0	地球物理流體力學專題一		理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAM2312	A	半	2.0	校際臺大（碩）	9MAA		Topics in Geophysical Fluid Dynamics (I)				2	選	◎課程開放上修		3593	陳世楠	三 6-7 大氣A104	
+114	1	0	0	地球物質		理學院 ; 地質科學系 ;   限修學制：大、碩、博	0	0		AAU1993	A	半	3.0	校際臺大（學）	9UAA		Earth Materials				2	選	◎加退選全授權碼選課		3594	吳宗叡	二 2-4 中庭大講堂	
+114	1	0	0	地球構造		理學院 ; 地質科學系 ;   限修學制：大、碩、博	0	0		AAU0004	A	半	3.0	校際臺大（學）	9UAA		Earth Structure				2	選	◎加退選全授權碼選課		3595	胡植慶	三 2-4 中庭大講堂	
+114	1	0	0	地理資訊系統與防災	7	工學院 ; 土木工程學研究所 ; 電腦教室：計中212。教材、作業及考試皆為英文，上課輔以中文。 ; 限修學制：大三以上、碩、博	0	0		AAC7M86	A	半	3.0	校際臺大（學）	9UAA		Geographic information system for disaster reduction				2	選	◎加退選全授權碼選課		3596	蘇文瑞	二 7-9 請洽系所辦	
+114	1	0	0	地理資訊系統與空間分析		社會科學院 ; 國家發展研究所 ;   限修學制：大、碩、博	1	1		AAM1926	A	半	2.0	校際臺大（碩）	9MAA		GIS and Spatial Analysis				2	選	◎課程開放上修 ◎加退選全授權碼選課		3597	鄧志松	四 3-4 國發204	
+114	1	0	0	地景、文化與權力		理學院 ; 地理環境資源學研究所 ;   限修學制：大、碩、博	0	0		AAM0206	A	半	3.0	校際臺大（碩）	9MAA		Landscape, Culture, and Power,				1	選	◎課程開放上修 ◎加退選全授權碼選課		3598	洪伯邑	四 7-9 地理二教室	
+114	1	0	0	地殼變形原理與觀測	7	理學院 ; 地理環境資源學研究所 ; 授課地點及時間請洽授課老師。 ; 限修學制：大、碩、博	0	0		AAC7722	A	半	3.0	校際臺大（學）	9UAA		Crustal Deformation				1	選	◎加退選全授權碼選課		3599	莊昀叡		
+114	1	0	0	地質科學導論上		理學院 ; 地質科學系 ;   限修學制：大、碩、博	0	0		AAU1995	A	半	3.0	校際臺大（學）	9UAA		Introduction to Geosciences (1)				2	選	◎加退選全授權碼選課		3601	徐澔德	二 8-10 中庭大講堂	
+114	1	0	1	地質資源		理學院 ; 地質科學系 ;   限修學制：大、碩、博	1	0		AAU1839	A	半	2.0	校際臺大（學）	9UAA		Geological Resources				5	選	◎加退選全授權碼選課		3602	羅清華	四 3-4 中庭大講堂	
+114	1	0	0	地質調查導論二		理學院 ; 地質科學系 ; 未報到視同自願退選。一階選課僅限國際學生，二階選課開放非國際外系學生加簽，詳情請見課程大綱。 ; 限修學制：大、碩、博	0	0		AAU0110	A	半	2.0	校際臺大（學）	9UAA		Introduction to Field Geology (II)	是			2	選	◎加退選全授權碼選課		3603	施路易		
+114	1	0	0	多媒體製作		電機資訊學院 ; 資訊工程學系 ;   限修學制：大、碩、博	1	1		AAU0304	A	半	2.0	校際臺大（學）	9UAA		The Making of Multimedia				5	選			3604	張瑞峰	三 8-9 資107	
+114	1	0	0	字幕與影視翻譯		文學院 ; 外國語文學系 ; 初選不開放．中英翻譯學程學生優先加選。凡第一週未到課者，不予加選。 ; 限修學制：大、碩、博	0	0		AAU2271	A	半	3.0	校際臺大（學）	9UAA		Subtitling and Audiovisual Translation				1	選	◎加退選全授權碼選課 ◎初選不開放		3605	莊世全	一 3-5 外教104	
+114	1	0	0	宇宙大尺度結構一		理學院 ; 天文物理研究所 ;   限修學制：大、碩、博	0	0		AAD0150	A	半	3.0	校際臺大（博）	9DAA		Large-scale structure of the universe (I)				1	選	◎課程開放上修		3606	闕志鴻	四 7-9 天數810	
+114	1	0	0	守護健康-談藥品法規科學	7	醫學院 ; 藥學研究所 ; 醫學校區研究所共同課程、臺大校際聯盟分子醫藥學程學生選課。合開老師:陳?德、詹明曉。 ; 限修學制：大、碩、博	0	0		AAC7A12	A	半	2.0	校際臺大（學）	9UAA		Regulatory Science-Drugs and Health				2	選			3607	張琳巧	五 8-9 基醫201	
+114	1	0	0	成本效益分析	7	社會科學院 ; 政治學研究所 ; B10之後入學者，本科為11擇4必修科目。詳見myNTU之各系所必修科目及應修學分資料查詢系統。 ; 限修學制：大三以上、碩、博	1	1		AAC7N75	A	半	2.0	校際臺大（學）	9UAA		Cost and Benefit Analysis				2	選	◎加退選全授權碼選課		3608	郭昱瑩	一 3-4 社科301	
+114	1	0	0	早期美國文學		文學院 ; 外國語文學系 ; 英國文學與美國文學九科擇五必修。 ; 限修學制：大、碩、博	0	0		AAU0364	A	半	3.0	校際臺大（學）	9UAA		Early American Literature	是			1	選	◎加退選全授權碼選課		3609	曼紐爾	四 2-4 普305	
+114	1	0	0	有機化合物光譜分析及數據整合	7	生命科學院 ; 生化科學研究所 ; 先修課程：有機化學   台大生化館N101 ; 限修學制：大、碩、博	0	0		AAC7L85	A	半	2.0	校際臺大（學）	9UAA		Characterization and Data Reporting of Organic Compounds	是			10	選			3610	呂桐睿	一 8-9 生化N101	
+114	1	0	0	羽球中級（選修體育）		共同教育中心 ; 體育室體育教學組 ; 限修過初級或具初級能力者。請自備乾淨球鞋。 ; 限修學制：大、碩、博	2	2		AAU1246	A	半	1.0	校際臺大（學）	9UAA		Badminton-Intermediate (elective course of PE)				2	選	◎加退選全授權碼選課		3611	陳志一	一 6-7 綜館多功能	
+114	1	0	0	老子哲學研究		文學院 ; 哲學研究所 ; 研究所：道家領域。 ; 限修學制：大、碩、博	0	0		AAM2313	A	半	3.0	校際臺大（碩）	9MAA		Research on the Philososphy of the Laozi				1	選	◎課程開放上修 ◎加退選全授權碼選課		3612	魏家豪	四 3-5 人文B201-1	
+114	1	0	0	考古學概論		文學院 ; 人類學系 ; 限本系和雙輔生。 ; 限修學制：大、碩、博	0	0		AAU0011	A	半	3.0	校際臺大（學）	9UAA		Introduction to Archaeology				1	選	◎加退選全授權碼選課		3613	鄭玠甫	四 7-9 普502	
+114	1	0	0	肌動學		醫學院 ; 物理治療學系 ; 本課程為e-learning course。 ; 限修學制：大、碩、博	1	1		AAU1452	A	半	2.0	校際臺大（學）	9UAA		Kinesiology				5	選			3614	柴惠敏	一 1-2 共104	
+114	1	0	0	自由選擇環境學習		生物資源暨農學院 ; 森林環境暨資源學研究所 ;   限修學制：碩、博	0	0		AAM0323	A	半	3.0	校際臺大（碩）	9MAA		Free- Choice Environmental Learning				3	選	◎課程不開放上修 ◎加退選全授權碼選課		3615	劉奇璋	二 8-10 林三	
+114	1	0	0	自動控制		生物資源暨農學院 ; 生物機電工程學系 ; 本校機電控制領域專長課程 ; 限修學制：大、碩、博	1	1		AAU1997	A	半	3.0	校際臺大（學）	9UAA		Automatic Control				2	選			3616	顏炳郎	二 7-9 知207	
+114	1	0	0	自動機與形式語言		電機資訊學院 ; 資訊工程學系 ;   限修學制：大三以上、碩、博	1	1		AAU1413	A	半	3.0	校際臺大（學）	9UAA		Formal Languages and Automata Theory	是			5	選			3617	林智仁	一 3-5 資102	
+114	1	0	0	自然史博物館實習(I)	7	生命科學院 ; 生態學與演化生物學研究所 ; 上課地點：新生504。 ; 限修學制：大、碩、博	0	0		AAC7K52	A	半	3.0	校際臺大（學）	9UAA		Internships for Natural History Museums I				3	選	◎加退選全授權碼選課		3618	曾惠芸	四 2-4 請洽系所辦	
+114	1	0	1	自然史博物館實習(I)	7	生命科學院 ; 生態學與演化生物學研究所 ; 上課地點：新生504。 ; 限修學制：大、碩、博	1	0		AAC7K52	B	半	3.0	校際臺大（學）	9UAA		Internships for Natural History Museums I				3	選	◎加退選全授權碼選課		3619	郭典翰	四 2-4 請洽系所辦	
+114	1	0	0	自然地理學通論		理學院 ; 地理環境資源學系 ;   限修學制：大、碩、博	0	0		AAU0305	A	半	3.0	校際臺大（學）	9UAA		Introduction to Physical Geography				2	選	◎加退選全授權碼選課		3621	黃倬英	五 7-9 地理一教室	
+114	1	0	0	自然保護區管理	7	生物資源暨農學院 ; 森林環境暨資源學研究所 ; 資源保育及管理學群選擇必修。先修科目：生態相關課程。 ; 限修學制：大、碩、博	1	1		AAC7821	A	半	3.0	校際臺大（學）	9UAA		Management of Natural Protected Areas				2	選	◎加退選全授權碼選課		3622	盧道杰	四 6-8 林二	
+114	1	0	1	自然保護區管理實習	7	生物資源暨農學院 ; 森林環境暨資源學研究所 ; 先修科目：生態相關課程。 ; 限修學制：大、碩、博	1	0		AAC7898	A	半	1.0	校際臺大（學）	9UAA		Activities and Practices for Management of Natural Protected Areas				2	選	◎加退選全授權碼選課		3623	盧道杰	四 9-A 林二	
+114	1	0	2	行政法一		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	2	0		AAU1998	A	半	2.0	校際臺大（學）	9UAA		Administrative Law				5	選	◎加退選全授權碼選課		3624	李仲軒	五 8-9 社科202	
+114	1	0	0	行政法專題研究一		法律學院 ; 法律研究所 ;   限修學制：碩、博	0	0		AAM1107	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Administrative Law (I)				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3625	林明鏘	一 6-7 霖研四1701	
+114	1	0	0	行政法專題研究二		法律學院 ; 法律研究所 ; 教室:霖研四1701。 ; 限修學制：碩、博	0	0		AAM1108	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Administrative Law (II)				1	選	◎課程不開放上修 ◎必須先修過行政法專題研究一】 ◎加退選全授權碼選課		3626	林明鏘	一 6-7 請洽系所辦	
+114	1	0	0	行政救濟法專題研究一		法律學院 ; 法律研究所 ;   限修學制：碩、博	0	0		AAM1420	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Administrative Remedy Law (I)				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3629	林明昕	三 10-A 霖研四1701	
+114	1	0	0	行為生態學	7	生命科學院 ; 生態學與演化生物學研究所 ;   限修學制：大、碩、博	0	0		AAC7J08	A	半	3.0	校際臺大（學）	9UAA		Behavioural Ecology	是			1	選	◎加退選全授權碼選課		3633	何熙誠	四 6-8 生科4A	
+114	1	0	0	行為神經科學專題討論		生命科學院 ; 生命科學研究所 ; 時地另訂。請於開學前向授課教師查詢。 ; 限修學制：大、碩、博	0	0		AAM0965	A	半	2.0	校際臺大（碩）	9MAA		Behavioral Neuroscience Seminar				5	選	◎課程開放上修 ◎加退選全授權碼選課		3634	周銘翊		
+114	1	0	0	西洋文學概論一		文學院 ; 外國語文學系 ; 西洋文學概論與歐洲文學四科擇三必修。 ; 限修學制：大、碩、博	1	1		AAU0366	A	半	3.0	校際臺大（學）	9UAA		Introduction to Western Literature (I)	是			5	選	◎加退選全授權碼選課		3635	孟克禮	四 2-4 普301	
+114	1	0	0	西洋宗教哲學		文學院 ; 哲學系 ;   限修學制：大、碩、博	1	1		AAU0957	A	半	3.0	校際臺大（學）	9UAA		Western Philosophy of Religion				2	選			3636	陳樂知	四 8-10 新402	
+114	1	0	0	西洋政治哲學一		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	1	1		AAU0039	A	半	2.0	校際臺大（學）	9UAA		Western Political Philosophy (I)				10	選	◎加退選全授權碼選課		3637	鄭泱泱	二 3-4 社科407	
+114	1	0	0	西洋政治哲學概論		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	0	0		AAU1999	A	半	2.0	校際臺大（學）	9UAA		Introduction to Western Political Philosophy				5	選	◎加退選全授權碼選課		3638	陳嘉銘	二 3-4 社科303	
+114	1	0	0	西洋哲學史一		文學院 ; 哲學系 ;   限修學制：大、碩、博	1	1		AAU1045	A	半	3.0	校際臺大（學）	9UAA		History of Western Philosophy (I)				2	選			3639	徐學庸	四 2-5 共204	
+114	1	0	0	西洋戲劇及劇場史上		文學院 ; 戲劇學系 ; 兼為歐洲暨歐盟研究學程。學程學生請於開學後向授課教師索取授權碼。 ; 限修學制：大三以上、碩、博	0	0		AAU0233	A	半	2.0	校際臺大（學）	9UAA		History of Western Drama and Theatre (1)				1	選	◎加退選全授權碼選課		3640	林于湘	四 3-4 總一館115	
+114	1	0	0	西洋戲劇名著選讀：古典		文學院 ; 戲劇學系 ; 兼為歐洲暨歐盟研究學程課程。戲劇學系學生優先選課。第1次上課未到不予加簽。 ; 限修學制：大、碩、博	1	1		AAU0234	A	半	2.0	校際臺大（學）	9UAA		Classical Masterpieces of Western Drama				2	選	◎加退選全授權碼選課		3641	林雯玲	三 3-4 總一館115	
+114	1	0	4	西班牙文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	6	2		AAU0567	A	半	3.0	校際臺大（學）	9UAA		Spanish (I)(1)				3	選	◎加退選全授權碼選課		3642	張雯媛	三 3-4 綜603, 五 3-4 綜604	
+114	1	0	0	西班牙文二上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU0017	A	半	3.0	校際臺大（學）	9UAA		Spanish (II)(1)				1	選	◎必須先修過西班牙文一下】 ◎加退選全授權碼選課		3643	安志偉	三 8-9 共102, 五 8-9 共304	
+114	1	0	1	西班牙文二上		文學院 ; 外國語文學系 ; 第二外語擇一修習兩年。 ; 限修學制：大、碩、博	1	0		AAU0017	B	半	3.0	校際臺大（學）	9UAA		Spanish (II)(1)				3	選	◎必須先修過西班牙文一下】 ◎加退選全授權碼選課		3644	張雯媛	一 10-A 普302, 四 10-A 普205	
+114	1	0	0	西班牙文二上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU0017	C	半	3.0	校際臺大（學）	9UAA		Spanish (II)(1)				1	選	◎必須先修過西班牙文一下】 ◎加退選全授權碼選課		3645	劉姿妤	二 6-7 共302, 五 6-7 共302	
+114	1	0	0	西班牙文四上		文學院 ; 外國語文學系 ; 以西班牙語授課。 ; 限修學制：大、碩、博	0	0		AAU0569	A	半	3.0	校際臺大（學）	9UAA		Spanish (IV) (1)				1	選	◎必須先修過西班牙文三下】 ◎加退選全授權碼選課		3646	鄭燕玲	三 7-9 共206	
+114	1	0	1	西班牙文學名著選讀一	7	文學院 ; 外國語文學研究所 ;   限修學制：大三以上、碩、博	1	0		AAC7892	A	半	3.0	校際臺大（學）	9UAA		Selected Readings on Spanish Literature (I)				1	選	◎必須先修過西班牙文二下】 ◎加退選全授權碼選課		3647	張淑英	一 5-7 博雅204	
+114	1	0	1	佛典導讀		文學院 ; 中國文學系 ;   限修學制：大、碩、博	1	0		AAU1734	A	半	3.0	校際臺大（學）	9UAA		Readings in Buddhist Sutras				1	選	◎加退選全授權碼選課		3648	羅鈴沛	一 7-9 共404	
+114	1	0	0	佛教文學專題		文學院 ; 中國文學研究所 ;   限修學制：碩、博	0	0		AAM0433	A	半	3.0	校際臺大（碩）	9MAA		Topics in Buddhist Literature				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3649	蕭麗華	五 2-4 文17	
+114	1	0	0	佛教禪修哲學		文學院 ; 哲學研究所 ; 文學院院學士哲學系課程（A群組）。 研究所：佛家領域。  大學部：(A)東方哲學史群組。 ; 限修學制：大、碩、博	1	1		AAM0967	A	半	3.0	校際臺大（碩）	9MAA		Buddhist Philosophy of Meditative Practices				2	選	◎課程開放上修		3650	蔡耀明	五 6-8 人文342	
+114	1	0	0	佛學概論		文學院 ; 哲學系 ;   限修學制：大、碩、博	2	2		AAU0697	A	半	3.0	校際臺大（學）	9UAA		Introduction to Buddhism				3	選	◎加退選全授權碼選課		3651	李勝海	四 7-9 共205	
+114	1	0	0	作業研究	7	工學院 ; 土木工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7H41	A	半	3.0	校際臺大（學）	9UAA		Operation Research	是			1	選	◎加退選全授權碼選課		3652	陳柏華	二 2-4 綜202	
+114	1	0	0	作業研究應用與實作	7	管理學院 ; 資訊管理學研究所 ;   限修學制：大、碩、博	0	0		AAC7J73	A	半	3.0	校際臺大（學）	9UAA		Operations Research Applications and Implementation	是			5	選	◎加退選全授權碼選課		3653	李家岩	二 2-4 管二304	
+114	1	0	1	免疫學	7	生命科學院 ; 生命科學研究所 ; Ｃ群選擇必修。 ; 限修學制：大、碩、博	3	2		AAC7B97	A	半	4.0	校際臺大（學）	9UAA		Immunology				2	選			3654	江皓森	二 3-4 生科3A, 四 3-4 生科3A	
+114	1	0	0	利用深海底泥了解氣候變遷	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAC7L87	A	半	2.0	校際臺大（學）	9UAA		Using Deep Sea Mud to Understand Climate Change	是			2	選			3655	賀詩琳	二 3-4 海研115	
+114	1	0	0	我有一個夢-探索當前大氣,氣候,及海洋科學的議題	7	理學院 ; 大氣科學研究所 ; 雙語課程，欲修課同學請務必詳閱課綱 ; 限修學制：大、碩、博	0	0		AAC7N76	A	半	2.0	校際臺大（學）	9UAA		I Have a Dream ? Exploring Current Atmospheric, Climate, and Ocean Sciences				2	選			3656	林依依	五 7-8 大氣A206	
+114	1	0	0	我的生涯我探索		學分學程 ; 生命教育學分學程 ; 初選不開放．8/23前填寫修課動機單https://forms.gle/BS7ManxEBUa75aGY7 ; 限修學制：大、碩、博	0	0		AAU2107	A	半	1.0	校際臺大（學）	9UAA		Career Exploration from Multiple Perspectives				2	選	◎加退選全授權碼選課 ◎初選不開放		3657	王秀槐	六 3-4 請洽系所辦, 六 6-9 請洽系所辦	
+114	1	0	0	批判法學:美國與全球化脈絡專題研究		法律學院 ; 法律研究所 ; 大學部須先取得授課教師同意。 ; 限修學制：碩、博	0	0		AAM0436	A	半	2.0	校際臺大（碩）	9MAA		Critical Legal Studies: U.S. and Beyond				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3658	陳韻如	四 3-4 霖研五1702	
+114	1	0	0	批判思考與公共論述		社會科學院 ; 國家發展研究所 ;   限修學制：大、碩、博	0	0		AAU0962	A	半	3.0	校際臺大（學）	9UAA		Critical Thinking and Public Discourse				3	選	◎加退選全授權碼選課		3659	鄧志松	二 3-5 社科404	
+114	1	0	0	批判理論選讀：後結構主義及其後		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU2334	A	半	3.0	校際臺大（學）	9UAA		Selected Reading of Critical Theory since Poststructuralism				1	選	◎加退選全授權碼選課		3660	李鴻瓊	五 8-10 共102	
+114	1	0	0	投資組合管理		進修推廣學院 ; 事業經營碩士在職學位學程 ; 本課程採實體與線上同步授課，實際上課時間為19:00~21:45，上課地點請洽進修推廣學院。 ; 限修學制：大、碩、博	0	0		AAM0045	A	半	3.0	校際臺大（碩）	9MAA		Portfolio Management				1	選	◎課程開放上修		3661	郭育尚	三 A-C 請洽系所辦	
+114	1	0	2	投資學		管理學院 ; 財務金融學系 ;   限修學制：大、碩、博	3	1		AAU0117	A	半	3.0	校際臺大（學）	9UAA		Investment				3	選	◎加退選全授權碼選課		3662	陳聖賢	四 2-4 管二202	
+114	1	0	6	材料物性分析	7	重點科技研究學院 ; 奈米工程與科學碩士學位學程 ; 上課教室：學新館113室 ; 限修學制：大、碩、博	9	3		AAC7J12	A	半	3.0	校際臺大（學）	9UAA		Physical Characterizations of Materials	是			10	選	◎加退選全授權碼選課		3663	陳致融	二 7-9 請洽系所辦	
+114	1	0	1	材料科學導論一		工學院 ; 材料科學與工程學系 ;   限修學制：大、碩、博	1	0		AAU0492	A	半	3.0	校際臺大（學）	9UAA		Introduction to Materials (I)	是			3	選	◎加退選全授權碼選課		3664	蔡劭璞	二 8-10 綜301	
+114	1	0	0	材料破壞學	7	工學院 ; 材料科學與工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7L88	A	半	3.0	校際臺大（學）	9UAA		Failure Analysis				5	選	◎加退選全授權碼選課		3665	吳欣潔	五 2-4 綜502	
+114	1	0	1	材料熱力學一		工學院 ; 材料科學與工程學系 ;   限修學制：大、碩、博	1	0		AAU1847	A	半	3.0	校際臺大（學）	9UAA		Thermodynamics of Materials (I)				3	選	◎加退選全授權碼選課		3666	蔡劭璞	五 6-8 綜301	
+114	1	0	0	沈積地層學概論	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAC7N77	A	半	2.0	校際臺大（學）	9UAA		An Introduction to Sedimentology and Stratigraphy				1	選			3667	張日新	二 6-7 海研110教室	
+114	1	0	0	災難管理與土木工程	7	工學院 ; 土木工程學研究所 ; 本系F層，防災學群必修科目。 ; 限修學制：大、碩、博	0	0		AAC7K19	A	半	3.0	校際臺大（學）	9UAA		Disaster Management and Civil Engineering				2	選	◎加退選全授權碼選課		3668	何昊哲	一 2-4 新502	
+114	1	0	0	系統程式設計		電機資訊學院 ; 資訊工程學系 ;   限修學制：大、碩、博	2	2		AAU0306	A	半	3.0	校際臺大（學）	9UAA		Systems Programming	是			3	選	◎加退選全授權碼選課		3669	黎士瑋	四 2-4 資103	
+114	1	0	0	系統程式設計		電機資訊學院 ; 資訊工程學系 ;   限修學制：大、碩、博	1	1		AAU0306	B	半	3.0	校際臺大（學）	9UAA		Systems Programming				2	選	◎加退選全授權碼選課		3670	鄭卜壬	四 2-4 資104	
+114	1	0	1	身心中軸覺察與正念：生活實踐與助人	7	理學院 ; 心理學研究所 ; 初選不開放． ; 限修學制：大、碩、博	1	0		AAC7J15	A	半	3.0	校際臺大（學）	9UAA		Mind-Body Axial Awareness and Mindfulness: Life Practice and Compassion				1	選	◎必須先修過身心中軸覺察與正念：實作與文獻討論】 ◎加退選全授權碼選課 ◎初選不開放		3671	連韻文	五 2-4 請洽系所辦	
+114	1	0	3	身心中軸覺察與正念：實作與文獻討論	7	理學院 ; 心理學研究所 ; 初選不開放．時地自訂(分組)。欲修課同學請務必先填寫加簽申請表單(連結請見課程大綱)。 ; 限修學制：大、碩、博	3	0		AAC7C74	A	半	3.0	校際臺大（學）	9UAA		Mind-Body Axial Awareness and Mindfulness: Practice and Literature Review				4	選	◎加退選全授權碼選課 ◎初選不開放		3672	連韻文		
+114	1	0	1	車用電子概論	7	重點科技研究學院 ; 積體電路設計與自動化碩士學位學程 ; 上課教室：學新館113室 ; 限修學制：大、碩、博	3	2		AAC7J16	A	半	1.0	校際臺大（學）	9UAA		Introduction to Automotive Electronics				10	選	◎加退選全授權碼選課		3673	黃俊郎	三 3-4 請洽系所辦	
+114	1	0	0	防疫政策案例研析- 從臺灣到全球的挑戰	7	公共衛生學院 ; 流行病學與預防醫學研究所 ;   限修學制：大、碩、博	0	0		AAC7B98	A	半	2.0	校際臺大（學）	9UAA		Infectious Disease Control Policy: Challenges for Taiwan and the World				1	選			3674	劉定萍	二 6-7 公衛208	
+114	1	0	0	事業分析與企業評價		進修推廣學院 ; 事業經營碩士在職學位學程 ; 本課程採實體與線上同步授課，實際上課時間為19:00~21:45，上課地點請洽進修推廣學院。 ; 限修學制：大、碩、博	1	1		AAM2314	A	半	3.0	校際臺大（碩）	9MAA		Business Analysis and Valuations				1	選	◎課程開放上修		3675	郭育尚	二 A-C 請洽系所辦	
+114	1	0	1	使用者經驗研究與設計	7	創新設計學院 ;   領導學程認列為選修課程。 ; 限修學制：大、碩、博	4	3		AAC7J17	A	半	3.0	校際臺大（學）	9UAA		User-Centered Research and Design				3	選	◎加退選全授權碼選課		3676	袁千雯	二 6-8 卓R505	
+114	1	0	0	兩岸政經互動專題	7	社會科學院 ; 政治學研究所 ; 國際關係、公共行政、本國政治、比較政治。 ; 限修學制：碩、博	0	0		AAC7H61	A	半	3.0	校際臺大（學）	9UAA		Seminar on Political and Economic Interaction across Taiwan Strait	是			3	選	◎加退選全授權碼選課		3677	左正東	一 6-8 社科研604	
+114	1	0	0	典藏自然：自然史博物館巡禮	7	生命科學院 ; 生態學與演化生物學研究所 ; 英文授課。 ; 限修學制：大、碩、博	0	0		AAC7B99	A	半	2.0	校際臺大（學）	9UAA		Archiving Nature: Introduction to the Natural History Museums	是			2	選	◎加退選全授權碼選課		3678	胡哲明	三 6-7 生科4A	
+114	1	0	0	制度論與歷史社會學專題		社會科學院 ; 社會學研究所 ;   限修學制：大三以上、碩、博	0	0		AAM0438	A	半	3.0	校際臺大（碩）	9MAA		Seminar on Institutionalism and Historical Sociology				1	選	◎課程開放上修 ◎加退選全授權碼選課		3679	林國明	三 7-9 社318	
+114	1	0	0	協調溝通與衝突管理		共同教育中心 ; 通識教育組 ; 開學另開放5名加簽。第一週務必出席，否則刪除選課。11/10停修截止。 ; 限修學制：大、碩、博	1	1		AAU2246	A	半	2.0	校際臺大（學）	9UAA		Managerial Communication and Conflict Resolution				2	選	◎加退選全授權碼選課		3680	徐顯國	二 2-4 綜201	
+114	1	0	0	固定收益證券與其衍生商品		管理學院 ; 財務金融學研究所 ; 風保組3選2。 ; 限修學制：碩、博	0	0		AAM0522	A	半	3.0	校際臺大（碩）	9MAA		Fixed Income Securities and Derivatives				5	選	◎課程不開放上修 ◎加退選全授權碼選課		3681	李賢源	三 7-9 管二205	
+114	1	0	0	固態照明	7	電機資訊學院 ; 光電工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7L91	A	半	3.0	校際臺大（學）	9UAA		Solid State Lighting	是			5	選			3682	黃建璋	二 7-9 博理113	
+114	1	0	0	奈米生醫材料		工學院 ; 高分子科學與工程學研究所 ;   限修學制：大、碩、博	0	0		AAM1114	A	半	3.0	校際臺大（碩）	9MAA		Nano Biomaterials				3	選	◎課程開放上修 ◎加退選全授權碼選課		3683	葉伊純	二 7-9 共102	
+114	1	0	0	奈米光機電系統	7	電機資訊學院 ; 光電工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7J18	A	半	3.0	校際臺大（學）	9UAA		Optical Nano-electro-mechanical System				10	選			3684	蔡睿哲	四 2-4 電二104	
+114	1	0	0	奈米電子導論		電機資訊學院 ; 電機工程學系 ;   限修學制：大、碩、博	0	0		AAU2110	A	半	3.0	校際臺大（學）	9UAA		Introduction to Nano-electronics				7	選			3685	吳肇欣	二 2-4 電二145	
+114	1	0	0	宜居城市研究專題		工學院 ; 建築與城鄉研究所 ;   限修學制：碩、博	0	0		AAM1037	A	半	3.0	校際臺大（碩）	9MAA		Special Topic  on Livable Cities	是			1	選	◎課程不開放上修		3686	黃麗玲	二 A-C 工綜313	
+114	1	0	0	尚書甲上		文學院 ; 中國文學系 ; 群組必修C五門必修習一門。 ; 限修學制：大三以上、碩、博	0	0		AAU2000	A	半	2.0	校際臺大（學）	9UAA		Shang Shu (a)(1)				2	選	◎加退選全授權碼選課		3687	曹美秀	二 3-4 共207	
+114	1	0	0	性別政治		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	1	1		AAU0071	A	半	3.0	校際臺大（學）	9UAA		Gender Politics				5	選	◎加退選全授權碼選課		3688	黃長玲	四 8-10 社科502	
+114	1	0	1	性別與政治	7	社會科學院 ; 社會學系 ;   限修學制：大三以上、碩、博	2	1		AAC7A16	A	半	2.0	校際臺大（學）	9UAA		Gender and Politics				1	選	◎加退選全授權碼選課		3689	范  雲	一 10-A 社205	
+114	1	0	0	拉丁文一上		文學院 ; 外國語文學系 ; 第二外語擇一修習兩年。 ; 限修學制：大、碩、博	1	1		AAU0703	A	半	3.0	校際臺大（學）	9UAA		Latin (I)(1)	是			5	選	◎加退選全授權碼選課		3690	李佑金	一 8-9 綜603, 三 8-9 綜504	
+114	1	0	0	拉丁文二上		文學院 ; 外國語文學系 ; 第二外語擇一修習兩年。 ; 限修學制：大、碩、博	0	0		AAU0880	A	半	3.0	校際臺大（學）	9UAA		Latin (II)(1)	是			2	選	◎必須先修過拉丁文一下】 ◎加退選全授權碼選課		3691	凱羅榮	三 10-A 普101, 五 6-7 博雅310	
+114	1	0	0	昆蟲分類學上		生物資源暨農學院 ; 昆蟲學系 ; 系訂專業必修13選6，至少計14學分，多餘學分可計入一般選修。112學年度入學新生適用。 ; 限修學制：大、碩、博	3	3		AAU1110	A	半	2.0	校際臺大（學）	9UAA		Insect Taxonomy (1)				3	選			3692	蕭旭峰	三 3-4 學新614	
+114	1	0	0	昆蟲分類學實習上		生物資源暨農學院 ; 昆蟲學系 ; 系訂專業必修13選6，至少計14學分，多餘學分可計入一般選修。112學年度入學新生適用。 ; 限修學制：大、碩、博	1	1		AAU1111	A	半	1.0	校際臺大（學）	9UAA		Insect Taxonomy Lab. (1)				3	選			3693	蕭旭峰	三 6-8 學新607	
+114	1	0	0	昆蟲學之路		生物資源暨農學院 ; 昆蟲學系 ; 缺課(含請假)達四次以上(含第四次)，此課程不通過。 ; 限修學制：大、碩、博	2	2		AAU2272	A	半	1.0	校際臺大（學）	9UAA		The Art of Insect Science				2	選			3694	蔡志偉	二 6 學新614	
+114	1	0	0	明清中國的官方祀典與民間信仰		文學院 ; 歷史學研究所 ;   限修學制：碩、博	1	1		AAM0051	A	半	3.0	校際臺大（碩）	9MAA		State Cults and Popular Beliefs in Late Imperial China				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3695	陳熙遠	五 2-4 博雅312	
+114	1	0	1	服務設計	7	學分學程 ; 創意創業學程 ; 第一堂課未到視為放棄選修。第一次上課發放授權碼，請準時出席。 ; 限修學制：大、碩、博	2	1		AAC7C01	A	半	3.0	校際臺大（學）	9UAA		Service Design				1	選	◎加退選全授權碼選課		3696	賴宏誌	四 6-8 綜604	
+114	1	0	0	服務學習乙		生物資源暨農學院 ; 昆蟲學系 ; 昆蟲標本館服務。時間另訂，第一堂課：週三第5堂昆蟲館201室。 ; 限修學制：大、碩、博	0	0		AAU1578	A	半	0.0	校際臺大（學）	9UAA		Service Learning (B)				1	選			3697	曾惠芸	三 5 請洽系所辦	
+114	1	0	0	東方哲學問題討論上		文學院 ; 哲學研究所 ;   限修學制：大、碩、博	1	1		AAD0325	A	半	2.0	校際臺大（博）	9DAA		Seminar on Problems of Oriental Philosophy (1)				1	選	◎課程開放上修		3698	佐藤將之	二 4-5 人文342	
+114	1	0	0	東亞文化交流史		文學院 ; 歷史學系 ;   限修學制：大、碩、博	1	1		AAU2054	A	半	3.0	校際臺大（學）	9UAA		History of Cultural Interactions in East Asia				3	選			3699	郭珮君	四 3-5 博雅302	
+114	1	0	0	東亞民主化專題	7	社會科學院 ; 政治學研究所 ;   限修學制：大、碩、博	4	4		AAC7A18	A	半	2.0	校際臺大（學）	9UAA		Seminar on Asian Democratization	是			5	選	◎加退選全授權碼選課		3700	黃旻華	二 3-4 社科和碩講堂	
+114	1	0	0	東亞的傳統與解釋		社會科學院 ; 國家發展研究所 ;   限修學制：大、碩、博	0	0		AAM1311	A	半	3.0	校際臺大（碩）	9MAA		Tradition and Interpretation in East Asia				1	選	◎課程開放上修 ◎加退選全授權碼選課		3701	姜智恩	五 3-5 國發208	
+114	1	0	0	東亞的獨裁與民主	7	社會科學院 ; 國家發展研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7N78	A	半	2.0	校際臺大（學）	9UAA		Dictatorship and Democracy in East Asia	是			1	選	◎加退選全授權碼選課		3702	南  樂	二 3-4 國發210	
+114	1	0	0	東亞現代史		文學院 ; 歷史學系 ;   限修學制：大、碩、博	2	2		AAU0239	A	半	3.0	校際臺大（學）	9UAA		History of Modern East Asia				5	選	◎加退選全授權碼選課		3703	羅士傑	三 6-8 博雅102	
+114	1	0	0	東亞勞動力市場政策	7	社會科學院 ; 國家發展研究所 ;   限修學制：大、碩、博	0	0		AAC7J19	A	半	3.0	校際臺大（學）	9UAA		Labour Market Policies in East Asia	是			5	選	◎加退選全授權碼選課		3704	洪伊真	五 3-5 國發206	
+114	1	0	1	波蘭文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	2	1		AAU0240	A	半	3.0	校際臺大（學）	9UAA		Polish (I) (1)				14	選	◎加退選全授權碼選課		3705	陳音卉	三 5-6 普401, 四 5-6 共205	
+114	1	0	1	波蘭文二上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	0		AAU0241	A	半	3.0	校際臺大（學）	9UAA		Polish (II) (1)				5	選	◎必須先修過波蘭文一下】 ◎加退選全授權碼選課		3706	陳音卉	三 10-C 普504	
+114	1	0	1	波蘭文三上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	0		AAU0242	A	半	3.0	校際臺大（學）	9UAA		Polish (III) (1)				5	選	◎必須先修過波蘭文二下】 ◎加退選全授權碼選課		3707	陳音卉	二 10-C 普304	
+114	1	0	0	法文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	1		AAU0028	A	半	3.0	校際臺大（學）	9UAA		French (I)(1)	是			2	選	◎加退選全授權碼選課		3708	達力安	二 4-5 新403, 三 8-9 新401	
+114	1	0	0	法文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU0028	B	半	3.0	校際臺大（學）	9UAA		French (I)(1)				1	選	◎加退選全授權碼選課		3709	樂詩涵	三 6-7 新201, 五 6-7 外教103	
+114	1	0	1	法文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	2	1		AAU0028	C	半	3.0	校際臺大（學）	9UAA		French (I)(1)				2	選	◎加退選全授權碼選課		3710	樂詩涵	三 8-9 新304, 五 8-9 外教103	
+114	1	0	0	法文一上		文學院 ; 外國語文學系 ; 不接受旁聽生。 ; 限修學制：大、碩、博	0	0		AAU0028	D	半	3.0	校際臺大（學）	9UAA		French (I)(1)	是			2	選	◎加退選全授權碼選課		3711	達力安	二 6-7 新405, 四 6-7 新201	
+114	1	0	0	法文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	1		AAU0028	E	半	3.0	校際臺大（學）	9UAA		French (I)(1)	是			2	選	◎加退選全授權碼選課		3712	達力安	一 4-5 新404, 三 4-5 新401	
+114	1	0	0	法文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	1		AAU0028	F	半	3.0	校際臺大（學）	9UAA		French (I)(1)				2	選	◎加退選全授權碼選課		3713	陳素麗	三 6-7 共401, 五 6-7 共401	
+114	1	0	0	法文一上		文學院 ; 外國語文學系 ; 中文授課法文書籍。不接受旁聽生。 ; 限修學制：大、碩、博	0	0		AAU0028	G	半	3.0	校際臺大（學）	9UAA		French (I)(1)				1	選	◎加退選全授權碼選課		3714	謝艾米	二 3-4 外教103, 四 3-4 外教103	
+114	1	0	1	法文一上		文學院 ; 外國語文學系 ; 第二外語擇一修習兩年。 ; 限修學制：大、碩、博	1	0		AAU0028	H	半	3.0	校際臺大（學）	9UAA		French (I)(1)				2	選	◎加退選全授權碼選課		3715	林湘漪	三 3-4 外教101, 五 3-4 外教102	
+114	1	0	0	法文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	1		AAU0028	I	半	3.0	校際臺大（學）	9UAA		French (I)(1)				2	選	◎加退選全授權碼選課		3716	陳素麗	三 8-9 共401, 五 8-9 共401	
+114	1	0	0	法文二上		文學院 ; 外國語文學系 ; 第二外語擇一修習兩年。 ; 限修學制：大、碩、博	0	0		AAU0243	A	半	3.0	校際臺大（學）	9UAA		French (II)(1)				2	選	◎必須先修過法文一下　｜　法文下】 ◎加退選全授權碼選課		3717	林湘漪	一 6-7 外教203, 四 6-7 外教203	
+114	1	0	0	法文二上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	1		AAU0243	B	半	3.0	校際臺大（學）	9UAA		French (II)(1)	是			2	選	◎必須先修過法文一下　｜　法文下】 ◎加退選全授權碼選課		3718	達力安	一 8-9 新405, 四 8-9 新201	
+114	1	0	2	法文三上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	3	1		AAU1122	A	半	3.0	校際臺大（學）	9UAA		French (III)(1)	是			2	選	◎必須先修過法文二下】 ◎加退選全授權碼選課		3719	達力安	一 6-7 新404, 三 6-7 新401	
+114	1	0	1	法文四上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	2	1		AAU1253	A	半	3.0	校際臺大（學）	9UAA		French (IV) (1)				2	選	◎必須先修過法文三上 和 法文三下】 ◎加退選全授權碼選課		3720	謝艾米	二 6-7 外教103, 五 6-7 外教102	
+114	1	0	1	法文媒體一		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	2	1		AAU1737	A	半	2.0	校際臺大（學）	9UAA		French Media (I)	是			2	選	◎加退選全授權碼選課		3721	達力安	二 8-9 博雅312	
+114	1	0	0	法文經典文獻選讀專題	7	社會科學院 ; 政治學研究所 ; 政治思想、比較政治。 ; 限修學制：大三以上、碩、博	1	1		AAC7045	A	半	2.0	校際臺大（學）	9UAA		Seminar on French Classical Reading				2	選	◎加退選全授權碼選課		3722	陳淳文	三 8-9 社科研603	
+114	1	0	0	法律經濟學概論	7	社會科學院 ; 經濟學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7046	A	半	2.0	校際臺大（學）	9UAA		Introduction to Law Economics				5	選			3723	陳恭平	一 6-7 社科402	
+114	1	0	0	法律與哲學專題研究一		法律學院 ; 法律研究所 ;   限修學制：大、碩、博	0	0		AAM1930	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Law and Philosophy (I)				3	選	◎課程開放上修 ◎加退選全授權碼選課		3724	顏厥安	一 8-9 霖研四1701	
+114	1	0	0	法律與哲學專題研究二		法律學院 ; 法律研究所 ; 教室:霖研四1701。 ; 限修學制：大、碩、博	0	0		AAM2058	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Law and Philosophy (II)				3	選	◎課程開放上修 ◎必須先修過法律與哲學專題研究一】 ◎加退選全授權碼選課		3725	顏厥安	一 8-9 請洽系所辦	
+114	1	0	0	法家政治思想專題研究		社會科學院 ; 政治學研究所 ; 政治思想。 ; 限修學制：碩、博	1	1		AAM1795	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Legalist Political Thoughts				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3727	林俊宏	五 6-7 社科研601	
+114	1	0	1	法國文學名著選讀一	7	文學院 ; 外國語文學研究所 ; 法文授課。 ; 限修學制：大三以上、碩、博	1	0		AAC7580	A	半	3.0	校際臺大（學）	9UAA		Selected Readings on French Literature (I)				2	選	◎必須先修過法文二下】 ◎加退選全授權碼選課		3728	沈志中	二 6-8 人文B208	
+114	1	0	0	法理學		法律學院 ; 法律學系 ; 下學期仍有一班莊世同老師授課。 ; 限修學制：大、碩、博	0	0		AAU1587	A	半	2.0	校際臺大（學）	9UAA		Jurisprudence				5	選	◎加退選全授權碼選課		3729	顏厥安	二 3-4 萬2201	
+114	1	0	0	法稱《正理滴論》		文學院 ; 哲學研究所 ; 文學院院學士哲學系課程（A群組）。 研究所：佛家領域。  大學部：(A)東方哲學史群組。 ; 限修學制：大、碩、博	0	0		AAM1796	A	半	3.0	校際臺大（碩）	9MAA		Dharmakirti's Primer on Buddhist Epistemology				5	選	◎課程開放上修		3730	李勝海	二 7-9 人文342	
+114	1	0	0	法語發音與聽力訓練一		文學院 ; 外國語文學系 ; 初選不開放．中法文雙語授課。需修過法文一下或具備法語A1程度。 ; 限修學制：大、碩、博	0	0		AAU2214	A	半	2.0	校際臺大（學）	9UAA		French Pronunciation and Aural Training(I)				2	選	◎必須先修過法文一下】 ◎加退選全授權碼選課 ◎初選不開放		3731	林湘漪	四 3-4 外教203	
+114	1	0	0	法學論證與論文寫作		進修推廣學院 ; 事業經營法務碩士在職學位學程 ; 本課程為線上與線下同步授課方式，實際上課時間為19:00至21:45，上課地點請洽進修推廣學院。 ; 限修學制：大、碩、博	0	0		AAM2288	A	半	3.0	校際臺大（碩）	9MAA		Legal Argumentation and Thesis Writing				5	選	◎課程開放上修		3732	洪士軒	四 A-C 請洽系所辦	
+114	1	0	0	沿岸海洋學		理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAM0217	A	半	2.0	校際臺大（碩）	9MAA		Shelf and Coastal Oceanography				5	選	◎課程開放上修		3733	溫良碩	四 8-9 海研115	
+114	1	0	0	物理化學一		工學院 ; 化學工程學系 ;   限修學制：大、碩、博	0	0		AAU0121	A	半	3.0	校際臺大（學）	9UAA		Physical Chemistry (I)				1	選	◎加退選全授權碼選課		3734	吳乃立	一 3-4 綜503, 四 2 綜503	
+114	1	0	0	物理化學一		工學院 ; 化學工程學系 ;   限修學制：大、碩、博	0	0		AAU0121	B	半	3.0	校際臺大（學）	9UAA		Physical Chemistry (I)	是			1	選	◎加退選全授權碼選課		3735	闕居振	一 3-4 綜402, 四 2 綜402	
+114	1	0	0	物理化學一		工學院 ; 化學工程學系 ;   限修學制：大、碩、博	0	0		AAU0121	C	半	3.0	校際臺大（學）	9UAA		Physical Chemistry (I)				1	選	◎加退選全授權碼選課		3736	游文岳	一 3-4 綜403, 四 2 綜403	
+114	1	0	0	物理海洋概論	7	理學院 ; 海洋研究所 ; 上下學期皆開課,全所碩士生必修。 ; 限修學制：大、碩、博	1	1		AAC7213	A	半	1.0	校際臺大（學）	9UAA		Introduction to Physical Oceanography				5	選			3737	張明輝	一 6 海研大講堂	
+114	1	0	0	物種起源	7	生命科學院 ; 生態學與演化生物學研究所 ; 上課地點請洽開課教師。 ; 限修學制：大、碩、博	0	0		AAC7828	A	半	3.0	校際臺大（學）	9UAA		On the Origin of Species	是			2	選			3738	蔡政修	四 2-4 請洽系所辦	
+114	1	0	0	物質使用與公共衛生	7	公共衛生學院 ; 流行病學與預防醫學研究所 ;   限修學制：大、碩、博	1	1		AAC7214	A	半	2.0	校際臺大（學）	9UAA		Substance Use and Public Health				5	選			3739	陳娟瑜	三 1-2 公衛209	
+114	1	0	1	知識論		文學院 ; 哲學系 ;   限修學制：大、碩、博	1	0		AAU1054	A	半	3.0	校際臺大（學）	9UAA		Epistemology				5	選	◎加退選全授權碼選課		3740	周先捷	二 7-10 新202	
+114	1	0	0	知覺心理學		理學院 ; 心理學系 ;   限修學制：大、碩、博	1	1		AAU2215	A	半	3.0	校際臺大（學）	9UAA		Perceptual Psychology				10	選	◎必須先修過普通心理學】 ◎加退選全授權碼選課		3741	葉素玲	二 2-4 北館視聽	
+114	1	0	0	社區組織與社區發展		社會科學院 ; 社會工作學系 ; 社科院院學士「社會工作組」課程。 ; 限修學制：大三以上、碩、博	1	1		AAU0315	A	半	3.0	校際臺大（學）	9UAA		Community Organization and Community Development				2	選	◎加退選全授權碼選課		3742	陳怡?	五 2-4 社211	
+114	1	0	0	社會工作研究方法上		社會科學院 ; 社會工作學系 ; 社會統計為先修課程；每禮拜三 56 為實習課，地點開學後通知。 ; 限修學制：大、碩、博	0	0		AAU2216	A	半	3.0	校際臺大（學）	9UAA		Social Work Research Methods (1)				2	選	◎必須先修過社會統計】 ◎加退選全授權碼選課		3743	趙曉芳	三 5-6 請洽系所辦, 四 2-4 社103	
+114	1	0	1	社會工作管理	7	社會科學院 ; 社會工作學研究所 ; 大學部必修課程；本校研究所同學若修習此課程將不計入畢業學分中。 ; 限修學制：大四以上、碩、博	1	0		AAC7381	A	半	3.0	校際臺大（學）	9UAA		Social Work Management				2	選	◎加退選全授權碼選課		3744	葉琇姍	一 2-4 社103	
+114	1	0	2	社會心理學		理學院 ; 心理學系 ;   限修學制：大、碩、博	4	2		AAU1723	A	半	3.0	校際臺大（學）	9UAA		Social Psychology				2	選	◎必須先修過普通心理學】		3745	李怡青	二 2-4 普102	
+114	1	0	0	社會主義國家政治變遷與半總統制專題	7	社會科學院 ; 政治學研究所 ; 國際關係，比較政治。 ; 限修學制：大三以上、碩、博	0	0		AAC7216	A	半	2.0	校際臺大（學）	9UAA		Seminar on Political Transition of Socialist Countries and Semi-Presidentialism				2	選	◎加退選全授權碼選課		3746	吳玉山	三 3-4 社科研606	
+114	1	0	0	社會正義與民主公民		文學院 ; 哲學系 ;   限修學制：大、碩、博	0	0		AAU1160	A	半	3.0	校際臺大（學）	9UAA		Social Justice and Democratic Citizenship				2	選			3747	吳澤玫	四 8-10 共204	
+114	1	0	2	社會政策與社會立法		社會科學院 ; 社會工作學系 ; 社科院院學士「社會工作組」課程。 ; 限修學制：大四以上、碩、博	4	2		AAU0043	A	半	3.0	校際臺大（學）	9UAA		Social Policy and Social Legislation				2	選	◎加退選全授權碼選課		3748	傅從喜	四 2-4 社211	
+114	1	0	0	社會研究方法甲上		社會科學院 ; 社會學系 ; 週五8,9節為實習。 ; 限修學制：大	1	1		AAU0763	A	半	4.0	校際臺大（學）	9UAA		Social Research Method (1)				2	選	◎加退選全授權碼選課		3749	洪晨碩	三 2-4 社101, 五 8-9 請洽系所辦	
+114	1	0	0	社會研究方法甲上		社會科學院 ; 社會學系 ; 週五8,9節為實習。 ; 限修學制：大	0	0		AAU0763	B	半	4.0	校際臺大（學）	9UAA		Social Research Method (1)	是			2	選	◎加退選全授權碼選課		3750	林孟瑢	三 2-4 社207, 五 8-9 請洽系所辦	
+114	1	0	0	社會科學研究方法		社會科學院 ; 社會工作學研究所 ;   限修學制：博	0	0		AAD0346	A	半	3.0	校際臺大（博）	9DAA		Methods of Social Science Research				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3751	沈瓊桃	一 7-9 社114	
+114	1	0	4	社會科學程式設計	7	社會科學院 ; 新聞研究所 ;   限修學制：大三以上、碩、博	5	1		AAC7F81	A	半	3.0	校際臺大（學）	9UAA		Programming for Social Science				2	選	◎加退選全授權碼選課		3752	謝吉隆	一 2-4 新聞103	
+114	1	0	0	社會科學資訊資源與服務		文學院 ; 圖書資訊學系 ; 上課時請自備筆電或平板。 ; 限修學制：大、碩、博	0	0		AAU0603	A	半	3.0	校際臺大（學）	9UAA		Information Sources and Services in Social Science				2	選	◎加退選全授權碼選課		3753	黃麗?	一 2-4 圖資編目室	
+114	1	0	0	社會倡導實務工作坊	7	社會科學院 ; 社會工作學研究所 ; 上課地點社會社工系館318B室；第一堂課程未出席請自行退選、將完成「多元平權」領專者優先加選 ; 限修學制：大三以上、碩、博	1	1		AAC7734	A	半	2.0	校際臺大（學）	9UAA		Social Advocacy Practice Workshop				2	選	◎加退選全授權碼選課		3754	陳怡?		
+114	1	0	1	社會個案工作		社會科學院 ; 社會工作學系 ; 本課程先修科目：社會工作概論上、下。 ; 限修學制：大、碩、博	1	0		AAU0316	A	半	3.0	校際臺大（學）	9UAA		Social Casework				2	選	◎必須先修過社會工作概論上 和 社會工作概論下】 ◎加退選全授權碼選課		3755	林敬軒	三 2-4 社103	
+114	1	0	1	社會統計		社會科學院 ; 社會學系 ; 週五6,7節為實習課,實習地點:社科501。 ; 限修學制：大、碩、博	3	2		AAU0408	A	半	4.0	校際臺大（學）	9UAA		Social Statistics				2	選	◎加退選全授權碼選課		3756	郭貞蘭	五 2-4 社101, 五 6-7 社101	
+114	1	0	0	社會統計		社會科學院 ; 社會學系 ; 週五6,7節為實習課 ; 限修學制：大、碩、博	0	0		AAU0408	B	半	4.0	校際臺大（學）	9UAA		Social Statistics	是			2	選	◎加退選全授權碼選課		3757	林孟瑢	五 2-4 社103, 五 6-7 社103	
+114	1	0	0	社會創變實習：技能養成與在地行動	7	學分學程 ; 創意創業學程 ;   限修學制：大、碩、博	1	1		AAC7N79	A	半	3.0	校際臺大（學）	9UAA		Field-Based Social Practice: Skills, Research, and Civic Engagement				5	選	◎加退選全授權碼選課		3758	趙式隆	二 7-9 綜604	
+114	1	0	0	社會福利專題討論		社會科學院 ; 社會工作學研究所 ;   限修學制：碩、博	0	0		AAM0584	A	半	3.0	校際臺大（碩）	9MAA		Seminar on Social Welfare				3	選	◎課程不開放上修 ◎加退選全授權碼選課		3759	蔡貞慧	四 2-4 社110	
+114	1	0	0	社會網絡分析與視覺化	7	文學院 ; 圖書資訊學研究所 ; U選課程，大學部與研究所學生均可修習。 ; 限修學制：大、碩、博	1	1		AAC7J20	A	半	3.0	校際臺大（學）	9UAA		Introduction to Social network Analysis and Visualization				1	選	◎加退選全授權碼選課		3760	唐牧群	二 6-8 圖資資訊室	
+114	1	0	0	社會與健康導論	7	公共衛生學院 ; 健康政策與管理研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7218	A	半	2.0	校際臺大（學）	9UAA		Introduction to Society and Health				2	選	◎加退選全授權碼選課		3761	張弘潔	二 6-7 公衛648(原601	
+114	1	0	0	社會學甲上		社會科學院 ; 社會學系 ; 實習時間為週二至週四17：30~19：20，分組進行。實習課請選社甲實習上。 ; 限修學制：大、碩、博	4	4		AAU1314	A	半	3.0	校際臺大（學）	9UAA		Introductory Sociology (a)(1)				5	選	◎加退選全授權碼選課		3762	陳東升	二 2-4 共101	
+114	1	0	4	社會學甲實習上		社會科學院 ; 社會學系 ; 初選不開放．實習時間為週二至週四17：30-19：20，分組進行。 ; 限修學制：大	4	0		AAU1315	A	半	1.0	校際臺大（學）	9UAA		Introductory Sociology Practice (a) (1)				5	選	◎加退選全授權碼選課 ◎初選不開放		3763	陳東升		
+114	1	0	0	社會議題與政策專題討論		社會科學院 ; 社會工作學研究所 ;   限修學制：博	0	0		AAD0035	A	半	3.0	校際臺大（博）	9DAA		Seminar on Social Issues and Policy Responses				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3764	古允文	二 7-9 社114	
+114	1	0	0	社會變遷與福利議題專題討論		社會科學院 ; 社會工作學研究所 ;   限修學制：碩、博	0	0		AAM0342	A	半	3.0	校際臺大（碩）	9MAA		Seminar on Social Change and Welfare Issues				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3765	古允文	二 2-4 社110	
+114	1	0	0	社群媒體與社會網絡分析		社會科學院 ; 新聞研究所 ;   限修學制：碩、博	0	0		AAM1280	A	半	3.0	校際臺大（碩）	9MAA		Social Media and Social Network Analysis	是			1	選	◎課程不開放上修 ◎加退選全授權碼選課		3766	劉好迪	二 7-9 新聞313	
+114	1	0	0	空氣汙染實作		理學院 ; 大氣科學研究所 ; 初選不開放．有興趣學生請在8/15前email至hmhung@ntu.edu.tw敘述動機，上課時間可調整 ; 限修學制：大三以上、碩、博	0	0		AAM1987	A	半	3.0	校際臺大（碩）	9MAA		Air Pollution Laboratory				1	選	◎課程開放上修 ◎加退選全授權碼選課 ◎初選不開放		3767	洪惠敏	三 8-10 大氣A108	
+114	1	0	2	空間生態學與保育應用分析	7	理學院 ; 氣候變遷與永續發展國際學位學程 ; 學生須具備 R 語言的基本技能。強烈建議學生自備筆記型電腦參加所有課程。 ; 限修學制：大三以上、碩、博	4	2		AAC7N80	A	半	3.0	校際臺大（學）	9UAA		Spatial Ecology and Analysis for Conservation	是			2	選	◎加退選全授權碼選課		3768	陳怡秀	四 6-8 全變中心G202	
+114	1	0	0	空間的文化研究		工學院 ; 建築與城鄉研究所 ;   限修學制：碩、博	0	0		AAM0446	A	半	3.0	校際臺大（碩）	9MAA		Cultural Studies of Space				1	選	◎課程不開放上修		3769	高郁婷	三 A-C 工綜209	
+114	1	0	0	空間資訊平差處理與分析		工學院 ; 土木工程學研究所 ; 建議選修對象:大三以上及研究所 建議先修科目:測量學一、工程數學  英文友善課程 ; 限修學制：大、碩、博	0	0		AAM0221	A	半	3.0	校際臺大（碩）	9MAA		Adjustment and Analysis of Spatial Information				2	選	◎課程開放上修 ◎加退選全授權碼選課		3770	韓仁毓	四 7-9 土224	
+114	1	0	1	初級臺灣客語		文學院 ; 中國文學系 ;   限修學制：大、碩、博	2	1		AAU0032	A	半	2.0	校際臺大（學）	9UAA		Elementary Taiwan Hakka language				2	選	◎加退選全授權碼選課		3771	楊名龍	一 6-7 普306	
+114	1	0	0	表面電子光譜學	7	工學院 ; 材料科學與工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7832	A	半	3.0	校際臺大（學）	9UAA		Electron Spectroscopy in Surface Analysis				5	選	◎加退選全授權碼選課		3772	薛景中	二 7-9 綜501	
+114	1	0	0	表演一上		文學院 ; 戲劇學系 ; 初選不開放．外系生修課需於第一週上課參加甄試（無需準備）。下學期初選不預帶外系生，需重新經過教師同意。 ; 限修學制：大、碩、博	0	0		AAU2273	A	半	2.0	校際臺大（學）	9UAA		Acting (I)(1)				1	選	◎加退選全授權碼選課 ◎初選不開放		3773	朱靜美	二 8-9 總一館114	
+114	1	0	0	近世代數一	7	理學院 ; 數學研究所 ; 研究生修課領域：B,E  開課對象：碩M、博D ; 限修學制：大、碩、博	0	0		AAC7585	A	半	3.0	校際臺大（學）	9UAA		Modern Algebra (I)				5	選			3774	陳榮凱	三 6-7 新304, 五 6-7 新304	
+114	1	0	0	近代中日文化思想交流史研究上		文學院 ; 日本語文學研究所 ; 上課教室為日文系B210。 ; 限修學制：碩、博	0	0		AAM0658	A	半	2.0	校際臺大（碩）	9MAA		Research in Modern History of Intellectual Exchange between China and Japan (1)				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3775	徐興慶	一 3-4 請洽系所辦	
+114	1	0	0	近代物理	7	工學院 ; 工程科學及海洋工程學研究所 ;   限修學制：大、碩、博	1	1		AAC7L32	A	半	3.0	校際臺大（學）	9UAA		Modern Physics				5	選			3776	李佳翰	五 2-4 工科視聽室	
+114	1	0	0	近現代文學史上		文學院 ; 中國文學系 ; 群組必修A四門必修一門。下學期由高嘉謙、潘少瑜合開。 ; 限修學制：大、碩、博	0	0		AAU0359	A	半	2.0	校際臺大（學）	9UAA		History of Chinese Literature: from early modern to modern times				2	選	◎加退選全授權碼選課		3777	蔡祝青	二 6-7 普501	
+114	1	0	0	近現代文學批評（二）：跨文化的視野		文學院 ; 中國文學系 ; 曾修習近現代相關課程者優先。 ; 限修學制：大、碩、博	0	0		AAU2002	A	半	3.0	校際臺大（學）	9UAA		Modern Literary Criticism II: Cross-Cultural Perspectives				2	選	◎加退選全授權碼選課		3778	潘少瑜	四 7-9 普306	
+114	1	0	0	金融市場與行銷	7	管理學院 ; 商學研究所 ;   限修學制：大四以上、碩、博	0	0		AAC7H32	A	半	3.0	校際臺大（學）	9UAA		Seminars on Financial Market and Marketing				2	選	◎加退選全授權碼選課		3779	魏啟林	一 7-9 管一203	
+114	1	0	1	金融科技導論	7	電機資訊學院 ; 資訊工程學研究所 ; 上課教室：資102。 ; 限修學制：大、碩、博	3	2		AAC7934	A	半	3.0	校際臺大（學）	9UAA		Introduction to FinTech				3	選	◎加退選全授權碼選課		3780	廖世偉	五 B-D 請洽系所辦	
+114	1	0	0	金融倫理與社會責任	7	管理學院 ; 財務金融學研究所 ; 教室：管二201。大四及研二優先選課。先修科目：財務管理。 ; 限修學制：大四以上、碩、博	0	0		AAC7222	A	半	3.0	校際臺大（學）	9UAA		Financial Ethics and Social Responsibility				5	選			3781	池祥麟	二 2-4 請洽系所辦	
+114	1	0	0	金屬材料	7	工學院 ; 材料科學與工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7H27	A	半	3.0	校際臺大（學）	9UAA		Metallic Materials				3	選	◎加退選全授權碼選課		3782	林新智	四 2-4 綜502	
+114	1	0	1	阿拉伯文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	2	1		AAU1258	A	半	3.0	校際臺大（學）	9UAA		Arabic (I)(1)				1	選	◎加退選全授權碼選課		3783	初雅士	二 8-9 博雅307, 五 3-4 共202	
+114	1	0	1	阿拉伯文二上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	0		AAU1057	A	半	3.0	校際臺大（學）	9UAA		Arabic (II)(1)				2	選	◎必須先修過阿拉伯文一上 和 阿拉伯文一下】 ◎加退選全授權碼選課		3784	初雅士	二 A-D 普201	
+114	1	0	1	阿美族語的語言結構與文化(1)	7	文學院 ; 語言學研究所 ; 不計入語言所畢業學分，可抵充第二外國語。 ; 限修學制：大、碩、博	1	0		AAC7F83	A	半	3.0	校際臺大（學）	9UAA		Amis Linguistics and Culture (I)				3	選	◎加退選全授權碼選課		3785	張裕龍	一 7-9 文19	
+114	1	0	1	青少年心理學專題討論	7	理學院 ; 心理學研究所 ;   限修學制：大、碩、博	1	0		AAC7F84	A	半	3.0	校際臺大（學）	9UAA		Seminar on Adolescent Psychology				1	選	◎加退選全授權碼選課		3786	周珮雯	五 2-4 南館地下B	
+114	1	0	0	非營利組織管理		社會科學院 ; 政治學系 ; B10之後入學者，本科為11擇4必修科目。詳見myNTU之各系所必修科目及應修學分資料查詢系統。 ; 限修學制：大三以上、碩、博	2	2		AAU1419	A	半	2.0	校際臺大（學）	9UAA		Nonprofit Organization Management				3	選			3787	孫  煒	三 3-4 社科305	
+114	1	0	0	俄文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	1		AAU0027	A	半	3.0	校際臺大（學）	9UAA		Russian (I)(1)				3	選	◎加退選全授權碼選課		3788	熊宗慧	三 3-4 綜602, 五 3-4 綜603	
+114	1	0	0	俄文二上		文學院 ; 外國語文學系 ; 第二外語擇一修習兩年。以俄文授課。 ; 限修學制：大、碩、博	0	0		AAU0572	A	半	3.0	校際臺大（學）	9UAA		Russian (II)(1)				3	選	◎必須先修過俄文一下】 ◎加退選全授權碼選課		3789	李麗薩	一 10-A 普301, 四 10-A 普303	
+114	1	0	1	俄文三上		文學院 ; 外國語文學系 ; 全程以俄文授課。 ; 限修學制：大、碩、博	1	0		AAU0246	A	半	3.0	校際臺大（學）	9UAA		Russian (III)(1)				3	選	◎必須先修過俄文二下】 ◎加退選全授權碼選課		3790	李麗薩	二 10-B 普303	
+114	1	0	0	俄國文學閱讀一		文學院 ; 外國語文學系 ; 閱讀內容為俄文文本，中俄文雙語上課。 ; 限修學制：大、碩、博	0	0		AAU1420	A	半	3.0	校際臺大（學）	9UAA		Selected Readings of Russian Literature (I)				2	選	◎必須先修過俄文一上 和 俄文一下】 ◎加退選全授權碼選課		3791	熊宗慧	二 8-10 博雅309	
+114	1	0	0	前瞻資訊科技一		電機資訊學院 ; 資訊工程學系 ;   限修學制：大、碩、博	1	1		AAU0052	A	半	3.0	校際臺大（學）	9UAA		Computer Science and Information Technology (I)				10	選	◎加退選全授權碼選課		3792	蔡欣穆	五 7-9 博雅103	
+114	1	0	0	南島語概論		文學院 ; 語言學研究所 ;   限修學制：大、碩、博	0	0		AAM0226	A	半	3.0	校際臺大（碩）	9MAA		Introduction to Austronesian Linguistics				2	選	◎課程開放上修 ◎加退選全授權碼選課		3793	宋麗梅	二 6-8 人文336	
+114	1	0	1	城鄉 、區域與發展		理學院 ; 地理環境資源學系 ; 於地理一及地理305上課。 ; 限修學制：大、碩、博	2	1		AAU0931	A	半	3.0	校際臺大（學）	9UAA		Local and Regional Development				1	選	◎加退選全授權碼選課		3794	洪伯邑	二 7-9 地理一教室	
+114	1	0	0	建築城鄉與社會實踐		工學院 ; 建築與城鄉研究所 ;   限修學制：大、碩、博	0	0		AAM2065	A	半	3.0	校際臺大（碩）	9MAA		Architecture, Urban-rural Studies and Social Practice				1	選	◎課程開放上修		3795	慕思勉	五 2-4 公館101	
+114	1	0	0	建築設計 (一)	7	工學院 ; 建築與城鄉研究所 ; 申請建築設計學分學程學生優先選課，但課程第一堂經作業評量後決定修課名單。 ; 限修學制：大、碩、博	0	0		AAC7A22	A	半	3.0	校際臺大（學）	9UAA		Architectural Design (I)				1	選			3796	慕思勉	一 A-D 公館101	
+114	1	0	0	建築設計 (三)	7	工學院 ; 建築與城鄉研究所 ; 限修過建築設計(一)(二)或台科大建築設計(一)(二)者選修。 ; 限修學制：大、碩、博	0	0		AAC7A23	A	半	4.0	校際臺大（學）	9UAA		Architectural Design (III)				1	選			3797	林家暉	五 6-10 工綜207	
+114	1	0	0	恆星天文物理		理學院 ; 天文物理研究所 ;   限修學制：大、碩、博	1	1		AAD0283	A	半	4.0	校際臺大（博）	9DAA		Stellar Astrophysics	是			3	選	◎課程開放上修 ◎加退選全授權碼選課		3798	吳柏鋒	一 3-4 天數812, 五 8-9 天數812	
+114	1	0	0	政治社會學		社會科學院 ; 社會學系 ;   限修學制：大、碩、博	1	1		AAU1060	A	半	3.0	校際臺大（學）	9UAA		Political Sociology	是			2	選	◎加退選全授權碼選課		3799	翁哲瑞	二 7-9 社207	
+114	1	0	0	政治經濟學		社會科學院 ; 政治學系 ; B13之後入學者，本科為6擇2必修科目。詳見myNTU之各系所必修科目及應修學分資料查詢系統。 ; 限修學制：大、碩、博	1	1		AAU1306	A	半	2.0	校際臺大（學）	9UAA		Political Economy	是			5	選	◎加退選全授權碼選課		3800	童涵浦	五 8-9 社科406	
+114	1	0	0	政治學一		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	2	2		AAU0005	A	半	3.0	校際臺大（學）	9UAA		Political Science (I)	是			5	選	◎加退選全授權碼選課		3801	童涵浦	三 2-4 社科303	
+114	1	0	0	施工學特論	7	工學院 ; 土木工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7J83	A	半	3.0	校際臺大（學）	9UAA		Special Topics on Construction Engineering				2	選	◎加退選全授權碼選課		3802	劉泰儀	五 7-9 土研402	
+114	1	0	0	毒道之處?看不見的危機!	7	醫學院 ; 毒理學研究所 ;   限修學制：大、碩、博	1	1		AAC7388	A	半	2.0	校際臺大（學）	9UAA		The Way of Toxicity ~ The Hidden Hazard in our daily life!				5	選	◎加退選全授權碼選課		3803	姜至剛	一 8-9 博雅202	
+114	1	0	0	流行病學原理:資料分析		公共衛生學院 ; 流行病學與預防醫學研究所 ; 1.原則上與流行病學原理同時修習,單獨選修須取得主授教師同意。  2.電腦實習課程。 ; 限修學制：大、碩、博	1	1		AAM1773	A	半	1.0	校際臺大（碩）	9MAA		Principles of Epidemiology: Practice of Data Analysis				1	選	◎課程開放上修		3804	方啟泰	三 9 公衛215	
+114	1	0	0	流行病學當代研究課題	7	公共衛生學院 ; 流行病學與預防醫學研究所 ; 公衛系流行病學與預防醫學領域專長必修； ; 限修學制：大、碩、博	2	2		AAC7224	A	半	2.0	校際臺大（學）	9UAA		Contemporary Research Topics in Epidemiology				3	選			3805	李文宗	四 8-9 公衛211	
+114	1	0	0	流體力學		生物資源暨農學院 ; 生物機電工程學系 ;   限修學制：大、碩、博	0	0		AAU2004	A	半	3.0	校際臺大（學）	9UAA		Fluid Mechanics				2	選	◎加退選全授權碼選課		3806	黃振康	二 2-4 知207	
+114	1	0	1	珊瑚礁生態學		理學院 ; 海洋研究所 ;   限修學制：大、碩、博	2	1		AAM2316	A	半	3.0	校際臺大（碩）	9MAA		Coral Reef Ecology	是			2	選	◎課程開放上修		3807	單偉彌	二 6-8 海研231	
+114	1	0	0	疫苗學	7	公共衛生學院 ; 流行病學與預防醫學研究所 ;   限修學制：大、碩、博	0	0		AAC7835	A	半	2.0	校際臺大（學）	9UAA		Vaccinology				1	選			3808	范怡琴	四 8-9 公衛213	
+114	1	0	0	相控陣列雷達訊號處理	7	電機資訊學院 ; 電信工程學研究所 ;   限修學制：大、碩、博	1	1		AAC7E43	A	半	3.0	校際臺大（學）	9UAA		Signal Processing for Phased Array Radar				5	選			3809	黃彥銘	三 A-C 博理112	
+114	1	0	1	看電影學愛情	7	創新設計學院 ;   課程授課講師：姜宗佑 課程提案人。 ; 限修學制：大、碩、博	4	3		AAC7H71	A	半	2.0	校際臺大（學）	9UAA		Watch Movie and Learn How to Love				5	選	◎加退選全授權碼選課		3810	黃韻如	四 A-D 普103	
+114	1	0	0	研究方法		文學院 ; 語言學研究所 ;   限修學制：大、碩、博	0	0		AAM1933	A	半	2.0	校際臺大（碩）	9MAA		Research Methodology				2	選	◎課程開放上修 ◎加退選全授權碼選課		3811	李佳霖	四 2-4 人文337	
+114	1	0	0	研究方法的糾結與突圍		進修推廣學院 ; 事業經營碩士在職學位學程 ; 本課程採實體與線上同步授課，實際上課時間為19:00~21:45，上課地點請洽進修推廣學院。 ; 限修學制：大、碩、博	0	0		AAM1934	A	半	3.0	校際臺大（碩）	9MAA		The Methodological Dilemma and Breakthrough				1	選	◎課程開放上修 ◎加退選全授權碼選課		3812	賽明成	五 A-C 請洽系所辦	
+114	1	0	0	研究法（健康組）		共同教育中心 ; 運動設施與健康管理碩士學位學程 ; 健康管理組必修課程。 ; 限修學制：碩、博	0	0		AAM2172	A	半	3.0	校際臺大（碩）	9MAA		Research Methods (Health)				3	選	◎課程不開放上修		3813	王國鑌	四 6-8 綜館R204	
+114	1	0	0	研究法（管理組）		共同教育中心 ; 運動設施與健康管理碩士學位學程 ; 運動管理組必修課程。 ; 限修學制：大三以上、碩、博	1	1		AAM2173	A	半	3.0	校際臺大（碩）	9MAA		Research Methods (Sport)				3	選	◎課程開放上修		3814	林怡秀	二 2-4 綜館R204	
+114	1	0	0	科技、技術與鄉村社會發展		生物資源暨農學院 ; 生物產業傳播暨發展學研究所 ;   限修學制：大、碩、博	0	0		AAM1602	A	半	3.0	校際臺大（碩）	9MAA		Science,Technology and Rural Society				1	選	◎課程開放上修 ◎加退選全授權碼選課		3816	王驥懋	四 2-4 生傳427室	
+114	1	0	0	科技的政治社會學		社會科學院 ; 國家發展研究所 ;   限修學制：碩、博	0	0		AAM1603	A	半	3.0	校際臺大（碩）	9MAA		Political Sociology of Science and Technology				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3817	張國暉	二 6-8 國發206	
+114	1	0	0	科技前瞻與創新管理實務	7	工學院 ; 智慧工程科技全英語學士學位學程 ;   限修學制：大、碩、博	2	2		AAC7K21	A	半	3.0	校際臺大（學）	9UAA		Technology Foresight and Innovation Management				10	選			3818	朱曉萍	五 2-4 綜202	
+114	1	0	0	科技與社會研究一		社會科學院 ; 社會學系 ;   限修學制：大、碩、博	0	0		AAU1423	A	半	3.0	校際臺大（學）	9UAA		Science and Technology Studies (I)				3	選	◎加退選全授權碼選課		3819	吳嘉苓	一 2-4 社101	
+114	1	0	0	科技與勞動專題		社會科學院 ; 國家發展研究所 ;   限修學制：碩、博	0	0		AAM1044	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Technology and Labor				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3820	辛炳隆	二 9-10 國發202	
+114	1	0	0	科學研究計畫管理實務	7	生物資源暨農學院 ; 昆蟲學研究所 ;   限修學制：大、碩、博	0	0		AAC7J21	A	半	3.0	校際臺大（學）	9UAA		Project Management in Science: Practical Approaches	是			2	選	◎加退選全授權碼選課		3821	張俊哲	三 3-5 學新609	
+114	1	0	0	科學哲學		文學院 ; 哲學系 ;   限修學制：大、碩、博	1	1		AAU0885	A	半	3.0	校際臺大（學）	9UAA		Philosophy of Science				3	選			3822	苑舉正	四 6-8 普102	
+114	1	0	0	美國憲法案例專題一	7	法律學院 ; 法律研究所 ;   限修學制：大、碩、博	0	0		AAC7D19	A	半	2.0	校際臺大（學）	9UAA		Case Study on American Constitutional Law (I)				2	選	◎必須先修過憲法　｜　英美法導論】 ◎加退選全授權碼選課		3823	張文貞	二 3-4 霖研一1501	
+114	1	0	0	美國聯邦憲法與政府專題		社會科學院 ; 國家發展研究所 ;   限修學制：大三以上、碩、博	0	0		AAM1801	A	半	3.0	校際臺大（碩）	9MAA		Seminar on U.S. Constitution and Government				1	選	◎課程開放上修 ◎加退選全授權碼選課		3824	范秀羽	五 2-4 國發210	
+114	1	0	0	英文溝通與批判思維：研究、科技與社會的當前挑戰		教務處 ; 寫作教學中心 ; 大學以上可選修。 ; 限修學制：大、碩、博	0	0		AAM2317	A	半	3.0	校際臺大（碩）	9MAA		English Communication: Current Issues in Research, Technology, and Society	是			2	選	◎課程開放上修 ◎加退選全授權碼選課		3825	柯凱?	四 6-8 博雅312	
+114	1	0	0	英文寫作基礎		教務處 ; 寫作教學中心 ; 不宜與「學術英文寫作與發表」同時修習。 ; 限修學制：碩、博	1	1		AAM0741	A	半	3.0	校際臺大（碩）	9MAA		Fundamentals of English Writing				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3826	葉芳萍	二 6-8 博雅303	
+114	1	0	0	英文寫作基礎		教務處 ; 寫作教學中心 ; 不宜與「學術英文寫作與發表」同時修習。 ; 限修學制：碩、博	0	0		AAM0741	B	半	3.0	校際臺大（碩）	9MAA		Fundamentals of English Writing				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3827	陳巧玲	四 6-8 博雅406	
+114	1	0	0	英文寫作基礎		教務處 ; 寫作教學中心 ; 不宜與「學術英文寫作與發表」同時修習。 ; 限修學制：碩、博	0	0		AAM0741	C	半	3.0	校際臺大（碩）	9MAA		Fundamentals of English Writing	是			2	選	◎課程不開放上修 ◎加退選全授權碼選課		3828	葉芳萍	四 3-5 博雅303	
+114	1	0	0	英文寫作基礎		教務處 ; 寫作教學中心 ; 不宜與「學術英文寫作與發表」同時修習。 ; 限修學制：碩、博	0	0		AAM0741	D	半	3.0	校際臺大（碩）	9MAA		Fundamentals of English Writing				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3829	張  晨	一 3-5 共401	
+114	1	0	0	英文寫作基礎		教務處 ; 寫作教學中心 ; 不宜與「學術英文寫作與發表」同時修習。 ; 限修學制：碩、博	0	0		AAM0741	E	半	3.0	校際臺大（碩）	9MAA		Fundamentals of English Writing				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3830	陳翊齊	五 2-4 共401	
+114	1	0	1	英語聽力與發音一		文學院 ; 外國語文學系 ; 中英文雙語授課。 ; 限修學制：大、碩、博	2	1		AAU1121	A	半	2.0	校際臺大（學）	9UAA		English Listening and Pronunciation (I)				1	選	◎加退選全授權碼選課		3831	史嘉琳	一 8-9 共302	
+114	1	0	0	計量分析		管理學院 ; 財務金融學研究所 ; 初選不開放． ; 限修學制：碩、博	0	0		AAM0548	A	半	3.0	校際臺大（碩）	9MAA		Quantitative Analysis	是			5	選	◎課程不開放上修 ◎加退選全授權碼選課 ◎初選不開放		3832	管中閔	二 6-8 管二303	
+114	1	0	0	計量經濟學一		管理學院 ; 財務金融學研究所 ;   限修學制：碩、博	0	0		AAD0092	A	半	3.0	校際臺大（博）	9DAA		Econometrics (I)				2	選	◎課程開放上修 ◎加退選全授權碼選課		3833	陳宜廷	四 2-4 管二102	
+114	1	0	0	計算材料力學		工學院 ; 應用力學研究所 ;   限修學制：大、碩、博	0	0		AAM2318	A	半	3.0	校際臺大（碩）	9MAA		Introduction to Computational Materials Mechanics	是			2	選	◎課程開放上修 ◎加退選全授權碼選課		3834	陳志鴻	四 5-7 應233	
+114	1	0	0	計算物理		理學院 ; 物理學研究所 ;   限修學制：大、碩、博	0	0		AAM0825	A	半	3.0	校際臺大（碩）	9MAA		Computational Physics	是			5	選	◎課程開放上修		3835	高英哲	一 7-9 新物406	
+114	1	0	2	計算語言學與語言學理論		文學院 ; 語言學研究所 ;   限修學制：大、碩、博	3	1		AAD0263	A	半	3.0	校際臺大（博）	9DAA		Linguistic Theories in Computational Linguistics				1	選	◎課程開放上修 ◎加退選全授權碼選課		3836	謝舒凱	四 7-9 綜603	
+114	1	0	0	計算機存儲系統：尖端技術與顛覆性創新		重點科技研究學院 ; 元件材料與異質整合碩士學位學程 ; 上課教室：學新館113室 ; 限修學制：碩、博	0	0		AAM2319	A	半	1.0	校際臺大（碩）	9MAA		Computing Memory Subsystem: Incumbents and Disruptive Technologies	是			8	選	◎課程不開放上修		3837	高德昌	二 5-6 請洽系所辦	
+114	1	0	2	計算機安全		電機資訊學院 ; 資訊工程學研究所 ; 初選不開放．上課教室：資204。 ; 限修學制：大、碩、博	2	0		AAM0494	A	半	3.0	校際臺大（碩）	9MAA		Computer Security				3	選	◎課程開放上修 ◎加退選全授權碼選課 ◎初選不開放		3838	蕭旭君	一 2-4 請洽系所辦	
+114	1	0	0	計算機概論		電機資訊學院 ; 資訊工程學系 ;   限修學制：大、碩、博	3	3		AAU2005	A	半	2.0	校際臺大（學）	9UAA		Introduction to Computer Science				4	選			3839	傅楸善	一 8-9 資110	
+114	1	0	0	計算機概論		電機資訊學院 ; 資訊工程學系 ;   限修學制：大、碩、博	1	1		AAU2005	B	半	3.0	校際臺大（學）	9UAA		Introduction to Computer				2	選	◎加退選全授權碼選課		3840	徐宏民	一 2-4 資101	
+114	1	0	1	計算機網路		電機資訊學院 ; 資訊工程學系 ;   限修學制：大三以上、碩、博	6	5		AAU0503	A	半	3.0	校際臺大（學）	9UAA		Computer Networks				5	選	◎加退選全授權碼選課		3841	周承復	二 2-4 資102	
+114	1	0	2	計算機網路		電機資訊學院 ; 資訊工程學系 ;   限修學制：大三以上、碩、博	3	1		AAU0503	B	半	3.0	校際臺大（學）	9UAA		Computer Networks				1	選	◎加退選全授權碼選課		3842	逄愛君	三 7-9 資102	
+114	1	0	0	計算邏輯簡介		電機資訊學院 ; 資訊工程學系 ;   限修學制：大、碩、博	0	0		AAU0504	A	半	3.0	校際臺大（學）	9UAA		Introduction to Computational Logic				5	選	◎加退選全授權碼選課		3843	王柏堯	三 2-4 資111	
+114	1	0	0	軌道運輸學	7	工學院 ; 土木工程學研究所 ; F層課程(軌道運輸學群必修10選4)。建議先修課程：運輸工程。 ; 限修學制：大三以上、碩、博	0	0		AAC7227	A	半	3.0	校際臺大（學）	9UAA		Railroad Transportation Engineering	是			2	選	◎加退選全授權碼選課		3844	賴勇成	四 7-9 新103	
+114	1	0	0	重大政策議題	7	社會科學院 ; 政治學研究所 ; 公共行政，本國政治。 ; 限修學制：大三以上、碩、博	0	0		AAC7C64	A	半	2.0	校際臺大（學）	9UAA		Seminar on Major Policy Issues				2	選	◎加退選全授權碼選課		3845	郭昱瑩	二 3-4 社科401	
+114	1	0	0	音樂、地方與移動	7	文學院 ; 音樂學研究所 ;   限修學制：大、碩、博	0	0		AAC7D20	A	半	3.0	校際臺大（學）	9UAA		Music, Place, and Mobility				2	選	◎加退選全授權碼選課		3846	施永德	四 2-4 樂學館105	
+114	1	0	0	音樂、演化與大腦	7	文學院 ; 音樂學研究所 ; 初選名額90，其餘依規定寫加簽報告再給予授權碼。 ; 限修學制：大、碩、博	2	2		AAC7395	A	半	3.0	校際臺大（學）	9UAA		Music, Evolution and the Brain				3	選	◎加退選全授權碼選課		3847	蔡振家	五 2-4 新202	
+114	1	0	3	音樂合作的藝術與實踐	7	創新設計學院 ;   初選不開放．本課程為填表單申請，請詳見課程大綱。上課時間為六日，停修日11/3。 ; 限修學制：大、碩、博	3	0		AAC7A27	A	半	3.0	校際臺大（學）	9UAA		The Art and Practice on Music Cooperation				3	選	◎加退選全授權碼選課 ◎初選不開放		3848	蔡佳芬	六 2-7 卓R506	
+114	1	0	0	音樂作品欣賞一		文學院 ; 中國文學系 ; A1*:文學與藝術領域。 ; 限修學制：大、碩、博	3	3		AAU1065	A	半	2.0	校際臺大（學）	9UAA		Musical Appreciation (I)				3	選			3849	蔡世豪	四 6-7 外教劇場	
+114	1	0	0	音樂作品欣賞一		文學院 ; 中國文學系 ; A1*:文學與藝術領域。 ; 限修學制：大、碩、博	2	2		AAU1065	B	半	2.0	校際臺大（學）	9UAA		Musical Appreciation (I)				3	選			3850	蔡世豪	四 3-4 外教劇場	
+114	1	0	0	食用昆蟲學	7	生物資源暨農學院 ; 昆蟲學研究所 ;   限修學制：大三以上、碩、博	1	1		AAC7694	A	半	2.0	校際臺大（學）	9UAA		Edible Insects	是			40	選			3851	薛馬坦	五 6-7 共101	
+114	1	0	0	食品工程學	7	生物資源暨農學院 ; 食品科技研究所 ;   限修學制：大、碩、博	0	0		AAC7896	A	半	3.0	校際臺大（學）	9UAA		Food Engineering				1	選			3852	陳時欣	五 6-8 食科102	
+114	1	0	0	食品分析	7	生物資源暨農學院 ; 農業化學研究所 ;   限修學制：大、碩、博	0	0		AAC7C72	A	半	2.0	校際臺大（學）	9UAA		Food Analysis				2	選			3853	賴喜美	一 3-4 農化二B10	
+114	1	0	0	食品分析實驗	7	生物資源暨農學院 ; 農業化學研究所 ; 農化系學生優先。第六節在農化一第五教室講解。 ; 限修學制：大、碩、博	0	0		AAC7C69	A	半	2.0	校際臺大（學）	9UAA		Food Analysis Laboratory				2	選	◎加退選全授權碼選課		3854	賴喜美	四 6-9 農化二107	
+114	1	0	0	食品分析實驗	7	生物資源暨農學院 ; 農業化學研究所 ; 農化系學生優先。第六節在農化一第五教室講解。 ; 限修學制：大、碩、博	0	0		AAC7C69	B	半	2.0	校際臺大（學）	9UAA		Food Analysis Laboratory				2	選	◎加退選全授權碼選課		3855	賴喜美	二 6-9 農化二107	
+114	1	0	0	食品化學	7	生物資源暨農學院 ; 食品科技研究所 ; 須修過有機化學。 ; 限修學制：大、碩、博	0	0		AAC7594	A	半	3.0	校際臺大（學）	9UAA		Food Chemistry				3	選			3856	呂廷璋	一 2-4 食科102	
+114	1	0	0	食品化學一	7	生物資源暨農學院 ; 農業化學研究所 ; 群組必修，8科目中必修7學分 ; 限修學制：大、碩、博	0	0		AAC7N81	A	半	2.0	校際臺大（學）	9UAA		Food Chemistry (I)				3	選			3857	蘇南維	一 6-7 農化二B10	
+114	1	0	0	食品加工學	7	生物資源暨農學院 ; 農業化學研究所 ; 群組必修，8科目中必修7學分。 ; 限修學制：大、碩、博	0	0		AAC7L94	A	半	3.0	校際臺大（學）	9UAA		Food Processing				2	選			3858	蘇南維	四 1-2 農化一第六-1, 四 6 農化一第六-1	
+114	1	0	0	食品與健康		生物資源暨農學院 ; 食品科技研究所 ; 第一週缺席未到者，視為退選, 教師得予以擋修. ; 限修學制：大、碩、博	1	1		AAU0718	A	半	2.0	校際臺大（學）	9UAA		Food and Health				3	選	◎加退選全授權碼選課		3859	沈立言	二 6-7 普101	
+114	1	0	0	食品儀器分析		生物資源暨農學院 ; 食品科技研究所 ; 須修過有機化學。 ; 限修學制：大、碩、博	0	0		AAM0495	A	半	2.0	校際臺大（碩）	9MAA		Instrumental Analysis of Food				2	選	◎課程開放上修		3860	陳宏彰	四 1-2 食科102	
+114	1	0	0	食品衛生管理與品質評估	7	生物資源暨農學院 ; 農業化學研究所 ; 與日本筑波大學合授。第一次(9/3)14:20農化一第五教室必到，其餘在計資中心106教室。 ; 限修學制：大三以上、碩、博	0	0		AAC7399	A	半	2.0	校際臺大（學）	9UAA		Food Safety Control and Quality Evaluation	是			2	選	◎加退選全授權碼選課		3861	黃玉萍	三 7-9 計資106	
+114	1	0	0	香料植物學	7	生物資源暨農學院 ; 農藝學研究所 ; 初選不開放．修課請洽weiyilin@ntu.edu.tw,8/19~8/27,9:00~16:00,考種館 ; 限修學制：大、碩、博	0	0		AAC7M49	A	半	3.0	校際臺大（學）	9UAA		Spice and Aromatic Plants				1	選	◎加退選全授權碼選課 ◎初選不開放		3862	林維怡		
+114	1	0	0	個人通訊服務	7	電機資訊學院 ; 資訊工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7231	A	半	3.0	校際臺大（學）	9UAA		Personal Communications Services				5	選	◎加退選全授權碼選課		3863	林  風	二 7-9 資110	
+114	1	0	0	個體經濟學甲上		生物資源暨農學院 ; 農業經濟學系 ;   限修學制：大、碩、博	0	0		AAU1426	A	半	3.0	校際臺大（學）	9UAA		Microeconomics (a)(I)	是			3	選	◎必須先修過　（　經濟學原理上 和 經濟學原理下　）　　｜　（　個體經濟學原理與實習 和 總體經濟學原理與實習　）】		3864	巫凱琳	三 6-8 農經三	
+114	1	0	0	個體經濟學原理與實習		社會科學院 ; 經濟學系 ; 一5三5實習課。各系必帶入作業完成後，於選課初選時開放通識選修。可抵通識。 ; 限修學制：大、碩、博	1	1		AAU1263	A	半	4.0	校際臺大（學）	9UAA		Principle of Microeconomics (with Recitation)				2	選	◎加退選全授權碼選課		3865	樊家忠	一 5 博雅101/華南講, 三 5 博雅101/華南講, 五 2-4 博雅101/華南講	
+114	1	0	0	個體經濟學原理與實習		社會科學院 ; 經濟學系 ; 一5三5實習課。各系必帶入作業完成後，於選課初選時開放通識選修。可抵通識。 ; 限修學制：大、碩、博	1	1		AAU1263	B	半	4.0	校際臺大（學）	9UAA		Principle of Microeconomics (with Recitation)	是			5	選	◎加退選全授權碼選課		3866	朴埻錄	一 5 新102, 三 5 新102, 五 3-5 新102	
+114	1	0	0	個體經濟學原理與實習		社會科學院 ; 經濟學系 ; 一5三5實習課。各系必帶入作業完成後，於選課初選時開放通識選修。可抵通識。 ; 限修學制：大、碩、博	1	1		AAU1263	C	半	4.0	校際臺大（學）	9UAA		Principle of Microeconomics (with Recitation)				2	選	◎加退選全授權碼選課		3867	林明仁	一 5 社科和碩講堂, 三 5 社科和碩講堂, 五 2-4 社科和碩講堂	
+114	1	0	0	倫理學		文學院 ; 哲學系 ;   限修學制：大、碩、博	1	1		AAU0579	A	半	3.0	校際臺大（學）	9UAA		Ethics				3	選			3868	吳澤玫	三 7-10 普502	
+114	1	0	0	哲學英文		文學院 ; 哲學系 ;   限修學制：大、碩、博	0	0		AAU1169	A	半	3.0	校際臺大（學）	9UAA		English in Philosophical Works	是			2	選	◎加退選全授權碼選課		3869	文  哲	一 2-4 人文342	
+114	1	0	0	家庭暴力專題討論		社會科學院 ; 社會工作學研究所 ;   限修學制：碩、博	0	0		AAM0230	A	半	3.0	校際臺大（碩）	9MAA		Seminar on Domestic Violeuce				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3870	沈瓊桃	二 7-9 社209	
+114	1	0	0	家庭議題專題討論		社會科學院 ; 社會學研究所 ;   限修學制：大三以上、碩、博	0	0		AAM0411	A	半	3.0	校際臺大（碩）	9MAA		Seminar on Family Issues				1	選	◎課程開放上修 ◎加退選全授權碼選課		3871	郭貞蘭	四 2-4 社205	
+114	1	0	0	射頻積體電路設計	7	電機資訊學院 ; 電子工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7992	A	半	3.0	校際臺大（學）	9UAA		Rf Integrated Circuit Design				4	選	◎加退選全授權碼選課		3872	陳怡然	三 2-4 電二145	
+114	1	0	0	時序資料分析	7	工學院 ; 工業工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7C07	A	半	3.0	校際臺大（學）	9UAA		Time Series Analytics	是			3	選	◎加退選全授權碼選課		3873	藍俊宏	一 2-4 國青101	
+114	1	0	0	時頻分析和小波轉換	7	電機資訊學院 ; 電信工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7A87	A	半	3.0	校際臺大（學）	9UAA		Time-frequency Analysis and Wavelet Transform				25	選			3874	丁建均	四 2-4 明達231	
+114	1	0	0	書目療法專題	7	文學院 ; 圖書資訊學研究所 ; U選課程，大學部與研究所學生均可修習。 ; 限修學制：大、碩、博	0	0		AAC7742	A	半	3.0	校際臺大（學）	9UAA		Special Topic on Bibliotherapy				1	選	◎加退選全授權碼選課		3875	陳書梅	二 7-9 圖資會議室	
+114	1	0	0	核天文物理介紹	7	理學院 ; 物理學研究所 ;   限修學制：大、碩、博	2	2		AAC7838	A	半	2.0	校際臺大（學）	9UAA		An Introduction to Nuclear Astrophysics				2	選			3876	王子方	四 9-10 新物833	
+114	1	0	0	氣功(選修體育)		共同教育中心 ; 體育室體育教學組 ; 請自備乾淨球鞋。 ; 限修學制：大、碩、博	0	0		AAU1219	A	半	1.0	校際臺大（學）	9UAA		Qigong (Elective Course of PE)				2	選	◎加退選全授權碼選課		3877	黃欽永	二 3-4 綜館柔道室	
+114	1	0	0	氣候資料分析及數據應用	7	理學院 ; 氣候變遷與永續發展國際學位學程 ; 與徐辛合授 ; 限修學制：碩、博	0	0		AAC7F89	A	半	2.0	校際臺大（學）	9UAA		Analysis and Application of Climate Data	是			1	選	◎加退選全授權碼選課		3878	謝宜桓	一 8-9 全變中心G202	
+114	1	0	0	氣候環境政策的設計與決策行為	7	社會科學院 ; 公共事務研究所 ; 國發所210教室 ; 限修學制：碩、博	0	0		AAC7F90	A	半	2.0	校際臺大（學）	9UAA		Climate Policy Design and Behavioral Change				2	選	◎加退選全授權碼選課		3879	黃建實	一 6-7 請洽系所辦	
+114	1	0	0	氣候環境政策的設計與決策行為	7	社會科學院 ; 國家發展研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7F90	B	半	2.0	校際臺大（學）	9UAA		Climate Policy Design and Behavioral Change				5	選	◎加退選全授權碼選課		3880	黃建實	一 6-7 國發210	
+114	1	0	0	氣候變遷下的極端高溫：科學與社會的多元探索	7	理學院 ; 氣候變遷與永續發展國際學位學程 ; 教室: 人文530。 ; 限修學制：大三以上、碩、博	0	0		AAC7N82	A	半	1.0	校際臺大（學）	9UAA		Extreme Heat Under Climate Change Through Science and Society				2	選	◎加退選全授權碼選課		3881	羅敏輝	四 A-C 請洽系所辦	
+114	1	0	0	氣候變遷對策：地球急轉彎		理學院 ; 氣候變遷與永續發展國際學位學程 ; 教室:綜合401。 ; 限修學制：大、碩、博	0	0		AAU2174	A	半	2.0	校際臺大（學）	9UAA		Bending the Curve: Climate Change Solutions				5	選	◎加退選全授權碼選課		3882	謝宜桓	三 8-9 綜401	
+114	1	0	0	氣候變遷與森林生態系	7	生物資源暨農學院 ; 森林環境暨資源學研究所 ;   限修學制：大、碩、博	0	0		AAC7840	A	半	3.0	校際臺大（學）	9UAA		Climate Change and Forest Ecosystem	是			2	選	◎加退選全授權碼選課		3884	中井太郎	四 2-4 林三	
+114	1	0	0	泰文一上		教務處 ; 外語教學暨資源中心 ; 第一週未請假缺席則視同退選。開學後第三週起不開放加選。 ; 限修學制：大、碩、博	1	1		AAU0250	A	半	3.0	校際臺大（學）	9UAA		Thai (I)(1)				5	選	◎加退選全授權碼選課		3885	張君松	三 5-7 綜604	
+114	1	0	1	泰文一上		教務處 ; 外語教學暨資源中心 ; 第三週起不開放加選。母語人士勿修習。 ; 限修學制：大、碩、博	1	0		AAU0250	B	半	3.0	校際臺大（學）	9UAA		Thai (I)(1)				2	選	◎加退選全授權碼選課		3886	張君松	四 6-8 綜602	
+114	1	0	0	泰文一上		教務處 ; 外語教學暨資源中心 ; 第一週未請假缺席則視同退選。開學後第三週起不開放加選。 ; 限修學制：大、碩、博	1	1		AAU0250	C	半	3.0	校際臺大（學）	9UAA		Thai (I)(1)				5	選	◎加退選全授權碼選課		3887	張君松	三 8-10 綜604	
+114	1	0	0	泰文二上		教務處 ; 外語教學暨資源中心 ; 第三週起不開放加選。母語人士勿修習。需有泰文基礎。 ; 限修學制：大、碩、博	2	2		AAU0251	A	半	3.0	校際臺大（學）	9UAA		Thai (II)(1)				2	選	◎加退選全授權碼選課		3888	張君松	四 2-4 新403	
+114	1	0	1	泰文三上		教務處 ; 外語教學暨資源中心 ; 第三週起不開放加選。母語人士勿修習。需有泰文基礎。 ; 限修學制：大、碩、博	3	2		AAU0760	A	半	3.0	校際臺大（學）	9UAA		Thai(III)(1)				2	選	◎加退選全授權碼選課		3889	張君松	三 2-4 綜604	
+114	1	0	0	消費社會學		社會科學院 ; 社會學系 ;   限修學制：大、碩、博	1	1		AAU2335	A	半	3.0	校際臺大（學）	9UAA		Sociology of Consumption				5	選	◎加退選全授權碼選課		3890	李令儀	五 2-4 社207	
+114	1	0	0	海洋元素循環與環境變遷	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAC7N84	A	半	2.0	校際臺大（學）	9UAA		Marine Elemental Cycles and Environmental Changes	是			2	選			3891	簡嘉德	四 3-4 115研討室	
+114	1	0	0	海洋化學實習		理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAM0496	A	半	2.0	校際臺大（碩）	9MAA		Marine Chemistry Laboratory	是			2	選	◎課程開放上修		3892	溫良碩	四 6 海研110教室	
+114	1	0	0	海洋生理生態	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAC7N85	A	半	2.0	校際臺大（學）	9UAA		Marine Physiological Ecology				2	選			3893	鍾明宗	一 8-9 海研115	
+114	1	0	0	海洋生態永續專題	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAC7H75	A	半	1.0	校際臺大（學）	9UAA		Topics in Marine Ecology and Sustainability				2	選			3894	謝志豪	四 4 海研110教室	
+114	1	0	0	海洋地質地化儀器分析實務	7	理學院 ; 海洋研究所 ; 實驗課時地另訂。 ; 限修學制：大、碩、博	0	0		AAC7236	A	半	2.0	校際臺大（學）	9UAA		Practice in Marine Geological and Geochemical Instrumentation				2	選	◎加退選全授權碼選課		3895	王珮玲	三 8 海研115	
+114	1	0	0	海洋地質概論	7	理學院 ; 海洋研究所 ; 上下學期皆開課,全所碩士生必修。 ; 限修學制：大、碩、博	0	0		AAC7237	A	半	1.0	校際臺大（學）	9UAA		Introduction to Marine Geology	是			2	選			3896	何亞倫	二 4 海研大講堂	
+114	1	0	0	海洋政策與全球治理專題	7	社會科學院 ; 政治學研究所 ; 國際關係，公共行政。 ; 限修學制：大三以上、碩、博	0	0		AAC7598	A	半	2.0	校際臺大（學）	9UAA		Seminar on Marine Policy and Global Governance				2	選	◎加退選全授權碼選課		3897	蔡季廷	三 6-7 社科研606	
+114	1	0	0	海洋科學英文寫作		理學院 ; 海洋研究所 ; 星期一互動課，星期三寫作實作課。英文授課上課時間可再調整。 ; 限修學制：大、碩、博	0	0		AAM0977	A	半	3.0	校際臺大（碩）	9MAA		English Writing in Marine Sciences	是			1	選	◎課程開放上修 ◎加退選全授權碼選課		3898	林卉婷	一 3-4 海研300, 三 3-4 海研300	
+114	1	0	0	海洋資源學	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	3	3		AAC7F91	A	半	2.0	校際臺大（學）	9UAA		Marine Resources				6	選			3899	許鶴瀚	三 3-4 海研232	
+114	1	0	0	海域測量概論		理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAM2174	A	半	2.0	校際臺大（碩）	9MAA		Introduction to Hydrographic Survey				2	選	◎課程開放上修		3900	陳姿婷	五 6-7 海研232	
+114	1	0	0	畜牧學甲		生物資源暨農學院 ; 動物科學技術學系 ;   限修學制：大、碩、博	2	2		AAU1794	A	半	3.0	校際臺大（學）	9UAA		Animal Husbandry (a)				2	選			3901	魏?巍	三 2-4 農經二	
+114	1	0	0	病毒學	7	"生命科學院 ; 生化科技研究所 ; 學士班A群組必修課程之一。領專""感染與免疫""進階1課程。 ; 限修學制：大、碩、博"	2	2		AAC7F48	A	半	2.0	校際臺大（學）	9UAA		Virology				2	選			3902	張麗冠	三 3-4 共205	
+114	1	0	0	疼痛. 健康. 幸福感		醫學院 ; 醫學教育暨生醫倫理研究所 ; 合開教師：紀俊麟 吳治勳。 ; 限修學制：大、碩、博	3	3		AAU1743	A	半	2.0	校際臺大（學）	9UAA		Pain, Health, and Wellbeing				5	選	◎加退選全授權碼選課		3903	陳慧玲	四 8-9 普103	
+114	1	0	0	真核生物多樣性與演化	7	生命科學院 ; 生態學與演化生物學研究所 ; 需先修過普通生物學或相當課程。 ; 限修學制：大、碩、博	0	0		AAC7A32	A	半	2.0	校際臺大（學）	9UAA		Diversity and Evolution of Eukaryotes	是			2	選	◎加退選全授權碼選課		3904	顧  銓	五 5-6 共202	
+114	1	0	0	真菌學實驗		生物資源暨農學院 ; 植物病理與微生物學系 ; 真菌學正課應與真菌學實驗課同時併修 ; 限修學制：大、碩、博	1	1		AAU1427	A	半	1.0	校際臺大（學）	9UAA		Mycology Lab.	是			1	選			3905	歐海仁	五 7-9 總一館308	
+114	1	0	0	神經化學		生命科學院 ; 生化科學研究所 ; 具有生化相關課程的基本知識. ; 限修學制：大、碩、博	0	0		AAM1259	A	半	2.0	校際臺大（碩）	9MAA		Neurochemistry				4	選	◎課程開放上修		3906	管永恕	二 3-4 生化N101	
+114	1	0	0	神經生物與認知科學專題討論一	7	理學院 ; 心理學研究所 ;   限修學制：大、碩、博	0	0		AAC7602	A	半	1.0	校際臺大（學）	9UAA		Seminar 1 in Neurobiology and Cognitive Science(I)				3	選	◎加退選全授權碼選課		3907	賴文崧	一 10-A 北館視聽	
+114	1	0	0	神經生物學	7	生命科學院 ; 生命科學研究所 ;   限修學制：大、碩、博	0	0		AAC7N86	A	半	3.0	校際臺大（學）	9UAA		Neurobiology				3	選			3908	潘建源	二 2-4 生科4A	
+114	1	0	0	索福克勒斯的安蒂岡妮		文學院 ; 外國語文學研究所 ; 第二、三類。 ; 限修學制：碩、博	1	1		AAM0165	A	半	3.0	校際臺大（碩）	9MAA		Sophocles’ Antigone	是			2	選	◎課程不開放上修 ◎加退選全授權碼選課		3909	范吉歐	四 2-4 人文B109	
+114	1	0	0	能源系統工程與經濟	7	工學院 ; 土木工程學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7C12	A	半	3.0	校際臺大（學）	9UAA		Energy Systems Engineering and Economics				1	選	◎加退選全授權碼選課		3910	謝依芸	三 7-9 普501	
+114	1	0	0	能源系統工程與經濟	7	工學院 ; 化學工程學研究所 ; 化工選修課程。上課地點:普501。 ; 限修學制：大、碩、博	0	0		AAC7C12	B	半	3.0	校際臺大（學）	9UAA		Energy Systems Engineering and Economics				1	選	◎加退選全授權碼選課		3911	謝依芸	三 7-9 請洽系所辦	
+114	1	0	0	脊椎動物比較解剖學		生命科學院 ; 生命科學系 ; Ｃ群選擇必修。 ; 限修學制：大、碩、博	0	0		AAU0326	A	半	2.0	校際臺大（學）	9UAA		Comparative Anatomy of Vertebrate				3	選			3912	吳高逸	四 1-2 共105	
+114	1	0	0	脊椎動物比較解剖學實驗		生命科學院 ; 生命科學系 ; Ｆ群選擇必修。需修過正課或與正課同時修習。 ; 限修學制：大、碩、博	0	0		AAU0327	A	半	1.0	校際臺大（學）	9UAA		Comparative  Anatomy  of  Vertebrate  Lab.				1	選	◎加退選全授權碼選課		3913	吳高逸	四 8-10 思亮401	
+114	1	0	0	訊號完整度	7	電機資訊學院 ; 電信工程學研究所 ; 教室：電二104。 ; 限修學制：大、碩、博	2	2		AAC7894	A	半	3.0	校際臺大（學）	9UAA		Signal Integrity				35	選			3914	吳瑞北	三 2-4 明達231	
+114	1	0	0	訊號處理與頻譜分析	7	工學院 ; 土木工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7A82	A	半	3.0	校際臺大（學）	9UAA		Signal Processing and Spectral Analysis	是			5	選	◎加退選全授權碼選課		3915	羅俊雄	二 6-8 土研405	
+114	1	0	0	財政法		法律學院 ; 法律學系 ;   限修學制：大、碩、博	1	1		AAU2218	A	半	2.0	校際臺大（學）	9UAA		Public Finance Law				2	選	◎加退選全授權碼選課		3916	陳衍任	一 6-7 霖1402	
+114	1	0	0	財政學		社會科學院 ; 經濟學系 ;   限修學制：大、碩、博	0	0		AAU0018	A	半	3.0	校際臺大（學）	9UAA		Public Finance				5	選			3917	李顯峰	一 7-9 社科406	
+114	1	0	0	財務工程一		管理學院 ; 國際企業學研究所 ; 限大三以上．財務工程組七選四必修。 ; 限修學制：大三以上、碩、博	0	0		AAM0666	A	半	3.0	校際臺大（碩）	9MAA		Financial Engineering (I)				5	選	◎課程開放上修 ◎加退選全授權碼選課		3918	李志偉	四 2-4 管二205	
+114	1	0	0	財經新聞寫作		社會科學院 ; 新聞研究所 ; 新聞所學生優先。 ; 限修學制：大四以上、碩、博	0	0		AAM1240	A	半	3.0	校際臺大（碩）	9MAA		Business and Finance Reporting				1	選	◎課程開放上修 ◎加退選全授權碼選課		3919	方德琳	四 7-9 新聞308	
+114	1	0	0	逆境植物學	7	生命科學院 ; 植物科學研究所 ;   限修學制：大、碩、博	0	0		AAC7C13	A	半	2.0	校際臺大（學）	9UAA		Stress Plant Biology				3	選			3920	楊淑怡	三 3-4 生科3C	
+114	1	0	0	馬來文一上		教務處 ; 外語教學暨資源中心 ; 第一週未請假缺席則視同退選。母語人士(包括印尼籍)勿修習。不開放旁聽。 ; 限修學制：大、碩、博	0	0		AAU0253	A	半	3.0	校際臺大（學）	9UAA		Malayan (I)(1)				2	選	◎加退選全授權碼選課		3921	顏聖錝	二 6-8 新504	
+114	1	0	0	高分子物理		工學院 ; 高分子科學與工程學研究所 ;   限修學制：大、碩、博	0	0		AAM1052	A	半	3.0	校際臺大（碩）	9MAA		Polymer Physics				2	選	◎課程開放上修 ◎加退選全授權碼選課		3922	黃慶怡	二 2-4 共404	
+114	1	0	0	高分子結構與相變		工學院 ; 高分子科學與工程學研究所 ;   限修學制：大、碩、博	0	0		AAM2175	A	半	3.0	校際臺大（碩）	9MAA		Structures and Phase Transitions of Polymers				1	選	◎課程開放上修 ◎加退選全授權碼選課		3923	童世煌	四 7-9 新404	
+114	1	0	0	高科技廠房設施設計	7	工學院 ; 土木工程學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7606	A	半	3.0	校際臺大（學）	9UAA		High-tech Facility Design				5	選	◎加退選全授權碼選課		3924	林之謙	三 6-8 新204	
+114	1	0	0	高等口腔細胞生物學		醫學院 ; 口腔生物科學研究所 ; 上課地點:牙科大樓4樓401教室 ; 限修學制：大、碩、博	0	0		AAD0152	A	半	2.0	校際臺大（博）	9DAA		Advanced Oral Cell Biology	是			1	選	◎課程開放上修		3925	周涵怡	三 1-2 請洽系所辦	
+114	1	0	0	高等工商心理學		理學院 ; 心理學研究所 ; 心理所學程細則基礎知識必修六科目之一。上課時間14:30-18:00 ; 限修學制：大、碩、博	0	0		AAM0979	A	半	3.0	校際臺大（碩）	9MAA		Advanced Industrial and Commercial Psychology				1	選	◎課程開放上修 ◎加退選全授權碼選課		3926	吳宗祐	二 7-10 南館地下B	
+114	1	0	0	高等分子生物學		醫學院 ; 分子醫學研究所 ; 每週三、五上午34節在基醫504教室上課。 ; 限修學制：大、碩、博	0	0		AAD0070	A	半	4.0	校際臺大（博）	9DAA		Advanced Molecular Biology	是			5	選	◎課程開放上修		3927	李芳仁	三 3-4 請洽系所辦, 五 3-4 請洽系所辦	
+114	1	0	0	高等有機化學二		理學院 ; 化學研究所 ; 開學前一週將會在化學系網站公告發放授權碼說明以及申請書。 ; 限修學制：碩、博	0	0		AAM1939	A	半	4.0	校際臺大（碩）	9MAA		Advanced Organic Chemistry (II)				5	選	◎課程不開放上修 ◎加退選全授權碼選課		3928	楊吉水	一 3-4 化121, 五 3-4 化121	
+114	1	0	0	高等高分子化學		工學院 ; 高分子科學與工程學研究所 ;   限修學制：大、碩、博	0	0		AAM1126	A	半	3.0	校際臺大（碩）	9MAA		Advanced Polymer Chemistry				1	選	◎課程開放上修 ◎加退選全授權碼選課		3929	賴育英	三 2-4 共105	
+114	1	0	0	高等無線網路	7	電機資訊學院 ; 電信工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7L98	A	半	3.0	校際臺大（學）	9UAA		Advanced Wireless Networking				5	選			3931	廖婉君	四 7-9 博理112	
+114	1	0	0	高等會計學上		管理學院 ; 會計學系 ; 實習課：五56，教室：管二305。 ; 限修學制：大、碩、博	0	0		AAU0939	A	半	3.0	校際臺大（學）	9UAA		Advanced Accounting (1)				2	選	◎必須先修過中級會計學二　｜　會計學乙二下　｜　中級會計學下】 ◎加退選全授權碼選課		3932	許文馨	五 7-9 管二305	
+114	1	0	0	高等熱力學一		工學院 ; 機械工程學研究所 ; 機械系系定選修。 ; 限修學制：大、碩、博	0	0		AAM0667	A	半	3.0	校際臺大（碩）	9MAA		Advanced Thermodynamics (I)	是			3	選	◎課程開放上修		3933	蔡協澄	四 2-4 進學講堂	
+114	1	0	0	高等編譯器設計	7	電機資訊學院 ; 資訊工程學研究所 ; 上課教室：資102。 ; 限修學制：大、碩、博	1	1		AAC7995	A	半	3.0	校際臺大（學）	9UAA		Advanced Compiler Design				3	選	◎加退選全授權碼選課		3934	廖世偉	五 0 請洽系所辦, 五 10-A 請洽系所辦	
+114	1	0	0	高齡身體活動與營養研究		共同教育中心 ; 運動設施與健康管理碩士學位學程 ; 健康管理組選修課程。9/9、9/16、9/23改在綜合體育館201教室上課。 ; 限修學制：碩、博	0	0		AAM0982	A	半	3.0	校際臺大（碩）	9MAA		Physical Activity and Nutrition Research in Elderly				3	選	◎課程不開放上修 ◎加退選全授權碼選課		3935	錢桂玉	二 6-8 綜館R225	
+114	1	0	0	高齡社會的法律與政策	7	社會科學院 ; 國家發展研究所 ;   限修學制：大、碩、博	1	1		AAC7N87	A	半	2.0	校際臺大（學）	9UAA		Aging Law and Policy				1	選	◎加退選全授權碼選課		3936	張兆恬	一 8-9 新401	
+114	1	0	0	高齡精準醫學：邁向創新與健康的人生		醫學院 ; 微生物學研究所 ; 與林芷瑋與張振旻合授。 ; 限修學制：大、碩、博	1	1		AAM2320	A	半	2.0	校際臺大（碩）	9MAA		Precision Medicine in Aging Society: Innovation and Healthy Life				10	選	◎課程開放上修		3937	李財坤	二 8-9 博雅103	
+114	1	0	0	健康心理學	7	公共衛生學院 ; 健康行為與社區科學研究所 ; 公衛系健康行為與社區科學領域專長必修。 ; 限修學制：大三以上、碩、博	3	3		AAC7072	A	半	2.0	校際臺大（學）	9UAA		Health Psychology	是			7	選			3938	張書森	三 3-4 公衛212	
+114	1	0	0	健康行為與臨床社會工作專題討論	7	社會科學院 ; 社會工作學研究所 ; 上課地點社會社工系館一樓104教室 ; 限修學制：大四以上、碩、博	0	0		AAC7F92	A	半	3.0	校際臺大（學）	9UAA		Seminar on Health Behaviors and Clinical Social Work Practice				3	選	◎加退選全授權碼選課		3939	許正熙	三 7-9 請洽系所辦	
+114	1	0	0	健康政策、倫理與政治	7	公共衛生學院 ; 健康政策與管理研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7L99	A	半	2.0	校際臺大（學）	9UAA		Health Policy, Ethics and Politics				1	選	◎加退選全授權碼選課		3940	葉明叡	三 3-4 公衛210	
+114	1	0	0	健康產業經營管理：平台策略與生態系建構		進修推廣學院 ; 生物科技管理碩士在職學位學程 ; 本課程採實體與線上同步授課，實際上課時間為19:00~21:45，上課地點請洽進修推廣學院。 ; 限修學制：大四以上、碩、博	2	2		AAM2177	A	半	3.0	校際臺大（碩）	9MAA		Health Industry Management: Platform Strategy and Ecosystem Construction				5	選	◎課程開放上修		3941	胡凱焜	四 A-C 請洽系所辦	
+114	1	0	0	健康組織與管理		公共衛生學院 ; 健康政策與管理研究所 ; MPH健康政策與管理領域必修。 ; 限修學制：碩、博	0	0		AAM0246	A	半	2.0	校際臺大（碩）	9MAA		Health Organization and Management				2	選	◎課程不開放上修		3942	郭年真	一 3-4 公衛213	
+114	1	0	1	健康照顧政策		社會科學院 ; 社會工作學系 ;   限修學制：大、碩、博	1	0		AAU0505	A	半	3.0	校際臺大（學）	9UAA		Health Care Policy				5	選	◎加退選全授權碼選課		3943	蔡貞慧	二 2-4 社207	
+114	1	0	0	健康體系		公共衛生學院 ; 健康政策與管理研究所 ; MPH健康政策與管理領域必修。 ; 限修學制：碩、博	0	0		AAM0830	A	半	2.0	校際臺大（碩）	9MAA		Health Systems				2	選	◎課程不開放上修		3944	董鈺琪	一 6-7 公衛213	
+114	1	0	0	偏微分方程式一	7	理學院 ; 數學研究所 ; 研究生修課領域：A,C,D,F 開課對象：碩M、博D  上課教室：二天數304、四天數102 ; 限修學制：大、碩、博	0	0		AAC7611	A	半	3.0	校際臺大（學）	9UAA		Partial Differential Equations (I)				2	選			3945	夏俊雄	二 3-4 普103, 四 6 天數102	
+114	1	0	0	動力氣候學		理學院 ; 大氣科學研究所 ;   限修學制：大、碩、博	0	0		AAM0499	A	半	3.0	校際臺大（碩）	9MAA		Dynamic Climatology				1	選	◎課程開放上修		3946	曾開治	三 8-10 大氣B105	
+114	1	0	0	動物細胞生物學		生物資源暨農學院 ; 動物科學技術學系 ;   限修學制：大、碩、博	0	0		AAU0508	A	半	2.0	校際臺大（學）	9UAA		Animal Cell Biology				2	選	◎加退選全授權碼選課		3947	黃  謙	五 6-7 畜二	
+114	1	0	0	動物細胞培養與實習	7	生物資源暨農學院 ; 生物機電工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7613	A	半	3.0	校際臺大（學）	9UAA		Animal Cell Culture and Its Practice				5	選			3948	侯詠德	一 6-8 知203	
+114	1	0	0	動物與法律		法律學院 ; 法律學系 ;   限修學制：大、碩、博	0	0		AAU1068	A	半	2.0	校際臺大（學）	9UAA		Animal and Law				3	選	◎加退選全授權碼選課		3949	林明鏘	二 6-7 萬2201	
+114	1	0	0	動物與社會		社會科學院 ; 社會學系 ;   限修學制：大、碩、博	0	0		AAU0889	A	半	3.0	校際臺大（學）	9UAA		Animal and Society				1	選	◎加退選全授權碼選課		3950	簡妤儒	五 7-9 社207	
+114	1	0	0	區域化與區域研究專題		社會科學院 ; 政治學研究所 ; 國際關係。 ; 限修學制：碩、博	0	0		AAM0831	A	半	2.0	校際臺大（碩）	9MAA		Seminar on European Experiences, Regionalization and Area Study				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3951	蘇宏達	四 3-4 社科研604	
+114	1	0	0	區塊鏈導論	7	電機資訊學院 ; 資訊工程學研究所 ;   限修學制：大、碩、博	0	0		AAC7681	A	半	3.0	校際臺大（學）	9UAA		Blockchain Introduction				10	選			3952	薛智文	一 A-C 資102	
+114	1	0	0	參考資訊服務		文學院 ; 圖書資訊學系 ;   限修學制：大、碩、博	1	1		AAU1868	A	半	2.0	校際臺大（學）	9UAA		Reference and Information Services				2	選	◎加退選全授權碼選課		3953	林奇秀	二 3-4 圖資視聽室	
+114	1	0	0	參考資源與服務	7	文學院 ; 圖書資訊學研究所 ; 非本科生補修課程。 ; 限修學制：碩、博	0	0		AAC7312	A	半	3.0	校際臺大（學）	9UAA		Reference Services and Resouorces				1	選	◎加退選全授權碼選課		3954	羅思嘉	三 2-4 圖資研討3A	
+114	1	0	0	商文明與其周邊	7	文學院 ; 歷史學研究所 ;   限修學制：大三以上、碩、博	0	0		AAC7844	A	半	3.0	校際臺大（學）	9UAA		Shang Civilization and its neighbors				1	選	◎加退選全授權碼選課		3955	黃銘崇	五 6-8 博雅205	
+114	1	0	0	國語流行歌曲研究：1930-1970	7	文學院 ; 音樂學研究所 ;   限修學制：大、碩、博	0	0		AAC7B25	A	半	3.0	校際臺大（學）	9UAA		Mandarin Pop Songs: 1930-1970, Music History and Methodology				2	選	◎加退選全授權碼選課		3956	沈  冬	三 2-4 樂學館105	
+114	1	0	0	國際人權法專題討論一	7	法律學院 ; 法律研究所 ;   限修學制：大、碩、博	0	0		AAC7C15	A	半	2.0	校際臺大（學）	9UAA		Seminar on International Human Right Law (I)				2	選	◎加退選全授權碼選課		3957	張文貞	二 8-9 霖研四1701	
+114	1	0	0	國際人權法專題討論二	7	法律學院 ; 法律研究所 ; 教室：霖研四1701。 ; 限修學制：大、碩、博	0	0		AAC7F93	A	半	2.0	校際臺大（學）	9UAA		Seminar on International Human Right Law (II)				2	選	◎必須先修過國際人權法專題討論一】 ◎加退選全授權碼選課		3958	張文貞	二 8-9 請洽系所辦	
+114	1	0	0	國際公法一		社會科學院 ; 政治學系 ; 初選不開放．本系全英班學生優先選課。 ; 限修學制：大、碩、博	0	0		AAU2336	A	半	2.0	校際臺大（學）	9UAA		International Law (I)	是			5	選	◎加退選全授權碼選課 ◎初選不開放		3959	黃旻華	三 6-7 社科401	
+114	1	0	0	國際企業經營策略		管理學院 ; 國際企業學研究所 ; 碩二必修。先修科目: 國際企業管理&產業經濟。 ; 限修學制：碩、博	0	0		AAM1477	A	半	3.0	校際臺大（碩）	9MAA		International Business Strategy	是			3	選	◎課程不開放上修 ◎必須先修過國際業管理】 ◎加退選全授權碼選課		3960	傅浚映	一 7-9 管二204	
+114	1	0	0	國際金融市場暨財務管理	7	管理學院 ; 財務金融學研究所 ;   限修學制：大、碩、博	1	1		AAC7F96	A	半	3.0	校際臺大（學）	9UAA		International Financial Markets and Financial Management				10	選	◎加退選全授權碼選課		3961	劉憶如	五 7-9 管二104	
+114	1	0	0	國際金融與資產管理實務	7	管理學院 ; 國際企業學研究所 ;   限修學制：大三以上、碩、博	1	1		AAC7N88	A	半	3.0	校際臺大（學）	9UAA		International Finance and Asset Management Practices				5	選	◎加退選全授權碼選課		3962	高一誠	二 A-C 管一104	
+114	1	0	0	國際組織		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	0	0		AAU0329	A	半	2.0	校際臺大（學）	9UAA		International Organizations	是			2	選	◎加退選全授權碼選課		3963	蘇宏達	四 6-7 社科102	
+114	1	0	0	國際貿易理論與政策		管理學院 ; 國際企業學系 ; 先修科目：經濟學甲或經濟學原理與實習。 ; 限修學制：大三以上、碩、博	0	0		AAU1744	A	半	3.0	校際臺大（學）	9UAA		International Trade : Theory and Policy				5	選	◎必須先修過　（　經濟學甲上 和 經濟學甲下　）　｜　（　經濟學原理與實習上 和 經濟學原理與實習下　）　｜　（　經濟學原理與實習一 和 經濟學原理與實實習二　）　｜　（　經濟學一 和 經濟學二　）】 ◎加退選全授權碼選課		3964	趙捷謙	二 2-4 管一101	
+114	1	0	0	國際貿易理論與政策		管理學院 ; 國際企業學系 ; 先修科目：經濟學甲或經濟學原理與實習。 ; 限修學制：大三以上、碩、博	0	0		AAU1744	B	半	3.0	校際臺大（學）	9UAA		International Trade : Theory and Policy				8	選	◎必須先修過　（　經濟學甲上 和 經濟學甲下　）　｜　（　經濟學原理與實習上 和 經濟學原理與實習下　）　｜　（　經濟學原理與實習一 和 經濟學原理與實實習二　）　｜　（　經濟學一 和 經濟學二　）】 ◎加退選全授權碼選課		3965	盧信昌	四 2-4 管二201	
+114	1	0	0	國際遷移	7	社會科學院 ; 社會學研究所 ;   限修學制：大三以上、碩、博	1	1		AAC7618	A	半	3.0	校際臺大（學）	9UAA		International Migration	是			2	選	◎加退選全授權碼選課		3966	藍佩嘉	一 7-9 社103	
+114	1	0	8	國際學伴之服務學習		理學院 ; 物理學系 ; 歡迎外籍生、交換訪問生選修。 ; 限修學制：大、碩、博	10	2		AAU1072	A	半	2.0	校際臺大（學）	9UAA		International Companions for Learning	是			20	選	◎加退選全授權碼選課		3967	吳俊輝		
+114	1	0	0	國際關係一		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	2	2		AAU0001	A	半	2.0	校際臺大（學）	9UAA		Introduction to International Relations (I)				3	選	◎加退選全授權碼選課		3968	張登及	四 6-7 社科201	
+114	1	0	0	國際關係一		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	1	1		AAU0001	B	半	2.0	校際臺大（學）	9UAA		Introduction to International Relations (I)	是			3	選	◎加退選全授權碼選課		3969	魏德榮	五 3-4 社科306	
+114	1	0	3	國際關係史一		社會科學院 ; 政治學系 ;   限修學制：大、碩、博	5	2		AAU0330	A	半	2.0	校際臺大（學）	9UAA		History of International Relations (I)				5	選	◎加退選全授權碼選課		3970	陳世民	三 3-4 社科403	
+114	1	0	4	國際關係史一		社會科學院 ; 政治學系 ; 初選不開放．本系全英班學生優先選課。 ; 限修學制：大、碩、博	4	0		AAU0330	B	半	2.0	校際臺大（學）	9UAA		History of International Relations (I)	是			5	選	◎加退選全授權碼選課 ◎初選不開放		3971	黃旻華	三 3-4 社科401	
+114	1	0	0	國際關係理論與中共外交專題		社會科學院 ; 政治學研究所 ; 國際關係。 ; 限修學制：碩、博	0	0		AAM0252	A	半	2.0	校際臺大（碩）	9MAA		Seminar on Ir Theories and China's Foreign Policy				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3972	張登及	三 6-7 社科研601	
+114	1	0	0	基督宗教與世界史專題		文學院 ; 歷史學研究所 ;   限修學制：碩、博	1	1		AAM1129	A	半	3.0	校際臺大（碩）	9MAA		Seminar on Christianity and World History				1	選	◎課程不開放上修 ◎加退選全授權碼選課		3973	陳慧宏	二 7-9 歷史研討室	
+114	1	0	0	基礎生醫影像處理技術	7	工學院 ; 醫學工程學研究所 ; 碩博班可修習。 ; 限修學制：大三以上、碩、博	0	0		AAC7K24	A	半	3.0	校際臺大（學）	9UAA		Fundamentals of Biomedical Image Processing				2	選	◎加退選全授權碼選課		3974	鄒奇軒	一 A-C 普505	
+114	1	0	0	基礎海洋統計	7	理學院 ; 海洋研究所 ; 上課地點:計中110教室。  若有外籍同學將以中英語混合授課。 ; 限修學制：大、碩、博	0	0		AAC7247	A	半	2.0	校際臺大（學）	9UAA		Fundamentals of Oceanic Statistics				2	選	◎加退選全授權碼選課		3975	柯彥廷	一 8-9 請洽系所辦	
+114	1	0	0	基礎植物分子生物學	7	生物資源暨農學院 ; 園藝暨景觀學研究所 ; 作物群必修。領域專長─園藝作物分子生物技術。 ; 限修學制：大、碩、博	0	0		AAC7248	A	半	3.0	校際臺大（學）	9UAA		Fundamentals of Plant Molecular Biology				3	選			3976	杜宜殷	四 7-9 轉溫101	
+114	1	0	0	基礎藏文文法		文學院 ; 中國文學系 ;   限修學制：大、碩、博	1	1		AAU1746	A	半	2.0	校際臺大（學）	9UAA		Fundamental Tibetan Grammar				2	選			3977	廖本聖	四 7-8 新503	
+114	1	0	0	專業人才溝通術		教務處 ; 寫作教學中心 ;   限修學制：碩、博	0	0		AAM1055	A	半	3.0	校際臺大（碩）	9MAA		Professionalism in Action				2	選	◎課程不開放上修 ◎加退選全授權碼選課		3978	陳巧玲	三 6-8 綜201	
+114	1	0	1	專題實作（一）	7	創新設計學院 ; 創新領域學士學位學程 ; 初選不開放． ; 限修學制：大、碩、博	1	0		AAC7K70	A	半	6.0	校際臺大（學）	9UAA		Special Topic (I)				3	選	◎加退選全授權碼選課 ◎初選不開放		3980	李宗興		
+114	1	0	0	專題實作（二）	7	創新設計學院 ; 創新領域學士學位學程 ; 初選不開放． ; 限修學制：大、碩、博	0	0		AAC7M03	A	半	6.0	校際臺大（學）	9UAA		Special Topic (II)				3	選	◎加退選全授權碼選課 ◎初選不開放		3981	袁千雯		
+114	1	0	0	崑曲聲腔與動作訓練		文學院 ; 戲劇學系 ; 第一堂課必到，否則請退選。兼為亞洲藝術及藝術設計學程課程。本系優先。 ; 限修學制：大、碩、博	0	0		AAU1074	A	半	2.0	校際臺大（學）	9UAA		Music and Movement of Kun Opera				2	選	◎加退選全授權碼選課		3982	楊汗如	一 6-7 總一館118	
+114	1	0	0	常微分方程導論		理學院 ; 數學系 ;   限修學制：大、碩、博	0	0		AAU0727	A	半	4.0	校際臺大（學）	9UAA		Introduction to Ordinary Differential Equations				2	選			3983	林太家	一 3-4 新302, 四 8-9 新302	
+114	1	0	0	強制執行法		法律學院 ; 法律學系 ;   限修學制：大三以上、碩、博	0	0		AAU1267	A	半	2.0	校際臺大（學）	9UAA		Executive Procedure				5	選	◎加退選全授權碼選課		3985	許士宦	三 3-4 霖1401	
+114	1	0	0	從器物看歐亞草原交流史		文學院 ; 藝術史研究所 ; 「亞洲藝術學程」學生優先選課。 ; 限修學制：大、碩、博	0	0		AAU2010	A	半	3.0	校際臺大（學）	9UAA		Cultural Interaction across the Eurasian Steppe through Artifacts				5	選	◎加退選全授權碼選課		3987	林郡儀	二 8-10 綜503	
+114	1	0	0	探索式多變量資料分析		生物資源暨農學院 ; 生物機電工程學研究所 ; 專業選修(人工智慧)  本校人工智慧領域專長課程 ; 限修學制：大、碩、博	0	0		AAM2178	A	半	3.0	校際臺大（碩）	9MAA		Exploratory Multivariate Data Analysis				3	選	◎課程開放上修		3988	周呈霙	一 7-9 知207	
+114	1	0	1	捷克文一上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	1	0		AAU1300	A	半	3.0	校際臺大（學）	9UAA		Czech (I) (1)				2	選	◎加退選全授權碼選課		3989	林學紀	二 5-6 共102, 五 5-6 共102	
+114	1	0	0	捷克文二上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU1301	A	半	3.0	校際臺大（學）	9UAA		Czech (II) (1)				2	選	◎加退選全授權碼選課		3990	林學紀	二 A-D 普204	
+114	1	0	0	捷克文三上		文學院 ; 外國語文學系 ;   限修學制：大、碩、博	0	0		AAU1302	A	半	3.0	校際臺大（學）	9UAA		Czech (III) (1)				2	選	◎加退選全授權碼選課		3991	林學紀	一 A-D 普202	
+114	1	0	0	族群生態與漁業資源永續	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	2	2		AAC7623	A	半	3.0	校際臺大（學）	9UAA		Population Ecology and Sustainable Fisheries Resources				2	選			3992	張以杰	一 6-8 海研231	
+114	1	0	0	族群遺傳學	7	生命科學院 ; 生態學與演化生物學研究所 ; 最好修過遺傳學或演化生物學。教室：生科419。 ; 限修學制：大、碩、博	0	0		AAC7624	A	半	3.0	校際臺大（學）	9UAA		Population Genetics	是			5	選			3993	王弘毅	四 2-4 生科419	
+114	1	0	0	梵文二上		文學院 ; 哲學系 ;   限修學制：大、碩、博	1	1		AAU0892	A	半	3.0	校際臺大（學）	9UAA		Sanskrit (II)(1)				3	選	◎加退選全授權碼選課		3994	耿  晴	一 2-4 人文B201-1	
+114	1	0	0	殺蟲藥劑毒理學	7	生物資源暨農學院 ; 昆蟲學研究所 ; 群組必修24選3，至少計8學分，多餘學分可計入一般選修。 ; 限修學制：大、碩、博	0	0		AAC7A39	A	半	2.0	校際臺大（學）	9UAA		Insecticide Chemistry and Toxicology				2	選			3995	黃榮南	三 6-7 昆蟲201	
+114	1	0	0	清代臺灣開發史		文學院 ; 歷史學系 ; C（臺灣史）群組。 ; 限修學制：大、碩、博	1	1		AAU1936	A	半	2.0	校際臺大（學）	9UAA		History of Taiwan's Development in the Ching Period				5	選			3996	李文良	二 3-4 普301	
+114	1	0	0	混沌與可預報度		理學院 ; 大氣科學研究所 ; 建議先修過應數1,2、數值、大動1,2，及統計等課程 ; 限修學制：大、碩、博	0	0		AAM2179	A	半	3.0	校際臺大（碩）	9MAA		Chaos and Predictability				1	選	◎課程開放上修		3997	曾開治	一 6-7 大氣系A100, 四 8 大氣系A100	
+114	1	0	0	深度學習之應用	7	電機資訊學院 ; 資訊工程學研究所 ;   限修學制：大、碩、博	1	1		AAC7B27	A	半	3.0	校際臺大（學）	9UAA		Applied Deep Learning				5	選			3998	陳縕儂	一 7-9 資103	
+114	1	0	0	深海生態學	7	理學院 ; 海洋研究所 ;   限修學制：大、碩、博	0	0		AAC7C17	A	半	3.0	校際臺大（學）	9UAA		Deep-Sea Ecology	是			5	選			3999	魏志潾	一 6-8 海研232	
