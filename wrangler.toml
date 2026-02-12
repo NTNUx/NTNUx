@@ -3,8 +3,13 @@ compatibility_date = "2026-02-12"
 
 [assets]
 directory = ".output/public"
+<<<<<<< HEAD
 # binding = "ASSETS"
 # run_worker_first = false
+=======
+binding = "ASSETS"
+run_worker_first = false # 讓靜態檔案優先被讀取 (SPA 模式建議)
+>>>>>>> fd0dbd0... 💚 新增 cloudflare 部署設定檔
 
 [observability]
 enabled = true
