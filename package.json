@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@primeuix/themes": "^2.0.2",
+    "nuxt": "^4.2.2",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.5.4",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@primevue/nuxt-module": "^4.5.4",
+    "@types/node": "^25.0.8",
+    "sass-embedded": "^1.97.2"
+  }
+}

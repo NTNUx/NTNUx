@@ -1,6 +1,0 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/sun92122/ntnux-frontend.git
-[submodule "backend"]
-	path = backend
-	url = https://github.com/sun92122/ntnux-backend.git

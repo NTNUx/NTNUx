@@ -1,0 +1,32 @@
+{
+  "icon": {
+    "desktop": {
+      "regularIconTransformation": {
+        "type": "none"
+      },
+      "darkIconType": "none"
+    },
+    "touch": {
+      "transformation": {
+        "type": "background",
+        "backgroundColor": "#ffffff",
+        "backgroundRadius": 0,
+        "imageScale": 1
+      },
+      "appTitle": "NTNUx"
+    },
+    "webAppManifest": {
+      "transformation": {
+        "type": "background",
+        "backgroundColor": "#ffffff",
+        "backgroundRadius": 0,
+        "imageScale": 0.7
+      },
+      "backgroundColor": "#ffffff",
+      "name": "MyWebSite",
+      "shortName": "MySite",
+      "themeColor": "#ffffff"
+    }
+  },
+  "path": "/"
+}
