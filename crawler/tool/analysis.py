@@ -203,8 +203,12 @@ def raws_to_json(courses: pd.DataFrame) -> list[dict[str, str | int | float]]:
             course_value["tls"] = "/".join([f"{t} {l}" for t,
                                             l in course_value["ti"].items()])
         else:
+<<<<<<< HEAD
             course_value["tl"] = course_value["ti"] if isinstance(
                 course_value["ti"], list) else []
+=======
+            course_value["t"] = course_value["ti"]
+>>>>>>> f129c0f... 🍱 更新資料格式化細節
 
         output.append({
             k: v for k, v in course_value.items() if v
