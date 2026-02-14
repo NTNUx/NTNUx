@@ -38,8 +38,9 @@ def time_location_to_array(time_inf: dict[str, str]) -> list[dict[str, str]]:
         if match:
             day, start, end = match.groups()
             end = end or start
-            range_periods = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "A", "B", "C", "D",
-                             ]
+            range_periods = [
+                "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "A", "B", "C", "D",
+            ]
             start_index = range_periods.index(start)
             end_index = range_periods.index(end)
             range_periods = range_periods[start_index:end_index + 1]
@@ -48,8 +49,6 @@ def time_location_to_array(time_inf: dict[str, str]) -> list[dict[str, str]]:
     return result
 
 
-def teacher_format(teacher: str) -> str:
-    return teacher.replace("", "温")
 
 
 def course_format(courses: pd.DataFrame) -> pd.DataFrame:
@@ -59,15 +58,16 @@ def course_format(courses: pd.DataFrame) -> pd.DataFrame:
     :return: 格式化後的課程資訊 DataFrame
     """
     courses["generalCore"] = courses["generalCore"].fillna("")
-    return courses[[
-        "acadm_year", "acadm_term", "authorize_p", "authorize_using",
-        "chn_name", "classes", "comment", "counter", "counter_exceptAuth",
-        "course_avg", "course_code", "course_group", "course_kind", "credit",
-        "dept_chiabbr", "dept_code", "dept_group_name", "eng_name",
-        "eng_teach", "form_s", "limit", "limit_count_h", "option_code",
-        "restrict", "rt", "serial_no", "teacher", "time_inf",
-        "generalCore"
-    ]]
+    # return courses[[
+    #     "acadm_year", "acadm_term", "authorize_p", "authorize_using",
+    #     "chn_name", "classes", "comment", "counter", "counter_exceptAuth",
+    #     "course_avg", "course_code", "course_group", "course_kind", "credit",
+    #     "dept_chiabbr", "dept_code", "dept_group_name", "eng_name",
+    #     "eng_teach", "form_s", "limit", "limit_count_h", "option_code",
+    #     "restrict", "rt", "serial_no", "teacher", "time_inf",
+    #     "generalCore"
+    # ]]
+    return courses
 
 
 def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float]]:
@@ -78,42 +78,78 @@ def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float
 
     key_mapping：
     | 原始欄位名稱 | 縮寫欄位名稱 | 前端預設值 | 說明 |
-    | ------------------- | --- | --- | ------------------------ |
-    | acadm_year          | y   |     | 學年                      |
-    | acadm_term          | t   |     | 學期                      |
-    | authorize_p         | a   |     | 授權碼數量                |
-    | authorize_using     | au  |     | 已使用授權碼數量          |
-    | chn_name            | cn  |     | 原始中文名稱              |
-    | classes             | cl  |     | 開課種類（8：大碩         |
-    | comment             | c   |     | 說明                      |
-    | counter             | co  |     | 選課人數                  |
-    | counter_exceptAuth  | ce  |     | 非授權碼選課人數          |
-    | course_avg          | ca  |     |                           |
-    | course_code         | cc  |     | 課程代碼                  |
-    | course_group        | cg  |     | 課程組別                  |
-    | course_kind         | ck  |     | 半/全 學年                |
-    | credit              | cr  |     | 學分                      |
-    | dept_chiabbr        | d   |     | 開課單位                  |
-    | dept_code           | dc  |     | 開課單位代號              |
-    | dept_group_name     | dgn |     | 開課單位組別              |
-    | eng_name            | en  |     | 英文課程名稱              |
-    | eng_teach           | et  |     | 英文授課（是/None）       |
-    | form_s              | fs  |     |                           |
-    | limit               | l   |     | 系統各校開放名額          |
-    | limit_count_h       | lh  |     | 選課人數上限              |
-    | option_code         | oc  |     | 課程類別（通、選、必）    |
-    | restrict            | r   |     | 限修說明                  |
-    | rt                  | rt  |     | 數位課程（N/1）           |
-    | serial_no           | s   |     | 開課序號                  |
-    | teacher             | te  |     | 授課教師                  |
-    | time_inf            | ti  |     | 時間地點資訊（列表）       |
-    | generalCore         | gc  |     | 通識領域（"/" 分隔         |
-    |                     | n   |     | 課程名稱                  |
-    |                     | p   |     | 學分學程（"/" 分隔）       |
-    |                     | t   |     | 時間（列表）               |
-    |                     | lc  |     | 地點（"/" 分隔）           |
-    |                     | tll |     | 時間地點（列表）           |
-    |                     | tl  |     | 時間地點（"/" 分隔）       |
+    | ------------------- | --- | --- | ------------------------------------------------------- |
+    | acadm_year          | y   |     | 學年                                                     |
+    | acadm_term          | t   |     | 學期                                                     |
+    | authorize_p         | a   |     | 授權碼數量                                               |
+    | authorize_using     | au  |     | 已使用授權碼數量                                         |
+    | chn_name            | cn  |     | 原始中文名稱                                             |
+    | classes             | cl  |     | 開課種類（1：甲/2：乙/3：丙/4：丁/7：大碩博/8：碩博/9：大碩）|
+    | comment             | c   |     | 說明                                                     |
+    | counter             | co  |     | 選課人數                                                 |
+    | counter_exceptAuth  | ce  |     | 非授權碼選課人數                                         |
+    | course_code         | cc  |     | 課程代碼                                                 |
+    | course_group        | cg  |     | 課程組別                                                 |
+    | course_kind         | ck  |     | 半/全 學年                                               |
+    | credit              | cr  |     | 學分                                                     |
+    | dept_chiabbr        | d   |     | 開課單位                                                 |
+    | dept_code           | dc  |     | 開課單位代號                                             |
+    | dept_group_name     | dg  |     | 開課單位組別                                             |
+    | eng_name            | en  |     | 英文課程名稱                                             |
+    | eng_teach           | et  |     | 英文授課（是/None）                                      |
+    | form_s              | fs  |     | 開課年級                                                |
+    | intensive           | i   |     | 密集課程（Y/None）                                       |
+    | limit               | l   |     | 系統各校開放名額                                         |
+    | limit_count_h       | lh  |     | 選課人數上限                                             |
+    | option_code         | oc  |     | 課程類別（通、選、必）                                   |
+    | restrict            | r   |     | 限修說明                                                 |
+    | gender_restrict     | rg  |     | 性別限修（F/M/None）                                     |
+    | rt                  | rt  |     | 數位課程（N/1）                                          |
+    | serial_no           | s   |     | 開課序號                                                 |
+    | teacher             | te  |     | 授課教師                                                 |
+    | time_inf            | ti  |     | 時間地點資訊（列表）                                      |
+    | generalCore         | gc  |     | 通識領域（"/" 分隔                                        |
+    |                     | n   |     | 課程名稱                                                 |
+    |                     | p   |     | 學分學程（"/" 分隔）                                      |
+    |                     | t   |     | 時間（列表）                                              |
+    |                     | lc  |     | 地點（"/" 分隔）                                          |
+    |                     | tll |     | 時間地點（列表）                                          |
+    |                     | tl  |     | 時間地點（"/" 分隔）                                      |
+
+    not used:
+        authorize_r（可由 authorize_p 和 authorize_using 計算得出）
+        brief_eng（未使用，無法解析）
+        cancel（未使用，無法解析）
+        class_name（對應 classes 1：甲/2：乙/3：丙/4：丁/7：大碩博/8：碩博/9：大碩）
+        course_avg（未使用，無法解析）
+        deleteQ（未使用，無法解析）
+        dept_engfull（未使用，無法解析）
+        dept_group（對應 dept_group_name）
+        emi（未使用，無法解析）
+        exp_hours（未使用，無法解析）
+        fillcounter（未使用，無法解析）
+        for_query（未使用，無法解析）
+        form_s_name（對應 form_s 1：一/2：二/3：三/4：四）
+        full_flag（未使用，無法解析）
+        hours（未使用，無法解析）
+        iCounter（未使用，無法解析）
+        moocs_teach（未使用，無法解析）
+        not_choose（未使用，無法解析）
+        percentage（未使用，無法解析）
+        school_avg（未使用，無法解析）
+        scoreEnt（未使用，無法解析）
+        selfTeach（正課/實驗親授，對選課較無幫助）
+        selfTeachName（正課/實驗親授教師，與教師名稱高度重複）
+        send_time（未使用，無法解析）
+        status（未使用，無法解析）
+        tcode（未使用，無法解析）
+        tname（未使用，無法解析）
+        umd（未使用，無法解析）
+        week_section1（未使用，無法解析）
+        week_section2（未使用，無法解析）
+        week_section3（未使用，無法解析）
+        week_section4（未使用，無法解析）
+
     """
     key_mapping = {
         "acadm_year": "y",
@@ -125,7 +161,6 @@ def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float
         "comment": "c",
         "counter": "co",
         "counter_exceptAuth": "ce",
-        "course_avg": "ca",
         "course_code": "cc",
         "course_group": "cg",
         "course_kind": "ck",
@@ -136,10 +171,12 @@ def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float
         "eng_name": "en",
         "eng_teach": "et",
         "form_s": "fs",
+        "intensive": "i",
         "limit": "l",
         "limit_count_h": "lh",
         "option_code": "oc",
         "restrict": "r",
+        "gender_restrict": "rg",
         "rt": "rt",
         "serial_no": "s",
         "teacher": "te",
@@ -150,8 +187,8 @@ def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float
     output = {}
     for _, row in courses.fillna("").iterrows():
         course_id = row["serial_no"]
-        if pd.isna(course_id):
-            course_id = f"{row['course_code']}_{row['course_group']}"
+        if not course_id or len(course_id) != 4:
+            course_id = f"{row['course_code']}-{row['course_group']}"
         course_value = {
             key_mapping[str(k)]: v for k, v in row.items() if str(k) in key_mapping
         }
@@ -169,7 +206,6 @@ def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float
                                           l in course_value["ti"].items()])
         else:
             course_value["t"] = course_value["ti"]
-        course_value["te"] = teacher_format(course_value["te"])
 
         output[course_id] = {
             k: v for k, v in course_value.items() if v
