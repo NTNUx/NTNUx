@@ -5,6 +5,7 @@ import json
 
 from core.cofopdl import fetch_courses
 from tool.analysis import course_format
+from tool.analysis import raws_to_json
 from tool.strip import strip_course
 
 
@@ -43,12 +44,16 @@ def save_courses(year: int, term: int, output_dir: str, original_data_output: st
         sep="\t", index=False, encoding="utf-8-sig")
     with open(os.path.join(original_data_output, f"{year}-{term}-dense.json"), "w", encoding="utf-8") as f:
         json.dump(dense_courses_map, f, ensure_ascii=False, indent=None)
+    with open(os.path.join(original_data_output, f"{year}-{term}.json"), "w", encoding="utf-8") as f:
+        json.dump(raws_to_json(courses_df), f, ensure_ascii=False, indent=None)
 
     # 儲存為 TSV 檔案
     strip_course(courses_df, output_dir)
     # 儲存為 JSON 檔案
     with open(os.path.join(output_dir, "dense.json"), "w", encoding="utf-8") as f:
         json.dump(dense_courses_map, f, ensure_ascii=False, indent=None)
+    with open(os.path.join(output_dir, "..", f"{year}-{term}.json"), "w", encoding="utf-8") as f:
+        json.dump(raws_to_json(courses_df), f, ensure_ascii=False, indent=None)
     # 更新 日期 json 檔案
     with open(os.path.join(output_dir, "last_update.json"), "w", encoding="utf-8") as f:
         json.dump({
