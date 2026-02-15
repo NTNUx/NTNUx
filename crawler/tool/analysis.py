@@ -49,8 +49,6 @@ def time_location_to_array(time_inf: dict[str, str]) -> list[dict[str, str]]:
     return result
 
 
-
-
 def course_format(courses: pd.DataFrame) -> pd.DataFrame:
     """
     將課程資訊 DataFrame 格式化為指定的格式
@@ -70,7 +68,7 @@ def course_format(courses: pd.DataFrame) -> pd.DataFrame:
     return courses
 
 
-def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float]]:
+def raws_to_json(courses: pd.DataFrame) -> list[dict[str, str | int | float]]:
     """
     將原始課程資訊轉換為 JSON 格式
     :param courses: 課程資訊 DataFrame
@@ -111,10 +109,10 @@ def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float
     | generalCore         | gc  |     | 通識領域（"/" 分隔                                        |
     |                     | n   |     | 課程名稱                                                 |
     |                     | p   |     | 學分學程（"/" 分隔）                                      |
-    |                     | t   |     | 時間（列表）                                              |
+    |                     | tl  |     | 時間（列表）                                              |
     |                     | lc  |     | 地點（"/" 分隔）                                          |
     |                     | tll |     | 時間地點（列表）                                          |
-    |                     | tl  |     | 時間地點（"/" 分隔）                                      |
+    |                     | tls |     | 時間地點（"/" 分隔）                                      |
 
     not used:
         authorize_r（可由 authorize_p 和 authorize_using 計算得出）
@@ -184,7 +182,7 @@ def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float
         "generalCore": "gc",
     }
 
-    output = {}
+    output = []
     for _, row in courses.fillna("").iterrows():
         course_id = row["serial_no"]
         if not course_id or len(course_id) != 4:
@@ -199,15 +197,16 @@ def raws_to_json(courses: pd.DataFrame) -> dict[str, dict[str, str | int | float
                                      course_value["cn"]).split(" ")) if "學分學程" in course_value["cn"] else []
         course_value["ti"] = time_location_format(course_value["ti"])
         if isinstance(course_value["ti"], dict):
-            course_value["t"] = list(course_value["ti"].keys())
+            course_value["tl"] = list(course_value["ti"].keys())
             course_value["lc"] = "/".join(set(course_value["ti"].values()))
             course_value["tll"] = time_location_to_array(course_value["ti"])
-            course_value["tl"] = "/".join([f"{t} {l}" for t,
-                                          l in course_value["ti"].items()])
+            course_value["tls"] = "/".join([f"{t} {l}" for t,
+                                            l in course_value["ti"].items()])
         else:
-            course_value["t"] = course_value["ti"]
+            course_value["tl"] = course_value["ti"] if isinstance(
+                course_value["ti"], list) else []
 
-        output[course_id] = {
+        output.append({
             k: v for k, v in course_value.items() if v
-        }
+        })
     return output
