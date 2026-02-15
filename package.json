@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@primeuix/themes": "^2.0.2",
+    "@tanstack/vue-table": "^8.21.3",
+    "@tanstack/vue-virtual": "^3.13.18",
     "nuxt": "^4.2.2",
     "primeicons": "^7.0.0",
     "primevue": "^4.5.4",
