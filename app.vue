@@ -87,9 +87,13 @@ const isShowAdvancedSearch = useState("isShowAdvancedSearch", () => false);
 
 <style scoped lang="scss">
 @import url("https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC:wght@400;700&display=swap");
+@font-face {
+  font-family: "avutmv2";
+  src: url("/fonts/avutmv2.woff2") format("woff2");
+}
 
 #app {
-  font-family: "LXGW WenKai Mono TC", monospace;
+  font-family: "LXGW WenKai Mono TC", monospace, "avutmv2";
 
   display: flex;
   flex-direction: column;
