@@ -192,7 +192,7 @@ def raws_to_json(courses: pd.DataFrame) -> list[dict[str, str | int | float]]:
         }
         course_value["cr"] = int(float(course_value["cr"])) if pd.notna(
             course_value["cr"]) else 0
-        course_value["n"] = re.sub(r"<\/br>.*", "", course_value["cn"])
+        course_value["n"] = re.sub(r"<\/br>.*", "", course_value["cn"]).strip()
         course_value["p"] = "/".join(re.sub(r".*\[ 學分學程：(.+?) \].*", r"\1",
                                      course_value["cn"]).split(" ")) if "學分學程" in course_value["cn"] else []
         course_value["ti"] = time_location_format(course_value["ti"])
