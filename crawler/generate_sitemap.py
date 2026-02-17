@@ -33,12 +33,13 @@ def generate_sitemap(year: int, term: int):
     for _, row in courses_df.iterrows():
         course_year = row.get('acadm_year')
         course_term = row.get('acadm_term')
-        course_serial = row.get('serial_no')
+        course_serial = row.get(
+            'serial_no') or f"{row.get('course_code')}-{row.get('course_group')}"
         course_name = urllib.parse.quote(
             str(row.get('chn_name')).split('<')[0].strip())
 
         # Query String: f"{BASE_URL}/year/term/id/course_name"
-        url = f"{BASE_URL}/course/{course_year}/{course_term}/{course_serial}/{course_name}"
+        url = f"{BASE_URL}/courses/{course_year}/{course_term}/{course_serial}/{course_name}"
 
         xml_content.append(f"""    <url>
         <loc>{html.escape(url)}</loc>

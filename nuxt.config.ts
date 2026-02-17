@@ -1,86 +1,11 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import Aura from "@primeuix/themes/aura";
-import { definePreset } from "@primeuix/themes";
+import { defineNuxtConfig } from "nuxt/config";
 
-const MyPreset = definePreset(Aura, {
-  semantic: {
-    primary: {
-      50: "{indigo.50}",
-      100: "{indigo.100}",
-      200: "{indigo.200}",
-      300: "{indigo.300}",
-      400: "{indigo.400}",
-      500: "{indigo.500}",
-      600: "{indigo.600}",
-      700: "{indigo.700}",
-      800: "{indigo.800}",
-      900: "{indigo.900}",
-      950: "{indigo.950}",
-    },
-    colorScheme: {
-      light: {
-        surface: {
-          0: "#ffffff",
-          50: "{zinc.50}",
-          100: "{zinc.100}",
-          200: "{zinc.200}",
-          300: "{zinc.300}",
-          400: "{zinc.400}",
-          500: "{zinc.500}",
-          600: "{zinc.600}",
-          700: "{zinc.700}",
-          800: "{zinc.800}",
-          900: "{zinc.900}",
-          950: "{zinc.950}",
-        },
-        primary: {
-          color: "{zinc.950}",
-          inverseColor: "#ffffff",
-          hoverColor: "{zinc.900}",
-          activeColor: "{zinc.800}",
-        },
-        highlight: {
-          background: "{zinc.950}",
-          focusBackground: "{zinc.700}",
-          color: "#ffffff",
-          focusColor: "#ffffff",
-        },
-      },
-      dark: {
-        surface: {
-          0: "#ffffff",
-          50: "{slate.50}",
-          100: "{slate.100}",
-          200: "{slate.200}",
-          300: "{slate.300}",
-          400: "{slate.400}",
-          500: "{slate.500}",
-          600: "{slate.600}",
-          700: "{slate.700}",
-          800: "{slate.800}",
-          900: "{slate.900}",
-          950: "{slate.950}",
-        },
-        primary: {
-          color: "{zinc.50}",
-          inverseColor: "{zinc.950}",
-          hoverColor: "{zinc.100}",
-          activeColor: "{zinc.200}",
-        },
-        highlight: {
-          background: "rgba(250, 250, 250, .16)",
-          focusBackground: "rgba(250, 250, 250, .24)",
-          color: "rgba(255,255,255,.87)",
-          focusColor: "rgba(255,255,255,.87)",
-        },
-      },
-    },
-  },
-});
+import tailwindcss from "@tailwindcss/vite";
 
 export default defineNuxtConfig({
   app: {
-    baseURL: "", // 使用自訂網域，保留為根路徑
+    baseURL: "", // custom base URL, default is "/"
     head: {
       title: "NTNUx｜課程查詢系統",
       link: [
@@ -107,10 +32,14 @@ export default defineNuxtConfig({
       ],
     },
   },
+  vite: {
+    plugins: [tailwindcss() as any],
+  },
   nitro: {
-    preset: "static",
-    prerender: {
-      autoSubfolderIndex: false,
+    preset: "cloudflare_module",
+    cloudflare: {
+      deployConfig: true,
+      nodeCompat: true,
     },
   },
   router: {
@@ -119,35 +48,14 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ["@primevue/nuxt-module"],
+  modules: ["@nuxt/ui"],
 
-  css: ["primeicons/primeicons.css"],
-
-  primevue: {
-    options: {
-      theme: {
-        preset: MyPreset,
-        options: {
-          dark: false,
-          darkModeSelector: ".dark-mode-toggle",
-        },
-      },
-    },
-    components: {
-      prefix: "Prime",
-      exclude: ["Editor", "Chart", "Form", "FormField"], // To fix import error from PrimeVue
-    },
+  css: ["@/assets/css/main.css"],
+  ui: {
+    fonts: false,
   },
 
   devtools: { enabled: true },
 
-  ssr: false,
-
-  runtimeConfig: {
-    public: {
-      isCloudflare: process.env.NUXT_RUNTIME_ENV === "cloudflare",
-    },
-  },
-
-  compatibilityDate: "2024-07-05",
+  compatibilityDate: "2025-11-09",
 });
