@@ -17,7 +17,7 @@
     "nuxt": "^4.2.2",
     "tailwindcss": "^4.1.18",
     "vue": "latest",
-    "wrangler": "^4.65.0"
+    "wrangler": "^4.66.0"
   },
   "devDependencies": {
     "@iconify-json/tabler": "^1.2.26",
