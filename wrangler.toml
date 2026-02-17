@@ -3,8 +3,8 @@ compatibility_date = "2026-02-12"
 
 [assets]
 directory = ".output/public"
-# binding = "ASSETS"
-# run_worker_first = false
+binding = "ASSETS"
+run_worker_first = false
 
 [observability]
 enabled = true
