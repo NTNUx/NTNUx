@@ -10,14 +10,17 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@primeuix/themes": "^2.0.2",
+    "@nuxt/ui": "^4.4.0",
+    "@tailwindcss/vite": "^4.1.18",
+    "@tanstack/vue-table": "^8.21.3",
+    "@tanstack/vue-virtual": "^3.13.18",
     "nuxt": "^4.2.2",
-    "primeicons": "^7.0.0",
-    "primevue": "^4.5.4",
-    "vue": "latest"
+    "tailwindcss": "^4.1.18",
+    "vue": "latest",
+    "wrangler": "^4.65.0"
   },
   "devDependencies": {
-    "@primevue/nuxt-module": "^4.5.4",
+    "@iconify-json/tabler": "^1.2.26",
     "@types/node": "^25.0.8",
     "sass-embedded": "^1.97.2"
   }

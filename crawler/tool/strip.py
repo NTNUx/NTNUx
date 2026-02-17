@@ -8,7 +8,7 @@ def strip_course(courses_df: pd.DataFrame, output_dir: str):
 
     files = {f"{i}.tsv": pd.DataFrame() for i in range(0, 11)}
     for _, course in courses_df.iterrows():
-        serial_no: str = course.get("serial_no")
+        serial_no: str = course.get("serial_no", "")
         # e.g., '1234' -> '1.tsv', '8000' -> '8.tsv'
         if serial_no is not None and len(serial_no) == 4:
             try:
