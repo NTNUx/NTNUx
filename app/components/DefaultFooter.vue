@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <Divider />
+    <!-- <Divider /> -->
     <div class="footer-content">
       <div
         class="footer-content-col"
@@ -13,7 +13,7 @@
           :key="item.label"
           style="padding: 2px 0"
         >
-          <Button
+          <UButton
             v-if="item.url"
             :label="item.label"
             class="p-button-text p-button-secondary"
@@ -29,22 +29,22 @@
               class="pi pi-external-link"
               style="font-size: 0.75rem; margin-left: 0.5rem"
             ></i>
-          </Button>
-          <Button
+          </UButton>
+          <UButton
             v-else
             :label="item.label"
             class="p-button-text p-button-secondary"
             @click="item.command"
             style="padding: 0; border: none"
-          ></Button>
+          ></UButton>
         </div>
       </div>
     </div>
-    <Divider class="footer-content" />
+    <!-- <Divider class="footer-content" /> -->
     <span class="footer-copyright">
       &copy; 2025
       <a
-        href="https://github.com/sun92122/NTNUx"
+        href="https://github.com/ntnux/NTNUx"
         target="_blank"
         style="color: var(--p-text-secondary-color)"
       >
@@ -59,10 +59,6 @@
 </template>
 
 <script setup>
-import { Button, Divider } from "primevue";
-
-const isShowSchedule = useState("isShowSchedule", () => false);
-
 const footerItems = [
   {
     label: "更多功能",
@@ -71,7 +67,7 @@ const footerItems = [
       {
         label: "顯示課表",
         command: () => {
-          isShowSchedule.value = true;
+          // isShowSchedule.value = true;
         },
       },
       {
@@ -88,7 +84,7 @@ const footerItems = [
       },
       {
         label: "課程討論區（GitHub）",
-        url: "https://github.com/sun92122/NTNUx/discussions/categories/course-%E8%AA%B2%E7%A8%8B",
+        url: "https://github.com/ntnux/NTNUx/discussions/categories/course-%E8%AA%B2%E7%A8%8B",
       },
     ],
   },
@@ -98,15 +94,15 @@ const footerItems = [
     items: [
       {
         label: "GitHub",
-        url: "https://github.com/sun92122/NTNUx",
+        url: "https://github.com/ntnux/NTNUx",
       },
       {
         label: "Bug 回報",
-        url: "https://github.com/sun92122/NTNUx/issues",
+        url: "https://github.com/ntnux/NTNUx/issues",
       },
       {
         label: "NTNUx 討論區",
-        url: "https://github.com/sun92122/NTNUx/discussions",
+        url: "https://github.com/ntnux/NTNUx/discussions",
       },
     ],
   },

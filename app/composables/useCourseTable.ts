@@ -1,9 +1,13 @@
+import { computed, watch } from "vue";
+import { useState } from "#app";
 import {
   createColumnHelper,
   getCoreRowModel,
   getFilteredRowModel,
   getSortedRowModel,
 } from "@tanstack/vue-table";
+
+import { useCourseFilter } from "./useCourseFilter";
 
 export interface Course {
   year: string; // 學年 (y)
@@ -68,6 +72,7 @@ export function useCourseTable() {
   const currentTermUpdateTime = computed<string>(() => {
     return updateTimeAllTerms.value[currentTerm.value] || "unknown";
   });
+  const fetchingTerms = new Set<string>();
 
   const columnHelper = createColumnHelper<Course>();
   // 顯示一欄，詳細數據由 couresecell 元件處理，所有欄位需要支援自定義篩選
@@ -75,59 +80,126 @@ export function useCourseTable() {
     columnHelper.display({
       id: "course",
     }),
+    columnHelper.group({
+      id: "info_for_filter",
+      columns: [
+        columnHelper.accessor("id", {}),
+        columnHelper.accessor("name", {}),
+        columnHelper.accessor("full_name_en", {}),
+        columnHelper.accessor("course_code", {}),
+        columnHelper.accessor("teacher", {}),
+      ],
+    }),
   ];
+  const columnVisibliity = ref({
+    info_for_filter: false,
+  });
+  const { filters, golbalFilter } = useCourseFilter();
+
+  function getTermsList() {
+    try {
+      defaultTerm.value = import.meta.env.VITE_DEFAULT_TERM || "";
+      termsList.value = import.meta.env.VITE_TERMS
+        ? import.meta.env.VITE_TERMS.split(",")
+        : [];
+    } catch (err) {
+      console.error("Failed to read terms from environment:", err);
+      defaultTerm.value = "";
+      termsList.value = [];
+    }
+  }
+
+  function getDefaultTerm() {
+    getTermsList();
+  }
 
   async function fetchDataForTerm(term: string) {
-    await fetch(`/data/${term}.json`)
-      .then((res) => res.json())
-      .then((json) => {
-        dataAllTerms.value[term] = json.map((rawData: any) =>
-          formatCourseData(rawData),
-        );
-      })
-      .catch((err) => {
-        console.error(`Failed to fetch data for term ${term}:`, err);
-        dataAllTerms.value[term] = [];
-      });
-    await fetch(`/data/${term}/last_update.json`)
-      .then((res) => res.json())
-      .then((json) => {
-        updateTimeAllTerms.value[term] = json.last_update;
-      })
-      .catch((err) => {
-        console.error(`Failed to fetch last update for term ${term}:`, err);
-        updateTimeAllTerms.value[term] = "unknown";
-      });
+    if (fetchingTerms.has(term)) {
+      console.log(`Already fetching data for term ${term}, skipping...`);
+      return;
+    }
+    fetchingTerms.add(term);
+    console.log(`Fetching course data for term ${term}...`);
+    const { data, error } = await useFetch<Course[]>(`/data/${term}.json`);
+    if (data.value) {
+      dataAllTerms.value[term] = data.value
+        // .slice(0, 50)// debug, only format the first 50 courses
+        .map((rawData: any) => formatCourseData(rawData));
+    } else {
+      console.error(
+        `Failed to fetch course data for term ${term}:`,
+        error.value,
+      );
+      dataAllTerms.value[term] = [];
+    }
+
+    const { data: updateData, error: updateError } = await useFetch<{
+      last_update: string;
+    }>(`/data/${term}/last_update.json`);
+    if (updateData.value) {
+      updateTimeAllTerms.value[term] = updateData.value.last_update;
+    } else {
+      console.error(
+        `Failed to fetch last update for term ${term}:`,
+        updateError.value,
+      );
+    }
+    fetchingTerms.delete(term);
   }
 
   const tableOptions = {
     data: computed(() => Object.values(currentTermData.value)),
     columns,
+    state: {
+      get columnFilters() {
+        return filters.value;
+      },
+      get globalFilter() {
+        return golbalFilter.value;
+      },
+      get columnVisibility() {
+        return columnVisibliity.value;
+      },
+    },
+    onColumnFiltersChange: (updater: any) => {
+      filters.value =
+        typeof updater === "function" ? updater(filters.value) : updater;
+    },
+    onGlobalFilterChange: (updater: any) => {
+      golbalFilter.value =
+        typeof updater === "function" ? updater(golbalFilter.value) : updater;
+    },
+    onColumnVisibilityChange: (updater: any) => {
+      columnVisibliity.value =
+        typeof updater === "function"
+          ? updater(columnVisibliity.value)
+          : updater;
+    },
     getCoreRowModel: getCoreRowModel(),
     getFilteredRowModel: getFilteredRowModel(),
     getSortedRowModel: getSortedRowModel(),
+    globalFilterFn: golbalFilterFunction,
   };
 
-  if (!currentTerm.value) {
-    if (!defaultTerm.value) {
-      fetch("/data/terms.json")
-        .then((res) => res.json())
-        .then((data) => {
-          defaultTerm.value = data.defaultValue;
-          termsList.value = data.terms;
-        })
-        .catch(() => {
-          defaultTerm.value = "114-3";
-          currentTerm.value = defaultTerm.value;
-        });
-    }
-    currentTerm.value = defaultTerm.value;
-  }
   watch(currentTerm, (newTerm) => {
-    if (newTerm && !dataAllTerms.value[newTerm]) {
+    if (import.meta.client && newTerm && !dataAllTerms.value[newTerm]) {
       fetchDataForTerm(newTerm);
     }
   });
+
+  // default term is set, fetch data for default term
+  watch(
+    defaultTerm,
+    (newDefaultTerm) => {
+      if (import.meta.client && newDefaultTerm) {
+        fetchDataForTerm(newDefaultTerm);
+      }
+      if (newDefaultTerm && !currentTerm.value) {
+        currentTerm.value = newDefaultTerm;
+      }
+    },
+    { immediate: true },
+  );
 
   return {
     dataAllTerms,
@@ -135,6 +207,7 @@ export function useCourseTable() {
     currentTermData,
     currentTermUpdateTime,
     tableOptions,
+    getDefaultTerm,
   };
 }
 

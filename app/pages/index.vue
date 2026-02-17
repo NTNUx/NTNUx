@@ -118,12 +118,10 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
 import { useRoute } from "vue-router";
 
 import { useCourses } from "~/composables/useCourses";
 
-import { Button, Card, Timeline, Carousel, ProgressSpinner } from "primevue";
 import { CourseSearchBar } from "#components";
 
 const route = useRoute();
@@ -218,15 +216,13 @@ onMounted(async () => {
   if (selectionSchedule?.value?.schedule) {
     initSchedule();
   } else {
-    await fetch("/data/schedule.json")
-      .then((response) => response.json())
-      .then((data) => {
-        selectionSchedule.value = data;
-        initSchedule();
-      })
-      .catch((error) => {
-        console.error("Error fetching course selection schedule:", error);
-      });
+    try {
+      const json = await $fetch("/data/schedule.json");
+      selectionSchedule.value = json;
+      initSchedule();
+    } catch (error) {
+      console.error("Error fetching course selection schedule:", error);
+    }
   }
   await initTermData(route);
   updateMenubar.value();
@@ -238,7 +234,7 @@ watch(
     if (newLength > 0) {
       initSchedule();
     }
-  }
+  },
 );
 </script>
 
@@ -262,33 +258,5 @@ watch(
   .p-carousel-viewport {
     width: clamp(0px, 99vw, 500px);
   }
-}
-</style>
-
-<style lang="scss" scoped>
-h3 {
-  text-align: center;
-}
-
-.card-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 0.5rem;
-  height: 95%;
-}
-
-.schedule-card {
-  width: 100%;
-  height: 100%;
-
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-
-.card-title-date {
-  font-size: x-large;
-  font-weight: bolder;
-  margin: 0 0.25rem;
 }
 </style>
