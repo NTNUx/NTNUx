@@ -5,7 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineNuxtConfig({
   app: {
-    baseURL: "", // custom base URL, default is "/"
+    baseURL: "/",
     head: {
       title: "NTNUx｜課程查詢系統",
       link: [
