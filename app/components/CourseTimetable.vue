@@ -35,7 +35,8 @@
       <div class="max-w-2xl mx-auto w-full">
         <table
           ref="timetableRef"
-          class="table table-fixed w-[calc(100%-1rem)] m-0"
+          class="table table-fixed w-[calc(100%-1rem)] mx-auto"
+          :class="downloading ? 'w-2xl!' : ''"
         >
           <colgroup>
             <col
@@ -171,7 +172,9 @@
           <tfoot v-if="settings?.showOthers">
             <tr>
               <td></td>
-              <td class="relative h-16 w-32 p-0.5 border border-gray-300">
+              <td
+                class="relative h-16 w-32 p-0.5 border border-gray-300 text-muted max-sm:text-xs"
+              >
                 其他課程
               </td>
               <td
@@ -350,6 +353,7 @@ const currentTerm = useState<string>("currentTerm", () => defaultTerm.value);
 const activeTerm = computed(() => props.term || currentTerm.value);
 
 const timetableRef = useState<HTMLTableElement>("timetableRef");
+const downloading = useState("downloadingTimetableImage", () => false);
 
 interface dayPeriodToCourse {
   [day: string]: {

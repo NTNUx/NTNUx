@@ -16,6 +16,7 @@
         variant="outline"
         size="lg"
         icon="tabler:calendar"
+        class="cursor-pointer"
       />
     </UDropdownMenu>
     <!-- settings modal -->
@@ -25,7 +26,9 @@
         variant="outline"
         size="lg"
         icon="tabler:settings"
-        :label="'設定'"
+        label="設定"
+        class="cursor-pointer"
+        :ui="{ label: 'max-sm:hidden' }"
       />
       <template #body>
         <USwitch
@@ -123,6 +126,8 @@
         color="error"
         variant="outline"
         icon="tabler:trash"
+        class="ml-4 cursor-pointer"
+        :ui="{ label: 'max-sm:hidden' }"
       />
       <template #footer>
         <div class="text-center">
@@ -145,125 +150,208 @@
       </template>
     </UModal>
 
-    <div class="flex flex-row gap-2 w-full h-9">
-      <!-- Import modal -->
-      <UModal
-        title="匯入課表"
-        :description="'請注意：\n匯入的課表資料將會覆蓋現有課表資料，若有需要請先備份課表資料。'"
-        :ui="{
-          header: 'py-2',
-          description: 'whitespace-pre-line',
-          footer: 'justify-end py-2',
-          content: 'max-w-md',
-          body: 'p-4! max-h-[70vh] overflow-y-auto',
-        }"
-        v-model:open="importModalOpen"
-        scrollable
-      >
-        <UButton
-          label="匯入"
-          color="neutral"
-          variant="outline"
-          icon="tabler:download"
-          @click="importModalOpen = true"
-          class="h-9 cursor-pointer"
-        />
+    <!-- Import modal -->
+    <UModal
+      title="匯入課表"
+      :description="'請注意：\n匯入的課表資料將會覆蓋現有課表資料，若有需要請先備份課表資料。'"
+      :ui="{
+        header: 'py-2',
+        description: 'whitespace-pre-line',
+        footer: 'justify-end py-2',
+        content: 'max-w-md',
+        body: 'p-4! max-h-[70vh] overflow-y-auto',
+      }"
+      v-model:open="importModalOpen"
+      scrollable
+    >
+      <UButton
+        label="匯入"
+        color="neutral"
+        variant="outline"
+        icon="tabler:download"
+        @click="importModalOpen = true"
+        class="h-9 cursor-pointer ml-auto"
+        :ui="{ label: 'max-sm:hidden' }"
+      />
 
-        <template #body>
-          <UTextarea
-            v-show="!tempTimetable || Object.keys(tempTimetable).length === 0"
-            v-model="importTextarea"
-            :placeholder="'請輸入匯出的課表資料\n以逗號或換行分隔課程\n或貼上 NTNUx 課表分享連結'"
-            class="w-full"
-            color="neutral"
+      <template #body>
+        <UTextarea
+          v-show="!tempTimetable || Object.keys(tempTimetable).length === 0"
+          v-model="importTextarea"
+          :placeholder="'請輸入匯出的課表資料\n以逗號或換行分隔課程\n或貼上 NTNUx 課表分享連結'"
+          class="w-full"
+          color="neutral"
+          variant="soft"
+          :rows="6"
+          autoresize
+        />
+        <div
+          v-show="tempTimetable && Object.keys(tempTimetable).length > 0"
+          class="gap-y-0.5"
+        >
+          <div class="text-center mb-2">
+            以下是匯入的課表預覽，請確認後點擊「確認匯入」
+          </div>
+          <UButton
+            v-for="(course, key) in tempTimetable"
+            :key="key"
             variant="soft"
-            :rows="6"
-            autoresize
-          />
-          <div
-            v-show="tempTimetable && Object.keys(tempTimetable).length > 0"
-            class="gap-y-0.5"
+            color="neutral"
+            class="w-full mb-1 p-0"
           >
-            <div class="text-center mb-2">
-              以下是匯入的課表預覽，請確認後點擊「確認匯入」
-            </div>
-            <UButton
-              v-for="(course, key) in tempTimetable"
-              :key="key"
-              variant="soft"
-              color="neutral"
-              class="w-full mb-1 p-0"
+            <div
+              class="w-full grid grid-cols-[30px_50px_auto] gap-4 items-start justify-items-start p-1.5 cursor-pointer"
             >
+              <div>{{ course?.id }}</div>
+              <div>{{ course?.course_code }}</div>
               <div
-                class="w-full grid grid-cols-[30px_50px_auto] gap-4 items-start justify-items-start p-1.5 cursor-pointer"
+                class="w-full font-bold flex flex-row-reverse justify-end gap-2 items-center overflow-x-hidden"
               >
-                <div>{{ course?.id }}</div>
-                <div>{{ course?.course_code }}</div>
                 <div
-                  class="w-full font-bold flex flex-row-reverse justify-end gap-2 items-center overflow-x-hidden"
+                  class="text-sm text-dimmed flex flex-row gap-1.5 items-center justify-start whitespace-nowrap w-fit"
                 >
-                  <div
-                    class="text-sm text-dimmed flex flex-row gap-1.5 items-center justify-start whitespace-nowrap w-fit"
-                  >
-                    <div>{{ course?.teacher }}</div>
-                    <div>{{ course?.tl?.join("/") }}</div>
-                  </div>
-                  <div class="whitespace-nowrap overflow-hidden text-ellipsis">
-                    {{ course?.name }}
-                  </div>
+                  <div>{{ course?.teacher }}</div>
+                  <div>{{ course?.tl?.join("/") }}</div>
+                </div>
+                <div class="whitespace-nowrap overflow-hidden text-ellipsis">
+                  {{ course?.name }}
                 </div>
               </div>
-            </UButton>
-          </div>
-        </template>
+            </div>
+          </UButton>
+        </div>
+      </template>
 
-        <template #footer>
+      <template #footer>
+        <UButton
+          label="清除"
+          variant="outline"
+          color="neutral"
+          class="mr-auto"
+          icon="tabler:trash"
+          @click="
+            () => {
+              importTextarea = '';
+              tempTimetable = {} as Timetable;
+            }
+          "
+        />
+        <UButton
+          v-if="!tempTimetable || Object.keys(tempTimetable).length === 0"
+          label="解析"
+          color="primary"
+          class="item-center justify-center"
+          @click="submitImport"
+          :loading="importLoading"
+          :disabled="!importTextarea || importTextarea.trim() === ''"
+        />
+        <UButton
+          v-else
+          label="確認匯入"
+          color="primary"
+          class="item-center justify-center"
+          @click="
+            () => {
+              allTimetable[currentTerm] = tempTimetable;
+              setTimetable(currentTerm, tempTimetable);
+              importModalOpen = false;
+              importTextarea = '';
+              tempTimetable = {} as Timetable;
+            }
+          "
+        />
+      </template>
+    </UModal>
+
+    <!-- export modal -->
+    <UModal
+      title="匯出課表"
+      :description="'以下是匯出的課表資料\n複製它們來分享、備份、快速選課或匯入到其它裝置'"
+      :ui="{
+        header: 'py-2',
+        body: 'flex flex-col gap-4 !pt-2',
+        description: 'whitespace-pre-line pr-8',
+      }"
+      v-model:open="exportModalOpen"
+      scrollable
+    >
+      <UButton
+        label="匯出課表"
+        color="neutral"
+        variant="outline"
+        icon="tabler:upload"
+        class="h-9 cursor-pointer"
+        @click="
+          exportTimetable();
+          exportModalOpen = true;
+        "
+        :ui="{ label: 'max-sm:hidden' }"
+      />
+
+      <template #body>
+        <div>
           <UButton
-            label="清除"
-            variant="outline"
+            label="下載課表影像"
             color="neutral"
-            class="mr-auto"
-            icon="tabler:trash"
-            @click="
-              () => {
-                importTextarea = '';
-                tempTimetable = {} as Timetable;
-              }
-            "
+            variant="outline"
+            icon="tabler:download"
+            class="h-9 cursor-pointer"
+            :loading="downloading"
+            :disabled="downloading"
+            @click="downloadTimetableImage"
           />
-          <UButton
-            v-if="!tempTimetable || Object.keys(tempTimetable).length === 0"
-            label="解析"
-            color="primary"
-            class="item-center justify-center"
-            @click="submitImport"
-            :loading="importLoading"
-            :disabled="!importTextarea || importTextarea.trim() === ''"
+        </div>
+        <USwitch
+          v-model="includeColorInExport"
+          label="在匯出資料中包含課程背景顏色"
+          @change="exportTimetable"
+        />
+        <USwitch
+          v-model="includeSettingsInExport"
+          label="在匯出資料中包含課表設定"
+          @change="exportTimetable"
+        />
+        <UFormField label="加上你的暱稱">
+          <UInput
+            v-model="includeAuthorInExport"
+            placeholder="選填，分享時會顯示在課表上，方便朋友認出來是你的課表"
+            class="w-full"
+            color="neutral"
+            variant="outline"
+            @update:model-value="exportTimetable"
           />
-          <UButton
-            v-else
-            label="確認匯入"
-            color="primary"
-            class="item-center justify-center"
-            @click="
-              () => {
-                allTimetable[currentTerm] = tempTimetable;
-                setTimetable(currentTerm, tempTimetable);
-                importModalOpen = false;
-                importTextarea = '';
-                tempTimetable = {} as Timetable;
-              }
-            "
-          />
-        </template>
-      </UModal>
-
+        </UFormField>
+        <UInput
+          v-model="exportUrl"
+          label="分享連結（點擊複製）"
+          readonly
+          @click="copyToClipboard(exportUrl, '分享連結')"
+          class="w-full"
+          color="neutral"
+          variant="outline"
+          :ui="{ base: 'select-all! cursor-pointer' }"
+        />
+        <UTextarea
+          v-model="exportData"
+          label="匯出資料（點擊複製）"
+          readonly
+          @click="copyToClipboard(exportData, '匯出資料')"
+          class="w-full"
+          color="neutral"
+          variant="outline"
+          :rows="6"
+          :ui="{ base: 'select-all! cursor-pointer' }"
+          autoresize
+        />
+      </template>
+    </UModal>
+    <div class="flex flex-row gap-2 w-full h-9">
       <!-- search modal -->
       <UModal @update:open="onOpen" :ui="{ content: 'max-w-2xl' }">
         <UButton
           label="搜尋課程"
           color="neutral"
-          variant="subtle"
+          variant="soft"
           icon="tabler:search"
           class="w-full max-w-sm cursor-pointer"
         />
@@ -316,88 +404,6 @@
               </div>
             </template>
           </UCommandPalette>
-        </template>
-      </UModal>
-
-      <!-- export modal -->
-      <UModal
-        title="匯出課表"
-        :description="'以下是匯出的課表資料\n複製它們來分享、備份、快速選課或匯入到其它裝置'"
-        :ui="{
-          header: 'py-2',
-          body: 'flex flex-col gap-4 !pt-2',
-          description: 'whitespace-pre-line pr-8',
-        }"
-        v-model:open="exportModalOpen"
-        scrollable
-      >
-        <UButton
-          label="匯出課表"
-          color="neutral"
-          variant="outline"
-          icon="tabler:upload"
-          class="h-9 cursor-pointer"
-          @click="
-            exportTimetable();
-            exportModalOpen = true;
-          "
-        />
-
-        <template #body>
-          <div>
-            <UButton
-              label="下載課表影像"
-              color="neutral"
-              variant="outline"
-              icon="tabler:download"
-              class="h-9 cursor-pointer"
-              :loading="downloading"
-              :disabled="downloading"
-              @click="downloadTimetableImage"
-            />
-          </div>
-          <USwitch
-            v-model="includeColorInExport"
-            label="在匯出資料中包含課程背景顏色"
-            @change="exportTimetable"
-          />
-          <USwitch
-            v-model="includeSettingsInExport"
-            label="在匯出資料中包含課表設定"
-            @change="exportTimetable"
-          />
-          <UFormField label="加上你的暱稱">
-            <UInput
-              v-model="includeAuthorInExport"
-              placeholder="選填，分享時會顯示在課表上，方便朋友認出來是你的課表"
-              class="w-full"
-              color="neutral"
-              variant="outline"
-              @update:model-value="exportTimetable"
-            />
-          </UFormField>
-          <UInput
-            v-model="exportUrl"
-            label="分享連結（點擊複製）"
-            readonly
-            @click="copyToClipboard(exportUrl, '分享連結')"
-            class="w-full"
-            color="neutral"
-            variant="outline"
-            :ui="{ base: 'select-all! cursor-pointer' }"
-          />
-          <UTextarea
-            v-model="exportData"
-            label="匯出資料（點擊複製）"
-            readonly
-            @click="copyToClipboard(exportData, '匯出資料')"
-            class="w-full"
-            color="neutral"
-            variant="outline"
-            :rows="6"
-            :ui="{ base: 'select-all! cursor-pointer' }"
-            autoresize
-          />
         </template>
       </UModal>
     </div>
@@ -567,21 +573,19 @@ function exportTimetable() {
       ? `&settings=${exportTimetableSettings(settings.value)}`
       : "");
 }
-const downloading = ref(false);
-function downloadTimetableImage() {
+const downloading = useState("downloadingTimetableImage", () => false);
+async function downloadTimetableImage() {
   if (!timetableRef.value) {
     alert("無法取得課表元素");
     return;
   }
   downloading.value = true;
+  await new Promise((resolve) => setTimeout(resolve, 100));
 
   toBlob(timetableRef.value, {
     cacheBust: true,
     pixelRatio: 2,
     backgroundColor: "var(--ui-bg)",
-    style: {
-      padding: "20px",
-    },
   })
     .then((blob) => {
       if (!blob) {
