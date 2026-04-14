@@ -75,6 +75,8 @@ jobs:
           git add crawler/original_data/*
           git add public/*
           git commit -m "🍱 Update course data for ${YEAR}-${TERM}"
+          git pull origin main --rebase
+          git push origin main
 
       - name: Notify success
         run: echo "🎉 每週課程資料更新成功！"
