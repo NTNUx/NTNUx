@@ -206,11 +206,11 @@ function scrollToCurrent() {
       items.value.length) - items.value.length || 0) / 2;
   if (currentIndex !== -1) {
     carousel.value?.emblaApi?.scrollTo(currentIndex + Math.floor(shiftIndex));
-    // console.trace("Scrolled to current schedule item:", {
-    //   currentIndex,
-    //   item: items.value[currentIndex],
-    //   shiftIndex,
-    // });
+  } else {
+    // if no upcoming schedule, scroll to the last one
+    carousel.value?.emblaApi?.scrollTo(
+      items.value.length - 1 + Math.floor(shiftIndex),
+    );
   }
 }
 
