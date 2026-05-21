@@ -269,7 +269,7 @@
                   variant="outline"
                   @click="
                     () => {
-                      if (!selectedCourse.color) {
+                      if (selectedCourse && !selectedCourse.color) {
                         selectedCourse.color = '#CCCCCC';
                       }
                     }
