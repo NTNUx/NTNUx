@@ -5,7 +5,7 @@
       'course-row relative px-4 py-3 w-full items-start',
       'grid gap-x-2 grid-cols-[56px_6fr_6fr_7fr] grid-flow-col',
       'max-md:flex max-md:flex-col max-md:items-start',
-      settings?.show_others_dev
+      settings?.show_others && settings?.show_others_dev
         ? 'grid-rows-[auto_1fr_auto]'
         : 'grid-rows-[auto_1fr]',
     ]"
@@ -21,7 +21,10 @@
         course?.course_code
       }}</span>
     </div>
-    <span class="order-2 col-span-4" v-if="settings.show_others_dev">
+    <span
+      class="col-start-1 row-start-3 max-md:row-end col-span-4 order-end"
+      v-if="settings.show_others && settings.show_others_dev"
+    >
       {{ course }}
     </span>
     <span class="course-title order-2 col-span-2 max-md:w-full max-md:pr-25">
@@ -140,7 +143,7 @@
       </UBadge>
       <UBadge
         v-if="course?.class_kind"
-        v-show="settings.show_others_class_kind"
+        v-show="settings.show_others && settings.show_others_class_kind"
         variant="soft"
         color="neutral"
       >
@@ -164,7 +167,7 @@
         :color="course?.limit_enrollment || 0 > 0 ? 'neutral' : 'warning'"
         variant="soft"
       >
-        <span v-show="settings.show_others_enrolled">
+        <span v-show="settings.show_others && settings.show_others_enrolled">
           {{ course.count_enrolled_without_authorized }} /
         </span>
         {{
@@ -173,11 +176,12 @@
       </UBadge>
       <UBadge
         v-if="course?.limit_authorized !== undefined"
-        v-show="settings.show_others_limit_authorized"
+        v-show="settings.show_others && settings.show_others_limit_authorized"
         icon="tabler:lock"
         :color="
           course?.limit_authorized &&
           !(
+            settings.show_others &&
             settings.show_others_count_used_authorized &&
             course.count_used_authorized >= course.limit_authorized
           )
@@ -188,6 +192,7 @@
       >
         <span
           v-show="
+            settings.show_others &&
             settings.show_others_count_used_authorized &&
             course.limit_authorized
           "
@@ -202,7 +207,7 @@
       </UBadge>
       <UBadge
         v-if="course?.limit_system !== undefined"
-        v-show="settings.show_others_limit_system"
+        v-show="settings.show_others && settings.show_others_limit_system"
         :color="course?.limit_system > 0 ? 'neutral' : 'warning'"
         variant="soft"
       >
