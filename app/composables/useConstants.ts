@@ -25,10 +25,25 @@ export const modeMap: Record<string, string> = {
   emi: "EMI課程",
 } as const;
 
+export const classKindMap: Record<string, string> = {
+  1: "甲班",
+  2: "乙班",
+  3: "丙班",
+  4: "丁班",
+  7: "大碩博合開",
+  8: "大碩合開",
+  9: "碩博合開",
+} as const;
+
 export const optionMap: Record<string, string> = {
   必: "必修",
   選: "選修",
   通: "通識",
+} as const;
+
+export const genderRestrictionMap: Record<string, string> = {
+  M: "限男生修",
+  F: "限女生修",
 } as const;
 
 export const generalCoreMap: Record<string, string> = {

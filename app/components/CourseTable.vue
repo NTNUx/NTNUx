@@ -40,7 +40,8 @@
           <UButton
             icon="tabler:settings"
             variant="link"
-            class="text-white hover:text-shadow-white"
+            class="text-white hover:text-shadow-white hover:text-gray-300"
+            @click="settingsModalOpen = true"
           />
         </div>
       </div>
@@ -107,6 +108,24 @@
         </template>
       </UButton>
     </div>
+    <UModal
+      v-model:open="settingsModalOpen"
+      title="課程表設定"
+      description="此功能仍在開發中"
+      :close="{ variant: 'link' }"
+      :ui="{
+        header: 'bg-primary',
+        title: 'text-white',
+        description: 'text-white/80',
+        close: 'text-white hover:text-shadow-white hover:text-gray-300',
+        body: 'max-h-[80vh] overflow-auto',
+      }"
+      @after:leave="settings = { ...settings, ...settingsTemp }"
+    >
+      <template #body>
+        <CourseTableSettings />
+      </template>
+    </UModal>
   </div>
 </template>
 
@@ -114,12 +133,25 @@
 import { useCourseTable } from "@/composables/useCourseTable";
 import { useWindowVirtualizer } from "@tanstack/vue-virtual";
 import { CourseRow } from "#components";
+import {
+  type CourseTableSettings,
+  defaultCourseTableSettings,
+} from "@/composables/useCourseTable";
+import type { de } from "@nuxt/ui/runtime/locale/index.js";
 
 const windowWidth = useState("windowWidth", () => window?.innerWidth || 1200);
 const { table, tableOptions, refreshAll, currentTermUpdateTime } =
   useCourseTable();
 const tableRows = computed(() => table.value.getRowModel().rows);
 const filters = useState<Record<string, any>>("courseTableFilters", () => ({}));
+const settingsModalOpen = useState("courseTableSettingsModalOpen", () => false);
+const settings = useState<CourseTableSettings>("courseTableSettings", () => ({
+  ...defaultCourseTableSettings,
+})); // TODO: local storage
+const settingsTemp = useState<Record<string, any>>(
+  "courseTableSettingsTemp",
+  () => ({ ...settings.value }),
+);
 
 const isRendering = ref(false);
 const isCourseRowMountPending = ref(false);

@@ -3,16 +3,27 @@
     :class="[
       last ? 'border-b-0' : 'border-b-2 border-gray-200 dark:border-gray-700',
       'course-row relative px-4 py-3 w-full items-start',
-      'grid gap-x-2 grid-cols-[56px_6fr_6fr_7fr] grid-rows-[auto_1fr] grid-flow-col',
+      'grid gap-x-2 grid-cols-[56px_6fr_6fr_7fr] grid-flow-col',
       'max-md:flex max-md:flex-col max-md:items-start',
+      settings?.show_others_dev
+        ? 'grid-rows-[auto_1fr_auto]'
+        : 'grid-rows-[auto_1fr]',
     ]"
   >
     <div
       class="course-code order-1 flex flex-col max-md:flex-row shrink-0 grow-0 md:row-span-2 md:h-full md:justify-center"
+      v-show="settings.show_code"
     >
-      <span class="max-md:mr-4 text-sm"> {{ course?.id }}</span>
-      <span class="text-sm">{{ course?.course_code }}</span>
+      <span v-show="settings.show_code_id" class="max-md:mr-4 text-sm">
+        {{ course?.id }}</span
+      >
+      <span v-show="settings.show_code_course_code" class="text-sm">{{
+        course?.course_code
+      }}</span>
     </div>
+    <span class="order-2 col-span-4" v-if="settings.show_others_dev">
+      {{ course }}
+    </span>
     <span class="course-title order-2 col-span-2 max-md:w-full max-md:pr-25">
       <ULink
         class="course-name text-lg text-primary dark:text-white font-bold"
@@ -29,18 +40,37 @@
       >
         {{ course?.name }}
       </ULink>
+      <span
+        v-if="course?.full_name_en"
+        v-show="settings.show_others && settings.show_others_full_name_en"
+        class="text-sm text-gray-500 dark:text-gray-400 leading-1"
+        v-html="`<br>${course.full_name_en}`"
+      >
+      </span>
     </span>
     <div
       class="course-info order-3 badge-group flex flex-wrap gap-y-1 gap-x-2 pt-2"
+      v-show="settings.show_info"
     >
-      <UBadge icon="tabler:building" variant="soft" color="neutral">
+      <UBadge
+        v-show="settings.show_info_department"
+        icon="tabler:building"
+        variant="soft"
+        color="neutral"
+      >
         {{ course?.department }}
       </UBadge>
-      <UBadge icon="tabler:user" variant="soft" color="neutral">
+      <UBadge
+        v-show="settings.show_info_teacher"
+        icon="tabler:user"
+        variant="soft"
+        color="neutral"
+      >
         {{ course?.teacher }}
       </UBadge>
       <UBadge
         v-if="course?.time && !course?.intensive"
+        v-show="settings.show_info_time"
         icon="tabler:clock"
         :color="
           !course?.time?.length ||
@@ -54,6 +84,7 @@
       </UBadge>
       <UBadge
         v-if="course?.intensive"
+        v-show="true /*settings.show_info_time*/"
         icon="tabler:clock"
         color="warning"
         variant="soft"
@@ -63,21 +94,43 @@
         <div class="underline">密集課程</div>
       </UBadge>
       <UBadge
+        v-if="course?.location"
+        v-show="settings.show_info_location"
         icon="tabler:map-pin"
         color="neutral"
         variant="soft"
-        v-if="course?.location"
       >
         {{ course?.location }}
+      </UBadge>
+      <UBadge
+        v-if="course?.gender_restriction"
+        v-show="settings.show_others && settings.show_others_gender_restriction"
+        icon="tabler:gender-bigender"
+        color="warning"
+        variant="soft"
+      >
+        {{
+          genderRestrictionMap[course.gender_restriction] ||
+          course.gender_restriction
+        }}
       </UBadge>
     </div>
     <div
       class="course-info order-4 badge-group flex flex-wrap gap-y-1 gap-x-2 pt-2"
+      v-show="settings.show_info2"
     >
-      <UBadge variant="soft" :color="course?.credits ? 'neutral' : 'warning'">
+      <UBadge
+        v-show="settings.show_info2_credits"
+        variant="soft"
+        :color="course?.credits ? 'neutral' : 'warning'"
+      >
         {{ course?.credits }} 學分
       </UBadge>
-      <UBadge variant="soft" color="neutral">
+      <UBadge
+        v-show="settings.show_info2_course_category"
+        variant="soft"
+        color="neutral"
+      >
         {{
           course?.course_category
             ? optionMap[course.course_category as keyof typeof optionMap] ||
@@ -86,8 +139,17 @@
         }}
       </UBadge>
       <UBadge
+        v-if="course?.class_kind"
+        v-show="settings.show_others_class_kind"
+        variant="soft"
+        color="neutral"
+      >
+        {{ classKindMap[course.class_kind] || course.class_kind }}
+      </UBadge>
+      <UBadge
         v-if="course?.general_education"
         v-for="item in course.general_education.split('/')"
+        v-show="settings.show_info2_general_education"
         :key="item"
         icon="tabler:blocks"
         color="neutral"
@@ -96,16 +158,63 @@
         {{ generalCoreMap[item as keyof typeof generalCoreMap] || item }}
       </UBadge>
       <UBadge
+        v-if="course?.limit_enrollment !== undefined"
+        v-show="settings.show_info2_limit_enrollment"
         icon="tabler:users"
         :color="course?.limit_enrollment || 0 > 0 ? 'neutral' : 'warning'"
         variant="soft"
       >
+        <span v-show="settings.show_others_enrolled">
+          {{ course.count_enrolled_without_authorized }} /
+        </span>
         {{
           course?.limit_enrollment ? `${course.limit_enrollment} 人` : "無資料"
         }}
       </UBadge>
       <UBadge
+        v-if="course?.limit_authorized !== undefined"
+        v-show="settings.show_others_limit_authorized"
+        icon="tabler:lock"
+        :color="
+          course?.limit_authorized &&
+          !(
+            settings.show_others_count_used_authorized &&
+            course.count_used_authorized >= course.limit_authorized
+          )
+            ? 'neutral'
+            : 'warning'
+        "
+        variant="soft"
+      >
+        <span
+          v-show="
+            settings.show_others_count_used_authorized &&
+            course.limit_authorized
+          "
+        >
+          {{ course.count_used_authorized }} /
+        </span>
+        {{
+          course.limit_authorized
+            ? course.limit_authorized + " 授權碼"
+            : "無授權碼"
+        }}
+      </UBadge>
+      <UBadge
+        v-if="course?.limit_system !== undefined"
+        v-show="settings.show_others_limit_system"
+        :color="course?.limit_system > 0 ? 'neutral' : 'warning'"
+        variant="soft"
+      >
+        {{
+          course?.limit_system
+            ? course.limit_system + " 系統開放名額"
+            : "無系統開放名額"
+        }}
+      </UBadge>
+      <UBadge
         v-if="course?.english_teaching"
+        v-show="settings.show_info2_english_teaching"
         icon="tabler:language"
         color="error"
         variant="soft"
@@ -115,6 +224,7 @@
       <UBadge
         v-if="course?.credit_program"
         v-for="item in course.credit_program.split('/')"
+        v-show="settings.show_info2_credit_program"
         :key="item"
         icon="tabler:book"
         variant="soft"
@@ -143,12 +253,20 @@
           @change="isAdded = $event"
         />
       </div>
-      <span v-if="course?.restriction" class="pt-1 text-xs">
+      <span
+        v-if="course?.restriction"
+        v-show="settings.show_info3 && settings.show_info3_restriction"
+        class="pt-1 text-xs"
+      >
         {{
           course.restriction.replace(/<\/br>/g, "\n").replace(/(?<=.)◎/g, "\n◎")
         }}
       </span>
-      <span v-if="course?.comment" class="pt-1 text-xs">
+      <span
+        v-if="course?.comment"
+        v-show="settings.show_info3 && settings.show_info3_comment"
+        class="pt-1 text-xs"
+      >
         {{ course.comment.replace(/<\/br>/g, "\n") }}
       </span>
     </div>
@@ -156,8 +274,17 @@
 </template>
 
 <script setup lang="ts">
-import type { Course } from "@/composables/useCourseTable";
-import { optionMap, generalCoreMap } from "@/composables/useConstants";
+import {
+  optionMap,
+  generalCoreMap,
+  classKindMap,
+  genderRestrictionMap,
+} from "@/composables/useConstants";
+import {
+  type Course,
+  type CourseTableSettings,
+  defaultCourseTableSettings,
+} from "@/composables/useCourseTable";
 
 const props = defineProps({
   course: {
@@ -170,6 +297,10 @@ const props = defineProps({
     default: false,
   },
 });
+
+const settings = useState<CourseTableSettings>("courseTableSettings", () => ({
+  ...defaultCourseTableSettings,
+})); // TODO: local storage
 
 const programs = useState("programDropdownItems");
 const programMap = useState<Record<string, string>>("programMap", () => {

@@ -393,3 +393,210 @@ function formatCourseData(rawData: any): Course {
     comment: rawData.c || "",
   };
 }
+
+// course table settings
+
+export interface CourseTableSettings {
+  show_code: boolean;
+  show_code_id: boolean;
+  show_code_course_code: boolean;
+
+  show_info: boolean;
+  show_info_department: boolean;
+  show_info_teacher: boolean;
+  show_info_time: boolean;
+  // show_info_intensive: boolean; // unused
+  show_info_location: boolean;
+
+  show_info2: boolean;
+  show_info2_credits: boolean;
+  show_info2_course_category: boolean;
+  show_info2_general_education: boolean;
+  show_info2_limit_enrollment: boolean;
+  show_info2_english_teaching: boolean;
+  show_info2_credit_program: boolean;
+
+  show_info3: boolean;
+  show_info3_comment: boolean;
+  show_info3_restriction: boolean;
+
+  // experimental settings, default to false
+  show_others: boolean;
+  show_others_full_name_en: boolean;
+  show_others_class_kind: boolean;
+  show_others_enrolled: boolean;
+  show_others_limit_authorized: boolean;
+  show_others_count_used_authorized: boolean;
+  show_others_limit_system: boolean;
+  show_others_gender_restriction: boolean;
+  show_others_dev: boolean;
+}
+
+export const defaultCourseTableSettingsOpen = {
+  show_code: true,
+  show_code_id: true,
+  show_code_course_code: true,
+
+  show_info: true,
+  show_info_department: true,
+  show_info_teacher: true,
+  show_info_time: true,
+  // show_info_intensive: true, // unused
+  show_info_location: true,
+
+  show_info2: true,
+  show_info2_credits: true,
+  show_info2_course_category: true,
+  show_info2_general_education: true,
+  show_info2_limit_enrollment: true,
+  show_info2_english_teaching: true,
+  show_info2_credit_program: true,
+
+  show_info3: true,
+  show_info3_comment: true,
+  show_info3_restriction: true,
+};
+
+export const defaultCourseTableSettings: CourseTableSettings = {
+  show_code: true,
+  show_code_id: true,
+  show_code_course_code: true,
+
+  show_info: true,
+  show_info_department: true,
+  show_info_teacher: true,
+  show_info_time: true,
+  // show_info_intensive: true, // unused
+  show_info_location: true,
+
+  show_info2: true,
+  show_info2_credits: true,
+  show_info2_course_category: true,
+  show_info2_general_education: true,
+  show_info2_limit_enrollment: true,
+  show_info2_english_teaching: true,
+  show_info2_credit_program: true,
+
+  show_info3: true,
+  show_info3_comment: true,
+  show_info3_restriction: true,
+
+  // experimental settings, default to false
+  show_others: false,
+  show_others_full_name_en: false,
+  show_others_class_kind: false,
+  show_others_enrolled: false,
+  show_others_limit_authorized: false,
+  show_others_count_used_authorized: false,
+  show_others_limit_system: false,
+  show_others_gender_restriction: false,
+  show_others_dev: false,
+};
+
+export const courseTableSettingInfo = {
+  show_code: {
+    label: "顯示課程代碼",
+    children: {
+      show_code_id: {
+        label: "顯示開課序號",
+      },
+      show_code_course_code: {
+        label: "顯示課程代碼（不含組別）",
+      },
+    },
+  },
+
+  show_info: {
+    label: "顯示課程資訊",
+    children: {
+      show_info_department: {
+        label: "顯示開課單位",
+      },
+      show_info_teacher: {
+        label: "顯示授課教師",
+      },
+      show_info_time: {
+        label: "顯示時間",
+      },
+      // show_info_intensive: {
+      //   label: "顯示密集課程",
+      // },
+      show_info_location: {
+        label: "顯示地點",
+      },
+    },
+  },
+
+  show_info2: {
+    label: "顯示選課資訊",
+    children: {
+      show_info2_credits: {
+        label: "顯示學分",
+      },
+      show_info2_course_category: {
+        label: "顯示課程類別",
+      },
+      show_info2_general_education: {
+        label: "顯示通識領域",
+      },
+      show_info2_limit_enrollment: {
+        label: "顯示選課人數上限",
+      },
+      show_info2_english_teaching: {
+        label: "顯示英文授課",
+      },
+      show_info2_credit_program: {
+        label: "顯示學分學程",
+      },
+    },
+  },
+
+  show_info3: {
+    label: "顯示其他資訊",
+    children: {
+      show_info3_comment: {
+        label: "顯示說明",
+      },
+      show_info3_restriction: {
+        label: "顯示限修說明",
+      },
+    },
+  },
+
+  // experimental settings
+  show_others: {
+    label: "顯示實驗性資訊（開發中）",
+    children: {
+      show_others_full_name_en: {
+        label: "顯示英文課程名稱",
+      },
+      show_others_class_kind: {
+        label: "顯示開課種類",
+        description: "需要顯示選課資訊",
+      },
+      show_others_enrolled: {
+        label: "顯示選課人數",
+        description: "需要顯示選課資訊及選課人數上限",
+      },
+      show_others_limit_authorized: {
+        label: "顯示授權碼數量",
+        description: "需要顯示選課資訊",
+      },
+      show_others_count_used_authorized: {
+        label: "顯示已使用授權碼數量",
+        description: "需要顯示選課資訊及授權碼數量",
+      },
+      show_others_limit_system: {
+        label: "顯示系統各校開放名額",
+        description: "需要顯示選課資訊",
+      },
+      show_others_gender_restriction: {
+        label: "顯示性別限修",
+        description: "需要顯示課程資訊",
+      },
+      show_others_dev: {
+        label: "顯示開發者工具",
+      },
+    },
+  },
+};
