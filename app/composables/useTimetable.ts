@@ -24,6 +24,31 @@ export interface TimetableAllDict {
 
 export const allTimetable = ref<TimetableAllDict>({} as TimetableAllDict);
 
+export function ignoreTimetableAlert() {
+  const ignoreAlert = useState("timetableAlertIgnore", () => false);
+  const key = "ntnux-user-timetable-alert-ignore";
+  if (import.meta.client) {
+    const stored = localStorage.getItem(key);
+    if (stored) {
+      try {
+        ignoreAlert.value = JSON.parse(stored);
+      } catch (e) {
+        ignoreAlert.value = false;
+        localStorage.removeItem(key);
+      }
+    }
+  }
+  return ignoreAlert.value;
+}
+export function setTimetableAlertIgnore(value: boolean) {
+  const key = "ntnux-user-timetable-alert-ignore";
+  if (import.meta.client) {
+    localStorage.setItem(key, JSON.stringify(value));
+  }
+  const ignoreAlert = useState("timetableAlertIgnore", () => false);
+  ignoreAlert.value = value;
+}
+
 // use local storage instead of cookie to store timetable data
 export function getTimetable(term: string) {
   if (!import.meta.client) {

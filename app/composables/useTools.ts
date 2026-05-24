@@ -85,3 +85,23 @@ export function removeFromFavoritesToast(courseName: string, courseId: string) {
     "已從收藏移除",
   );
 }
+
+export const defaultModalOptions = {
+  open: false,
+  title: "",
+  description: "",
+  close: false,
+  slots: {
+    body: "",
+    footer: "",
+  },
+};
+export function addGlobalModal(attr: Record<string, any>) {
+  const globalModal = useState("globalModal", () => ({
+    ...defaultModalOptions,
+  }));
+
+  Object.assign(globalModal.value, attr);
+
+  globalModal.value.open = true;
+}

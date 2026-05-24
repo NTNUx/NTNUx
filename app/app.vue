@@ -5,6 +5,7 @@
     <UMain>
       <NuxtLayout>
         <NuxtPage />
+        <GlobalModal />
       </NuxtLayout>
     </UMain>
 

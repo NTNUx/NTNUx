@@ -12,10 +12,14 @@
 <script lang="ts" setup>
 // props: course: Course, isAdded: boolean
 import type { Course } from "@/composables/useCourseTable";
-import { toggleCourseInTimetable } from "@/composables/useTimetable";
+import {
+  toggleCourseInTimetable,
+  ignoreTimetableAlert,
+} from "@/composables/useTimetable";
 import {
   addToTimetableToast,
   removeFromTimetableToast,
+  addGlobalModal,
 } from "@/composables/useTools";
 
 const { yt, course, isAdded } = defineProps<{
@@ -32,6 +36,16 @@ const courseKey = computed(() => {
 
 function toggleCourse() {
   toggleCourseInTimetable(yt, course as Course);
+  if (!ignoreTimetableAlert()) {
+    addGlobalModal({
+      title: "請注意",
+      description:
+        'NTNUx 提供的選課功能並<strong>不會</strong>與學校選課系統連動\n<color class="text-red-500">請務必在選課時間於學校選課系統完成選課</color>',
+      slots: {
+        footer: "timetable-warning-footer",
+      },
+    });
+  }
   if (isCourseInTimetable(yt, course as Course)) {
     addToTimetableToast(course?.name as string, courseKey.value);
     emit("change", true);
