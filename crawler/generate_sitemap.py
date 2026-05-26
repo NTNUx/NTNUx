@@ -40,7 +40,7 @@ def generate_sitemap(year: int, term: int):
         else:
             course_serial = f"{row.get('course_code')}-{row.get('course_group') if not pd.isna(row.get('course_group')) else ''}"
         course_name = urllib.parse.quote(
-            str(row.get('chn_name')).split('<')[0].strip())
+            str(row.get('chn_name')).split('<')[0].strip(), safe='')
 
         # Query String: f"{BASE_URL}/year/term/id/course_name"
         url = f"{BASE_URL}/courses/{course_year}/{course_term}/{course_serial}/{course_name}"
