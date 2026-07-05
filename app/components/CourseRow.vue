@@ -85,17 +85,40 @@
       >
         {{ course.time.join("/") || "無資料" }}
       </UBadge>
-      <UBadge
+      <UTooltip
         v-if="course?.intensive"
-        v-show="true /*settings.show_info_time*/"
-        icon="tabler:clock"
-        color="warning"
-        variant="soft"
-        class="cursor-pointer"
-        @click="toggle($event)"
+        :delayDuration="50"
+        :ui="{
+          content: 'bg-muted ring-1 ring-(--ui-text-toned) h-auto',
+        }"
       >
-        <div class="underline">密集課程</div>
-      </UBadge>
+        <UBadge
+          v-if="course?.intensive"
+          v-show="true /*settings.show_info_time*/"
+          icon="tabler:clock"
+          color="warning"
+          variant="soft"
+          class="cursor-pointer underline"
+          @click="denseModalOpen = true"
+        >
+          密集課程
+        </UBadge>
+        <template #content>
+          <div class="flex flex-col gap-1">
+            <div
+              v-for="({ date, time_location }, index) in denseTime"
+              :key="index"
+              class="flex flex-row gap-2 items-center"
+            >
+              <span class="font-bold">{{ date }}</span>
+              <span>{{ time_location }}</span>
+            </div>
+            <div v-if="!denseTime.length" class="text-sm text-dimmed">
+              無資料
+            </div>
+          </div>
+        </template>
+      </UTooltip>
       <UBadge
         v-if="course?.location"
         v-show="settings.show_info_location"
@@ -275,6 +298,26 @@
         {{ course.comment.replace(/<\/br>/g, "\n") }}
       </span>
     </div>
+    <UModal
+      v-if="course?.intensive"
+      v-model:open="denseModalOpen"
+      title="密集課程時間"
+      class="max-w-3xl"
+    >
+      <template #body
+        ><UCalendar
+          v-model="denseDate"
+          :view-controls="false"
+          :year-controls="false"
+          :number-of-months="windowWidth < 640 ? 1 : windowWidth < 1024 ? 2 : 3"
+          :fixed-weeks="false"
+          locale="zh-TW"
+          readonly
+          :ui="{
+            cellTrigger: 'data-selected:data-outside-view:bg-primary/50',
+          }"
+      /></template>
+    </UModal>
   </div>
 </template>
 
@@ -290,6 +333,7 @@ import {
   type CourseTableSettings,
   defaultCourseTableSettings,
 } from "@/composables/useCourseTable";
+import { CalendarDate } from "@internationalized/date";
 
 const props = defineProps({
   course: {
@@ -321,15 +365,34 @@ const programMap = useState<Record<string, string>>("programMap", () => {
   return map;
 });
 
-const densePopover = ref();
-const denseData = useState("denseData", () => <Record<string, any>>{});
-const toggle = (e: any) => {
-  if (densePopover.value) {
-    densePopover.value.toggle(e);
-  }
-};
-
 const yt = computed(() => `${props.course?.year}-${props.course?.term}`);
+const windowWidth = useState("windowWidth", () => window?.innerWidth || 1200);
+
+const denseModalOpen = ref(false);
+const denseDataAllTerms = useState(
+  "denseDataAllTerms",
+  () => <Record<string, any>>{},
+);
+const denseTime = computed<{ date: string; time_location: string }[]>(() => {
+  if (!props.course || !props.course.intensive) return [];
+  return (
+    denseDataAllTerms.value[yt.value]?.[
+      props.course.course_code + "-" + props.course.course_group
+    ] || []
+  );
+});
+const denseDate = computed(() =>
+  denseTime.value
+    .map((item) => {
+      // item.date is in format of "YYYYMMDD(DayOfWeek)"
+      const dateStr = item.date.slice(0, 8);
+      const year = parseInt(dateStr.slice(0, 4), 10);
+      const month = parseInt(dateStr.slice(4, 6), 10);
+      const day = parseInt(dateStr.slice(6, 8), 10);
+      return new CalendarDate(year, month, day);
+    })
+    .reverse(),
+);
 
 const isAdded = ref(
   props.course ? isCourseInTimetable(yt.value, props.course as Course) : false,
