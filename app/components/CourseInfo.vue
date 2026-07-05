@@ -109,22 +109,21 @@ const props = defineProps({
 const course = computed(() => {
   return props.course;
 });
+const programMap = useState<Record<string, string>>(
+  "programMap",
+  () =>
+    (jsonLzDecode(
+      useRuntimeConfig().public.ntnuxProgramsLz as string,
+    ) as Record<string, string>) || {},
+);
 const programs = useState(
   "programDropdownItems",
-  () => jsonLzDecode(useRuntimeConfig().public.ntnuxProgramsLz as string) || [],
+  () =>
+    Object.entries(programMap.value).map(([key, value]) => ({
+      value: key,
+      label: value,
+    })) || [],
 );
-const programMap = useState<Record<string, string>>("programMap", () => {
-  const map: Record<string, string> = {};
-  for (const program of programs.value as Array<{
-    value: string;
-    label: string;
-  }>) {
-    if (program.value && program.label) {
-      map[program.value] = program.label;
-    }
-  }
-  return map;
-});
 
 interface CourseInfoItem {
   icon: string;

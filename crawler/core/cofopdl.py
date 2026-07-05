@@ -128,6 +128,7 @@ def getDenseCourseInfo(course: dict, s: requests.Session) -> list[dict]:
 def fetch_courses(year: int, term: int, depts: list[str] | None = None) -> tuple[list[dict], dict[str, list[dict]]]:
     all_courses: list[dict] = []
     dense_courses_map: dict[str, list[dict]] = {}
+    program_map: dict[tuple[str, str], list[str]] = {}
 
     with requests.Session() as s:
         # 1. 造訪 index.jsp 取得 JSESSIONID
@@ -201,6 +202,7 @@ def fetch_courses(year: int, term: int, depts: list[str] | None = None) -> tuple
                                 course["generalCore"] = core
                                 all_courses.append(course)
                 continue
+
             time.sleep(0.5)
             resp = s.get(API_URL,
                          headers=headers,
@@ -208,6 +210,12 @@ def fetch_courses(year: int, term: int, depts: list[str] | None = None) -> tuple
             resp.raise_for_status()
             data = resp.json().get("List", [])
             all_courses.extend(data)
+            if dept.startswith("ZU"):
+                for course in data:
+                    key = (course["course_code"], course["course_group"])
+                    if key not in program_map:
+                        program_map[key] = []
+                    program_map[key].append(dept)
 
         # 移除重複課程（serial_no 相同，沒有 serial_no: 改用 (courseCode, courseGroup) 作為唯一識別）
         seen_serials = set()
@@ -222,6 +230,13 @@ def fetch_courses(year: int, term: int, depts: list[str] | None = None) -> tuple
 
         all_courses = [course for course in all_courses
                        if seen_serials_add(course)]
+
+        for course in all_courses:
+            key = (course["course_code"], course["course_group"])
+            if key in program_map:
+                course["programs"] = "/".join(program_map[key])
+            else:
+                course["programs"] = ""
 
         for course in all_courses:
             # 篩選 option_code 為 通 且 generalCore 為空，各別處理 generalCore

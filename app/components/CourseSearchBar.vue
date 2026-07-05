@@ -847,9 +847,15 @@ const programDropdownOptions = {
   items: useState<SelectMenuItem[]>(
     "programDropdownItems",
     () =>
-      (jsonLzDecode(
-        config.public.ntnuxProgramsLz as string,
-      ) as SelectMenuItem[]) || [],
+      (Object.entries(
+        jsonLzDecode(config.public.ntnuxProgramsLz as string) as Record<
+          string,
+          string
+        >,
+      ).map(([key, value]) => ({
+        value: key,
+        label: value,
+      })) as SelectMenuItem[]) || [],
   ),
   model: ref<SelectMenuItem[]>([]),
   updateHandler: () => {

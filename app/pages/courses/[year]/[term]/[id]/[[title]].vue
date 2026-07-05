@@ -247,8 +247,9 @@ function updateSeoMeta() {
     ogUrl: `https://ntnux.org/courses/${year}/${term}/${courseId}${course.value?.name ? `/${encodeURIComponent(course.value?.name)}` : ""}`,
   });
   if (
+    course.value &&
     route.path !==
-    `/courses/${year}/${term}/${courseId}${course.value?.name ? `/${encodeURIComponent(course.value.name)}` : ""}`
+      `/courses/${year}/${term}/${courseId}${course.value?.name ? `/${encodeURIComponent(course.value.name)}` : ""}`
   ) {
     router.replace({
       path: `/courses/${year}/${term}/${courseId}${course.value?.name ? `/${encodeURIComponent(course.value.name)}` : ""}`,

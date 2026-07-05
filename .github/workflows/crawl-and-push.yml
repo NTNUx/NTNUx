@@ -7,22 +7,22 @@ on:
         description: "學年（民國年）"
         required: true
         type: string
-        default: "114"
+        default: "115"
       term:
         description: "學期（1=上學期, 2=下學期, 3=暑期）"
         required: true
         type: string
-        default: "2"
+        default: "1"
   workflow_dispatch:
     inputs:
       year:
         description: "學年（民國年）"
         required: false
-        default: "114"
+        default: "115"
       term:
         description: "學期（1=上學期, 2=下學期, 3=暑期）"
         required: false
-        default: "2"
+        default: "1"
 
 jobs:
   crawl-and-push:
@@ -49,16 +49,16 @@ jobs:
       - name: Run crawler
         working-directory: crawler
         run: |
-          YEAR=${{ inputs.year || github.event.inputs.year || '114' }}
-          TERM=${{ inputs.term || github.event.inputs.term || '2' }}
+          YEAR=${{ inputs.year || github.event.inputs.year || '115' }}
+          TERM=${{ inputs.term || github.event.inputs.term || '1' }}
           echo "📥 抓取 ${YEAR}-${TERM} 課程資料"
           uv run main.py --year $YEAR --term $TERM
 
       - name: Generate Sitemap
         working-directory: crawler
         run: |
-          YEAR=${{ inputs.year || github.event.inputs.year || '114' }}
-          TERM=${{ inputs.term || github.event.inputs.term || '2' }}
+          YEAR=${{ inputs.year || github.event.inputs.year || '115' }}
+          TERM=${{ inputs.term || github.event.inputs.term || '1' }}
           echo "🗺️ 生成 Sitemap.xml"
           uv run generate_sitemap.py --year $YEAR --term $TERM
 
@@ -69,8 +69,8 @@ jobs:
 
       - name: Commit and push data
         run: |
-          YEAR=${{ inputs.year || github.event.inputs.year || '114' }}
-          TERM=${{ inputs.term || github.event.inputs.term || '2' }}
+          YEAR=${{ inputs.year || github.event.inputs.year || '115' }}
+          TERM=${{ inputs.term || github.event.inputs.term || '1' }}
           echo "📤 提交 ${YEAR}-${TERM} 課程資料到 GitHub"
           git add crawler/original_data/*
           git add public/*

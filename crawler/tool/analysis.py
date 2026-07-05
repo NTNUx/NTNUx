@@ -62,6 +62,7 @@ def course_format(courses: pd.DataFrame) -> pd.DataFrame:
     :return: 格式化後的課程資訊 DataFrame
     """
     courses["generalCore"] = courses["generalCore"].fillna("")
+    courses["programs"] = courses["programs"].fillna("")
     # return courses[[
     #     "acadm_year", "acadm_term", "authorize_p", "authorize_using",
     #     "chn_name", "classes", "comment", "counter", "counter_exceptAuth",
@@ -114,7 +115,7 @@ def raws_to_json(courses: pd.DataFrame) -> list[dict[str, str | int | float]]:
     | time_inf            | ti  |     | 時間地點資訊（列表）                                      |
     | generalCore         | gc  |     | 通識領域（"/" 分隔                                        |
     |                     | n   |     | 課程名稱                                                 |
-    |                     | p   |     | 學分學程（"/" 分隔）                                      |
+    | programs            | p   |     | 學分學程（"/" 分隔）                                      |
     |                     | tl  |     | 時間（列表）                                              |
     |                     | lc  |     | 地點（"/" 分隔）                                          |
     |                     | tll |     | 時間地點（列表）                                          |
@@ -186,10 +187,11 @@ def raws_to_json(courses: pd.DataFrame) -> list[dict[str, str | int | float]]:
         "teacher": "te",
         "time_inf": "ti",
         "generalCore": "gc",
+        "programs": "p"
     }
 
-    program_dir = get_program_dir(os.path.join(
-        os.path.dirname(__file__), "..", "..", "wrangler.toml"))
+    # program_dir = get_program_dir(os.path.join(
+    #     os.path.dirname(__file__), "..", "..", "wrangler.toml"))
     output = []
     for _, row in courses.fillna("").iterrows():
         course_id = row["serial_no"]
@@ -203,20 +205,20 @@ def raws_to_json(courses: pd.DataFrame) -> list[dict[str, str | int | float]]:
         course_value["n"] = re.sub(r"<\/br>.*", "", course_value["cn"]).strip()
         # course_value["p"] = "/".join(map(lambda x: conversion_program.get_program_conversion(x, program_dir), re.sub(
         #     r".*\[ 學分學程：(.+?) \].*", r"\1", course_value["cn"]).split(" "))) if "學分學程" in course_value["cn"] else ""
-        if "學分學程" in course_value["cn"]:
-            programs = []
-            program_codes = re.sub(
-                r".*\[ 學分學程：(.+?) \].*", r"\1", course_value["cn"]).split(" ")
-            for program_code in program_codes:
-                try:
-                    programs.append(conversion_program.get_program_conversion(
-                        program_code, program_dir))
-                except ValueError as e:
-                    print(e)
-                    programs.append(program_code)
-            course_value["p"] = "/".join(programs)
-        else:
-            course_value["p"] = ""
+        # if "學分學程" in course_value["cn"]:
+        #     programs = []
+        #     program_codes = re.sub(
+        #         r".*\[ 學分學程：(.+?) \].*", r"\1", course_value["cn"]).split(" ")
+        #     for program_code in program_codes:
+        #         try:
+        #             programs.append(conversion_program.get_program_conversion(
+        #                 program_code, program_dir))
+        #         except ValueError as e:
+        #             print(e)
+        #             programs.append(program_code)
+        #     course_value["p"] = "/".join(programs)
+        # else:
+        #     course_value["p"] = ""
         course_value["ti"] = time_location_format(course_value["ti"])
         if isinstance(course_value["ti"], dict):
             course_value["tl"] = list(course_value["ti"].keys())
@@ -246,6 +248,8 @@ def load_wrangler_config(config_path: str) -> dict:
 
 def get_program_dir(config_path: str | None = None) -> dict[str, str]:
     """
+    !!!已棄用
+    
     從 wrangler 配置中獲取學程列表
     :param config_path: 配置檔案路徑
     :return: 學程列表
