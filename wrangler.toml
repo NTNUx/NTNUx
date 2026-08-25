@@ -1,7 +1,7 @@
 name = "ntnux"
 compatibility_flags = ["nodejs_compat"]
 
-compatibility_date = "2026-02-12"
+compatibility_date = "2026-08-24"
 observability = { enabled = true }
 
 [vars]

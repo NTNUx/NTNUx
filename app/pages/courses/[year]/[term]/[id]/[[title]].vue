@@ -69,6 +69,8 @@
           <CourseTimetableButton
             :yt="`${course?.year}-${course?.term}`"
             :course="course"
+            :is-added="isAdded"
+            @update:isAdded="isAdded = $event"
           />
         </div>
       </div>
@@ -195,6 +197,7 @@ const showIframeEvent = () => {
   }
 };
 const previousRoute = useState<string>("previousRoute");
+const isAdded = ref(false);
 
 const dataAllTerms = useState<AllTermsData>("dataAllTerms", () => ({}));
 
@@ -324,6 +327,7 @@ function initialize() {
     updateSeoMeta();
   }
   loadFavoriteCourses();
+  isAdded.value = isCourseInTimetable(yt, course.value as Course);
 }
 
 onMounted(() => {

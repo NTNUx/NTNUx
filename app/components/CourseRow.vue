@@ -277,6 +277,8 @@
         <CourseTimetableButton
           :yt="`${course?.year}-${course?.term}`"
           :course="course"
+          :is-added="isAdded"
+          @update:isAdded="isAdded = $event"
         />
       </div>
       <span
@@ -344,6 +346,7 @@ const props = defineProps({
     default: false,
   },
 });
+const isAdded = ref(false);
 
 const settings = useState<CourseTableSettings>("courseTableSettings", () => ({
   ...defaultCourseTableSettings,
@@ -391,4 +394,8 @@ const denseDate = computed(() =>
     })
     .reverse(),
 );
+
+onMounted(() => {
+  isAdded.value = isCourseInTimetable(yt.value, props.course as Course);
+});
 </script>

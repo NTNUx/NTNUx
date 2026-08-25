@@ -22,15 +22,16 @@ import {
   addGlobalModal,
 } from "@/composables/useTools";
 
-const { yt, course } = defineProps<{
+const { yt, course, isAdded } = defineProps<{
   yt: string;
   course: Course | undefined;
+  isAdded: boolean;
+}>();
+const emit = defineEmits<{
+  "update:isAdded": [value: boolean];
 }>();
 const courseKey = computed(() => {
   return course?.id || `${course?.course_code}-${course?.course_group}`;
-});
-const isAdded = computed(() => {
-  return isCourseInTimetable(yt, course as Course) || false;
 });
 
 function toggleCourse() {
@@ -47,8 +48,10 @@ function toggleCourse() {
   }
   if (isCourseInTimetable(yt, course as Course)) {
     addToTimetableToast(course?.name as string, courseKey.value);
+    emit("update:isAdded", true);
   } else {
     removeFromTimetableToast(course?.name as string, courseKey.value);
+    emit("update:isAdded", false);
   }
 }
 </script>
