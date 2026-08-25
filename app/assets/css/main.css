@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC:wght@400;700&display=swap");
+
+@font-face {
+  font-family: "avutmv2";
+  src: url("~/assets/fonts/avutmv2.woff2") format("woff2");
+}
+
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+:root {
+  --ui-primary: var(--color-blue-800);
+  --ui-bg: var(--color-slate-50);
+  --ui-bg-muted: var(--color-slate-100);
+  --ui-bg-elevated: var(--color-slate-200);
+}
+
+.dark {
+  --ui-primary: var(--color-blue-700);
+  --ui-bg: var(--color-slate-800);
+  --ui-bg-muted: var(--color-slate-700);
+  --ui-bg-elevated: var(--color-slate-600);
+
+  .text-primary {
+    color: var(--color-blue-500);
+  }
+}

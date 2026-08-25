@@ -1,2 +1,0 @@
-selenium==4.22.0
-mitmproxy==10.3.1

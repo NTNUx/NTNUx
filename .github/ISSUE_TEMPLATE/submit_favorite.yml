@@ -1,0 +1,13 @@
+name: "提交收藏課程網址"
+description: "向 NTNUx 提交收藏課程，建議你加上收藏課程名稱及作者"
+title: "[URL] 新增網址"
+labels: ["url-submission"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: "網站網址"
+      description: "請輸入你要提交的完整網址 (包含 https://ntnux.org)"
+      placeholder: "https://ntnux.org"
+    validations:
+      required: true

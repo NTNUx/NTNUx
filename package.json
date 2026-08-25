@@ -1,0 +1,33 @@
+{
+  "name": "ntnux",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "dev:host": "nuxt dev --host",
+    "generate": "nuxt generate",
+    "preview": "nuxt build && npx wrangler --cwd .output dev",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^4.5.0",
+    "@tailwindcss/vite": "^4.2.1",
+    "@tanstack/vue-table": "^8.21.3",
+    "@tanstack/vue-virtual": "^3.13.19",
+    "html-to-image": "^1.11.13",
+    "jsonc.min": "^1.1.0",
+    "lz-string": "^1.5.0",
+    "nuxt": "^4.1.3",
+    "sortablejs": "^1.15.7",
+    "tailwindcss": "^4.2.1",
+    "vue": "^3.5.29",
+    "wrangler": "^4.69.0"
+  },
+  "devDependencies": {
+    "@iconify-json/tabler": "^1.2.28",
+    "@types/node": "^25.3.3",
+    "sass-embedded": "^1.97.2"
+  }
+}

@@ -1,0 +1,23 @@
+name: Daily four Data Update
+
+on:
+  schedule:
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "學年（民國年）"
+        required: false
+        default: "115"
+      term:
+        description: "學期（1=上學期, 2=下學期, 3=暑期）"
+        required: false
+        default: "1"
+
+jobs:
+  crawl-and-push:
+    uses: ./.github/workflows/crawl-and-push.yml
+    with:
+      year: ${{ github.event.inputs.year || '115' }}
+      term: ${{ github.event.inputs.term || '1' }}
+    secrets: inherit
