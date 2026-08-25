@@ -36,7 +36,7 @@ const randomCos = useState(
   "randomCos",
   () => Math.floor(Math.random() * 4) + 1,
 );
-const cosUrl = `https://cos${randomCos.value}.ntnu.edu.tw/AasEnrollStudent`;
+const cosUrl = `https://cos${randomCos.value}s.ntnu.edu.tw/AasEnrollStudent`;
 const columns: FooterColumn[] = [
   {
     label: "更多功能",
