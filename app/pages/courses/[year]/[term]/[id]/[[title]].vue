@@ -69,8 +69,6 @@
           <CourseTimetableButton
             :yt="`${course?.year}-${course?.term}`"
             :course="course"
-            :is-added="isAdded"
-            @change="isAdded = $event"
           />
         </div>
       </div>
@@ -81,7 +79,15 @@
       v-if="course"
       class="w-[calc(100%-1rem)] max-w-5xl mt-2 mx-auto p-4 rounded-lg bg-white dark:bg-gray-800 shadow grid grid-cols-1 md:grid-cols-[300px_auto] gap-4"
     >
-      <CourseInfo :course="course" />
+      <CourseInfo
+        :course="course"
+        :dense-time="denseTime"
+        @click:dense-time="
+          () => {
+            denseModalOpen = true;
+          }
+        "
+      />
 
       <CourseAccordion :course="course" />
     </div>
@@ -135,6 +141,26 @@
         class="mt-4 mx-auto bg-white origin-top-left"
       ></iframe>
     </div>
+    <UModal
+      v-if="course?.intensive"
+      v-model:open="denseModalOpen"
+      title="密集課程時間"
+      class="max-w-3xl"
+    >
+      <template #body
+        ><UCalendar
+          v-model="denseDate"
+          :view-controls="false"
+          :year-controls="false"
+          :number-of-months="windowWidth < 640 ? 1 : windowWidth < 1024 ? 2 : 3"
+          :fixed-weeks="false"
+          locale="zh-TW"
+          readonly
+          :ui="{
+            cellTrigger: 'data-selected:data-outside-view:bg-primary/50',
+          }"
+      /></template>
+    </UModal>
   </div>
 </template>
 
@@ -146,8 +172,8 @@ import type {
   AllTermsDenseData,
 } from "@/composables/useCourseTable";
 import { fetchTermData } from "@/composables/useCourseTable";
-import { isCourseInTimetable } from "@/composables/useTimetable";
 import { loadFavoriteCourses } from "@/composables/useFavorites";
+import { CalendarDate } from "@internationalized/date";
 
 const route = useRoute();
 const router = useRouter();
@@ -171,10 +197,6 @@ const showIframeEvent = () => {
 const previousRoute = useState<string>("previousRoute");
 
 const dataAllTerms = useState<AllTermsData>("dataAllTerms", () => ({}));
-const denseDataAllTerms = useState<AllTermsDenseData>(
-  "denseDataAllTerms",
-  () => ({}),
-);
 
 const year = route.params.year as string;
 const term = route.params.term as string;
@@ -199,6 +221,34 @@ const course = computed<Course | undefined>(() => {
 });
 
 const description = ref("");
+
+const denseModalOpen = ref(false);
+const denseDataAllTerms = useState(
+  "denseDataAllTerms",
+  () => <Record<string, any>>{},
+);
+const denseTime = computed<{ date: string; time_location: string }[]>(() => {
+  if (!course.value || !course.value.course_code || !course.value.intensive)
+    return [];
+  return (
+    denseDataAllTerms.value[yt]?.[
+      course.value.course_code + "-" + course.value.course_group
+    ] || []
+  );
+});
+const denseDate = computed(() =>
+  denseTime.value
+    .map((item) => {
+      // item.date is in format of "YYYYMMDD(DayOfWeek)"
+      const dateStr = item.date.slice(0, 8);
+      const year = parseInt(dateStr.slice(0, 4), 10);
+      const month = parseInt(dateStr.slice(4, 6), 10);
+      const day = parseInt(dateStr.slice(6, 8), 10);
+      return new CalendarDate(year, month, day);
+    })
+    .reverse(),
+);
+
 async function getCourseDescription(code: string) {
   if (code && (!course.value?.description || course.value.description === "")) {
     // Fetch course description from the API
@@ -258,10 +308,6 @@ function updateSeoMeta() {
 }
 updateSeoMeta();
 
-const isAdded = ref(
-  course.value ? isCourseInTimetable(yt, course.value) : false,
-);
-
 function initialize() {
   if (
     course.value &&
@@ -278,14 +324,13 @@ function initialize() {
     updateSeoMeta();
   }
   loadFavoriteCourses();
-  isAdded.value = course.value ? isCourseInTimetable(yt, course.value) : false;
 }
 
 onMounted(() => {
   if (!course.value) {
     // If course is not found, try to fetch the term data
     fetchTermData(yt, false)
-      .refresh()
+      .refreshAll()
       .then(() => {
         if (!course.value) {
           console.error("Course not found after fetching term data:", {

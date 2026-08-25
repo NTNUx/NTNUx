@@ -137,7 +137,6 @@ import {
   type CourseTableSettings,
   defaultCourseTableSettings,
 } from "@/composables/useCourseTable";
-import type { de } from "@nuxt/ui/runtime/locale/index.js";
 
 const windowWidth = useState("windowWidth", () => window?.innerWidth || 1200);
 const { table, tableOptions, refreshAll, currentTermUpdateTime } =

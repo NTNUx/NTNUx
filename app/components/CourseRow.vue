@@ -277,8 +277,6 @@
         <CourseTimetableButton
           :yt="`${course?.year}-${course?.term}`"
           :course="course"
-          :is-added="isAdded"
-          @change="isAdded = $event"
         />
       </div>
       <span
@@ -393,14 +391,4 @@ const denseDate = computed(() =>
     })
     .reverse(),
 );
-
-const isAdded = ref(
-  props.course ? isCourseInTimetable(yt.value, props.course as Course) : false,
-);
-
-onMounted(() => {
-  isAdded.value = props.course
-    ? isCourseInTimetable(yt.value, props.course as Course)
-    : false;
-});
 </script>

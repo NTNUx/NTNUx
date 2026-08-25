@@ -75,7 +75,7 @@
             block
             class="text-left rounded-sm border-none h-10"
             variant="ghost"
-            :ui="{ label: 'mr-auto' }"
+            :ui="{ label: 'mr-auto', ...(child?.ui || {}) }"
           />
         </div>
       </template>
@@ -104,10 +104,18 @@ const props = defineProps({
     type: Object as () => Course | undefined,
     required: true,
   },
+  denseTime: {
+    type: Array as () => { date: string; time_location: string }[],
+    required: false,
+  },
 });
+const emit = defineEmits(["click:dense-time"]);
 
 const course = computed(() => {
   return props.course;
+});
+const denseTime = computed(() => {
+  return props.denseTime || [];
 });
 const programMap = useState<Record<string, string>>(
   "programMap",
@@ -144,6 +152,7 @@ interface CourseInfoItem {
     to?: string;
     target?: string;
     trailingIcon?: string;
+    ui?: Record<string, any>;
   }>;
   collapsed?: any;
 }
@@ -281,14 +290,34 @@ const infoItems = computed<CourseInfoItem[]>(
         title: course.value?.teacher ? course.value.teacher : "未定",
         disabled: !course.value?.teacher || course.value?.teacher === "未定",
       },
-      {
-        icon: "tabler:clock",
-        label: course.value?.time?.length ? "上課時間" : undefined,
-        title: course.value?.time?.length
-          ? course.value.time.join("/")
-          : "無上課時間資料",
-        disabled: !course.value?.time?.length,
-      },
+      course.value?.intensive && denseTime.value.length
+        ? {
+            icon: "tabler:calendar-time",
+            title: "密集課程時間地點",
+            disabled: false,
+            cursor: "pointer",
+            content: denseTime.value.map((dt) => ({
+              label: `${dt.date} ${dt.time_location}`,
+              ui: {
+                base: "py-1 h-auto!",
+              },
+              click: () => {
+                emit("click:dense-time");
+              },
+            })),
+            click: () => {
+              emit("click:dense-time");
+            },
+            collapsed: true,
+          }
+        : {
+            icon: "tabler:clock",
+            label: course.value?.time?.length ? "上課時間" : undefined,
+            title: course.value?.time?.length
+              ? course.value.time.join("/")
+              : "無上課時間資料",
+            disabled: !course.value?.time?.length,
+          },
       course.value?.location
         ? (course.value?.location.search("/") || -1) >= 0
           ? {
@@ -298,10 +327,10 @@ const infoItems = computed<CourseInfoItem[]>(
                 ? "上課地點"
                 : course.value.location,
               disabled: false,
+              cursor: "pointer",
               trailingIcon: locationCollapsed.value
                 ? undefined
                 : "tabler:map-down",
-              cursor: "pointer",
               trailingIconShown: true,
               content: course.value.location.split("/").map((loc) => ({
                 label: loc,
@@ -329,7 +358,10 @@ const infoItems = computed<CourseInfoItem[]>(
             }
         : {
             icon: "tabler:map-pin",
-            title: "無上課地點資訊",
+            title:
+              course.value?.intensive && denseTime.value.length
+                ? "密集課程"
+                : "無上課地點資訊",
             disabled: true,
           },
       {
@@ -391,6 +423,7 @@ const infoItems = computed<CourseInfoItem[]>(
     ] as CourseInfoItem[],
 );
 const generalCollapsed = ref(true);
+const deseTimeCollapsed = ref(true);
 const locationCollapsed = ref(false);
 const programCollapsed = ref(true);
 const infoModalOpen = ref(false);
